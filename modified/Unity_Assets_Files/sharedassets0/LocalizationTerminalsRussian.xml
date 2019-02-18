@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <email>
+    <emailIndex>0</emailIndex>
+    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <description>Конфликт интересов</description>
+    <date>Четыре дня до запуска миссии</date>
+    <messageIndex>0</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>2</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>1</emailIndex>
+    <to>Лукиас</to>
+    <description>Предстоящий выпуск</description>
+    <messageIndex>3</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>2</emailIndex>
+    <to>"САЙТО ИНЖИНИРИНГ"</to>
+    <description>Ремонт "Созерцателя"</description>
+    <messageIndex>5</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>2</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>3</emailIndex>
+    <to>ЭЙДЕН ВАЙЗ</to>
+    <description>Завещание</description>
+    <messageIndex>8</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>4</emailIndex>
+    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <description>Последнее слово</description>
+    <messageIndex>9</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>5</emailIndex>
+    <to>МИЛА</to>
+    <description>Полунощное строительство</description>
+    <messageIndex>11</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>6</emailIndex>
+    <to>ТЕРА</to>
+    <description>Счета</description>
+    <messageIndex>13</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>7</emailIndex>
+    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <description>Дальнейшие указания</description>
+    <messageIndex>14</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <im>
+    <IMIndex>0</IMIndex>
+    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <description>Семена недовольства</description>
+    <messageIndex>17</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <im>
+    <IMIndex>1</IMIndex>
+    <to>МИЛА</to>
+    <description>Их язык</description>
+    <messageIndex>20</messageIndex>
+    <messageCount>9</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <im>
+    <IMIndex>2</IMIndex>
+    <to>САЙЛАС</to>
+    <description>Вычисления орбиты</description>
+    <messageIndex>29</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <note>
+    <noteIndex>0</noteIndex>
+    <title>Успех капитана</title>
+    <messageIndex>31</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>1</noteIndex>
+    <title>Буря</title>
+    <messageIndex>32</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>2</noteIndex>
+    <title>Повреждённые запчасти</title>
+    <messageIndex>33</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>3</noteIndex>
+    <title>Отчёт об Эйдене Вайзе</title>
+    <messageIndex>34</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>4</noteIndex>
+    <title>Пароль</title>
+    <messageIndex>35</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>5</noteIndex>
+    <title>Братское соперничество</title>
+    <messageIndex>36</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>6</noteIndex>
+    <title>Отчёт о ранении</title>
+    <messageIndex>37</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <msg>
+    <messageIndex>0</messageIndex>
+    <author>ЭЛИАС ВОЛАНТЕ</author>
+    <to>Кому: Сайлас</to>
+    <content>"Аксиома" была уведомлена о недекларированных личных и романтических отношениях между вами двумя. Учитывая очевидный конфликт интересов в цепи командования, мы подготовим другого капитана для этой миссии.
+
+
+    </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>1</messageIndex>
+    <author>САЙЛАС</author>
+    <to>Кому: Элиас  Копия: Мила</to>
+    <date>4 дня до запуска миссии</date>
+    <content>Элиас, я не знаю, что вы могли услышать, но уверяю Вас: нет никакой привязанности или отношений между Милой и мной. Я приношу извинения за то, что мы не доложили о нашей краткосрочной и ни к чему не обязывающей связи, но у нас нет личных отношений и наше общение останется сугубо профессиональным.
+
+
+    </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>2</messageIndex>
+    <author>МИЛА</author>
+    <to>Кому: Сайлас</to>
+    <date>4 дня до запуска миссии</date>
+    <content>И это всё, что для тебя значили шесть лет? Ты так легко отбрасываешь меня из-за своей гордости или просто ради шанса блеснуть когда-нибудь в каком-то научном журнале? Ты эгоистичный козёл, Сайлас. Я рисковала всем, чтобы скрыть то, что было между нами, а ты демонстрируешь, каким низким человеком был на самом деле.
+
+Я думала, что нашла всё, о чём мечтала, так что огромное тебе спасибо за то, что избавил меня от неловкости за отсутствие взаимности.
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>3</messageIndex>
+    <author>ЛУКИАС</author>
+    <to>Кому: Сайлас</to>
+    <date>День 13, 15:30</date>
+    <content>Мы завершили редактуру, и версия 5.4.2 "Небесного генезиса" будет готова к публикации к моменту Вашего возвращения. С вашего позволения мы начнём готовиться к дистрибуции. 
+
+Да, кстати, Вы упоминали, что планировали выпустить следующий том "Неизвестных величин эволюции", но, принимая во внимание специфику миссии "Созерцатель", вы не задумывались о написании автобиографии? 
+
+Лукиас,
+"Титания Паблишинг"
+
+
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>4</messageIndex>
+    <author>САЙЛАС</author>
+    <to>Кому: Лукиас</to>
+    <date>День 13, 17:57</date>
+    <content>С моей стороны не последует никаких поправок, можно приступать к дистрибуции. 
+
+Я сомневаюсь, что моё тщеславие настолько велико, что я стал бы занимать целую книгу рассказами о моей персоне. Если цель - получение прибыли, можете заняться этим самостоятельно, когда я умру. Людей ценят по-настоящему только тогда, когда их уже нет. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>5</messageIndex>
+    <author>"САЙТО ИНЖИНИРИНГ"</author>
+    <to>Кому: "Аксиома"</to>
+    <date>Более 2 месяцев назад</date>
+    <content>Со всем уважением, мы не рекомендуем осуществлять предлагаемые модификации и ремонт судна. Стоимость будет примерно равна стоимости новой станции. Мы рекомендуем задуматься об отмене проекта.
+
+
+    </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>6</messageIndex>
+    <author>"АКСИОМА"</author>
+    <to>Кому: "Сайто"</to>
+    <date>Более 2 месяцев назад</date>
+    <content>Благодарим за рекомендацию. Будут ли ремонтные работы завершены в оговоренный срок?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>7</messageIndex>
+    <author>"САЙТО ИНЖИНИРИНГ"</author>
+    <to>Кому: "Аксиома"</to>
+    <date>Более 2 месяцев назад</date>
+    <content>Завершение ожидается в установленный срок, но руководство уведомляет, что мы не сможем обеспечить какую-либо гарантию.
+     
+В силу текущего состояния станции и сути ремонтных работ, "Сайто" отказывается от юридической ответственности за любые возможные осложения в будущем.  
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>8</messageIndex>
+    <author>ЭЙДЕН</author>
+    <to>Кому: Тера</to>
+    <date>День 17, 16:41</date>
+    <content>Я, Эйден Вайз, главный инженер "Созерцателя", настоящим отменяю мои предыдущие завещания и объявляю это моей последней волей и завещанием. Я завещаю все мои нынешние и будущие средства, сбережения и накопления моей дочери, Кине Вайз, в оплату любых непредвиденных врачебных затрат и издержек. Я подчёркиваю, что лечение синдрома ДИХС Кины должно иметь наибольший приоритет.
+
+Я назначаю Теру Вайз опекуном Кины и ответственной за её лечение.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>9</messageIndex>
+    <author>МИЛА</author>
+    <to>Кому: Элиас</to>
+    <date>День 12, 12:23 </date>
+    <content>"Аксиома" может делать в будущих миссиях всё, что пожелает, но когда мы выполним оставшиеся задачи из установленных ранее, "Созерцатель" и его экипаж возвращаются.
+
+Это моё последнее слово в данном вопросе.
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>10</messageIndex>
+    <author>ЭЛИАС</author>
+    <to>Кому: Мила</to>
+    <date>День 12, 12:31 </date>
+    <content>Очень жаль, что Вы приняли такое решение, Мила. Совет вскоре пришлёт Вам свой ответ.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>11</messageIndex>
+    <author>МИЛА</author>
+    <to>To: Aiden</to>
+    <date>День 4, 8:32</date>
+    <content>Эйден,
+
+Либо у тебя какая-то непостижимая рабочая этика, либо ты просто идиот. Мне, честно говоря, всё равно. Я просто хочу узнать, какая работа по техобслуживанию могла быть настолько жизненно важной, что ты решил заняться ей посреди ночи?
+
+
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>12</messageIndex>
+    <author>ЭЙДЕН</author>
+    <to>Кому: Мила</to>
+    <date>День 4, 9:37</date>
+    <content>Очень благодарен, что ты так беспокоишься о моих обязанностях. Нужно было выполнить кое-какие срочные дела, необходимые для запланированных техработ, и я не хотел бы с ними опоздать. Прости, что я потревожил тебя, но ты так очаровательна, что и так рискуешь превратиться в спящую красавицу.
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>13</messageIndex>
+    <author>ТЕРА</author>
+    <to>Кому: Эйден</to>
+    <date>День 6, 14:33</date>
+    <content>Прости, что не смогла поговорить с тобой перед твоим отъездом. Но я наблюдала за запуском, и если для тебя это имеет хоть какое-то значение, я очень горжусь тем, что ты делаешь.
+
+Кажется, что я каждый раз пишу тебе только из-за денег. Думаю, это закономерно, учитывая, что это единственная вещь, о которой мы когда-либо спорили в браке. Кине всё хуже, и нам нужно придумать жизнеспособный план по оплате её лечения.
+
+Будь там поосторожнее.
+
+Тера</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>14</messageIndex>
+    <author>ЭЛИАС ВОЛАНТЕ</author>
+    <to>Кому: Мила</to>
+    <date>День 11, 9:12</date>
+    <content>Руководство довольно скоростью выполнения Вашей командой задач миссии. Ваши отчёты говорят о шестидневном опережении расписания, что даёт нам основания думать о кое-какой уникальной возможности.
+
+Прилагаем инструкции к новому проекту, к которому следует готовиться Вашей команде.
+
+*Приложение удалено*
+
+
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>15</messageIndex>
+    <author>МИЛА</author>
+    <to>Кому: ЭЛИАС</to>
+    <date>День 11, 9:50</date>
+    <content>Это никогда не обсуждалось в рамках миссии, и если бы и обсуждалось, то я никогда бы не согласилась принять командование. Чем вообще стало руководствоваться правление, как им в голову пришло подобное?
+
+Мы завершили анализ лишь малой доли полученных сведений. Я думаю, на данном этапе очевидно, что мы совершенно не представляем, с чем имеем дело. Только когда у нас будет более чёткая картина происходящего, мы будем обладать достаточными знаниями для оценки следующего шага.
+
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>16</messageIndex>
+    <author>ЭЛИАС ВОЛАНТЕ</author>
+    <to>Кому: Мила</to>
+    <date>День 11, 10:03</date>
+    <content>Приоритетом является безопасность и благополучие наших граждан. Отчёты о поведении инопланетян вызывают тревогу, в связи с чем неумолимо растёт необходимость демонстрировать контроль над ситуацией.
+
+Добавлю, что заоблачная стоимость миссии "Созерцатель" требует от "Аксиомы" превзойти любые ожидания акционеров. Это влечёт за собой необходимость строго следовать субординации, и от Вас, как от носительницы знаменитой фамилии, я ожидаю подчинения приказам.
+
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>17</messageIndex>
+    <author>ЭЛИАС</author>
+    <content>    Получил Ваш отчёт, отвечу при необходимости. Вы хотели обсудить что-нибудь ещё?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>18</messageIndex>
+    <author>МИЛА</author>
+    <content>    Мне сорока на хвосте принесла, что некоторые сенаторы брали взятки, у этих слухов есть основания?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>19</messageIndex>
+    <author>ЭЛИАС</author>
+    <content>    1. Возможно. Это же сенат. 
+    2. "Аксиома" никого не подкупала. 
+    3. Беспокойтесь лучше о том,  
+       за что Вам платят.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>20</messageIndex>
+    <author>САЙЛАС</author>
+    <content> Мне пришло уведомление, что начался анализ языкового синтакса. Какой он?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>21</messageIndex>
+    <author>МИЛА</author>
+    <content>    Что какой?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>22</messageIndex>
+    <author>САЙЛАС</author>
+    <content>    Их язык.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>23</messageIndex>
+    <author>МИЛА</author>
+    <content>    Неэффективный.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>24</messageIndex>
+    <author>САЙЛАС</author>
+    <content>    Поподробнее! Как он звучит? Какие чувства вызывает?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>25</messageIndex>
+    <author>МИЛА</author>
+    <content>   Серьёзно? Ты меня спрашиваешь о чувствах?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>26</messageIndex>
+    <author>САЙЛАС</author>
+    <content>    Так, я в эту игру не играю. Сообщи мне, когда будут подробности.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>27</messageIndex>
+    <author>МИЛА</author>
+    <content>    Может, сообщу, может, нет. Зависит от того, что я буду "чувствовать".</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>28</messageIndex>
+    <author>САЙЛАС</author>
+    <content>    -Пользователь покинул беседу-</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>29</messageIndex>
+    <author>САЙЛАС</author>
+    <content>Большинство систем в научном отсеке невозможно запустить, пока мы не окажемся на нижней орбите. Расчёты уже завершены? </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>.8</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>30</messageIndex>
+    <author>ЭЙДЕН</author>
+    <content>Орбитальная механика - одна из тех инженерных дисциплин, которые не прощают ошибок, Сайлас. Это не то же, что играться с пробирками и грязью. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>.8</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>31</messageIndex>
+    <content>    Редко кто задумывается о том, что успех капитана напрямую зависит от судьбы его корабля. 
+
+    А если судить по тому, в каком "прекрасном" состоянии находится "Созерцатель", можно буквально поверить в то, что эта миссия не так уж и важна. 
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>32</messageIndex>
+    <content>Когда пишется история, слишком немногие осознают, что находятся прямо в самой гуще событий, а вокруг них бушует ураган. В эти несколько недель мы узнаем столько нового, что хватило бы лет на сто научной деятельности.
+
+Очень интересное чувство, когда понимаешь, что каждое даже втайне написанное слово предстанет перед бесчисленными глазами общественности. Никто не должен нести подобное бремя.
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>33</messageIndex>
+    <content>После варп-прыжка к Пси Прайм мы обнаружили, что немалая часть наших запчастей вышла из строя. Судя по всему, повреждения были вызваны электромагнитным излучением, так что это похоже на ещё один непредсказуемый побочный эффект от передвижения такого большого объекта как "Созерцатель" при помощи усиленного сингулярного привода.
+
+Даже начинаешь задумываться, поддержало бы общество эту миссию, если бы знало, сколько неизвестных величин ждало нас.
+
+Кажется, нам приходится узнавать всё на собственном опыте, и чем дальше, тем больше.
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>34</messageIndex>
+    <content>&lt;b&gt;Личное дело: &lt;/b&gt; 178473
+
+&lt;b&gt;Сотрудник:&lt;/b&gt; Вайз, Эйден
+
+&lt;b&gt;Ранг:&lt;/b&gt; старший инженер (по контракту)
+
+&lt;b&gt;Результаты медосмотра:&lt;/b&gt;
+- Здоровье Эйдена удовлетворяет минимальным требованиям для космического путешествия с "Аксиомой";
+- Является переносчиком ДИХС, наблюдаемые симптомы не препятствуют выполнению трудовых обязанностей. 
+
+&lt;b&gt;Примечания:&lt;/b&gt; здоровье Вайза соответствует требованиям, а он сам компетентен для миссии "Созерцателя". Его статус носителя ДИХС не повлияет на производительность труда, но, учитывая высочайшую смертность среди носителей синдрома, мы рекомендуем его постоянное обследование после завершения миссии.
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>35</messageIndex>
+    <content>Напоминание для кода на шкафчике:
+
+   Если вокруг одни гвозди, то тебе понадобится...
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>36</messageIndex>
+    <content>Мною завладели мысли о разрозненности и фрагментарности этого вида. Я пытаюсь постичь их природу. Мы можем наблюдать формирование по географическому признаку различных суперкланов во всех частях планеты и то, что представители вида яростно дерутся за сохранение своей культурной идентичности. Создаётся впечатление, что они создают произвольные различия между собой, несмотря на тот факт, что, по моим предварительным тестам, они на 100% идентичны во всех отношениях. Это братское соперничество планетарного масштаба.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>37</messageIndex>
+    <content>&lt;b&gt;Я хочу сообщить о связанном с работой:&lt;/b&gt;  
+ [X]Ранении   [ ]Заболевании   [ ]Несчастном случае
+
+&lt;b&gt;Моё имя:&lt;/b&gt;  Мила Лекса
+
+&lt;b&gt;Имя пострадавшего(-их) работника(-ов):&lt;/b&gt; Сайлас Хейз
+
+&lt;b&gt;День миссии:&lt;/b&gt; 12  &lt;b&gt;Время:&lt;/b&gt; 15|50
+
+
+&lt;b&gt;Где произошло ранение?&lt;/b&gt; 
+
+Верхняя лаборатория. Рабочий стол в центре. 
+
+&lt;b&gt;Чем было вызвано ранение?&lt;/b&gt;
+
+Небрежностью Сайласа. Он повредил руку, вручную препарируя образец с поверхности. 
+
+&lt;b&gt;Какая часть тела получила повреждения?&lt;/b&gt;
+
+Его рука, и я боюсь, что это может снизить его и так невысокие физические возможности.  
+
+&lt;b&gt;Что могло предотвратить данное ранение?&lt;/b&gt;
+
+Он мог вести себя как взрослый человек и смотреть глазами, что делает. 
+
+&lt;b&gt;Какие действия были предприняты?&lt;/b&gt;
+
+Эйден обработал и перевязал рану. 
+Рекомендую вычесть издержки за снижение производительности труда на время восстановления Сайласа от ранения. Также задумываюсь о дальнейших выговорах.   
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>38</messageIndex>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>*</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+</terminal>

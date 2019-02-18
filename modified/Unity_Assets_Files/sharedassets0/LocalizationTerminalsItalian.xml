@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <email>
+    <emailIndex>0</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Conflitto d'interesse</description>
+    <date>
+    </date>
+    <messageIndex>0</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>1</emailIndex>
+    <to>Lukias</to>
+    <description>Prossimo Rilascio</description>
+    <date>
+    </date>
+    <messageIndex>3</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>2</emailIndex>
+    <to>SAITO ENGINEERING</to>
+    <description>Riparazioni Espial</description>
+    <date>
+    </date>
+    <messageIndex>5</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>3</emailIndex>
+    <to>AIDEN VYSE</to>
+    <description>Testamento e Volontà</description>
+    <date>
+    </date>
+    <messageIndex>8</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>4</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Parola finale</description>
+    <date>
+    </date>
+    <messageIndex>9</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>5</emailIndex>
+    <to>MILA</to>
+    <description>Costruzione di mezzanotte</description>
+    <date>
+    </date>
+    <messageIndex>11</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>6</emailIndex>
+    <to>THERA</to>
+    <description>Fattura</description>
+    <date>
+    </date>
+    <messageIndex>13</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>7</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Ulteriori istruzioni</description>
+    <date>
+    </date>
+    <messageIndex>14</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <im>
+    <IMIndex>0</IMIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Semi della discordia</description>
+    <messageIndex>17</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <im>
+    <IMIndex>1</IMIndex>
+    <to>MILA</to>
+    <description>La loro lingua</description>
+    <messageIndex>20</messageIndex>
+    <messageCount>9</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <im>
+    <IMIndex>2</IMIndex>
+    <to>SILAS</to>
+    <description>Calcoli Orbitali</description>
+    <messageIndex>29</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </im>
+  <note>
+    <noteIndex>0</noteIndex>
+    <title>Il destino di un capitano</title>
+    <messageIndex>31</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>1</noteIndex>
+    <title>La Tempesta</title>
+    <messageIndex>32</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>2</noteIndex>
+    <title>Parti Danneggiate</title>
+    <messageIndex>33</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>3</noteIndex>
+    <title>Esame di Aiden Vyse</title>
+    <messageIndex>34</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>4</noteIndex>
+    <title>Rivalità tra fratelli</title>
+    <messageIndex>35</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>5</noteIndex>
+    <title>Rivalità tra fratelli</title>
+    <messageIndex>36</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <note>
+    <noteIndex>6</noteIndex>
+    <title>Rapporto sulle lesioni</title>
+    <messageIndex>37</messageIndex>
+    <Font>3</Font>
+    <Spacing>1</Spacing>
+  </note>
+  <msg>
+    <messageIndex>0</messageIndex>
+    <author>ELIAS VOLANTE</author>
+    <to>A: Silas</to>
+    <date>4 Giorni Prima del lancio missione</date>
+    <content>Axiom è stato informato della relazione personale e romantica non dichiarata tra voi due. Dato l'evidente conflitto di interessi all'interno della catena di comando, prepareremo un capitano alternativo per questa missione.
+
+
+    </content>
+    <TitleFont>3</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>1</messageIndex>
+    <author>SILAS</author>
+    <to>A: Elias Fwd: Mila</to>
+    <date>4 Giorni Prima del lancio missione</date>
+    <content>Elias, non sono sicuro di aver capito bene, ma ti assicuro che non esiste alcun impegno o relazione tra Mila e me. Mi scuso per non aver dichiarato la nostra breve infatuazione informale, ma non siamo più coinvolti personalmente e il nostro rapporto rimarrà strettamente professionale. 
+
+
+    </content>
+    <TitleFont>3</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>2</messageIndex>
+    <author>MILA</author>
+    <to>A: Silas</to>
+    <date>4 Giorni Prima del lancio missione</date>
+    <content>Dopo 6 anni è questo che significo per te?! E' per il tuo orgoglio che sono stata messa così facilmente a parte, o solo la possibilità di essere un giorno in un libro di testo scientifico? Sei un egoista, Silas. Ho rischiato tutto per nascondere quello che avevamo e mi hai mostrato che persona piccola tu sia.
+
+Pensavo di aver trovato tutto quello che volevo, quindi grazie per non avermi imbarazzato portandomi a credere che la sensazione fosse reciproca.
+</content>
+    <TitleFont>3</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>3</messageIndex>
+    <author>LUKIAS</author>
+    <to>A: Silas</to>
+    <date>Giorno 13, 15:30</date>
+    <content>La modifica è finalmente completata e la versione 5.4.2 di "Celestial Genesis" sarà pronta per la pubblicazione al momento del tuo ritorno. Con la vostra approvazione ci prepareremo per la distribuzione.
+
+In un'altra nota hai menzionato che stavi pianificando un volume di follow-up su "Scambi Evoluzionari" ma, dato il profilo della missione Espial, hai considerato di scrivere un'autobiografia?
+
+Lukias
+Titania Publishing
+
+
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>4</messageIndex>
+    <author>SILAS</author>
+    <to>A: Lukias</to>
+    <date>Giorno 13, 17:57</date>
+    <content>Non ci sono più correzioni dalla mia parte quindi sì, per favore inizia la distribuzione.
+
+Dubito che la mia vanità sia sufficiente per permettermi di scrivere un intero libro su me stesso. Se il profitto è l'obiettivo, fallo da solo quando sono morto - si è apprezzati soltanto dopo esser morti. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>5</messageIndex>
+    <author>SAITO ENGINEERING</author>
+    <to>A: Axiom</to>
+    <date>Più di 2 Mesi Fa</date>
+    <content>Per quanto riguarda il rispetto, non è consigliabile effettuare le riparazioni e le modifiche suggerite a questa nave. I costi sarebbero quasi il prezzo di questa nuova stazione. Ti consigliamo di prendere in considerazione la cessazione di questo progetto.
+
+
+    </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>6</messageIndex>
+    <author>AXIOM</author>
+    <to>To: Saito</to>
+    <date>Più di 2 Mesi Fa</date>
+    <content>Grazie per le vostre raccomandazioni. Tutte le riparazioni possono essere completate nei tempi previsti, come discusso?
+
+
+    </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>7</messageIndex>
+    <author>SAITO ENGINEERING</author>
+    <to>A: Axiom</to>
+    <date>Più di 2 Mesi Fa</date>
+    <content>Il completamento dei lavori sono previsti per la data concordata, ma la direzione desidera esprimere la mancanza di garanzie di completamento da parte nostra.
+     
+A causa delle condizioni attuali della stazione e della natura delle riparazioni, Saito non sarà ritenuto legalmente responsabile per eventuali complicazioni future.
+
+  </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>8</messageIndex>
+    <author>AIDEN</author>
+    <to>A: Thera</to>
+    <date>Giorno 17, 16:41</date>
+    <content>Io, Aiden Vyse, Capo Ingegnere a bordo dello Espial, con la presente revoco le mie precedenti volontà e dichiaro questa mia ultima volontà e testamento. Dispongo tutti i miei assensi, guadagni e ricchezze attuali e future a mia figlia, Keyna Vyse, per pagare per tutte le fatture e fatture mediche in sospeso. Dispongo che il trattamento e la cura della malattia C-SAD di Keyna assumino la massima priorità.
+
+Ho nominato Thera Vyse come custode di Keyna e per supervisionare il suo trattamento.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>9</messageIndex>
+    <author>MILA</author>
+    <to>A: Elias</to>
+    <date>Giorno 12, 12:23 </date>
+    <content>Ciò che Axiom sceglie di fare nelle future missioni è la loro prerogativa, ma una volta che gli obiettivi originali rimanenti della missione saranno completi, l'Espial e il suo equipaggio torneranno.
+
+Questa è la mia ultima parola sull'argomento.
+
+  </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>10</messageIndex>
+    <author>ELIAS  </author>
+    <to>A: Mila</to>
+    <date>Giorno 12, 12:31 </date>
+    <content>La tua decisione è deplorevole, Mila. Il consiglio di amministrazione emetterà a breve la risposta.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>11</messageIndex>
+    <author>MILA</author>
+    <to>A: Aiden</to>
+    <date>Giorno 4, 8:32 </date>
+    <content>Aiden,
+
+O possiedi un'incredibile etica del lavoro, o sei solo un'idiota. Francamente, non mi interessa quale. Voglio solo sapere quale lavoro di manutenzione era così vitale che doveva essere fatto nel cuore della notte?
+
+
+</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>12</messageIndex>
+    <author>AIDEN</author>
+    <to>A: Mila</to>
+    <date>Giorno 4, 9:37 </date>
+    <content>Grazie per essere così preoccupato di ciò che alla fine sono le mie responsabilità. I lavori di servizio in programma prevedevano delle strette dipendenze, e non volevo restare indietro. Scusa se ho disturbato il tuo riposo, ma con un fascino come il tuo, chi ha bisogno di sonno di bellezza?
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>13</messageIndex>
+    <author>THERA</author>
+    <to>A: Aiden</to>
+    <date>Giorno 6, 14:33 </date>
+    <content>Mi dispiace di non averti potuto parlare prima del tuo lancio, ma ho guardato il lancio e se questo significa qualcosa, sono davvero orgoglioso di quello che stai facendo.
+
+Sembra che ogni volta che ti scrivo si tratta di soldi. Suppongo che sia giusto, dato che è tutto ciò di cui abbiamo discusso durante il nostro matrimonio. Keyna sta ancora peggiorando e dobbiamo trovare un piano realistico per pagare il suo trattamento.
+
+Stai al sicuro lassù.
+
+-Thera</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>14</messageIndex>
+    <author>ELIAS VOLANTE</author>
+    <to>A: Mila</to>
+    <date>Giorno 11, 9:12 </date>
+    <content>La leadership è soddisfatta della velocità del tuo team nel raggiungimento degli obiettivi della missione. Sulla base delle tue segnalazioni, prevediamo sei giorni in anticipo rispetto al programma, cosa che ci offre un'opportunità unica.
+
+In allegato c'è una carta per il nuovo progetto per cui il tuo team deve prepararsi.
+
+  L'allegato è stato cancellato  
+
+
+  </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>15</messageIndex>
+    <author>MILA</author>
+    <to>A: Elias</to>
+    <date>Giorno 11, 9:50 </date>
+    <content>Questo non è mai stato discusso nel campo di applicazione della missione, e se fosse stato, non avrei mai accettato il comando. Cosa potrebbe essere cambiato per la leadership anche solo prendendolo in considerazione?
+
+Abbiamo analizzato correttamente solo una frazione dei dati raccolti. Penso sia più che ovvio, ormai, che non abbiamo ancora una chiara idea di quello con cui abbiamo a che fare. Una volta che avremo un quadro più completo della situazione, saremo in una posizione più informata per determinare il prossimo passo.
+
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>16</messageIndex>
+    <author>ELIAS VOLANTE</author>
+    <to>A: Mila</to>
+    <date>Giorno 11, 10:03 </date>
+    <content>La prima priorità è la sicurezza e il benessere delle nostre persone: sulla base delle turbolenti relazioni sul comportamento degli alieni, aumenta la pressione per dimostrare un certo grado di controllo.
+
+Aggiungerò anche che il costo esorbitante della missione Espial richiede che Axiom superi le aspettative degli stakeholder. È un obiettivo che richiede a tutti di seguire la catena di comando, e anche se tu hai un cognome famoso, mi aspetto che tu obbedisca agli ordini.
+
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>17</messageIndex>
+    <author>ELIAS</author>
+    <content>    Ricevuto il tuo rapporto, risponderà in caso di dubbi. C'è qualcos'altro di cui hai bisogno di discutere?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>18</messageIndex>
+    <author>MILA</author>
+    <content>    Ho sentito alcuni pettegolezzi su delle accuse che alcuni senatori sono stati corrotti, qualche verità su questo?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>19</messageIndex>
+    <author>ELIAS</author>
+    <content>    1. Probabilmente. È il senato. 
+    2. Nessuno di Axiom. 
+    3. Preoccupati delle cose per 
+       cui sei pagato.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>20</messageIndex>
+    <author>SILAS</author>
+    <content> Ho ricevuto l'avviso che indica che l'assemblea sulla sintassi della lingua è stato avviato. Allora, com'è?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>21</messageIndex>
+    <author>MILA</author>
+    <content>    Com'è?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>22</messageIndex>
+    <author>SILAS</author>
+    <content>    La loro lingua.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>23</messageIndex>
+    <author>MILA</author>
+    <content>    Inefficiente.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>24</messageIndex>
+    <author>SILAS</author>
+    <content>    Dettagli! Come suona? Come ti senti?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>25</messageIndex>
+    <author>MILA</author>
+    <content>   Veramente? Mi stai chiedendo di parlare dei sentimenti?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>26</messageIndex>
+    <author>SILAS</author>
+    <content>    Non gioco a questo gioco. Fammi sapere quando è finito.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>27</messageIndex>
+    <author>MILA</author>
+    <content>    Forse lo farò, forse non lo farò. Dipende da come mi "sento".</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>28</messageIndex>
+    <author>SILAS</author>
+    <content>    -L'utente si è ritirato dalla conversazione-</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>29</messageIndex>
+    <author>SILAS</author>
+    <content>La maggior parte dei sistemi nell'ala scientifica non può iniziare fino a quando non siamo in orbita più bassa - i calcoli sono completi? </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>30</messageIndex>
+    <author>AIDEN</author>
+    <content>La meccanica orbitale è uno dei tipi di ingegneria più spietati, Silas. Non è così semplice come giocare con provette e sporcizia. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>31</messageIndex>
+    <content>    Raramente riconosciuto è quanto il destino di un capitano sia legato al successo o al fallimento della sua nave.
+     Con una nave così meravigliosamente mantenuta come l'Espial, potresti quasi credere che questa missione non fosse così importante. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>32</messageIndex>
+    <content>Pochi si rendono conto che si trovano nell'occhio del ciclone mentre viene fatta la storia. Il valore di un secolo di studio verrà da quello che abbiamo osservato in queste poche settimane.
+
+È una sensazione curiosa, che ogni parola scritta in privato possa un giorno essere soggetta agli occhi di numeri incalcolabili. Non c'è nessuno che dovrebbe sopportare quel peso.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>33</messageIndex>
+    <content>Dopo il salto warp su Psy Prime, una grande parte dei nostri pezzi di ricambio è stata fritta. Il danno sembra essere dovuto alla radiazione elettromagnetica, quindi sembra un altro risultato inaspettato di muovere qualcosa di grande come l'Espial con l'unità potenziata della singolarità.
+
+Ti chiedi quale sarebbe il supporto pubblico per questa missione se fossero a conoscenza di quante incognite ci sono dalla nostra parte.
+
+Sembra che stiamo capendo la maggior parte mentre andiamo avanti.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>34</messageIndex>
+    <content> &lt;b&gt;File HR:  &lt;/b&gt; 178473
+
+ &lt;b&gt;Lavoratore: &lt;/b&gt; Vyse, Aiden
+
+ &lt;b&gt;Titolo: &lt;/b&gt; Senior Engineer (Contratto)
+
+ &lt;b&gt;Diagnosi Medica: &lt;/b&gt;
+- Aiden soddisfa i requisiti minimi di salute per il viaggio nello spazio Axiom. 
+- Vettore attivo di C-SAD - nessun sintomo osservato che peggiorerebbe la sua capacità di svolgere compiti. 
+
+ &lt;b&gt;Commenti: &lt;/b&gt; Vyse soddisfa tutti i requisiti di salute ed è autorizzato per la missione Espial. Il suo status di portatore di C-SAD non avrà alcun impatto sulle sue prestazioni lavorative, ma dato che C-SAD ha un tasso di mortalità estremamente elevato, raccomandiamo che venga sottoposto a screening periodico post-missione. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>35</messageIndex>
+    <content>Promemoria del codice segreto dell'armadietto: Quando tutto sembra un chiodo, avrai sempre bisogno di un ... </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>36</messageIndex>
+    <content>È la natura sconnessa e frammentata della specie che mi attrae. Possiamo identificare super clan geograficamente basati nei diversi quadranti del pianeta, e la specie combatte attivamente per difendere la propria identità culturale. Sembrano quasi creare una divisione arbitraria tra loro. Nonostante sia emertso, dai miei test preliminari, che sono al 100% uguali in ogni modo. È una rivalità fraterna su scala planetaria. </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>37</messageIndex>
+    <content> &lt;b &gt;I am reporting a work related: &lt;/b &gt;  
+ [X]Ferita   [ ]Malattia   [ ]Incidente
+
+  &lt;b &gt;Il Tuo Nome: &lt;/b &gt;  Mila Lexa
+
+ &lt;b &gt;Nome del dipendente ferito: &lt;/b &gt; Silas Haze
+
+ &lt;b &gt;Giorno Missione: &lt;/b &gt; 12   &lt;b &gt;Ora: &lt;/b &gt; 15|50
+
+
+ &lt;b &gt;Dove è avvenuto l'incidente? &lt;/b &gt; Laboratorio Superiore. Tavolo di lavoro centrale. 
+
+ &lt;b &gt;Cosa ha causato la ferita? &lt;/b &gt;
+
+Silas era distratto. Mentre dissezionava manualmente un campione recuperato dalla superficie, si è tagliato la mano.  &lt;b &gt;Quale parte del corpo si è ferito? &lt;/b &gt;
+
+Il suo braccio: sono preoccupato che ciò comporterà la sua già inadeguata competenza fisica. 
+
+ &lt;b &gt;Cosa si sarebbe potuto fare per evitare la ferita? &lt;/b &gt;
+
+Avrebbe potuto comportarsi come un adulto e essere più consapevole di ciò che stava facendo. 
+
+ &lt;b &gt;Quali azioni sono state intraprese? &lt;/b &gt;
+
+Aiden ha curato e fasciato la ferita. Raccomandando di tagliare lo stipendio per la successiva perdita di efficienza che Silas subirà durante il recupero. Da anche prendere in considerazione ulteriori richiami.   
+ </content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>38</messageIndex>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+</terminal>
