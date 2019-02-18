@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Languages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TextBox>
+    <TextIndex>0</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Aiden's Access Bracelet</English>
+    <Spanish>Brazalete de Acceso de Aiden</Spanish>
+    <French>Bracelet d'Accès d'Aiden</French>
+    <German>Aiden's ID-Armband</German>
+    <Italian>Braccialetto di accesso di Aiden</Italian>
+    <Russian>ID-браслет Эйдена</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>1</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Mila's Access Bracelet</English>
+    <Spanish>Brazalete de Acceso de Mila</Spanish>
+    <French>Bracelet d'Accès de Mila</French>
+    <German>Mila's ID-Armband</German>
+    <Italian>Braccialetto di accesso di Mila</Italian>
+    <Russian>ID-браслет Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>2</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Silas's Access Bracelet</English>
+    <Spanish>Brazalete de Acceso de Silas</Spanish>
+    <French>Bracelet d'Accès de Sila</French>
+    <German>Silas's ID-Armband</German>
+    <Italian>Braccialetto di accesso di Silas</Italian>
+    <Russian>ID-браслет Сайласа</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>3</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Mila's Locker Combination</English>
+    <Spanish>Combinación del Casillero de Mila</Spanish>
+    <French>Combinaison du casier de Mila</French>
+    <German>Mila's Spind Kombination</German>
+    <Italian>Combinazione lucchetto di Mila</Italian>
+    <Russian>Комбинация для шкафчика Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>4</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Science Wing Access Key</English>
+    <Spanish>Llave de Acceso al Ala de Ciencias</Spanish>
+    <French>Clé d'accès à l'Aile Scientifique</French>
+    <German>Zugriffs-Schlüssel für Forschungsflügel</German>
+    <Italian>Chiave di accesso ala scienza</Italian>
+    <Russian>Ключ доступа к научному отсеку</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>5</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>14</EnglishFont>
+    <SpanishFont>14</SpanishFont>
+    <FrenchFont>14</FrenchFont>
+    <GermanFont>14</GermanFont>
+    <ItalianFont>14</ItalianFont>
+    <RussianFont>14</RussianFont>
+    <PortugueseFont>14</PortugueseFont>
+    <English>Mila's Locker Combination</English>
+    <Spanish>Combinación del Casillero de Mila</Spanish>
+    <French>Combinaison du casier de Mila</French>
+    <German>Mila's Spind</German>
+    <Italian>Combinazione lucchetto di Mila</Italian>
+    <Russian>Комбинация для шкафчика Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>6</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Low</English>
+    <Spanish>Bajo</Spanish>
+    <French>Bas</French>
+    <German>Niedrig</German>
+    <Italian>Basso</Italian>
+    <Russian>Низкие</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>7</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Medium</English>
+    <Spanish>Medio</Spanish>
+    <French>Moyen</French>
+    <German>Mittel</German>
+    <Italian>Medio</Italian>
+    <Russian>Средние</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>8</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>High</English>
+    <Spanish>Alto</Spanish>
+    <French>Haut</French>
+    <German>Hoch</German>
+    <Italian>Alto</Italian>
+    <Russian>Высокие</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>9</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Ultra</English>
+    <Spanish>Ultra</Spanish>
+    <French>Ultra</French>
+    <German>Ultra</German>
+    <Italian>Ultra</Italian>
+    <Russian>Ультра</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>10</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Custom</English>
+    <Spanish>Personalizado</Spanish>
+    <French>Personnalisé</French>
+    <German>Benutzerdefiniert</German>
+    <Italian>Personalizzato</Italian>
+    <Russian>Пользовательские</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>11</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>On</English>
+    <Spanish>Activado</Spanish>
+    <French>On</French>
+    <German>An</German>
+    <Italian>On</Italian>
+    <Russian>Вкл</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>12</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Off</English>
+    <Spanish>Desactivado</Spanish>
+    <French>Off</French>
+    <German>Aus</German>
+    <Italian>Off</Italian>
+    <Russian>Выкл</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>13</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Windowed</English>
+    <Spanish>Ventana</Spanish>
+    <French>Fenêtré</French>
+    <German>Windowed</German>
+    <Italian>Windowed</Italian>
+    <Russian>В окне</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>14</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Fullscreen</English>
+    <Spanish>Pantalla Completa</Spanish>
+    <French>Plein écran</French>
+    <German>Fullscreen</German>
+    <Italian>Fullscreen</Italian>
+    <Russian>Полноэкранный режим</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>15</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>20</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>20</FrenchFont>
+    <GermanFont>20</GermanFont>
+    <ItalianFont>20</ItalianFont>
+    <RussianFont>20</RussianFont>
+    <PortugueseFont>20</PortugueseFont>
+    <English>Every V Blank</English>
+    <Spanish>Sincronización</Spanish>
+    <French>Tous</French>
+    <German>Jedes V Leer</German>
+    <Italian>Ogni V Blank</Italian>
+    <Russian>Частота монитора</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>16</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>20</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>20</FrenchFont>
+    <GermanFont>20</GermanFont>
+    <ItalianFont>20</ItalianFont>
+    <RussianFont>20</RussianFont>
+    <PortugueseFont>20</PortugueseFont>
+    <English>Every Second V Blank</English>
+    <Spanish>Doble Sincronización</Spanish>
+    <French>1/2</French>
+    <German>Jedes zweite V Leer</German>
+    <Italian>Ogni secondo V Blank</Italian>
+    <Russian>Половина частоты монитора</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>17</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>20</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>20</FrenchFont>
+    <GermanFont>20</GermanFont>
+    <ItalianFont>20</ItalianFont>
+    <RussianFont>20</RussianFont>
+    <PortugueseFont>20</PortugueseFont>
+    <English>Don't Sync</English>
+    <Spanish>No Sincronizar</Spanish>
+    <French>Pas de V.Sync</French>
+    <German>Kein Sync</German>
+    <Italian>Non sincronizzare</Italian>
+    <Russian>Без синхронизации</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>18</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Monitor 1</English>
+    <Spanish>Pantalla 1</Spanish>
+    <French>Ecran 1</French>
+    <German>Monitor 1</German>
+    <Italian>Monitor 1</Italian>
+    <Russian>Монитор 1</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>19</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Monitor 2</English>
+    <Spanish>Pantalla 2</Spanish>
+    <French>Ecran 2</French>
+    <German>Monitor 2</German>
+    <Italian>Monitor 2</Italian>
+    <Russian>Монитор 2</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>20</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Monitor 3</English>
+    <Spanish>Pantalla 3</Spanish>
+    <French>Ecran 3</French>
+    <German>Monitor 3</German>
+    <Italian>Monitor 3</Italian>
+    <Russian>Монитор 3</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>21</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>25</EnglishFont>
+    <SpanishFont>25</SpanishFont>
+    <FrenchFont>25</FrenchFont>
+    <GermanFont>25</GermanFont>
+    <ItalianFont>25</ItalianFont>
+    <RussianFont>25</RussianFont>
+    <PortugueseFont>25</PortugueseFont>
+    <English>Monitor 4</English>
+    <Spanish>Pantalla 4</Spanish>
+    <French>Ecran 4</French>
+    <German>Monitor 4</German>
+    <Italian>Monitor 4</Italian>
+    <Russian>Монитор 4</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>22</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>22</EnglishFont>
+    <SpanishFont>20</SpanishFont>
+    <FrenchFont>22</FrenchFont>
+    <GermanFont>22</GermanFont>
+    <ItalianFont>22</ItalianFont>
+    <RussianFont>22</RussianFont>
+    <PortugueseFont>22</PortugueseFont>
+    <English>Keyboard + Mouse</English>
+    <Spanish>Teclado + Ratón</Spanish>
+    <French>Clavier + Souris</French>
+    <German>Keyboard + Mouse</German>
+    <Italian>Tastiera + Mouse</Italian>
+    <Russian>Клавиатура + мышь</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>23</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>22</EnglishFont>
+    <SpanishFont>22</SpanishFont>
+    <FrenchFont>22</FrenchFont>
+    <GermanFont>22</GermanFont>
+    <ItalianFont>22</ItalianFont>
+    <RussianFont>22</RussianFont>
+    <PortugueseFont>22</PortugueseFont>
+    <English>Gamepad</English>
+    <Spanish>Mando</Spanish>
+    <French>Manette</French>
+    <German>Gamepad</German>
+    <Italian>Gamepad</Italian>
+    <Russian>Геймпад</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>24</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>22</EnglishFont>
+    <SpanishFont>22</SpanishFont>
+    <FrenchFont>22</FrenchFont>
+    <GermanFont>22</GermanFont>
+    <ItalianFont>22</ItalianFont>
+    <RussianFont>22</RussianFont>
+    <PortugueseFont>22</PortugueseFont>
+    <English>Right Handed</English>
+    <Spanish>Diestro</Spanish>
+    <French>Droitier</French>
+    <German>Rechtshänder</German>
+    <Italian>Mano Destra</Italian>
+    <Russian>Для правши</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>25</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>22</EnglishFont>
+    <SpanishFont>22</SpanishFont>
+    <FrenchFont>22</FrenchFont>
+    <GermanFont>22</GermanFont>
+    <ItalianFont>22</ItalianFont>
+    <RussianFont>22</RussianFont>
+    <PortugueseFont>22</PortugueseFont>
+    <English>Left Handed</English>
+    <Spanish>Zurdo</Spanish>
+    <French>Gaucher</French>
+    <German>Linkshänder</German>
+    <Italian>Mano Sinistra</Italian>
+    <Russian>Для левши</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>26</TextIndex>
+    <EnglishSpacing>1.1</EnglishSpacing>
+    <SpanishSpacing>1.1</SpanishSpacing>
+    <FrenchSpacing>1.1</FrenchSpacing>
+    <GermanSpacing>1.1</GermanSpacing>
+    <ItalianSpacing>1.1</ItalianSpacing>
+    <RussianSpacing>1.1</RussianSpacing>
+    <PortugueseSpacing>1.1</PortugueseSpacing>
+    <EnglishFont>63</EnglishFont>
+    <SpanishFont>63</SpanishFont>
+    <FrenchFont>63</FrenchFont>
+    <GermanFont>63</GermanFont>
+    <ItalianFont>63</ItalianFont>
+    <RussianFont>63</RussianFont>
+    <PortugueseFont>63</PortugueseFont>
+    <English>Approaching The Espial
+
+ &gt; Security Lockdown 
+    Active
+
+ &gt; Structural Damage 
+    Detected
+
+ &gt; Primary Systems 
+    Unresponsive</English>
+    <Spanish>Acercándose a la Espial
+
+ &gt; Bloqueo de Seguridad 
+    Activo
+
+ &gt; Daño Estructural 
+    Detectado
+
+ &gt; Sistemas Primarios 
+    Sin Respuesta</Spanish>
+    <French>Approche de l'Espial
+
+  &gt; Verrouillage de sécurité
+     Actif
+
+  &gt; Dommages structuraux
+     Détectés
+
+  &gt; Systèmes primaires
+     Pas de réponses</French>
+    <German>Landeanflug auf die Espial
+
+ &gt; Notabschaltung 
+    Aktiv
+
+ &gt; Strukturelle Schäden 
+    Erkannt
+
+ &gt; Primäre Systeme 
+    Reagieren Nicht</German>
+    <Italian>Avvicinamento all'Espial
+
+  &gt; Blocco sicurezza
+     Attivo
+
+  &gt; Danni strutturali
+     Rilevati
+
+  &gt; Sistemi primari
+     Nessuna Risposta</Italian>
+    <Russian>Приближение к "Созерцателю"
+
+ &gt; Протокол изоляции
+    Активирован
+
+ &gt; Повреждения корпуса
+    Обнаружены
+
+ &gt; Основные системы
+    Не отвечают</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>27</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>72</EnglishFont>
+    <SpanishFont>71</SpanishFont>
+    <FrenchFont>72</FrenchFont>
+    <GermanFont>72</GermanFont>
+    <ItalianFont>72</ItalianFont>
+    <RussianFont>72</RussianFont>
+    <PortugueseFont>72</PortugueseFont>
+    <English>Welcome to The Espial</English>
+    <Spanish>Bienvenido a la Espial</Spanish>
+    <French>Bienvenue que l'Espial</French>
+    <German>Willkommen auf der Espial</German>
+    <Italian>Benvenuto sull'Espial</Italian>
+    <Russian>Добро пожаловать на "Созерцатель"</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>28</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>To the Critics</English>
+    <Spanish>A los Críticos</Spanish>
+    <French>Au critiques</French>
+    <German>An die Kritiker</German>
+    <Italian>Per i critici</Italian>
+    <Russian>Критикам</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>29</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Redemption</English>
+    <Spanish>Redención</Spanish>
+    <French>Rédemption</French>
+    <German>Wiedergutmachung</German>
+    <Italian>Redenzione</Italian>
+    <Russian>Искупление</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>30</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Overtime</English>
+    <Spanish>Tiempo Extra</Spanish>
+    <French>Heures supplémentaires</French>
+    <German>Überstunden</German>
+    <Italian>Straordinario</Italian>
+    <Russian>Сверхурочные</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>31</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>You and Her</English>
+    <Spanish>Tú y Ella</Spanish>
+    <French>Vous et Elle</French>
+    <German>Du und Sie</German>
+    <Italian>Tu e lei</Italian>
+    <Russian>Ты и она</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>32</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 1</English>
+    <Spanish>Incidente Parte 1</Spanish>
+    <French>Incident - Partie 1</French>
+    <German>Vorfall Teil 1</German>
+    <Italian>Incidente Parte 1</Italian>
+    <Russian>Происшествие, часть 1</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>33</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>The Shadow</English>
+    <Spanish>La Sombra</Spanish>
+    <French>L'Ombre</French>
+    <German>Der Schatten</German>
+    <Italian>L'ombra</Italian>
+    <Russian>В тени</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>34</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Honor Without Glory</English>
+    <Spanish>Honor Sin Gloria</Spanish>
+    <French>Honneur sans Gloire</French>
+    <German>Ehre Ohne Ruhm</German>
+    <Italian>Onore senza gloria</Italian>
+    <Russian>Честь без славы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>35</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 2</English>
+    <Spanish>Incidente Parte 2</Spanish>
+    <French>Incident - Partie 2</French>
+    <German>Vorfall Teil 2</German>
+    <Italian>Incidente Parte 2</Italian>
+    <Russian>Происшествие, часть 2</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>36</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Always Present</English>
+    <Spanish>Siempre Presente</Spanish>
+    <French>Toujours présent</French>
+    <German>Immer Präsent </German>
+    <Italian>Sempre presente</Italian>
+    <Russian>Никуда не исчезает</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>37</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Curiosity</English>
+    <Spanish>Curiosidad</Spanish>
+    <French>Curiosité</French>
+    <German>Neugier</German>
+    <Italian>Curiosità</Italian>
+    <Russian>Любопытство</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>38</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Cosmic Siblings</English>
+    <Spanish>Hermanos Cósmicos</Spanish>
+    <French>Frères Cosmiques</French>
+    <German>Kosmische Geschwister</German>
+    <Italian>Fratelli cosmici</Italian>
+    <Russian>Собратья по космосу</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>39</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 3</English>
+    <Spanish>Incidente Parte 3</Spanish>
+    <French>Incident - Partie 3</French>
+    <German>Vorfall Teil 3</German>
+    <Italian>Incidente Parte 3</Italian>
+    <Russian>Происшествие, часть 3</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>40</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Us and Them</English>
+    <Spanish>Nosotros y Ellos</Spanish>
+    <French>Nous et Eux</French>
+    <German>Wir und Sie</German>
+    <Italian>Noi e loro</Italian>
+    <Russian>Мы и они</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>41</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Discovery</English>
+    <Spanish>Descubrimiento</Spanish>
+    <French>Découverte</French>
+    <German>Entdeckung</German>
+    <Italian>Scoperta</Italian>
+    <Russian>Открытие</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>42</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Instincts vs Intelligence</English>
+    <Spanish>Instintos vs Inteligencia</Spanish>
+    <French>Instincts vs Intelligence</French>
+    <German>Instinkte gegen Intelligen</German>
+    <Italian>Istinti vs Intelligenza</Italian>
+    <Russian>Инстинкты и разум</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>43</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 4</English>
+    <Spanish>Incidente Parte 4</Spanish>
+    <French>Incident - Partie 4</French>
+    <German>Vorfall Teil 4</German>
+    <Italian>Incidente Parte 4</Italian>
+    <Russian>Происшествие, часть 4</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>44</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Sharing</English>
+    <Spanish>Compartiendo</Spanish>
+    <French>Partage</French>
+    <German>Teilen</German>
+    <Italian>Compartecipazione</Italian>
+    <Russian>Делиться надо</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>45</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Where it Lies</English>
+    <Spanish>Donde Yace</Spanish>
+    <French>Où il se trouve</French>
+    <German>Wo es Liegt</German>
+    <Italian>Dove si trova</Italian>
+    <Russian>Оставь как есть</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>46</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Another Funeral</English>
+    <Spanish>Otro Funeral</Spanish>
+    <French>Un autre enterrement</French>
+    <German>Eine Weitere Beerdigung</German>
+    <Italian>Un altro funerale</Italian>
+    <Russian>Ещё одни похороны</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>47</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Mirror of the Universe</English>
+    <Spanish>Espejo del Universo</Spanish>
+    <French>Miroir de l'Univers</French>
+    <German>Spiegel im Universum</German>
+    <Italian>Specchio dell'universo</Italian>
+    <Russian>Зеркало во Вселенной</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>48</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 5</English>
+    <Spanish>Incidente Parte 5</Spanish>
+    <French>Incident - Partie 5</French>
+    <German>Vorfall Teil 5</German>
+    <Italian>Incidente Parte 5</Italian>
+    <Russian>Происшествие, часть 5</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>49</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Confession Part 2</English>
+    <Spanish>Confesión Parte 2</Spanish>
+    <French>Confession - Partie 2</French>
+    <German>Geständnis Teil 2</German>
+    <Italian>Confessione Parte 2</Italian>
+    <Russian>Признание, часть 1</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>50</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Final Report</English>
+    <Spanish>Reporte Final</Spanish>
+    <French>Rapport Final</French>
+    <German>Letzter Bericht</German>
+    <Italian>Rapporto finale</Italian>
+    <Russian>Последний отчёт</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>51</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Incident Part 6</English>
+    <Spanish>Incidente Parte 6</Spanish>
+    <French>Incident - Partie 6</French>
+    <German>Vorfall Teil 6</German>
+    <Italian>Incidente Parte 6</Italian>
+    <Russian>Происшествие, часть 6</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>52</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Maintenance</English>
+    <Spanish>Mantenimiento</Spanish>
+    <French>Maintenance</French>
+    <German>Wartung</German>
+    <Italian>Manutenzione</Italian>
+    <Russian>Техобслуживание</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>53</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Aiden's Room</English>
+    <Spanish>La Habitación de Aiden</Spanish>
+    <French>Chambre d'Aiden</French>
+    <German>Aiden's Zimmer</German>
+    <Italian>La Stanza di Aiden</Italian>
+    <Russian>Комната Эйдена</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>54</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Dining Room</English>
+    <Spanish>Comedor</Spanish>
+    <French>Salle à manger</French>
+    <German>Esszimmer</German>
+    <Italian>Sala da pranzo</Italian>
+    <Russian>Столовая</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>55</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Mila's Room</English>
+    <Spanish>La Habitación de Mila</Spanish>
+    <French>Chambre de Milas</French>
+    <German>Mila's Zimmer</German>
+    <Italian>La stanza di Mila</Italian>
+    <Russian>Комната Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>56</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Viewing Room A</English>
+    <Spanish>Sala de Visualización A</Spanish>
+    <French>Salle d'examen A</French>
+    <German>Ansichtsraum A</German>
+    <Italian>Stanza di osservazione A</Italian>
+    <Russian>Обзорная комната А</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>57</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Science Wing</English>
+    <Spanish>Ala de Ciencias</Spanish>
+    <French>Aile Scientifique</French>
+    <German>Forschungsflügel</German>
+    <Italian>Ala della scienza</Italian>
+    <Russian>Научный отсек</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>58</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Locker Room</English>
+    <Spanish>Vestuario</Spanish>
+    <French>Salle des Casiers</French>
+    <German>Garderobenbereich</German>
+    <Italian>Spogliatoio</Italian>
+    <Russian>Раздевалка</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>59</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Lounge</English>
+    <Spanish>Salón</Spanish>
+    <French>Salon</French>
+    <German>Lounge</German>
+    <Italian>Sala</Italian>
+    <Russian>Салон</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>60</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Upper Lab</English>
+    <Spanish>Laboratorio Superior</Spanish>
+    <French>Laboratoire Supérieur</French>
+    <German>Oberes Labor</German>
+    <Italian>Laboratorio Superiore</Italian>
+    <Russian>Верхняя лаборатория</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>61</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Medical Bay</English>
+    <Spanish>Bahía Medica</Spanish>
+    <French>Baie Médicale</French>
+    <German>Krankenstation</German>
+    <Italian>Baia medica</Italian>
+    <Russian>Медотсек</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>62</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Bridge</English>
+    <Spanish>Puente</Spanish>
+    <French>Passerelle</French>
+    <German>Brücke</German>
+    <Italian>Ponte</Italian>
+    <Russian>Мостик</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>63</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Lower Lab</English>
+    <Spanish>Laboratorio Inferior</Spanish>
+    <French>Laboratoire Inferieur</French>
+    <German>Unteres Labor</German>
+    <Italian>Laboratorio Inferiore</Italian>
+    <Russian>Нижняя лаборатория</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>64</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Conference Room</English>
+    <Spanish>Sala de Conferencias</Spanish>
+    <French>Salle de Conférence</French>
+    <German>Konferenzraum</German>
+    <Italian>Sala conferenze</Italian>
+    <Russian>Конференц-зал</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>65</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Mila's Office</English>
+    <Spanish>Oficina de Mila</Spanish>
+    <French>Bureau de Mila</French>
+    <German>Mila's Büro</German>
+    <Italian>Ufficio di Mila</Italian>
+    <Russian>Офис Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>66</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Hangar</English>
+    <Spanish>Hangar</Spanish>
+    <French>Hangar</French>
+    <German>Hangar</German>
+    <Italian>Hangar</Italian>
+    <Russian>Ангар</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>67</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Engineering</English>
+    <Spanish>Ingeniería</Spanish>
+    <French>Ingénierie</French>
+    <German>Maschinenraum</German>
+    <Italian>Ingegneria</Italian>
+    <Russian>Инженерная</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>68</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Silas's Room</English>
+    <Spanish>La Habitación de Silas</Spanish>
+    <French>Chambre de Silas</French>
+    <German>Silas's Zimmer</German>
+    <Italian>La stanza di Silas</Italian>
+    <Russian>Комната Сайласа</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>69</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>85</EnglishFont>
+    <SpanishFont>85</SpanishFont>
+    <FrenchFont>85</FrenchFont>
+    <GermanFont>85</GermanFont>
+    <ItalianFont>85</ItalianFont>
+    <RussianFont>85</RussianFont>
+    <PortugueseFont>85</PortugueseFont>
+    <English>Viewing Room B</English>
+    <Spanish>Sala de Visualización B</Spanish>
+    <French>Salle d'examen B</French>
+    <German>Ansichtsraum B</German>
+    <Italian>Stanza di osservazione B</Italian>
+    <Russian>Обзорная комната Б</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>70</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Progress Saved</English>
+    <Spanish>Progreso Guardado</Spanish>
+    <French>Avancement Sauvegardé</French>
+    <German>Fortschritt gespeichert</German>
+    <Italian>Progressi salvati</Italian>
+    <Russian>Результат сохранен</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>71</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Engine Reset</English>
+    <Spanish>Reinicio del Motor</Spanish>
+    <French>Réinitialisation du Réacteur </French>
+    <German>Motor-Rückstellung</German>
+    <Italian>Reset del motore</Italian>
+    <Russian>Обнуление двигателя</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>72</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Step 1: Microfabrication</English>
+    <Spanish>Paso 1: Microfabricación</Spanish>
+    <French>Etape 1: Microfabrication</French>
+    <German>Schritt 1: Mikrofertigung</German>
+    <Italian>Passaggio 1: Microfabbricazione</Italian>
+    <Russian>Шаг 1: Микрообработка</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>73</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Step 2: Calibration</English>
+    <Spanish>Paso 2: Calibración</Spanish>
+    <French>Etape 2: Calibration</French>
+    <German>Schritt 2: Kalibrierung</German>
+    <Italian>Passaggio 2: Calibrazione</Italian>
+    <Russian>Шаг 2: Калибровка</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>74</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>36</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Step 3: Displacement</English>
+    <Spanish>Paso 3: Desplazamiento</Spanish>
+    <French>Etape 3: remplacement</French>
+    <German>Schritt 3: Verschiebung</German>
+    <Italian>Passaggio 3: Spostamento</Italian>
+    <Russian>Шаг 3: Перемещение</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>75</TextIndex>
+    <EnglishSpacing>1.3</EnglishSpacing>
+    <SpanishSpacing>1.3</SpanishSpacing>
+    <FrenchSpacing>1.3</FrenchSpacing>
+    <GermanSpacing>1.3</GermanSpacing>
+    <ItalianSpacing>1.3</ItalianSpacing>
+    <RussianSpacing>1.3</RussianSpacing>
+    <PortugueseSpacing>1.3</PortugueseSpacing>
+    <EnglishFont>36</EnglishFont>
+    <SpanishFont>36</SpanishFont>
+    <FrenchFont>28</FrenchFont>
+    <GermanFont>36</GermanFont>
+    <ItalianFont>36</ItalianFont>
+    <RussianFont>36</RussianFont>
+    <PortugueseFont>36</PortugueseFont>
+    <English>Step 4: Engine Reset</English>
+    <Spanish>Paso 4: Reinicio del Motor</Spanish>
+    <French>Etape 4: Réinitialisation du Réacteur </French>
+    <German>Schritt 4: Motor-Rückstellung</German>
+    <Italian>Passaggio 4: Reset del motore</Italian>
+    <Russian>Шаг 4: Обнуление двигателя</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+</Languages>

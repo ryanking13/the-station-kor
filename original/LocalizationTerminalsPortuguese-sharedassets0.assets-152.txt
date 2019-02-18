@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <email>
+    <emailIndex>0</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Conflict of Interest</description>
+    <date>Four Days Prior to Mission Launch</date>
+    <messageIndex>0</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>1</emailIndex>
+    <to>Lukias</to>
+    <description>Upcoming Release</description>
+    <messageIndex>3</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>2</emailIndex>
+    <to>SAITO ENGINEERING</to>
+    <description>Espial Repairs</description>
+    <messageIndex>5</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>3</emailIndex>
+    <to>AIDEN VYSE</to>
+    <description>Will and Testament</description>
+    <messageIndex>8</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>4</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Final Word</description>
+    <messageIndex>9</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>5</emailIndex>
+    <to>MILA</to>
+    <description>Midnight Construction</description>
+    <messageIndex>11</messageIndex>
+    <messageCount>2</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>6</emailIndex>
+    <to>THERA</to>
+    <description>Invoice</description>
+    <messageIndex>13</messageIndex>
+    <messageCount>1</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email>
+    <emailIndex>7</emailIndex>
+    <to>ELIAS VOLANTE</to>
+    <description>Further Instructions</description>
+    <messageIndex>14</messageIndex>
+    <messageCount>3</messageCount>
+    <Font>*</Font>
+    <Spacing>1</Spacing>
+  </email>
+  <email />
+</terminal>

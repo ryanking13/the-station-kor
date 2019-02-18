@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Languages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TextBox>
+    <TextIndex>0</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>65</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Investigate the Upper and Lower Lab</English>
+    <Spanish>Investiga el Laboratorio Superior y el Inferior</Spanish>
+    <French>Enquêter dans les Laboratoires Supérieur et Inferieur</French>
+    <German>Untersuche das obere und untere Labor</German>
+    <Italian>Indagare nel Laboratorio superiore e inferiore</Italian>
+    <Russian>Обследуйте верхнюю и нижнюю лаборатории</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>1</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>65</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Find Silas's ID Bracelet to Access the Upper and Lower Lab</English>
+    <Spanish>Encuentra el Brazalete de Identificación de Silas para Acceder al Laboratorio Superior y el Inferior</Spanish>
+    <French>Trouver le Bracelet de Silas pour accéder aux Laboratoires Supérieur et Inferieur</French>
+    <German>Finde Silas's ID Armband um Zugriff auf das obere und untere Labor zu erlangen</German>
+    <Italian>Trova l'ID braccialetto di Silas per accedere al laboratorio superiore e inferiore</Italian>
+    <Russian>Найдите ID-браслет для доступа к верхней и нижней лабораториям</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>2</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>62</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Check Engine to Restore Power To Silas's Room</English>
+    <Spanish>Revisa el Motor para Restaurar la Energía en la Habitación de Silas</Spanish>
+    <French>Vérifier le Réacteur pour restaurer l'énergie dans la chambre de Silas</French>
+    <German>Überprüfe den Antrieb um die Energiezufuhr für Sila's Zimmer wiederherzustellen</German>
+    <Italian>Controlla il motore per ripristinare l'alimentazione nella stanza di Silas</Italian>
+    <Russian>Проверьте двигатель, чтобы восстановить питание в комнате Сайласа</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>3</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Dock In The Espial Station</English>
+    <Spanish>Acopla en la Estación Espial</Spanish>
+    <French>Amarrer vous à la Station Espial</French>
+    <German>Docke an die Espial Station an</German>
+    <Italian>Dock nella stazione Espial</Italian>
+    <Russian>Состыкуйтесь со станцией "Созерцатель"</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>4</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Escape the Espial</English>
+    <Spanish>Escapa de la Espial</Spanish>
+    <French>Echapper vous de l'Espial</French>
+    <German>Fliehe von der Espial</German>
+    <Italian>Scappa dall'Espial</Italian>
+    <Russian>Сбегите с "Созерцателя"</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>5</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>65</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Investigate the Upper and Lower Lab</English>
+    <Spanish>Investiga el Laboratorio Superior y el Inferior</Spanish>
+    <French>Enquêter dans les Laboratoires Supérieur et Inferieur</French>
+    <German>Untersuche das obere und untere Labor</German>
+    <Italian>Indagare nel Laboratorio superiore e inferiore</Italian>
+    <Russian>Обследуйте верхнюю и нижнюю лаборатории</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>6</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Investigate Mila's Office</English>
+    <Spanish>Investiga la Oficina de Mila</Spanish>
+    <French>Enquêter dans le Bureau de Mila</French>
+    <German>Untersuche Mila's Büro</German>
+    <Italian>Indagare nell'ufficio di Mila</Italian>
+    <Russian>Обследуйте офис Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>7</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>61</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Restore Power To The Lounge Door</English>
+    <Spanish>Restaura la Energía de la Puerta de la Sala</Spanish>
+    <French>Réactiver l'alimentation de la porte du Salon</French>
+    <German>Stelle Energiezufuhr für die Lounge Tür wiederher</German>
+    <Italian>Ripristinare l'alimentazione alla porta della sala</Italian>
+    <Russian>Восстановите питание двери салона</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>8</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Investigate the Science Wing</English>
+    <Spanish>Investiga el Ala de Ciencias</Spanish>
+    <French>Enquêter dans l'Aile Scientifique</French>
+    <German>Untersuche den Forschungsflügel</German>
+    <Italian>Indagare nell'ala della scienza</Italian>
+    <Russian>Обследуйте научный отсек</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>9</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Repair Maintenance Robot</English>
+    <Spanish>Repara el Robot de Mantenimiento</Spanish>
+    <French>Réparer le Robot de Maintenance</French>
+    <German>Repariere den Wartungsroboter</German>
+    <Italian>Riparare il robot manutenzione</Italian>
+    <Russian>Почините робота техобслуживания</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>10</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Access The Bridge:</English>
+    <Spanish>Accede al Puente:</Spanish>
+    <French>Accéder à la Passerelle</French>
+    <German>Erlange Zugang zur Brücke:</German>
+    <Italian>Accedi al ponte:</Italian>
+    <Russian>Получите доступ к мостику:</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>11</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>70</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>Locate The Crew:</English>
+    <Spanish>Localiza a la Tripulación:</Spanish>
+    <French>Localiser l'équipage</French>
+    <German>Finde die Besatzung:</German>
+    <Italian>Trova The Crew:</Italian>
+    <Russian>Найдите экипаж:</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>12</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>62</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>   &lt;&gt; Find Aiden Vyse</English>
+    <Spanish>   &lt;&gt; Encuentra a Aiden 
+       Vyse</Spanish>
+    <French>   &lt;&gt; Trouver Aiden Vyse</French>
+    <German>   &lt;&gt; Finde Aiden Vyse</German>
+    <Italian> &lt;&gt; Trova Aiden Vyse</Italian>
+    <Russian>   &lt;&gt; Найдите Эйдена Вайза</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>13</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>62</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>   &lt;&gt; Find Mila Lexa</English>
+    <Spanish>   &lt;&gt; Encuentra a Mila 
+        Lexa</Spanish>
+    <French>   &lt;&gt; Trouver Mila Lexa</French>
+    <German>   &lt;&gt; Finde Mila Lexa</German>
+    <Italian> &lt;&gt; Trova Mila Lexa</Italian>
+    <Russian>   &lt;&gt; Найдите Милу Лексу</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>14</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>70</EnglishFont>
+    <SpanishFont>70</SpanishFont>
+    <FrenchFont>62</FrenchFont>
+    <GermanFont>70</GermanFont>
+    <ItalianFont>70</ItalianFont>
+    <RussianFont>70</RussianFont>
+    <PortugueseFont>70</PortugueseFont>
+    <English>   &lt;&gt; Find Silas Haze</English>
+    <Spanish>   &lt;&gt; Encuentra a Silas 
+        Haze</Spanish>
+    <French>   &lt;&gt; Trouver Silas Haze</French>
+    <German>   &lt;&gt; Finde Silas Haze</German>
+    <Italian> &lt;&gt; Trova Silas Haze</Italian>
+    <Russian>   &lt;&gt; Найдите Сайласа Хейза</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>15</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>63</EnglishFont>
+    <SpanishFont>63</SpanishFont>
+    <FrenchFont>63</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>63</ItalianFont>
+    <RussianFont>63</RussianFont>
+    <PortugueseFont>63</PortugueseFont>
+    <English>   &lt;&gt; Find Mila's ID Bracelet</English>
+    <Spanish>   &lt;&gt; Encuentra el Brazalete 
+       de Identificación de Mila</Spanish>
+    <French>   &lt;&gt; Trouver le Bracelet
+           de Mila</French>
+    <German>   &lt;&gt; Finde Mila's ID Armband</German>
+    <Italian> &lt;&gt; Trova l'ID braccialetto 
+      di Mila</Italian>
+    <Russian>   &lt;&gt; Найдите ID-браслет Милы</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>16</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>60</EnglishFont>
+    <SpanishFont>60</SpanishFont>
+    <FrenchFont>56</FrenchFont>
+    <GermanFont>52</GermanFont>
+    <ItalianFont>58</ItalianFont>
+    <RussianFont>60</RussianFont>
+    <PortugueseFont>60</PortugueseFont>
+    <English>   &lt;&gt; Deploy Maintenance Robot to Repair Life Support</English>
+    <Spanish>   &lt;&gt; Despliega el Robot de 
+        Mantenimiento para 
+        Reparar el Soporte Vital</Spanish>
+    <French>   &lt;&gt; Déployer le Robot de 
+         Maintenance pour réparer 
+         les supports de vie
+</French>
+    <German>   &lt;&gt; Setze Wartungsroboter ein um Lebenserhaltungssysteme zu reparieren</German>
+    <Italian> &lt;&gt; DAttivare il robot 
+      manutenzione per 
+      riparare il supporto vitale</Italian>
+    <Russian>   &lt;&gt; Отправьте робота 
+        техобслуживания к системе
+        жизнеобеспечения</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>17</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>60</EnglishFont>
+    <SpanishFont>60</SpanishFont>
+    <FrenchFont>60</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>60</ItalianFont>
+    <RussianFont>60</RussianFont>
+    <PortugueseFont>60</PortugueseFont>
+    <English>*</English>
+    <Spanish>*</Spanish>
+    <French>*</French>
+    <German>*</German>
+    <Italian>*</Italian>
+    <Russian>*</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+</Languages>

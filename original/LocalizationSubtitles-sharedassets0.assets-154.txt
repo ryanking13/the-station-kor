@@ -1,0 +1,3073 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Languages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TextBox>
+    <TextIndex>0</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: To the critics of this mission, I say it's not sufficient you voice your concerns of danger or ethics.</English>
+    <Spanish>Silas: A los que criticaban esta misión, les digo que no es suficiente que expresen sus preocupaciones de peligro y ética.</Spanish>
+    <French>Silas: Aux critiques de cette mission, je dis qu'il ne suffit pas d'exprimer vos préoccupations de danger ou d'éthique.</French>
+    <German>Silas: An die Kritiker dieser Mission, ich sage, es reicht nicht aus, Bedenken in Bezug auf Gefahr oder Ethik zu äußern.</German>
+    <Italian>Silas: Per chi critica questa missione, dico che non è sufficiente esprimere le tue preoccupazioni sul pericolo o sull'etica.</Italian>
+    <Russian>Сайлас: Критикам этой миссии я скажу, что недостаточно просто озвучивать страхи по поводу опасностей или этики.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>1</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>63</FrenchFont>
+    <GermanFont>58</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: If you are against progress in this moment, you must acknowledge that our very understandings of biology, chemistry,</English>
+    <Spanish>Silas: Si estas en contra del progreso en este momento, debes reconocer que nuestro propio entendimiento de biología, química,</Spanish>
+    <French>Silas: Si vous êtes contre le progrès en ce moment, vous devez reconnaître que notre compréhension même de la biologie, la chimie,</French>
+    <German>Silas: Wenn sie in diesem Moment gegen Vortschritt sind, müssen sie anerkennen, dass unser gesamtes Verständnis über Biologie, Chemie,</German>
+    <Italian>Silas: Se sei contrario ai progressi in questo momento, devi riconoscere che la nostra comprensione della biologia, chimica,</Italian>
+    <Russian>Сайлас: Если сейчас вы против прогресса, то вы должны признать, что все наши представления о биологии, химии,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>2</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: physics, even religion are thrown into question. And you stand in our way.</English>
+    <Spanish>Silas: física, e incluso religión, son puestos en duda. Y estás en nuestro camino.</Spanish>
+    <French>Silas: la physique, même la religion sont remises en question. Et vous vous tenez sur notre chemin.</French>
+    <German>Silas: Physik, sogar Religion, in Frage gestellt wird. Und sie stehen uns im Weg.</German>
+    <Italian>Silas: fisica e persino della religione sono messe in discussione. E tu ti trovi sulla nostra strada.</Italian>
+    <Russian>Сайлас: физике и даже религии подвергнуты сомнению. И вы стоите у нас на пути.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>3</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: I never liked space. It's cold, lonely, and gives a man too much time to think.</English>
+    <Spanish>Aiden: Nunca me gustó el espacio exterior. Es frío, solitario, y le da al hombre mucho tiempo para pensar.</Spanish>
+    <French>Aiden: Je n'ai jamais aimé l'espace. C'est froid, solitaire et donne à un homme trop de temps pour réfléchir.</French>
+    <German>Aiden: Ich mochte das Weltall noch nie. Es ist kalt, einsam und gibt einem Mann zu viel Zeit nachzudenken.</German>
+    <Italian>Aiden: Non mi è mai piaciuto lo spazio. Fa freddo, solitario e dà a un uomo troppo tempo per pensare.</Italian>
+    <Russian>Эйден: Никогда не любил космос. Он холодный, одинокий и даёт слишком много времени для размышлений.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>4</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Time to think about what you've done...</English>
+    <Spanish>Aiden: Tiempo para pensar en las cosas que has hecho…</Spanish>
+    <French>Aiden: Il est temps de penser à ce que vous avez fait…</French>
+    <German>Aiden: Zeit, darüber nachzudenken, was du getan hast...</German>
+    <Italian>Aiden: È ora di pensare a quello che hai fatto...</Italian>
+    <Russian>Эйден: Размышлений о том, что ты сделал...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>5</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: And what you shouldn't have.</English>
+    <Spanish>Aiden: Y las que no deberías haber hecho.</Spanish>
+    <French>Aiden: Et ce que vous n'auriez pas dû.</French>
+    <German>Aiden: Und darüber, was du nicht getan hast.</German>
+    <Italian>Aiden: E quello che non dovresti avere.</Italian>
+    <Russian>Эйден: И о том, чего тебе делать не следовало.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>6</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: So do you think you can build it?</English>
+    <Spanish>Silas: Así que, ¿crees que puedes construirlo?</Spanish>
+    <French>Silas: Alors tu penses que tu peux le construire?</French>
+    <German>Silas: Glaubst du, du kannst es bauen?</German>
+    <Italian>Silas: Quindi pensi di poterlo costruire?</Italian>
+    <Russian>Сайлас: Ну что скажешь, можешь это соорудить?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>7</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Not sure where you think I could hide something like this onboard.</English>
+    <Spanish>Aiden: No estoy seguro de dónde piensas que podría ocultar algo así a bordo.</Spanish>
+    <French>Aiden: Je ne sais pas où tu pense que je pourrais cacher quelque chose comme ça à bord.</French>
+    <German>Aiden: Nicht sicher was du glaubst, wo ich so etwas an Board verstecken könnte.</German>
+    <Italian>Aiden: Non sono sicuro di dove pensi di poter nascondere qualcosa di simile a bordo.</Italian>
+    <Russian>Эйден: Ну и где же ты прикажешь прятать у нас на борту нечто подобное?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>8</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: There's a blind spot in the cameras in the upper deck hallway, right here.</English>
+    <Spanish>Silas: Hay un punto ciego en las cámaras en el pasillo de la cubierta superior, justo aquí.</Spanish>
+    <French>Silas: Il y a un angle mort dans les caméras dans le couloir du pont supérieur, juste ici.</French>
+    <German>Silas: Es gibt da einen toten Winkel für die Kameras in den Gängen des oberen Decks, genau hier.</German>
+    <Italian>Silas: C'è un punto cieco nelle telecamere nel corridoio del ponte superiore, proprio qui.</Italian>
+    <Russian>Сайлас: У камер наблюдения есть слепое пятно в коридоре на верхней палубе, вот здесь.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>9</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: It's possible. But, uh, given the risk, it's going to cost you.</English>
+    <Spanish>Aiden: Es posible. Pero, uh, dado el riesgo, te va a costar.</Spanish>
+    <French>Aiden: C'est possible. Mais euh, vu le risque, ça va te coûter cher.</French>
+    <German>Aiden: Es ist möglich. Aber, äh, bei dem Risiko wird es dich einiges kosten.</German>
+    <Italian>Aiden: È possibile. Ma, considerato il rischio, ti costerà.</Italian>
+    <Russian>Эйден: Да, вполне возможно. Но, м-м, учитывая риск, тебе придётся раскошелиться.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>10</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Not a problem. I'm sure it will go to a good cause. Oh, and don't let her catch you.</English>
+    <Spanish>Silas: No hay problema. Estoy seguro que irá a una buena causa. Oh, y no dejes que ella te atrape.</Spanish>
+    <French>Silas: Pas de problème. Je suis sûr que c'est une bonne cause. Oh, et ne la laisse pas t'attraper.</French>
+    <German>Silas: Kein Problem. Ich bin sicher, es wird einem guten Zweck zu Gute kommen. Oh, und lass dich nicht von ihr erwischen.</German>
+    <Italian>Silas: non è un problema. Sono sicuro che servirà per una buona causa. Oh, e non lasciarti prendere.</Italian>
+    <Russian>Сайлас: Это не проблема. Я уверен, что эти деньги послужат благой цели. Ах да, и не попадись тебя.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>11</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Look, it's none of my business. I know you ended whatever was between you and Mila,</English>
+    <Spanish>Aiden: Mira, no es de mi incumbencia. Sé que terminaste lo que sea que había entre tú y Mila,</Spanish>
+    <French>Aiden: Ecoute, ce n'est pas mon affaire. Je sais que tu as rompu avec Mila,</French>
+    <German>Aiden: Hör mal, es geht mich nichts an. Ich weiß, dass du beendet hast, was auch immer zwischen dir und Mila war,</German>
+    <Italian>Aiden: Senti, non sono affari miei. So che hai messo fine a qualunque cosa ci fosse tra te e Mila,</Italian>
+    <Russian>Эйден: Слушай, это, конечно, не моё дело. Я знаю, что ты порвал с Милой,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>12</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: but the way you still look at her, I'm not convinced you're over her.</English>
+    <Spanish>Aiden: pero la forma en que aún la miras, no estoy seguro de que la hayas superado.</Spanish>
+    <French>Aiden: mais vu la façon dont tu la regarde toujours, je ne pense pas que tu sois passé à autre chose.</French>
+    <German>Aiden: aber so wie du sie ansiehst, bin ich nicht überzeugt, dass du über sie hinweg bist.</German>
+    <Italian>Aiden: ma dal modo in cui continui a guardarla, quindi non sono convinto che abbai chiuso con lei.</Italian>
+    <Russian>Эйден: но даже сейчас я вижу, как ты на неё смотришь, и ты не убедишь меня, что забыл о ней.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>13</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: You're absolutely right, Aiden: it is none of your business.</English>
+    <Spanish>Silas: Tienes toda la razón, Aiden: no es de tu incumbencia.</Spanish>
+    <French>Silas: Vous avez absolument raison, Aiden: cela ne vous regarde pas.</French>
+    <German>Silas: Du hast absolut Recht, Aiden: Es geht dich nichts an.</German>
+    <Italian>Silas: hai assolutamente ragione, Aiden: non sono affari tuoi.</Italian>
+    <Russian>Сайлас: Ты абсолютно прав, Эйден. Это не твоё дело.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>14</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>60</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: The analysis of the terra firma is complete. It's only Silas's taxonomy of the alien anatomy that is behind schedule,</English>
+    <Spanish>Mila: El análisis de tierra firme está completo. Solamente la taxonomía de la anatomía alienígena de Silas está atrasada,</Spanish>
+    <French>Mila: L'analyse de la terre ferme est terminée. C'est seulement la taxonomie de Silas de l'anatomie extraterrestre qui est en retard,</French>
+    <German>Mila: Die Bodenanalysen sind abgeschlossen. Nur Silas's Taxomonie der außerirdischen Anatomie ist in Verzug,</German>
+    <Italian>Mila: l'analisi della terra ferma è completa. È solo la tassonomia di Silas dell'anatomia aliena che è in ritardo,</Italian>
+    <Russian>Мила: Анализ твёрдой почвы завершён. Сейчас от графика отстаёт только таксономическое исследование Сайласа их анатомии,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>15</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: which is surprising given how similar...</English>
+    <Spanish>Mila: lo cual es sorprendente, dado lo similar…</Spanish>
+    <French>Mila: ce qui est surprenant compte tenu de la similitude …</French>
+    <German>Mila: was überraschend ist angesichst ihrer Ähnlichkeit...</German>
+    <Italian>Mila: il che è sorprendente considerando quanto simili ...</Italian>
+    <Russian>Мила: что удивляет, учитывая схожесть...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>16</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>*Distant explosion*</English>
+    <Spanish>*Explosión distante*</Spanish>
+    <French>* Explosion éloignée*</French>
+    <German>*Entfernte Explosion*</German>
+    <Italian>* Esplosione distante *</Italian>
+    <Russian>*Отдалённый взрыв*</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>17</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Aiden, what are you doing?</English>
+    <Spanish>Mila: Aiden, ¿qué estás haciendo?</Spanish>
+    <French>Mila: Aiden, qu'est-ce que tu fais?</French>
+    <German>Mila: Aiden, was machst du?</German>
+    <Italian>Mila: Aiden, cosa stai facendo?</Italian>
+    <Russian>Мила: Эйден, ты что там творишь такое?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>18</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: That wasn't me. I'm on my way to engineering now.</English>
+    <Spanish>Aiden: Ese no fui yo. Estoy en camino hacia Ingeniería ahora.</Spanish>
+    <French>Aiden: Ce n'était pas moi. Je suis en chemin vers l'ingénierie là.</French>
+    <German>Aiden: Das war ich nicht. Ich bin jetzt auf dem Weg zum Maschinenraum.</German>
+    <Italian>Aiden: Non sono stato io. Sto andando ara in ingegneria</Italian>
+    <Russian>Эйден: Это не я. Уже бегу в инженерную.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>19</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Call me at the Bridge when you get there.</English>
+    <Spanish>Mila: Llámame al Puente cuando estés ahí.</Spanish>
+    <French>Mila: Appel-moi sur la Passerelle quand tu y arrive.</French>
+    <German>Mila: Ruf mich auf der Brücke an, sobald du da bist.</German>
+    <Italian>Mila: chiamami al ponte quando arrivi.</Italian>
+    <Russian>Мила: Когда доберёшься, отправь мне вызов на мостик.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>20</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: There's no real achievement possible for the daughter of a hero. I don't wish to seem ungrateful, but...</English>
+    <Spanish>Mila: No hay logros reales posibles para la hija de un héroe. No quiero parecer desagradecida, pero…</Spanish>
+    <French>Mila: Il n'y a pas de véritable réussite possible pour la fille d'un héros. Je ne veux pas paraître ingrate, mais...</French>
+    <German>Mila: Für die Tochter eines Helden ist keine wirklicher Erfolg möglich. Ich will nicht undankbar erscheinen, aber...</German>
+    <Italian>Mila: Non esiste una vera conquista per la figlia di un eroe. Non voglio sembrare ingrata, ma ...</Italian>
+    <Russian>Мила: Для дочери героя не существует настоящих достижений. Я не хочу выглядеть неблагодарной, но...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>21</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: It's getting cold in the shadow you cast on me, Father.</English>
+    <Spanish>Mila: Está comenzando a hacer frío a tu sombra, Padre.</Spanish>
+    <French>Mila: Il commence à faire froid dans l'ombre que tu as jeté sur moi, Père.</French>
+    <German>Mila: Es wird kalt in dem Schatten, den du auf mich wirfst, Vater.</German>
+    <Italian>Mila: Sta diventando freddo nell'ombra che mi hai lanciato, padre.</Italian>
+    <Russian>Мила: в твоей тени становится всё холоднее, отец.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>22</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: A mentor once told me that within every great leader is a person of strength.</English>
+    <Spanish>Mila: Un mentor me dijo una vez que dentro de cada gran líder hay una persona fuerte.</Spanish>
+    <French>Mila: Un mentor m'a dit une fois que chaque grand leader est une personne de force.</French>
+    <German>Mila: Ein Mentor hat mir einmal gesagt, dass in jedem großen Anführer eine starke Persönlichkeit steckt.</German>
+    <Italian>Mila: Una volta un mentore mi ha detto che dentro ogni grande leader c'è una persona forte.</Italian>
+    <Russian>Мила: Наставник как-то сказал мне, что в основе каждого великого лидера лежит сильная личность.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>23</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: But what is strength without honor?</English>
+    <Spanish>Mila: Pero, ¿qué es la fuerza sin el honor?</Spanish>
+    <French>Mila: Mais qu'est-ce que la force sans honneur?</French>
+    <German>Mila: Aber was ist schon Stärke ohne Ehre?</German>
+    <Italian>Mila: Ma cos'è la forza senza onore?</Italian>
+    <Russian>Мила: Но что есть сила без чести?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>24</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: And what is honor without glory?</English>
+    <Spanish>Mila: Y, ¿qué es el honor sin la gloria?</Spanish>
+    <French>Mila: Et qu'est-ce que l'honneur sans gloire?</French>
+    <German>Mila: Und was ist Ehre ohne Ruhm?</German>
+    <Italian>Mila: E cos'è l'onore senza gloria?</Italian>
+    <Russian>Мила: И что есть честь без славы?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>25</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>60</SpanishFont>
+    <FrenchFont>52</FrenchFont>
+    <GermanFont>54</GermanFont>
+    <ItalianFont>57</ItalianFont>
+    <RussianFont>51</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: If I had to guess, I'd say we'd been hit by something. Trouble is I can't tell for sure, because whatever did happen</English>
+    <Spanish>Aiden: Si tengo que adivinar, diría que fuimos golpeados por algo. El problema es que no puedo estar seguro, porque lo que sea que haya sucedido</Spanish>
+    <French>Aiden: Si je devais deviner, je dirais que nous avions été touchés par quelque chose. Le problème est que je ne peux pas le dire avec certitude, car quoi qui ce soit passé,</French>
+    <German>Aiden: Müsste ich raten, würde ich sagen, wir wurden von irgendetwas getroffen. Problem ist, dass ich es nicht genau sagen kann weil, was auch immer passiert ist,</German>
+    <Italian>Aiden: Se dovessi indovinare, direi che siamo stati colpiti da qualcosa. Il problema è che non posso dirlo con certezza, perché qualunque cosa è accaduta</Italian>
+    <Russian>Эйден: Если тебя интересуют мои предположения, то я думаю, что в нас что-то попало. Проблема в том, что я не могу сказать точно, поскольку что бы это ни было,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>26</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: took eveything offline: engines, cloaking, communication-</English>
+    <Spanish>Aiden: puso todo fuera de línea: motores, camuflajes, comunicaciones-</Spanish>
+    <French>Aiden: ça a tout déconnecté: moteurs, camouflage, communication...</French>
+    <German>Aiden: es hat alles abgeschaltet: Antriebe, Tarnung, Kommunikation-</German>
+    <Italian>Aiden: ha messo tutto offline: motori, occultamento, comunicazione-</Italian>
+    <Russian>Эйден: оно вырубило всё: двигатели, маскировочное устройство, коммуникации...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>27</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: I get it, Aiden. We need to fix this, now.</English>
+    <Spanish>Mila: Ya lo entendí, Aiden. Tenemos que reparar esto, ahora.</Spanish>
+    <French>Mila: Je comprends, Aiden. Nous devons régler cela, maintenant.</French>
+    <German>Mila: Ich hab's verstanden, Aiden. Wir müssen das in Ordnung bringen, und zwar jetzt.</German>
+    <Italian>Mila: Ho capito, Aiden. Dobbiamo sistemarlo, ora.</Italian>
+    <Russian>Мила: Я поняла тебя, Эйден. Нужно всё исправить, и побыстрее.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>28</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: I'm on it, but I have no idea how long this might take-</English>
+    <Spanish>Aiden: Estoy en eso, pero no tengo idea de cuánto tiempo va a tomar-</Spanish>
+    <French>Aiden: Je suis dessus, mais je ne sais pas combien de temps cela prendra-</French>
+    <German>Aiden: Ich bin dran, aber ich habe keine Ahnung, wie lange das dauern wird -</German>
+    <Italian>Aiden: ci sto lavorando, ma non ho idea di quanto tempo ci vorrà-</Italian>
+    <Russian>Эйден: Я уже этим занимаюсь, но я не имею ни малейшего понятия, как долго...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>29</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Then let me remind you of what will find us if you don't hurry.</English>
+    <Spanish>Mila: Entonces déjame recordarte lo que nos va a encontrar si no te apresuras.</Spanish>
+    <French>Mila: Alors laissez-moi vous rappeler ce qui nous trouvera si tu ne te dépêche pas.</French>
+    <German>Mila: Lass mich dich daran erinnern, was uns finden wird, wenn du dich nicht beeilst.</German>
+    <Italian>Mila: Allora lascia che ti ricordi cosa ci troverà se non ti sbrighi.</Italian>
+    <Russian>Мила: Тогда позволь мне напомнить, что случится с нами, если ты не поторопишься.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>30</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: We were prepared to do little more than chemically converse with single-celled organisms,</English>
+    <Spanish>Silas: Estábamos preparados para hacer un poco más que investigaciones químicas con organismos unicelulares,</Spanish>
+    <French>Silas: Nous étions prêts à faire un peu plus que converser chimiquement avec des organismes unicellulaires,</French>
+    <German>Silas: Wir waren gerade mal darauf vorbereitet, chemisch mit einzelligen Organismen zu konversieren,</German>
+    <Italian>Silas: eravamo pronti a fare poco più che conversare chimicamente con organismi unicellulari,</Italian>
+    <Russian>Сайлас: Мы не готовились к чему-то более крупному, чем химический обмен с одноклеточными организмами,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>31</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>64</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: and now disrespect our subjects by proceeding as if they were.</English>
+    <Spanish>Silas: y ahora desprecian a nuestros sujetos procediendo como si lo fueran.</Spanish>
+    <French>Silas: et maintenant vous manquez de respect à nos sujets en procédant comme s'ils l'étaient.</French>
+    <German>Silas: und nun fahren wir einfach fort und behandeln unsere Studienteilnehmer als wären sie welche.</German>
+    <Italian>Silas: e ora dispregiamo i nostri soggetti procedendo come se lo fossero.</Italian>
+    <Russian>Сайлас: и теперь мы демонстрируем неуважение к нашим субъектам, обращаясь с ними так, будто они такие и есть.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>32</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>62</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: What cruelty we show our cosmic siblings by denying them the knowledge that we exist.</English>
+    <Spanish>Silas: Qué crueldad mostramos a nuestros hermanos cósmicos al negarles el conocimiento de que existimos.</Spanish>
+    <French>Silas: Quelle cruauté nous montrons à nos frères et soeurs cosmiques en leur refusant la connaissance que nous existons.</French>
+    <German>Silas: Welch Grausamkeit wir unseren kosmischen Geschwistern antun, indem wir ihnen verheimlichen, dass wir existieren.</German>
+    <Italian>Silas: Che crudeltà mostriamo ai nostri fratelli cosmici negando loro la consapevolezza che esistiamo.</Italian>
+    <Russian>Сайлас: Как жестоки мы по отношению к нашим космическим собратьям, когда держим их в неведении относительно нашего существования.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>33</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Mila, please wait a moment.</English>
+    <Spanish>Silas: Mila, por favor, espera un momento.</Spanish>
+    <French>Silas: Mila, attend un moment s'il vous plaît.</French>
+    <German>Silas: Mila, bitte warte einen Moment.</German>
+    <Italian>Silas: Mila, per favore aspetta un momento.</Italian>
+    <Russian>Сайлас: Мила, прошу, подожди секунду.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>34</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Get out of my way.</English>
+    <Spanish>Mila: Sal de mi camino.</Spanish>
+    <French>Mila: Hors de mon chemin.</French>
+    <German>Mila: Geh mir aus dem Weg.</German>
+    <Italian>Mila: togliti di mezzo.</Italian>
+    <Russian>Мила: Уйди с дороги.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>35</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: I just wanted to talk.</English>
+    <Spanish>Silas: Solo quiero hablar.</Spanish>
+    <French>Silas: Je veux juste parler.</French>
+    <German>Silas: Ich wollte nur reden.</German>
+    <Italian>Silas: Volevo solo parlare.</Italian>
+    <Russian>Сайлас: Я просто хотел поговорить.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>36</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: You made your choice, Silas. Man up to it.</English>
+    <Spanish>Mila: Tomaste tu decisión, Silas. Compórtate.</Spanish>
+    <French>Mila: Tu as fait ton choix, Silas. Agit en homme maintenant.</French>
+    <German>Mila: Du hast deine Entscheidung gefällt, Silas. Nun stehe dazu.</German>
+    <Italian>Mila: hai fatto la tua scelta, Silas. Dimostralo.</Italian>
+    <Russian>Мила: Ты сделал свой выбор, Сайлас, вот и следуй ему.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>37</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>60</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>62</GermanFont>
+    <ItalianFont>58</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila:  This is the Espial to Axiom, we've been discovered. An alien ship is attempting to dock. We're initiating lockdown and</English>
+    <Spanish>Mila: Esta es la Espial a Axiom. Hemos sido descubiertos. Una nave alienígena está intentando atracar. Estamos iniciando el bloqueo y</Spanish>
+    <French>Mila: L'Espial à Axiom, nous avons été découverts. Un vaisseau extraterrestre tente d'accoster. Nous amorçons le verrouillage et</French>
+    <German>Mila:  Hier ist Espial an Axiom, wir wurden entdeckt. Ein außerirdisches Schiff versucht anzudocken. Wir leiten die Abschaltung ein und</German>
+    <Italian>Mila: Questo è il Espial di Axiom, siamo stati scoperti. Una nave aliena sta tentando di attraccare. Stiamo avviando le chiusure di sicurezza</Italian>
+    <Russian>Мила: "Созерцатель" вызывает "Аксиому", нас обнаружили. Чужой корабль пытается пристыковаться. Мы запустили процедуру изоляции и</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>38</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>59</SpanishFont>
+    <FrenchFont>55</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>56</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: preparing for evacuation. Gentlemen, this mission is over. Back up all mission data and then get to the escape pods.</English>
+    <Spanish>Mila: preparándonos para la evacuación. Caballeros, la misión ha terminado. Aseguren todos los datos de la misión y vayan a las cápsulas de escape.</Spanish>
+    <French>Mila: nous préparons à l'évacuation. Messieurs, cette mission est terminée. Sauvegardez toutes les données de mission, puis allez aux modules d'évacuation.</French>
+    <German>Mila: bereiten die Evakuierung vor. Meine Herren, diese Mission ist vorbei. Sichert alle Missionsdaten und dann auf zu den Rettungskapseln.</German>
+    <Italian>Mila: preparando per l'evacuazione. Signori, questa missione è finita. Esegui il backup di tutti i dati di missione e poi accedi ai pod per la fuga di emergenza.</Italian>
+    <Russian>Мила: готовимся к эвакуации. Джентльмены, на этом мы прекращаем миссию. Сделайте копии всех данных и отправляйтесь к спасательным капсулам.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>39</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Mila, they're boarding.</English>
+    <Spanish>Aiden: Mila, están abordando.</Spanish>
+    <French>Aiden: Mila, ils débarquent.</French>
+    <German>Aiden: Mila, sie entern.</German>
+    <Italian>Aiden: Mila, stanno salendo.</Italian>
+    <Russian>Эйден: Мила, они пытаются попасть на борт.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>40</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: We're done here. Both of you, move!</English>
+    <Spanish>Mila: Hemos terminado aquí. Ustedes dos, ¡muévanse!</Spanish>
+    <French>Mila: Nous avons fini ici. Tous les deux, bougez!</French>
+    <German>Mila: Wir sind hier fertig. Los jetzt, alle beide!</German>
+    <Italian>Mila: Abbiamo finito qui. Muovetevi!</Italian>
+    <Russian>Мила: Тогда мы уходим. Вы оба, шевелитесь!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>41</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>57</SpanishFont>
+    <FrenchFont>60</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: A man, if honest, would observe that we are not really studying these aliens, but comparing them to ourselves.</English>
+    <Spanish>Silas: Una persona, si es honesta, observaría que realmente no estamos estudiando estos alienígenas, sino comparándolos con nosotros mismos.</Spanish>
+    <French>Silas: Un homme, s'il est honnête, observera que nous n'étudions pas vraiment ces extraterrestres, mais les comparons à nous-mêmes.</French>
+    <German>Silas: Ein Mann, wenn er ehrlich ist, würde feststellen, dass wir diese Aliens nicht wirklich studieren, sondern mit uns selbst vergleichen.</German>
+    <Italian>Silas: Un uomo, se onesto, capirebbe che non stiamo veramente studiando questi alieni, ma paragonandoli a noi stessi.</Italian>
+    <Russian>Сайлас: Если честно, то можно заметить, что мы не столько изучаем этих инопланетян, сколько сравниваем их с самими собой.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>42</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: That man, if clever, should seek to remedy this error in our research.</English>
+    <Spanish>Silas: Una persona, si es astuta, debería buscar solucionar este error en nuestra investigación.</Spanish>
+    <French>Silas: Cet homme, s'il est intelligent, devrait chercher à remédier à cette erreur dans notre recherche.</French>
+    <German>Silas: Dieser Mann, wenn er clever ist, sollte versuchen, diesen Fehler in unserer Forschung zu beheben.</German>
+    <Italian>Silas: Quell'uomo, se intelligente, dovrebbe cercare di porre rimedio a questo errore nella nostra ricerca.</Italian>
+    <Russian>Сайлас: Если же быть достаточно умным, то мы должны постараться исправить эту ошибку в наших изысканиях.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>43</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: That man, if curious, might then wonder what would they think of us.</English>
+    <Spanish>Silas: Una persona, si  es curiosa, podría preguntarse qué pensarían ellos de nosotros.</Spanish>
+    <French>Silas: Cet homme, si curieux, pourrait alors se demander ce qu'ils penseraient de nous.</French>
+    <German>Silas: Dieser Mann, wenn er neugierig ist, könnte sich dann fragen was sie von uns halten würden.</German>
+    <Italian>Silas: Quell'uomo, se fosse curioso, potrebbe quindi chiedersi che cosa penserebbero di noi.</Italian>
+    <Russian>Сайлас: А если быть любопытным, то можно задуматься, что бы они подумали о нас самих.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>44</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>65</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Usually I wouldn't mention this, but while I was below deck I found some suspicious welding scars.</English>
+    <Spanish>Aiden: Usualmente no mencionaría esto, pero mientras estaba bajo la cubierta, encontré unas cicatrices de soldaduras sospechosas.</Spanish>
+    <French>Aiden: D'habitude, je ne le mentionnerais pas, mais pendant que j'étais sous le pont, j'ai trouvé des cicatrices de soudure suspectes.</French>
+    <German>Aiden: Normalerweise würde ich das nicht erwähnen, aber als ich unter Deck war, habe ich einige verdächtige Schweißnähte gefunden.</German>
+    <Italian>Aiden: Di solito non vorrei menzionarlo, ma mentre ero sottocoperta ho trovato delle cicatrici di saldatura sospette.</Italian>
+    <Russian>Эйден: Обычно я о таком не упоминаю, но когда я заглянул под палубу, то заметил кое-какие подозрительные следы сварки.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>45</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: They aren't listed in any repair manifest, so I opened one up and found this.</English>
+    <Spanish>Aiden: No las mencionan en ningún informe de reparación, así que abrí una y encontré esto.</Spanish>
+    <French>Aiden: Ils ne sont répertoriés dans aucun manifeste de réparation, alors j'en ai ouvert un et l'ai trouvé.</French>
+    <German>Aiden: Sie sind in keinem Reparaturbericht aufgeführt, also öffnete ich eine und fand das hier.</German>
+    <Italian>Aiden: Non sono elencati in alcun manifesto di riparazione, quindi ne ho aperto uno e ho trovato questo.</Italian>
+    <Russian>Эйден: Они не указаны ни в одном ремонтном отчёте, поэтому я вскрыл один из них и нашёл вот это.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>46</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>*Metalic clank*</English>
+    <Spanish>*Sonido metálico*</Spanish>
+    <French>*Clank métallique*</French>
+    <German>*Metallisches Geräusch*</German>
+    <Italian>* Clank metallico *</Italian>
+    <Russian>*Звон металла*</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>47</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>62</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: With these welds all over, I would guess Axiom has full remote access to this entire station.</English>
+    <Spanish>Aiden: Con estas soldaduras por todas partes, diría que Axiom tiene total control remoto sobre esta estación.</Spanish>
+    <French>Aiden: Avec ces soudures partout, je suppose que Axiom a un accès à distance complet à toute cette station.</French>
+    <German>Aiden: Mit diesen Nähten überall, würde ich vermuten, dass Axiom Fernzugriff auf die gesamte Station hat.</German>
+    <Italian>Aiden: Con queste saldature dappertutto, direi che Axiom ha accesso remoto completo a questa intera stazione.</Italian>
+    <Russian>Эйден: Сварочные швы тут повсюду, и я прихожу к выводу, что у "Аксиомы" есть полный удалённый доступ ко всей станции.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>48</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Violence can be segmented into either instinctual or intelligent categories of behavior.</English>
+    <Spanish>Mila: La violencia puede ser segmentada dentro de las categorías del comportamiento instintivo o intelectual.</Spanish>
+    <French>Mila: La violence peut être séparée en deux catégories, instinctives ou intelligentes.</French>
+    <German>Mila: Gewalt kann entweder in instinktive oder intelligente Verhaltenskategorien unterteilt werden.</German>
+    <Italian>Mila: la violenza può essere segmentata in categorie di comportamento istintive o intelligenti.</Italian>
+    <Russian>Мила: Насилие можно разделить на две поведенческие категории: инстинктивное и разумное.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>49</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Instincts can be tamed, while intelligence can be subjected to reason.</English>
+    <Spanish>Mila: Los instintos pueden ser domesticados, mientras que la inteligencia puede estar sujeta al razonamiento.</Spanish>
+    <French>Mila: Les instincts peuvent être apprivoisés, tandis que l'intelligence peut être soumise à la raison.</French>
+    <German>Mila: Instinkte können gezähmt werden, während Intelligenz der Vernuft unterworfen werden kann.</German>
+    <Italian>Mila: gli istinti possono essere domati, mentre l'intelligenza può essere soggetta alla ragione.</Italian>
+    <Russian>Мила: Инстинкты можно приручить, а разум можно переубедить.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>50</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: The problem is, we can't tell which one of these is the cause of their violence.</English>
+    <Spanish>Mila: El problema es que no podemos decir cuál de estas es la causa de la violencia.</Spanish>
+    <French>Mila: Le problème est, nous ne pouvons pas dire lequel de ceux-ci est la cause de leur violence.</French>
+    <German>Mila: Das Problem ist, wir können nicht sagen, welche der Beiden die Ursache für ihre Gewaltätigkeit ist.</German>
+    <Italian>Mila: Il problema è che non possiamo dire quale di queste sia la causa della loro violenza.</Italian>
+    <Russian>Мила: Проблема в том, что мы не можем сказать, что из этого является причиной их жестокости.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>51</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: There's three of them in the Hangar with me. I can't stall 'em for long.</English>
+    <Spanish>Aiden: Hay tres de ellos conmigo en el Hangar. No los puedo detener por mucho tiempo.</Spanish>
+    <French>Aiden: Il y en a trois dans le hangar avec moi. Je ne peux pas les coincer longtemps.</French>
+    <German>Aiden: Drei von ihnen sind hier bei mir im Hangar. Ich kann sie nicht lange hinhalten.</German>
+    <Italian>Aiden: Ce ne sono tre nell'Hangar con me. Non riuscirò a bloccarli a lungo.</Italian>
+    <Russian>Эйден: Их тут трое в ангаре со мной. Я не смогу задерживать их вечно.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>52</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Run! Aiden, get to the Escape Pods!</English>
+    <Spanish>Mila: ¡Corre! ¡Aiden, ve hacia las Cápsulas de Escape!</Spanish>
+    <French>Mila: Courir! Aiden, va aux modules d'évacuation!</French>
+    <German>Mila: Lauf! Aiden, auf zu den Rettungskapseln!</German>
+    <Italian>Mila: corri! Aiden, vai ai Pod!</Italian>
+    <Russian>Мила: Беги! Эйден, беги к спасательным капсулам!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>53</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: It's too late for that. Finish the mission, Mila.</English>
+    <Spanish>Aiden: Es muy tarde para eso. Termina la misión, Mila.</Spanish>
+    <French>Aiden: C'est trop tard pour ça. Termine la mission, Mila.</French>
+    <German>Aiden: Dafür ist es zu spät. Bring die Mission zu Ende, Mila.</German>
+    <Italian>Aiden: È troppo tardi per quello. Termina la missione, Mila.</Italian>
+    <Russian>Эйден: Слишком поздно. Заверши миссию, Мила.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>54</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Hangar airlock disengaged.</English>
+    <Spanish>Espial: Esclusas del Hangar liberadas.</Spanish>
+    <French>Espial: Sas du Hangar déverrouillé.</French>
+    <German>Espial: Hangar Luftschleuse geöffnet.</German>
+    <Italian>Espial: camera d'equilibrio dell'hangar disinnestata.</Italian>
+    <Russian>"Созерцатель": Ангар разгерметизирован.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>55</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: No!</English>
+    <Spanish>Mila: ¡No!</Spanish>
+    <French>Mila: Non!</French>
+    <German>Mila: Nein!</German>
+    <Italian>Mila: No!</Italian>
+    <Russian>Мила: Нет!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>56</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: The first set of drones returned with the sediment samples, but two were damage-</English>
+    <Spanish>Mila: El primer grupo de drones regresó con muestras de sedimento, pero dos de ellos estaban dañados-</Spanish>
+    <French>Mila: La première série de drones est revenue avec les échantillons de sédiments, mais deux étaient endommagés</French>
+    <German>Mila: Der erste Satz an Drohnen kam mit den Sediment Proben zurück, aber zwei wahren beschä-</German>
+    <Italian>Mila: il primo set di droni è tornato con i campioni di sedimenti, ma due sono stati danneggiati-</Italian>
+    <Russian>Мила: Первый отряд дронов вернулся с образцами грунта, но два были поврежде...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>57</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Are you drinking?</English>
+    <Spanish>Mila: ¿Estás bebiendo?</Spanish>
+    <French>Mila: Est-ce que tu bois?</French>
+    <German>Mila: Trinkst du?</German>
+    <Italian>Mila: stai bevendo?</Italian>
+    <Russian>Мила: Ты что, пьёшь?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>58</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Uh, no. I'm rescuing what's trapped in this bottle.</English>
+    <Spanish>Aiden: Uh, no. Estoy rescatando lo que está atrapado en esta botella.</Spanish>
+    <French>Aiden: Euh, non. Je sauve ce qui est piégé dans cette bouteille.</French>
+    <German>Aiden: Ähm, nein. Ich rette, was in dieser Flasche gefangen ist.</German>
+    <Italian>Aiden: Uh, no. Sto salvando ciò che è intrappolato in questa bottiglia.</Italian>
+    <Russian>Эйден: Э-э-э, нет. Я спасаю то, что было закупорено в этой бутылке.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>59</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Well, are you gonna share, or what?</English>
+    <Spanish>Mila: Bueno, vas a compartir, ¿o qué?</Spanish>
+    <French>Mila: Tu vas partager, ou quoi?</French>
+    <German>Mila: Nun, gibst du was ab, oder was?</German>
+    <Italian>Mila: Beh, vuoi condividere, o cosa?</Italian>
+    <Russian>Мила: Ну так ты поделишься или как?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>60</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: Have a seat.</English>
+    <Spanish>Aiden: Toma asiento.</Spanish>
+    <French>Aiden: Asseyez-vous.</French>
+    <German>Aiden: Setz dich.</German>
+    <Italian>Aiden: Siediti.</Italian>
+    <Russian>Эйден: Присаживайся.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>61</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: When I was young, a close friend of mine died. Even at his funeral I couldn't process his death.</English>
+    <Spanish>Silas: Cuando era joven, un amigo íntimo murió. Incluso en el funeral, no pude procesar su muerte.</Spanish>
+    <French>Silas: Quand j'étais jeune, un ami proche est mort. Même à son enterrement, je n'arrivais pas à réaliser sa mort.</French>
+    <German>Silas: Als ich jung war, starb ein enger Freund von mir. Selbst auf seiner Beerdigung, konnte ich seinen Tod nicht verarbeiten.</German>
+    <Italian>Silas: Quando ero giovane, un mio caro amico è morto. Anche al suo funerale non ho potuto elaborare la sua morte.</Italian>
+    <Russian>Сайлас: Когда я был маленьким, умер мой близкий друг. Даже на его похоронах я не мог до конца осознать, что он умер.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>62</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>62</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: I can't help feeling like I'm at another funeral. One where we haven't yet found the body.</English>
+    <Spanish>Silas: No puedo evitar sentir que estoy en otro funeral. Uno en donde aún no encontramos el cuerpo.</Spanish>
+    <French>Silas: Je ne peux m'empêcher de me sentir comme si j'étais à un autre enterrement. Un où nous n'avons pas encore trouvé le corps.</French>
+    <German>Silas: Ich werde das Gefühl nicht los, als wäre ich bei einer weiteren Beerdigung. Einer, bei der wir die Leiche noch nicht gefunden haben.</German>
+    <Italian>Silas: Non posso fare a meno di sentirmi come se fossi a un altro funerale. Uno in cui non abbiamo ancora trovato il corpo.</Italian>
+    <Russian>Сайлас: А сейчас я не могу избавиться от чувства, что я на ещё одних похоронах. На таких, где мы ещё не нашли тело.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>63</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Victims of our own success, we found the mirror in the universe,</English>
+    <Spanish>Silas: Victimas de nuestro propio éxito, encontramos el espejo del universo,</Spanish>
+    <French>Silas: Victimes de notre propre succès, nous avons trouvé le miroir dans l'univers,</French>
+    <German>Silas: Opfer unseres eigenen Erfolges, haben wir den Spiegel im Universum gefunden,</German>
+    <Italian>Silas: vittime del nostro stesso successo, abbiamo trovato lo specchio nell'universo,</Italian>
+    <Russian>Сайлас: Став жертвами нашего успеха, мы нашли зеркало во Вселенной,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>64</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: but like cowards we hide in the shadows from our reflection.</English>
+    <Spanish>Silas: pero como cobardes, nos escondemos de nuestro propio reflejo.</Spanish>
+    <French>Silas: mais comme des lâches nous nous cachons dans les ombres de notre réflexion.</French>
+    <German>Silas: aber wie Feiglinge verstecken wir uns vor unserem Spiegelbild im Schatten.</German>
+    <Italian>Silas: ma come i codardi ci nascondiamo nell'ombra dal nostro riflesso.</Italian>
+    <Russian>Сайлас: но, подобно трусам, мы прячемся от собственного отражения.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>65</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Mila, I can't erase the data fast enough. I have to destroy the lab.</English>
+    <Spanish>Silas: Mila, no puedo borrar los datos lo suficientemente rápido. Tengo que destruir el laboratorio.</Spanish>
+    <French>Silas: Mila, je ne peux pas effacer les données assez rapidement. Je dois détruire le laboratoire.</French>
+    <German>Silas: Mila, ich kann die Daten nicht schnell genug löschen. Ich muss das Labor zerstören.</German>
+    <Italian>Silas: Mila, non riesco a cancellare i dati abbastanza velocemente. Devo distruggere il laboratorio.</Italian>
+    <Russian>Сайлас: Мила, мне не хватает времени на уничтожение данных. Мне придётся уничтожить всю лабораторию.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>66</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: The mission is over, Silas.</English>
+    <Spanish>Mila: La misión ha terminado, Silas.</Spanish>
+    <French>Mila: La mission est terminée, Silas.</French>
+    <German>Mila: Die Mission ist vorbei, Silas.</German>
+    <Italian>Mila: la missione è finita, Silas.</Italian>
+    <Russian>Мила: Миссия окончена, Сайлас.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>67</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>*Shattering glass*</English>
+    <Spanish>*Vidrio estallando*</Spanish>
+    <French>*Bruits de verres brisés*</French>
+    <German>*Zerbrechendes Glas*</German>
+    <Italian>* Vetro in frantumi *</Italian>
+    <Russian>*Звук разбитого стекла*</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>68</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: They can't know, Mila. They can't know what we were doing here.</English>
+    <Spanish>Silas: No lo pueden saber, Mila. Ellos no pueden saber lo que estamos haciendo aquí.</Spanish>
+    <French>Silas: Ils ne peuvent pas savoir, Mila. Ils ne peuvent pas savoir ce que nous faisions ici.</French>
+    <German>Silas: Sie dürfen es nicht wissen, Mila. Sie dürfen nicht wissen, was wir hier gemacht haben.</German>
+    <Italian>Silas: Non possono saperlo, Mila. Non possono sapere cosa stavamo facendo qui.</Italian>
+    <Russian>Сайлас: Они не должны узнать, Мила. Они не должны узнать, для чего мы были здесь.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>69</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: We can find another way! We can still get out of this!</English>
+    <Spanish>Mila: ¡Podemos encontrar otra manera! ¡Aún podemos salir de esto!</Spanish>
+    <French>Mila: Nous pouvons trouver un autre moyen! Nous pouvons encore nous en sortir!</French>
+    <German>Mila: Wir können einen anderen Weg finden! Wir können hier noch raus kommen!</German>
+    <Italian>Mila: possiamo trovare un altro modo! Possiamo ancora uscire da qui!</Italian>
+    <Russian>Мила: Мы можем найти другой способ! Мы всё ещё можем выбраться отсюда!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>70</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: They're nearly inside. Goodbye, Mila. I-</English>
+    <Spanish>Silas: Casi están dentro, Mila. Adiós, Mila. Yo-</Spanish>
+    <French>Silas: Ils sont presque à l'intérieur. Au revoir, Mila. Je-</French>
+    <German>Silas: Sie sind fast drinnen. Lebwohl, Mila. Ich-</German>
+    <Italian>Silas: Sono quasi dentro. Arrivederci, Mila. IO-</Italian>
+    <Russian>Сайлас: Они уже почти внутри. Прощай, Мила. Я...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>71</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>*Shattering explosion*</English>
+    <Spanish>*Explosión intensa*</Spanish>
+    <French>*Explosion*</French>
+    <German>*Vernichtende Explosion*</German>
+    <Italian>* Esplosione *</Italian>
+    <Russian>*Звук взрыва*</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>72</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Silas!</English>
+    <Spanish>Mila: ¡Silas!</Spanish>
+    <French>Mila: Silas!</French>
+    <German>Mila: Silas!</German>
+    <Italian>Mila: Silas!</Italian>
+    <Russian>Мила: Сайлас!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>73</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Mila, I must confess my insubordination. I had no intention to obey an order to separate us.</English>
+    <Spanish>Silas: Mila, debo confesar mi insubordinación. No tenía intenciones de seguir ninguna orden que nos separe.</Spanish>
+    <French>Silas: Mila, je dois avouer mon insubordination. Je n'avais aucune intention d'obéir à un ordre pour nous séparer.</French>
+    <German>Silas: Mila, ich muss meine Ungehorsamkeit gestehen. Ich hatte nicht die Absicht, einen Befehl zu gehorchen, der uns trennen würde.</German>
+    <Italian>Silas: Mila, devo confessare la mia insubordinazione. Non avevo intenzione di obbedire a un ordine per separarci.</Italian>
+    <Russian>Сайлас: Мила, я должен сознаться в несоблюдении приказу. У меня не было намерения подчиняться какому бы то ни было приказу разделить нас.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>74</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>58</SpanishFont>
+    <FrenchFont>59</FrenchFont>
+    <GermanFont>62</GermanFont>
+    <ItalianFont>54</ItalianFont>
+    <RussianFont>62</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: I said what I had to, so that we might be together on this mission. I had Aiden build this place outside the eyes and</English>
+    <Spanish>Silas: Dije lo que tenía que decir, así tal vez podríamos estar juntos en la próxima misión. Le pedí a Aiden que construyera este lugar lejos de los ojos y</Spanish>
+    <French>Silas: J'ai dit ce qu'il fallait, pour que nous soyons ensemble dans cette mission. J'ai demandé à Aiden de construire cet endroit en dehors des yeux et</French>
+    <German>Silas: Ich sagte, was ich sagen musste, damit wir auf dieser Mission zusammen sein konnten. Ich ließ Aiden diesen Ort außer Sicht-</German>
+    <Italian>Silas: Ho detto solo quello che dovevo dire, in modo che potessimo stare insieme in questa missione. Ho fatto costruire Aiden da questo posto fuori dagli occhi e dalle</Italian>
+    <Russian>Сайлас: Я сказал то, что они хотели услышать, чтобы мы с тобой вместе были на этой миссии. Эйден соорудил это местечко</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>75</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: ears of Axiom. Here, I can finally say, irrevocably...</English>
+    <Spanish>Silas: oídos de la Axiom. Aquí, finalmente puedo decir, sin duda alguna…</Spanish>
+    <French>Silas: les oreilles d'Axiom. Ici, je peux enfin dire, irrévocablement...</French>
+    <German>Silas: und Hörweite von Axiom bauen. Hier kann ich endlich unwiderruflich sagen...</German>
+    <Italian>Silas: orecchie di Axiom. Ecco, finalmente posso dirle, irrevocabilmente ...</Italian>
+    <Russian>Сайлас: вдали от глаз и ушей "Аксиомы". Здесь я наконец могу сказать, безоговорочно...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>76</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: I love you.</English>
+    <Spanish>Silas: Te amo.</Spanish>
+    <French>Silas: Je t'aime.</French>
+    <German>Silas: Ich liebe dich.</German>
+    <Italian>Silas: ti amo</Italian>
+    <Russian>Сайлас: Я люблю тебя.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>77</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>65</SpanishFont>
+    <FrenchFont>65</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>56</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: This is captain Mila Lexa of the Espial. An onboard failure brought down all our major systems. Shortly after, we were</English>
+    <Spanish>Mila: Esta es la capitana Mila Lexa de la Espial. Una falla a bordo destruyó todos los sistemas principales. Poco después, fuimos</Spanish>
+    <French>Mila: Ici le Capitaine Mila Lexa de l'Espial. Une panne à bord a arrêté tous nos principaux systèmes. Peu de temps après, nous étions</French>
+    <German>Mila: Hier ist Mila Lexa von der Espial. Ein Fehler an Board ließ all unsere wichtigen Systeme ausfallen. Kurz danach wurden wir</German>
+    <Italian>Mila: Questo è il capitano Mila Lexa dello Espial. Un guasto a bordo ha abbattuto tutti i nostri principali sistemi. Poco dopo, eravamo</Italian>
+    <Russian>Мила: Говорит капитан Мила Лекса с "Созерцателя". Сбой на борту вывел из строя все наши основные системы. Вскоре после этого,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>78</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>64</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>57</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: discovered and boarded. The crew is dead. All our mission data is backed up to the escape pod.</English>
+    <Spanish>Mila: descubiertos y abordados. La tripulación está muerta. Todos los datos de la misión fueron guardados en la cápsula de escape.</Spanish>
+    <French>Mila: découverte et envahi. L'équipage est mort. Toutes nos données de mission sont sauvegardées dans le modules d'évacuation.</French>
+    <German>Mila: entdeckt und geentert. Die Besatzung ist tot. All unsere Missionsdaten wurden in der Rettungskapsel gesichert.</German>
+    <Italian>Mila: scoperti e alla deriva. L'equipaggio è morto. Tutti i nostri dati di missione sono stati salvati nel pod di emergenza.</Italian>
+    <Russian>Мила: мы были обнаружены и взяты на абордаж. Экипаж мёртв. Копия всех собранных данных размещена в спасательной капсуле.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>79</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: This won't work. We're not compatible.</English>
+    <Spanish>Mila: Esto no va a funcionar. No somos compatibles.</Spanish>
+    <French>Mila: Cela ne marchera pas. Nous ne sommes pas compatibles.</French>
+    <German>Mila: Es wird nicht funktionieren. Wir sind nicht kompatibel.</German>
+    <Italian>Mila: questo non funzionerà. Non siamo compatibili.</Italian>
+    <Russian>Мила: Ничего не поможет. Мы несовместимы.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>80</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Forget the Humans. Forget about Earth. You can't let them find us.</English>
+    <Spanish>Mila: Olviden a los Humanos. Olviden a la Tierra. No pueden dejar que nos encuentren.</Spanish>
+    <French>Mila: Oublie les humains. Oublie la Terre. Vous ne pouvez pas les laisser nous trouver.</French>
+    <German>Mila: Vergesst die Menschen. Vergesst die Erde. Ihr dürft sie uns nicht finden lassen.</German>
+    <Italian>Mila: Dimentica gli umani. Dimentica la Terra. Non puoi lasciare che ci trovino.</Italian>
+    <Russian>Мила: Забудьте о Людях. Забудьте о Земле. Нельзя дать им обнаружить нас.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>81</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>60</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Curiosity is the very basis of exploration, so if you tell me that curiosity killed the cat...</English>
+    <Spanish>Silas: La curiosidad es la base fundamental de la exploración, así que, si me dices que la curiosidad mató al gato…</Spanish>
+    <French>Silas: La curiosité est la base même de l'exploration, alors si tu me dit que la curiosité a tué le chat ...</French>
+    <German>Silas: Neugier ist die Grundlage jeglicher Erforschung. Wenn man mir also sagt, Neugier ist der Katze Tod...</German>
+    <Italian>Silas: La curiosità è la base dell'esplorazione, quindi se mi dici che la curiosità ha ucciso il gatto ...</Italian>
+    <Russian>Сайлас: Любопытство лежит в самой основе естествоиспытания, поэтому, если вы скажете мне, что любопытство сгубило кошку...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>82</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: I should think that cat died rather nobly.</English>
+    <Spanish>Silas: Debería pensar que el gato murió noblemente.</Spanish>
+    <French>Silas: Je devrais penser que le chat est mort plutôt noblement.</French>
+    <German>Silas: würde ich denken, dass die Katze einen ziemlich noblen Tod starb.</German>
+    <Italian>Silas: dovrei pensare che il gatto sia morto piuttosto nobilmente.</Italian>
+    <Russian>Сайлас: Я, скорее, подумаю, что эта кошка умерла вполне благородной смертью.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>83</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Sure, the aliens are a bit...savage, but I see no need to condemn them for it. Think about us.</English>
+    <Spanish>Silas: Seguro, los alienígenas son un poco… salvajes, pero no veo necesidad de condenarlos por eso. Piensen en nosotros.</Spanish>
+    <French>Silas: Bien sûr, les aliens sont un peu ... sauvages, mais je ne vois pas le besoin de les condamner pour ça. Pensez à nous.</French>
+    <German>Silas: Sicher, die Außerirdischen sind etwas… wild, aber ich sehe keinen Grund sie dafür zu verurteilen. Denk an uns.</German>
+    <Italian>Silas: Certo, gli alieni sono un po '... selvaggi, ma non vedo la necessità di condannarli per questo. Pensa a noi.</Italian>
+    <Russian>Сайлас: Конечно, инопланетяне довольно... дикие, но я не вижу причин осуждать их за это. Подумай о нас самих.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>84</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Our people crawled out of a violent past. So I wager they, too, can change. Don't you?</English>
+    <Spanish>Silas: Nuestra gente salió de un pasado violento. Así que, apuesto que ellos también pueden cambiar. ¿Verdad?</Spanish>
+    <French>Silas: Nos gens sont nés d'un passé violent. Donc, je parie qu'ils aussi peuvent changer. N'est-ce pas?</French>
+    <German>Silas: Unser Volk entsprang einer gewaltvollen Vergangenheit. Also wette ich, auch sie können sich ändern. Du nicht?</German>
+    <Italian>Silas: la nostra gente è strisciata fuori da un passato violento. Quindi scommetto che anche loro possono cambiare. Non è vero?</Italian>
+    <Russian>Сайлас: У нашей расы было жестокое прошлое. Так что я ставлю на то, что они тоже могут измениться. А ты?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>85</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Aiden: I doubt it. The past is always present.</English>
+    <Spanish>Aiden: Lo dudo. El pasado está siempre presente.</Spanish>
+    <French>Aiden: J'en doute. Le passé est toujours présent.</French>
+    <German>Aiden: I bezweifle es. Die Vergangenheit ist immer präsent.</German>
+    <Italian>Aiden: Ne dubito. Il passato è sempre presente.</Italian>
+    <Russian>Эйден: Я в этом сомневаюсь. Прошлое никуда не исчезает.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>86</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: Observing their violent nature, some might think they are driven by a ruthless intensity.</English>
+    <Spanish>Silas: Observando su naturaleza violenta, uno puede pensar que son impulsados por una intensidad despiadada.</Spanish>
+    <French>Silas: En observant leur nature violente, certains pourraient penser qu'ils sont conduits par une intensité impitoyable.</French>
+    <German>Silas: Wenn man ihre gewaltätige Natur betrachtet, könnte man denken, sie werden von einer rücksichtslosen Intensität angetrieben .</German>
+    <Italian>Silas: osservando la loro natura violenta, alcuni potrebbero pensare di essere guidati da un'intensità spietata.</Italian>
+    <Russian>Сайлас: Наблюдая их жестокое поведение, можно подумать, что ими движут безжалостные условия.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>87</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>60</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: But I see their ambitions are too easily satisfied. The universe calls to them, as it does to us, to ascend to the</English>
+    <Spanish>Silas: Pero veo que sus ambiciones son fácilmente satisfechas. El universo los llama, como a nosotros, a ascender a los</Spanish>
+    <French>Silas: Mais je vois que leurs ambitions sont trop facilement satisfaites. L'univers les appelle, comme à nous, à s'élever au</French>
+    <German>Silas: Aber ich sehe, ihre Ambitionen lassen sich zu einfach befriedigen. Das Universum ruft sie, so wie es uns ruft, um für die</German>
+    <Italian>Silas: Ma vedo che le loro ambizioni sono state troppo facilmente soddisfatte. L'universo chiama loro, come fa con noi, per ascendere ai</Italian>
+    <Russian>Сайлас: Но я вижу, что их потребности легко утолить. Вселенная зовёт их, как и нас, воспарить к небесам, к беспредельным богатствам,</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>88</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>62</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>65</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: heavens for the limitless richness that awaits among the stars. Instead, they have descended into destruction over</English>
+    <Spanish>Silas: cielos por la ilimitada riqueza que espera entre las estrellas. En cambio, ellos han descendido a la destrucción por</Spanish>
+    <French>Silas:  cieux pour la richesse illimitée qui attend parmi les étoiles. Au lieu de cela, ils sont descendus dans la destruction pour</French>
+    <German>Silas: endlosen Reichtümer, die zwischen der Sternen warten, zum Himmel aufzusteigen. Stattdessen stiegen sie in Zerstörung ab wegen</German>
+    <Italian>Silas: cieli per la ricchezza senza limiti che ci attende tra le stelle. Invece, sono finiti nella distruzione</Italian>
+    <Russian>Сайлас: ожидающим среди звёзд. Вместо этого, они опускаются до разрушения ради жалкого желания власти и удовольствий.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>89</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>65</FrenchFont>
+    <GermanFont>65</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: petty matters of power and pleasure. We are witnessing the Swan Song of their civilization as it turns to ash.</English>
+    <Spanish>Silas: asuntos triviales de poder y placer. Somos testigos de la última obra de su civilización mientras se convierte en cenizas.</Spanish>
+    <French>Silas: de petites choses de pouvoir et de plaisir. Nous assistons au chant des cygnes de leur civilisation qui se transforme en cendres.</French>
+    <German>Silas: belanglosen Dingen wie Macht und Vergnügen. Wir erleben den Schwanengesang ihrer Zivilisation während sie zu Asche wird.</German>
+    <Italian>Silas: piccole questioni di potere e piacere. Stiamo assistendo al canto del cigno della loro civiltà mentre diventa cenere.</Italian>
+    <Russian>Сайлас: Мы становимся свидетелями лебединой песни их цивилизации, в то время как она превращается в пепел.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>90</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Silas: We'd do best to avoid them, lest they take us with them.</English>
+    <Spanish>Silas: Sería mejor evitarlos, no sea que nos lleven con ellos.</Spanish>
+    <French>Silas: Nous ferions mieux de les éviter, de peur qu'ils nous emmènent avec eux.</French>
+    <German>Silas: Wir täten gut daran, sie zu meiden, damit sie uns nicht mitreißen.</German>
+    <Italian>Silas: Faremmo meglio a evitarli, perché non ci portassero con loro.</Italian>
+    <Russian>Сайлас: Нам стоит избегать их всеми силами, иначе они заберут нас с собой в могилу.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>91</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Congratulations on your purchase of the Axiom series-5 fusion reactor.</English>
+    <Spanish>Tech: Felicitaciones por la compra del reactor de fusión serie-5 de Axiom.</Spanish>
+    <French>Tech: Félicitations pour votre achat du Réacteur de fusion Axiom série 5.</French>
+    <German>Technik: Herzlichen Glückwunsch zum Kauf ihres Axiom Serie-5 Fusionsreaktors.</German>
+    <Italian>Tech: congratulazioni per l'acquisto del reattore a fusione serie Axiom-5.</Italian>
+    <Russian>Техник: Поздравляем с покупкой реактора холодного синтеза "Аксиомы" пятой серии.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>92</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: The following log describes the process of replacing exhausted fuel cells.</English>
+    <Spanish>Tech: El siguiente registro describe el proceso de remplazo de células de combustible agotadas.</Spanish>
+    <French>Tech: Le journal suivant décrit le processus de remplacement des Piles à combustible épuisées.</French>
+    <German>Technik: Das folgende Protokoll beschreibt den Ablauf zum Austausch verbrauchter Brennstoffzellen.</German>
+    <Italian>Tech: il seguente registro descrive il processo di sostituzione delle celle a combustibile esaurite.</Italian>
+    <Russian>Техник: Дальнейшая инструкция детализирует процесс замены отработанных топливных ячеек.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>93</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>53</SpanishFont>
+    <FrenchFont>60</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>58</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Step 1: remove an exhausted fuel cell only after displacing the microfabrication reluctance, such that it is in the</English>
+    <Spanish>Tech: Paso 1: Remueve la célula de combustible agotada solamente después de haber desplazado la reticencia de microfabricación, de modo que se encuentre en</Spanish>
+    <French>Tech: Étape 1: retirer une Pile à combustible épuisée, seulement après avoir déplacé la réticence de micro fabrication, de sorte qu'il est dans la</French>
+    <German>Technik: Schritt 1: Entfernen sie eine verbrauchte Brennstoffzelle nur, nachdem sie den Mikrofabrikationswiderstand verschoben haben. </German>
+    <Italian>Tech: Fase 1: rimuovere una cella a combustibile esaurita solo dopo aver rimosso la riluttanza della microfabbricazione, in modo tale che sia in</Italian>
+    <Russian>Техник: Шаг 1: извлекайте батарею только после исключения микродвигательного взаимодействия, то есть, только в</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>94</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: static position.</English>
+    <Spanish>Tech: posición estática.</Spanish>
+    <French>Tech: position statique.</French>
+    <German>Technik: So, dass er sich in der statischen Position befindet.</German>
+    <Italian>Tecnologia: posizione statica.</Italian>
+    <Russian>Техник: состоянии покоя.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>95</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>57</FrenchFont>
+    <GermanFont>62</GermanFont>
+    <ItalianFont>62</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Step 2: for best performance, perform the two-stage anthropetry analysis of the planar and spatial encabulator on the</English>
+    <Spanish>Tech: Paso 2: Para el mejor desempeño, realiza el análisis de antropometría de dos etapas del planar y del encapsulador espacial</Spanish>
+    <French>Tech: Étape 2: pour de meilleures performances, effectuer une analyse anthropométrique en deux étapes avec l'encabulateur planaire et spatial sur la</French>
+    <German>Technik: Schritt 2: Für optimale Leistung, führen sie die Anthropometrieanalyse des flächigen und räumlichen Entkalkulators an der</German>
+    <Italian>Tech: Fase 2: per ottenere le migliori prestazioni, eseguire l'analisi antropetria a due stadi dell'encabulatore planare e spaziale sulla</Italian>
+    <Russian>Техник: Шаг 2: для наилучшей производительности выполните двухступенчатый антропетрический анализ плоскостно-пространственного энкабулятора</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>96</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: prospective fuel cell prior to loading into the calibrator.</English>
+    <Spanish>Tech: en la célula de combustible prospectiva antes de cargarla en el calibrador.</Spanish>
+    <French>Tech: pile à combustible de remplacement avant le chargement dans le calibreur.</French>
+    <German>Technik: zukünftigen Brennstoffzelle durch, bevor sie diese in den Kalibrator laden.</German>
+    <Italian>Tecnologia: cella a combustibile prospettica prima del caricamento nel calibratore.</Italian>
+    <Russian>Техник: потенциальной батареи до загрузки её в калибратор.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>97</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>53</SpanishFont>
+    <FrenchFont>58</FrenchFont>
+    <GermanFont>59</GermanFont>
+    <ItalianFont>54</ItalianFont>
+    <RussianFont>58</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Step 3: once decoupled from the phase detractor, reference the exact sampling method that matches the fuel cell input to</English>
+    <Spanish>Tech: Paso 3: Una vez desacoplado del detractor de fase, hacer referencia al mismo método de muestreo que empareja la entrada de la célula de combustible con</Spanish>
+    <French>Tech: Étape 3: une fois découplé du mainteneur de phase, sélectionner la méthode d'échantillonnage exacte correspondant entre la pile à combustible et</French>
+    <German>Technik: Schritt 3: Sobald dieser vom Fasenleiter entkoppelt wurde, beziehen sie sich auf die exakte Probenahmetechnik dessen Brennstoffzellen Input </German>
+    <Italian>Tech: Fase 3: una volta disaccoppiata dal detrattore di fase, fare riferimento al metodo di campionamento esatto che corrisponde alla cella di combustibile in entrata</Italian>
+    <Russian>Техник: Шаг 3: отсоединив фазовый детрактор, сверьтесь с точным методом апробирования, соответствующим входу батареи и</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>98</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: the panendermic transformer output.</English>
+    <Spanish>Tech: la salida del transformador parenérmico.</Spanish>
+    <French>Tech: la sortie du transformateur panendermique.</French>
+    <German>Technik: mit dem panendermischen Transformator Output.</German>
+    <Italian>Tech: l'uscita del trasformatore panendermico.</Italian>
+    <Russian>Техник: выходу панэндермического трансформатора.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>99</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>59</SpanishFont>
+    <FrenchFont>56</FrenchFont>
+    <GermanFont>58</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Step 4: the serial and parallel manipulation of the displacement matrix is automated during the engine restart process.</English>
+    <Spanish>Tech: Paso 4: La manipulación en serie y en paralelo del desplazamiento de la matriz es automática durante el proceso de reinicio del motor.</Spanish>
+    <French>Tech: Etape 4: la manipulation en série et en parallèle de la matrice de déplacement est automatisée pendant le processus de redémarrage du Réacteur.</French>
+    <German>Technik: Schritt 4: Die serielle und parallele Manipulation der Verlagerungsmatrix ist während des Prozesses des Antrieb-Neustarts automatisiert.</German>
+    <Italian>Tech: Fase 4: la manipolazione seriale e parallela della matrice di spostamento viene automatizzata durante il riavvio del motore.</Italian>
+    <Russian>Техник: Шаг 4: последовательная и параллельная манипуляции смещающей матрицы автоматизированы в процессе перезапуска двигателя.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>100</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>53</SpanishFont>
+    <FrenchFont>53</FrenchFont>
+    <GermanFont>53</GermanFont>
+    <ItalianFont>53</ItalianFont>
+    <RussianFont>54</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: Maintain a safe distance to avoid internal organ dissolution. Note: local zero gravity is required for a full engine restart.</English>
+    <Spanish>Tech: Mantén una distancia de seguridad para evitar la disolución de órganos internos. Nota: La Gravedad Cero local es requerida para el reinicio completo del motor.</Spanish>
+    <French>Tech: Maintenir une distance de sécurité pour éviter la dissolution des organes internes. Remarque: l'apesanteur locale est requise pour un redémarrage complet du Réacteur.</French>
+    <German>Technik: Halten sie einen sicheren Abstand ein um einen inneren Organverfall zu vermeiden. Anmerkung: Örtliche Schwerelosigkeit ist für einen vollständigen Antriebs-Neustart erforderlich.</German>
+    <Italian>Tech: mantenere una distanza di sicurezza per evitare la dissoluzione dell'organo interno. Nota: è necessaria una gravità zero locale per un riavvio completo del motore.</Italian>
+    <Russian>Техник: Поддерживайте безопасную дистанцию во избежание растворения внутренних органов. Примечание: для полного перезапуска требуется локальная невесомость.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>101</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Tech: All non-secured objects must be locked down.</English>
+    <Spanish>Tech: Todos los objetos sueltos deben asegurarse.</Spanish>
+    <French>Tech: Tous les objets non sécurisés doivent être attachés.</French>
+    <German>Technik: Alle ungesicherten Objekte müssen fixiert werden.</German>
+    <Italian>Tech: tutti gli oggetti non protetti devono essere bloccati.</Italian>
+    <Russian>Техник: Все незакреплённые предметы должны быть закреплены.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>102</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: How many millions of hours have been spent studying space in the pursuit of finding life in the universe?</English>
+    <Spanish>Narrador: ¿Cuántos millones de horas se han dedicado al estudio del espacio exterior en la búsqueda de vida en el universo?</Spanish>
+    <French>Narrateur: Combien de millions d'heures ont été consacrées à l'étude de l'espace dans la recherche de la vie dans l'univers?</French>
+    <German>Erzähler: Wieviele Millionen von Stunden wurden damit zugebracht, das Weltall auf der Suche nach Leben im Univerum zu erforschen?</German>
+    <Italian>Narratore: Quanti milioni di ore sono state spese nello studio dello spazio per cercare la vita nell'universo?</Italian>
+    <Russian>Рассказчик: Сколько миллионов часов ушло на изучение космоса с целью найти жизнь во вселенной?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>103</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>58</SpanishFont>
+    <FrenchFont>65</FrenchFont>
+    <GermanFont>53</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: So, what would happen if we found it? Not bacteria or an invertebrate, but an entire sentient alien civilization.</English>
+    <Spanish>Narrador: Además, ¿Qué sucedería si la encontrásemos? No una bacteria o un invertebrado, sino una civilización alienígena sensible completa.</Spanish>
+    <French>Narrateur: Alors, que se passerait-il si nous la trouvions? Pas une bactérie ou un invertébré, mais une civilisation extraterrestre sensible.</French>
+    <German>Erzähler: Also, was würde passieren, wenn wir es finden würden? Nicht Bakterien oder Wirbellose, sondern eine vollständige empfindungsfähige außerirdische Zivilisation.</German>
+    <Italian>Narratore: Allora, cosa succederebbe se lo avessimo trovato? Non batteri o invertebrati, ma un'intera civiltà aliena senziente.</Italian>
+    <Russian>Рассказчик: И что же случится, когда мы всё-таки её найдём? Не просто бактерии или беспозвоночных, но целую цивилизацию разумных инопланетян.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>104</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: Questions we've been asking since the beginning of time could finally be answered.</English>
+    <Spanish>Narrador: Las preguntas que hemos estado haciendo desde el inicio del tiempo podrían ser respondidas.</Spanish>
+    <French>Narrateur: Les questions que nous avons posées depuis le début des temps pourraient enfin être résolues.</French>
+    <German>Erzähler: Fragen, die wir seit Anbeginn der Zeit gestellt haben, könnten endlich beantwortet werden.</German>
+    <Italian>Narratore: le domande che ci sono state poste dall'inizio del tempo potrebbero finalmente essere risolte.</Italian>
+    <Russian>Рассказчик: На вопросы, задаваемые испокон веков, могут наконец-то быть найдены ответы.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>105</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>53</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: But what if the alien species was discovered in a planetwide civil war? Imagine the debate that would start...</English>
+    <Spanish>Narrador: Pero, ¿y si la raza alienígena fuera descubierta durante una guerra civil planetaria? Imagina el debate que generaría…</Spanish>
+    <French>Narrateur: Et si l'espèce extraterrestre était découverte dans une guerre civile planétaire? Imaginez le débat qui commencerait ...</French>
+    <German>Erzähler: Aber was, wenn die außerirdische Spezies inmitten eines planetaren Bürgerkriegs entdeckt werden würde? Stell dir die Debatte vor, die dies auslösen würde...</German>
+    <Italian>Narratore: Ma se le specie aliene venissero scoperte in una guerra civile pianificata? Immagina il dibattito che inizierebbe ...</Italian>
+    <Russian>Рассказчик: Но что, если инопланетный вид был обнаружен посреди планетарной гражданской войны? Представьте, какие споры начнутся...</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>106</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>62</FrenchFont>
+    <GermanFont>60</GermanFont>
+    <ItalianFont>66</ItalianFont>
+    <RussianFont>60</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Senator 1: Fear is blinding us. Everything our society has done has led us to this very moment. We can't ignore this!</English>
+    <Spanish>Senador 1: El miedo nos ciega. Todo lo que nuestra sociedad ha hecho nos lleva a este preciso momento. ¡No podemos ignorarlo!</Spanish>
+    <French>Le sénateur 1: La peur nous aveugle. Tout ce que notre société a fait nous a conduit à ce moment précis. Nous ne pouvons pas ignorer cela!</French>
+    <German>Senator 1: Angst blendet uns. Alles, was unsere Gesellschaft getan hat, hat uns zu diesen einen Moment geführt. Wir können das nicht ignorieren!</German>
+    <Italian>Senatore 1: La paura ci sta accecando. Tutto ciò che ha fatto la nostra società ci ha portato a questo momento. Non possiamo ignorarlo!</Italian>
+    <Russian>Сенатор 1: Нас ослепляет страх. Все свершения нашего общества вели нас к этому моменту. Мы не можем его проигнорировать!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>107</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>54</SpanishFont>
+    <FrenchFont>53</FrenchFont>
+    <GermanFont>57</GermanFont>
+    <ItalianFont>63</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Senator 2: What safety and security will be found in contacting a violent alien race? Is this worth risking our safety, our security?</English>
+    <Spanish>Senador 2: ¿Qué seguridad y protección podríamos encontrar contactando con una raza alienígena violenta? ¿Vale la pena arriesgar nuestra seguridad? ¿Nuestra protección?</Spanish>
+    <French>Le sénateur 2: Quelle sûreté et sécurité pensez vous trouver en contactant une race étrangère violente? Cela vaut-il la peine de risquer notre tranquillité, notre sécurité?</French>
+    <German>Senator 2: Welche Sicherheiten kann es bringen, eine gewaltätige außerirdische Rasse zu kontaktieren? Ist es das Wert, unsere Sicherheit zu riskieren?</German>
+    <Italian>Senatore 2: quali misure di sicurezza verranno riscontrate nel contattare una violenta razza aliena? Vale la pena rischiare la nostra sicurezza?</Italian>
+    <Russian>Сенатор 2: Разве контакт с враждебной инопланетной расой принесёт нам спокойствие и безопасность? Стоит ли ради него рисковать нашим спокойствием, нашей безопасностью?</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>108</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>60</SpanishFont>
+    <FrenchFont>56</FrenchFont>
+    <GermanFont>58</GermanFont>
+    <ItalianFont>57</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: As a compromise, a three person team onboard an undetectable space station is sent to research the alien world.</English>
+    <Spanish>Narrador: Como acuerdo, se envía un equipo de tres personas a bordo de una estación espacial indetectable para investigar el mundo alienígena.</Spanish>
+    <French>Narrateur: Comme compromis, une équipe de trois personnes à bord d'une station spatiale indétectable est envoyée à la recherche du monde extraterrestre.</French>
+    <German>Erzähler: Als ein Kompromiss, wird ein dreiköpfiges Team an Board einer unaufspürbaren Raumstation entsandt, um die außerirdische Welt zu erforschen.</German>
+    <Italian>Narratore: Come compromesso, una squadra di tre persone a bordo di una stazione spaziale non rilevabile viene inviata alla ricerca del mondo alieno.</Italian>
+    <Russian>Рассказчик: В качестве компромисса на изучение чужого мира была отправлена невидимая для приборов космическая станция с командой из троих исследователей.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>109</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>58</FrenchFont>
+    <GermanFont>58</GermanFont>
+    <ItalianFont>58</ItalianFont>
+    <RussianFont>55</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: Halfway through the mission, the space station's communication, navigation, stealth, everything mysteriously shuts down.</English>
+    <Spanish>Narrador: A medio camino de la misión, las comunicaciones, navegaciones, sistemas de sigilo, todo es misteriosamente desactivado.</Spanish>
+    <French>Narrateur: À mi-chemin de la mission, la communication de la station spatiale, la navigation, la furtivité, tout s'arrête mystérieusement.</French>
+    <German>Erzähler: Mitten in der Mission, schaltet sich mysteriöser Weise auf der Station plötzlich alles ab. Kommunikation, Navigation, Tarnung, einfach alles.</German>
+    <Italian>Narratore: A metà della missione, la comunicazione della stazione spaziale, la navigazione, l'invisibilità, tutto misteriosamente si spegne.</Italian>
+    <Russian>Рассказчик: Но посреди миссии коммуникация, навигация, невидимость и другие системы станции вдруг перестали функционировать.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>110</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>59</FrenchFont>
+    <GermanFont>58</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Narrator: Proof that we were spying on a potentially violent alien civilization now floats helplessly above them.</English>
+    <Spanish>Narrador: La prueba de que espiábamos una civilización alienígena potencialmente violenta, flota impotente sobre ellos.</Spanish>
+    <French>Narrateur: La preuve que nous espionnions une civilisation extraterrestre potentiellement violente flotte maintenant au-dessus d'eux.</French>
+    <German>Erzähler: Der Beweis dafür, dass wir eine potentiell gewalttätige außerirdische Zivilisation ausspioniert haben, schwebt nun hilflos über ihr.</German>
+    <Italian>Narratore: la prova che stavamo spiando una civiltà aliena potenzialmente violenta ora fluttua impotente sopra di loro.</Italian>
+    <Russian>Рассказчик: Теперь прямо над потенциально опасной инопланетной цивилизацией беспомощно висит доказательство того, что мы шпионили за ней.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>111</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>60</EnglishFont>
+    <SpanishFont>58</SpanishFont>
+    <FrenchFont>53</FrenchFont>
+    <GermanFont>53</GermanFont>
+    <ItalianFont>53</ItalianFont>
+    <RussianFont>52</RussianFont>
+    <PortugueseFont>60</PortugueseFont>
+    <English>Narrator: In a panic to understand what happened, a recon specialist is sent to investigate, and coordinate a rescue with the crew.</English>
+    <Spanish>Narrador: En un intento de entender qué sucedió, un especialista de reconocimiento es enviado a investigar, y coordinar un rescate con la tripulación.</Spanish>
+    <French>Narrateur: Dans la panique pour comprendre ce qui s'est passé, un spécialiste en reconnaissance est envoyé pour enquêter et coordonner le sauvetage avec l'équipage.</French>
+    <German>Erzähler: In der Panik zu verstehen, was passiert ist, wird ein Aufklärungsspezialist los geschickt um zu ermitteln und um eine Rettung der Besatzung zu koordinieren.</German>
+    <Italian>Narratore: In preda al panico per capire cosa è successo, uno specialista di ricognizione viene inviato per indagare e coordinare un salvataggio con l'equipaggio.</Italian>
+    <Russian>Рассказчик: На станцию в срочном порядке был отправлен специалист, которому нужно разобраться в происходящем, отыскать экипаж и организовать эвакуацию.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>112</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Silas!</English>
+    <Spanish>Mila: ¡Silas!</Spanish>
+    <French>Mila: Silas!</French>
+    <German>Mila: Silas!</German>
+    <Italian>Mila: Silas!</Italian>
+    <Russian>Мила: Сайлас!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>113</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: Run! Aiden, get to the Escape Pods!</English>
+    <Spanish>Mila: ¡Corre! Aiden, ¡ve a las Cápsulas de Escape!</Spanish>
+    <French>Mila: Cours! Aiden, va aux modules d'évacuation!</French>
+    <German>Mila: Lauft! Aiden, geh zu den Rettungskapseln!</German>
+    <Italian>Mila: corri! Aiden, vai ai Pod di salvataggio!</Italian>
+    <Russian>Мила: Беги! Эйден, беги к спасательным капсулам!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>114</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Mila: No! Get away from me!</English>
+    <Spanish>Mila: ¡No! ¡Aléjate de mí!</Spanish>
+    <French>Mila: Non! Evadez-vous de moi!</French>
+    <German>Mila: Nein! Geh weg von mir!</German>
+    <Italian>Mila: No! Allontanati da me!</Italian>
+    <Russian>Мила: Нет! Отойди от меня!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>115</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Explosion detected in the Lower Lab.</English>
+    <Spanish>Espial: Explosión detectada en el Laboratorio Inferior.</Spanish>
+    <French>Espial: Explosion détectée dans le Laboratoire Inferieur.</French>
+    <German>Espial: Explosion im unteren Labor entdeckt.</German>
+    <Italian>Espial: Esplosione rilevata nel laboratorio inferiore.</Italian>
+    <Russian>Созерцатель: В нижней лаборатории взрыв.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>116</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Welcome, Aiden.</English>
+    <Spanish>Espial: Bienvenido, Aiden.</Spanish>
+    <French>Espial: Bonjour, Aiden.</French>
+    <German>Espial: Willkommen, Aiden.</German>
+    <Italian>Espial: Benvenuto, Aiden.</Italian>
+    <Russian>Созерцатель: Добро пожаловать, Эйден!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>117</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Welcome, Mila.</English>
+    <Spanish>Espial: Bienvenida, Mila.</Spanish>
+    <French>Espial: Bonjour, Mila.</French>
+    <German>Espial: Willkommen, Mila.</German>
+    <Italian>Espial: Benvenuto, Mila.</Italian>
+    <Russian>Созерцатель: Добро пожаловать, Мила!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>118</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Welcome, Silas.</English>
+    <Spanish>Espial: Bienvenido, Silas.</Spanish>
+    <French>Espial: Bonjour, Silas.</French>
+    <German>Espial: Willkommen, Silas.</German>
+    <Italian>Espial: Benvenuto, Silas.</Italian>
+    <Russian>Созерцатель: Добро пожаловать, Сайлас!</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>119</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Hull breach detected</English>
+    <Spanish>Espial: Brecha en el casco detectada.</Spanish>
+    <French>Espial: brèche dans la coque détectée.</French>
+    <German>Espial: Hüllenbruch entdeckt</German>
+    <Italian>Espial: Rilevato breccia nello scafo</Italian>
+    <Russian>Созерцатель: Обнаружена пробоина</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>120</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Welcome to the Espial.</English>
+    <Spanish>Espial: Bienvenido al Espial.</Spanish>
+    <French>Espial: Bienvenu à bord de l'Espial.</French>
+    <German>Espial: Willkommen im Espial.</German>
+    <Italian>Espial: Benvenuto nell'Espial.</Italian>
+    <Russian>Созерцатель: Добро пожаловать на Созерцатель.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>121</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Return tools to retrieve ID bracelet.</English>
+    <Spanish>Espial: Devolver herramientas para recuperar brazalete identificatorio.</Spanish>
+    <French>Espial: Rangez les outils pour récupérer le Bracelet ID.</French>
+    <German>Espial: Geben Sie Werkzeuge zurück, um das ID-Armband abzurufen.</German>
+    <Italian>Espial: Restituire gli strumenti per recuperare l'ID del braccialetto.</Italian>
+    <Russian>Созерцатель: Верните инструменты, чтобы получить назад браслет ID</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>122</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Self-destruct sequence initiated. Proceed immediately to the escape pods.</English>
+    <Spanish>Espial: Secuencia de auto-destrucción iniciada. Proceder inmediatamente a las cápsulas de escapre.</Spanish>
+    <French>Séquence d'Auto-destruction initialisée. Procédez à l'évacuation immédiate vers les modules d'évacuation.</French>
+    <Italian>Espial: Inizio sequenza di autodistruzione. Procedi immediatamente verso i Pod di salvataggio!</Italian>
+    <Russian>Созерцатель: Процесс самоликвидации запущен. Немедленно отправляйтесь в спасательные капсулы.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>123</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Augmented reality systems now available.</English>
+    <Spanish>Espial: Sistemas de realidad aumentada ahora disponibles.</Spanish>
+    <French>Espial: Les systèmes de réalité augmentée sont maintenant disponibles.</French>
+    <Italian>Espial: Disponibili ora i sistemi di realtà aumentata.</Italian>
+    <Russian>Созерцатель: Доступна система ДР</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>124</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Initiating scan.</English>
+    <Spanish>Espial: Iniciando escaneo.</Spanish>
+    <French>Espial: Lancement de l'analyse.</French>
+    <German>Espial: Scan starten.</German>
+    <Italian>Espial: Avvio scansione.</Italian>
+    <Russian>Созерцатель: Начальное сканирование</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>125</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Life Support systems repaired.</English>
+    <Spanish>Espial: Sistemas de Soporte de Vida reparados.</Spanish>
+    <French>Espial: Les systèmes de Support de Vie réparés.</French>
+    <German>Espial: Lebenserhaltungssysteme repariert.</German>
+    <Italian>Espial: Sistemi di supporto vitale riparati.</Italian>
+    <Russian>Созерцатель: Системы жизнеобеспечения отремонтированы.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>126</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Scan complete.</English>
+    <Spanish>Espial: Escaneo completo.</Spanish>
+    <French>Espial: Scan terminé.</French>
+    <German>Espial: Scan abgeschlossen.</German>
+    <Italian>Espial: Scansione completa.</Italian>
+    <Russian>Созерцатель: Сканирование завершено.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+  <TextBox>
+    <TextIndex>127</TextIndex>
+    <EnglishSpacing>1</EnglishSpacing>
+    <SpanishSpacing>1</SpanishSpacing>
+    <FrenchSpacing>1</FrenchSpacing>
+    <GermanSpacing>1</GermanSpacing>
+    <ItalianSpacing>1</ItalianSpacing>
+    <RussianSpacing>1</RussianSpacing>
+    <PortugueseSpacing>1</PortugueseSpacing>
+    <EnglishFont>67</EnglishFont>
+    <SpanishFont>67</SpanishFont>
+    <FrenchFont>67</FrenchFont>
+    <GermanFont>67</GermanFont>
+    <ItalianFont>67</ItalianFont>
+    <RussianFont>67</RussianFont>
+    <PortugueseFont>67</PortugueseFont>
+    <English>Espial: Unknown vessel approaching.</English>
+    <Spanish>Espial: Buque desconocido acercándose.</Spanish>
+    <French>Espial: Vaisseau inconnu en approche.</French>
+    <German>Espial: Unbekanntes Schiff nähert sich.</German>
+    <Italian>Espial: Nave sconosciuta in avvicinamento.</Italian>
+    <Russian>Созерцатель: Приближается неопознанный корабль.</Russian>
+    <Portuguese>*</Portuguese>
+  </TextBox>
+</Languages>
