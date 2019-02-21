@@ -21,7 +21,7 @@
     <French>Silas: Aux critiques de cette mission, je dis qu'il ne suffit pas d'exprimer vos préoccupations de danger ou d'éthique.</French>
     <German>Silas: An die Kritiker dieser Mission, ich sage, es reicht nicht aus, Bedenken in Bezug auf Gefahr oder Ethik zu äußern.</German>
     <Italian>Silas: Per chi critica questa missione, dico che non è sufficiente esprimere le tue preoccupazioni sul pericolo o sull'etica.</Italian>
-    <Russian>Сайлас: Критикам этой миссии я скажу, что недостаточно просто озвучивать страхи по поводу опасностей или этики.</Russian>
+    <Russian>사일러스: 이 미션을 비판하는 사람들에게, 당신들은 위험성이나 윤리 문제 때문에 이 미션에 대해 목소리를 높입니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -45,7 +45,7 @@
     <French>Silas: Si vous êtes contre le progrès en ce moment, vous devez reconnaître que notre compréhension même de la biologie, la chimie,</French>
     <German>Silas: Wenn sie in diesem Moment gegen Vortschritt sind, müssen sie anerkennen, dass unser gesamtes Verständnis über Biologie, Chemie,</German>
     <Italian>Silas: Se sei contrario ai progressi in questo momento, devi riconoscere che la nostra comprensione della biologia, chimica,</Italian>
-    <Russian>Сайлас: Если сейчас вы против прогресса, то вы должны признать, что все наши представления о биологии, химии,</Russian>
+    <Russian>사일러스: 그러나 지금 이 진보의 순간을 막는다면, 당신들은 지금 생물학, 화학, 물리학, 그리고 종교에까지 이르는</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -69,7 +69,7 @@
     <French>Silas: la physique, même la religion sont remises en question. Et vous vous tenez sur notre chemin.</French>
     <German>Silas: Physik, sogar Religion, in Frage gestellt wird. Und sie stehen uns im Weg.</German>
     <Italian>Silas: fisica e persino della religione sono messe in discussione. E tu ti trovi sulla nostra strada.</Italian>
-    <Russian>Сайлас: физике и даже религии подвергнуты сомнению. И вы стоите у нас на пути.</Russian>
+    <Russian>사일러스: 인류의 모든 이해와 지식을 뒤흔들 수 있는 순간을 가로막고 있다는 점을 명시해 두셔야 할 것입니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -93,7 +93,7 @@
     <French>Aiden: Je n'ai jamais aimé l'espace. C'est froid, solitaire et donne à un homme trop de temps pour réfléchir.</French>
     <German>Aiden: Ich mochte das Weltall noch nie. Es ist kalt, einsam und gibt einem Mann zu viel Zeit nachzudenken.</German>
     <Italian>Aiden: Non mi è mai piaciuto lo spazio. Fa freddo, solitario e dà a un uomo troppo tempo per pensare.</Italian>
-    <Russian>Эйден: Никогда не любил космос. Он холодный, одинокий и даёт слишком много времени для размышлений.</Russian>
+    <Russian>에이든: 난 언제나 우주가 싫었다. 춥고, 외로우며, 넘치는 시간 동안 수많은 기억이 떠오르게 만든다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -117,7 +117,7 @@
     <French>Aiden: Il est temps de penser à ce que vous avez fait…</French>
     <German>Aiden: Zeit, darüber nachzudenken, was du getan hast...</German>
     <Italian>Aiden: È ora di pensare a quello che hai fatto...</Italian>
-    <Russian>Эйден: Размышлений о том, что ты сделал...</Russian>
+    <Russian>에이든: 내가 했던 것들과...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -141,7 +141,7 @@
     <French>Aiden: Et ce que vous n'auriez pas dû.</French>
     <German>Aiden: Und darüber, was du nicht getan hast.</German>
     <Italian>Aiden: E quello che non dovresti avere.</Italian>
-    <Russian>Эйден: И о том, чего тебе делать не следовало.</Russian>
+    <Russian>에이든: 하지 말았어야 했던 것들.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -165,7 +165,7 @@
     <French>Silas: Alors tu penses que tu peux le construire?</French>
     <German>Silas: Glaubst du, du kannst es bauen?</German>
     <Italian>Silas: Quindi pensi di poterlo costruire?</Italian>
-    <Russian>Сайлас: Ну что скажешь, можешь это соорудить?</Russian>
+    <Russian>사일러스: 그래서 만들 수 있을 것 같나?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -189,7 +189,7 @@
     <French>Aiden: Je ne sais pas où tu pense que je pourrais cacher quelque chose comme ça à bord.</French>
     <German>Aiden: Nicht sicher was du glaubst, wo ich so etwas an Board verstecken könnte.</German>
     <Italian>Aiden: Non sono sicuro di dove pensi di poter nascondere qualcosa di simile a bordo.</Italian>
-    <Russian>Эйден: Ну и где же ты прикажешь прятать у нас на борту нечто подобное?</Russian>
+    <Russian>에이든: 이런 걸 내가 이 우주선 안에 숨기는 게 가능하다고 생각해?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -213,7 +213,7 @@
     <French>Silas: Il y a un angle mort dans les caméras dans le couloir du pont supérieur, juste ici.</French>
     <German>Silas: Es gibt da einen toten Winkel für die Kameras in den Gängen des oberen Decks, genau hier.</German>
     <Italian>Silas: C'è un punto cieco nelle telecamere nel corridoio del ponte superiore, proprio qui.</Italian>
-    <Russian>Сайлас: У камер наблюдения есть слепое пятно в коридоре на верхней палубе, вот здесь.</Russian>
+    <Russian>사일러스: 상부 갑판 복도에 카메라의 사각지대가 있어, 여기.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -237,7 +237,7 @@
     <French>Aiden: C'est possible. Mais euh, vu le risque, ça va te coûter cher.</French>
     <German>Aiden: Es ist möglich. Aber, äh, bei dem Risiko wird es dich einiges kosten.</German>
     <Italian>Aiden: È possibile. Ma, considerato il rischio, ti costerà.</Italian>
-    <Russian>Эйден: Да, вполне возможно. Но, м-м, учитывая риск, тебе придётся раскошелиться.</Russian>
+    <Russian>에이든: 할 수 있을 것 같군. 그렇지만, 음, 위험부담을 고려할 때 자네에게 꽤나 비싸게 청구할 생각이야.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -261,7 +261,7 @@
     <French>Silas: Pas de problème. Je suis sûr que c'est une bonne cause. Oh, et ne la laisse pas t'attraper.</French>
     <German>Silas: Kein Problem. Ich bin sicher, es wird einem guten Zweck zu Gute kommen. Oh, und lass dich nicht von ihr erwischen.</German>
     <Italian>Silas: non è un problema. Sono sicuro che servirà per una buona causa. Oh, e non lasciarti prendere.</Italian>
-    <Russian>Сайлас: Это не проблема. Я уверен, что эти деньги послужат благой цели. Ах да, и не попадись тебя.</Russian>
+    <Russian>사일러스: 돈은 걱정말게. 좋은 곳에 쓸 예정이야. 아, 그녀한테는 들키면 안 되네.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -285,7 +285,7 @@
     <French>Aiden: Ecoute, ce n'est pas mon affaire. Je sais que tu as rompu avec Mila,</French>
     <German>Aiden: Hör mal, es geht mich nichts an. Ich weiß, dass du beendet hast, was auch immer zwischen dir und Mila war,</German>
     <Italian>Aiden: Senti, non sono affari miei. So che hai messo fine a qualunque cosa ci fosse tra te e Mila,</Italian>
-    <Russian>Эйден: Слушай, это, конечно, не моё дело. Я знаю, что ты порвал с Милой,</Russian>
+    <Russian>에이든: 내가 알 바 아닌 일인 건 아는 데 말이야, 예전에 자네랑 밀라 사이에 뭔가 일이 있었고 이제는 끝난 일이라고 알고 있는데,</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -309,7 +309,7 @@
     <French>Aiden: mais vu la façon dont tu la regarde toujours, je ne pense pas que tu sois passé à autre chose.</French>
     <German>Aiden: aber so wie du sie ansiehst, bin ich nicht überzeugt, dass du über sie hinweg bist.</German>
     <Italian>Aiden: ma dal modo in cui continui a guardarla, quindi non sono convinto che abbai chiuso con lei.</Italian>
-    <Russian>Эйден: но даже сейчас я вижу, как ты на неё смотришь, и ты не убедишь меня, что забыл о ней.</Russian>
+    <Russian>에이든: 자네가 그녀를 바라보는 눈빛을 보면, 아직 자네는 그녀를 포기하지 못한 것 같단 말이야.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -333,7 +333,7 @@
     <French>Silas: Vous avez absolument raison, Aiden: cela ne vous regarde pas.</French>
     <German>Silas: Du hast absolut Recht, Aiden: Es geht dich nichts an.</German>
     <Italian>Silas: hai assolutamente ragione, Aiden: non sono affari tuoi.</Italian>
-    <Russian>Сайлас: Ты абсолютно прав, Эйден. Это не твоё дело.</Russian>
+    <Russian>사일러스: 자네 말대로, 자네가 알 바 아닌 일이라네, 에이든.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -357,7 +357,7 @@
     <French>Mila: L'analyse de la terre ferme est terminée. C'est seulement la taxonomie de Silas de l'anatomie extraterrestre qui est en retard,</French>
     <German>Mila: Die Bodenanalysen sind abgeschlossen. Nur Silas's Taxomonie der außerirdischen Anatomie ist in Verzug,</German>
     <Italian>Mila: l'analisi della terra ferma è completa. È solo la tassonomia di Silas dell'anatomia aliena che è in ritardo,</Italian>
-    <Russian>Мила: Анализ твёрдой почвы завершён. Сейчас от графика отстаёт только таксономическое исследование Сайласа их анатомии,</Russian>
+    <Russian>밀라: 행성 육지에 대한 분석은 완료되었다. 사일러스가 담당하는 외계인의 해부학적 분류만 일정보다 늦춰지고 있는 상태인데,</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -381,7 +381,7 @@
     <French>Mila: ce qui est surprenant compte tenu de la similitude …</French>
     <German>Mila: was überraschend ist angesichst ihrer Ähnlichkeit...</German>
     <Italian>Mila: il che è sorprendente considerando quanto simili ...</Italian>
-    <Russian>Мила: что удивляет, учитывая схожесть...</Russian>
+    <Russian>밀라: 놀랄만한 사실은 굉장히 유사한...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -405,7 +405,7 @@
     <French>* Explosion éloignée*</French>
     <German>*Entfernte Explosion*</German>
     <Italian>* Esplosione distante *</Italian>
-    <Russian>*Отдалённый взрыв*</Russian>
+    <Russian>*먼 곳에서의 폭발*</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -429,7 +429,7 @@
     <French>Mila: Aiden, qu'est-ce que tu fais?</French>
     <German>Mila: Aiden, was machst du?</German>
     <Italian>Mila: Aiden, cosa stai facendo?</Italian>
-    <Russian>Мила: Эйден, ты что там творишь такое?</Russian>
+    <Russian>밀라: 에이든, 뭘 하고 있는 거야?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -453,7 +453,7 @@
     <French>Aiden: Ce n'était pas moi. Je suis en chemin vers l'ingénierie là.</French>
     <German>Aiden: Das war ich nicht. Ich bin jetzt auf dem Weg zum Maschinenraum.</German>
     <Italian>Aiden: Non sono stato io. Sto andando ara in ingegneria</Italian>
-    <Russian>Эйден: Это не я. Уже бегу в инженерную.</Russian>
+    <Russian>에이든: 내가 아냐, 나는 엔진실로 가는 길이었어.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -477,7 +477,7 @@
     <French>Mila: Appel-moi sur la Passerelle quand tu y arrive.</French>
     <German>Mila: Ruf mich auf der Brücke an, sobald du da bist.</German>
     <Italian>Mila: chiamami al ponte quando arrivi.</Italian>
-    <Russian>Мила: Когда доберёшься, отправь мне вызов на мостик.</Russian>
+    <Russian>밀라: 선교로 가서 다시 연락해줘.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -501,7 +501,7 @@
     <French>Mila: Il n'y a pas de véritable réussite possible pour la fille d'un héros. Je ne veux pas paraître ingrate, mais...</French>
     <German>Mila: Für die Tochter eines Helden ist keine wirklicher Erfolg möglich. Ich will nicht undankbar erscheinen, aber...</German>
     <Italian>Mila: Non esiste una vera conquista per la figlia di un eroe. Non voglio sembrare ingrata, ma ...</Italian>
-    <Russian>Мила: Для дочери героя не существует настоящих достижений. Я не хочу выглядеть неблагодарной, но...</Russian>
+    <Russian>밀라: 영웅의 딸이 이룰 수 있는 것은 아무것도 없다. 불효자식처럼 들리는 건 알지만...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -525,7 +525,7 @@
     <French>Mila: Il commence à faire froid dans l'ombre que tu as jeté sur moi, Père.</French>
     <German>Mila: Es wird kalt in dem Schatten, den du auf mich wirfst, Vater.</German>
     <Italian>Mila: Sta diventando freddo nell'ombra che mi hai lanciato, padre.</Italian>
-    <Russian>Мила: в твоей тени становится всё холоднее, отец.</Russian>
+    <Russian>밀라: 당신의 그림자가 날 점점 춥게 만듭니다, 아버지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -549,7 +549,7 @@
     <French>Mila: Un mentor m'a dit une fois que chaque grand leader est une personne de force.</French>
     <German>Mila: Ein Mentor hat mir einmal gesagt, dass in jedem großen Anführer eine starke Persönlichkeit steckt.</German>
     <Italian>Mila: Una volta un mentore mi ha detto che dentro ogni grande leader c'è una persona forte.</Italian>
-    <Russian>Мила: Наставник как-то сказал мне, что в основе каждого великого лидера лежит сильная личность.</Russian>
+    <Russian>밀라: 내 멘토가 한 때 모든 위대한 지도자는 힘이 있는 사람들이라는 말을 했다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -573,7 +573,7 @@
     <French>Mila: Mais qu'est-ce que la force sans honneur?</French>
     <German>Mila: Aber was ist schon Stärke ohne Ehre?</German>
     <Italian>Mila: Ma cos'è la forza senza onore?</Italian>
-    <Russian>Мила: Но что есть сила без чести?</Russian>
+    <Russian>밀라: 그렇지만 명예가 없는 힘이 무슨 소용인가?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -597,7 +597,7 @@
     <French>Mila: Et qu'est-ce que l'honneur sans gloire?</French>
     <German>Mila: Und was ist Ehre ohne Ruhm?</German>
     <Italian>Mila: E cos'è l'onore senza gloria?</Italian>
-    <Russian>Мила: И что есть честь без славы?</Russian>
+    <Russian>밀라: 영광이 없는 명예는 무슨 소용인가?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -621,7 +621,7 @@
     <French>Aiden: Si je devais deviner, je dirais que nous avions été touchés par quelque chose. Le problème est que je ne peux pas le dire avec certitude, car quoi qui ce soit passé,</French>
     <German>Aiden: Müsste ich raten, würde ich sagen, wir wurden von irgendetwas getroffen. Problem ist, dass ich es nicht genau sagen kann weil, was auch immer passiert ist,</German>
     <Italian>Aiden: Se dovessi indovinare, direi che siamo stati colpiti da qualcosa. Il problema è che non posso dirlo con certezza, perché qualunque cosa è accaduta</Italian>
-    <Russian>Эйден: Если тебя интересуют мои предположения, то я думаю, что в нас что-то попало. Проблема в том, что я не могу сказать точно, поскольку что бы это ни было,</Russian>
+    <Russian>에이든: 내 생각에는, 어떤 물체가 우리와 충돌한 것 같아. 문제는 확실하지 않다는 건데, 왜냐하면</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -645,7 +645,7 @@
     <French>Aiden: ça a tout déconnecté: moteurs, camouflage, communication...</French>
     <German>Aiden: es hat alles abgeschaltet: Antriebe, Tarnung, Kommunikation-</German>
     <Italian>Aiden: ha messo tutto offline: motori, occultamento, comunicazione-</Italian>
-    <Russian>Эйден: оно вырубило всё: двигатели, маскировочное устройство, коммуникации...</Russian>
+    <Russian>에이든: 뭐가 발생했던 그게 시스템을 마비시켜버렸거든. 엔진, 은폐장, 통신까지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -669,7 +669,7 @@
     <French>Mila: Je comprends, Aiden. Nous devons régler cela, maintenant.</French>
     <German>Mila: Ich hab's verstanden, Aiden. Wir müssen das in Ordnung bringen, und zwar jetzt.</German>
     <Italian>Mila: Ho capito, Aiden. Dobbiamo sistemarlo, ora.</Italian>
-    <Russian>Мила: Я поняла тебя, Эйден. Нужно всё исправить, и побыстрее.</Russian>
+    <Russian>밀라: 알겠어, 에이든. 최대한 빨리 고쳐야만 해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -693,7 +693,7 @@
     <French>Aiden: Je suis dessus, mais je ne sais pas combien de temps cela prendra-</French>
     <German>Aiden: Ich bin dran, aber ich habe keine Ahnung, wie lange das dauern wird -</German>
     <Italian>Aiden: ci sto lavorando, ma non ho idea di quanto tempo ci vorrà-</Italian>
-    <Russian>Эйден: Я уже этим занимаюсь, но я не имею ни малейшего понятия, как долго...</Russian>
+    <Russian>에이든: 지금 바로 작업중이야, 그렇지만 얼마나 오래 걸릴지 감도 안 잡히는군...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -717,7 +717,7 @@
     <French>Mila: Alors laissez-moi vous rappeler ce qui nous trouvera si tu ne te dépêche pas.</French>
     <German>Mila: Lass mich dich daran erinnern, was uns finden wird, wenn du dich nicht beeilst.</German>
     <Italian>Mila: Allora lascia che ti ricordi cosa ci troverà se non ti sbrighi.</Italian>
-    <Russian>Мила: Тогда позволь мне напомнить, что случится с нами, если ты не поторопишься.</Russian>
+    <Russian>밀라: 그럼 자네가 서두르지 않으면 누가 우리를 발견할 지 내가 다시 일깨워줘야겠군.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -741,7 +741,7 @@
     <French>Silas: Nous étions prêts à faire un peu plus que converser chimiquement avec des organismes unicellulaires,</French>
     <German>Silas: Wir waren gerade mal darauf vorbereitet, chemisch mit einzelligen Organismen zu konversieren,</German>
     <Italian>Silas: eravamo pronti a fare poco più che conversare chimicamente con organismi unicellulari,</Italian>
-    <Russian>Сайлас: Мы не готовились к чему-то более крупному, чем химический обмен с одноклеточными организмами,</Russian>
+    <Russian>사일러스: 우리는 단세포 생물과 화학적으로 상호작용하는 것보다 아주 약간 나은 정도의 준비만 된 상태였고,</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -765,7 +765,7 @@
     <French>Silas: et maintenant vous manquez de respect à nos sujets en procédant comme s'ils l'étaient.</French>
     <German>Silas: und nun fahren wir einfach fort und behandeln unsere Studienteilnehmer als wären sie welche.</German>
     <Italian>Silas: e ora dispregiamo i nostri soggetti procedendo come se lo fossero.</Italian>
-    <Russian>Сайлас: и теперь мы демонстрируем неуважение к нашим субъектам, обращаясь с ними так, будто они такие и есть.</Russian>
+    <Russian>사일러스: 이제는 그들을 실제로 단세포생물처럼 대하는 결례를 범하고 있다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -789,7 +789,7 @@
     <French>Silas: Quelle cruauté nous montrons à nos frères et soeurs cosmiques en leur refusant la connaissance que nous existons.</French>
     <German>Silas: Welch Grausamkeit wir unseren kosmischen Geschwistern antun, indem wir ihnen verheimlichen, dass wir existieren.</German>
     <Italian>Silas: Che crudeltà mostriamo ai nostri fratelli cosmici negando loro la consapevolezza che esistiamo.</Italian>
-    <Russian>Сайлас: Как жестоки мы по отношению к нашим космическим собратьям, когда держим их в неведении относительно нашего существования.</Russian>
+    <Russian>사일러스: 우리의 우주 형제들에게 우리가 존재한다는 사실을 숨겨야만 한다니 이 얼마나 잔인한 짓인가.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -813,7 +813,7 @@
     <French>Silas: Mila, attend un moment s'il vous plaît.</French>
     <German>Silas: Mila, bitte warte einen Moment.</German>
     <Italian>Silas: Mila, per favore aspetta un momento.</Italian>
-    <Russian>Сайлас: Мила, прошу, подожди секунду.</Russian>
+    <Russian>사일러스: 밀라, 잠깐만 우리 대화 좀 해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -837,7 +837,7 @@
     <French>Mila: Hors de mon chemin.</French>
     <German>Mila: Geh mir aus dem Weg.</German>
     <Italian>Mila: togliti di mezzo.</Italian>
-    <Russian>Мила: Уйди с дороги.</Russian>
+    <Russian>밀라: 당장 내 앞에서 꺼져.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -861,7 +861,7 @@
     <French>Silas: Je veux juste parler.</French>
     <German>Silas: Ich wollte nur reden.</German>
     <Italian>Silas: Volevo solo parlare.</Italian>
-    <Russian>Сайлас: Я просто хотел поговорить.</Russian>
+    <Russian>사일러스: 그냥 대화가 하고 싶을 뿐이야.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -885,7 +885,7 @@
     <French>Mila: Tu as fait ton choix, Silas. Agit en homme maintenant.</French>
     <German>Mila: Du hast deine Entscheidung gefällt, Silas. Nun stehe dazu.</German>
     <Italian>Mila: hai fatto la tua scelta, Silas. Dimostralo.</Italian>
-    <Russian>Мила: Ты сделал свой выбор, Сайлас, вот и следуй ему.</Russian>
+    <Russian>밀라: 네가 결정한 일이야, 사일러스. 남자답게 행동하지 그래.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -909,7 +909,7 @@
     <French>Mila: L'Espial à Axiom, nous avons été découverts. Un vaisseau extraterrestre tente d'accoster. Nous amorçons le verrouillage et</French>
     <German>Mila:  Hier ist Espial an Axiom, wir wurden entdeckt. Ein außerirdisches Schiff versucht anzudocken. Wir leiten die Abschaltung ein und</German>
     <Italian>Mila: Questo è il Espial di Axiom, siamo stati scoperti. Una nave aliena sta tentando di attraccare. Stiamo avviando le chiusure di sicurezza</Italian>
-    <Russian>Мила: "Созерцатель" вызывает "Аксиому", нас обнаружили. Чужой корабль пытается пристыковаться. Мы запустили процедуру изоляции и</Russian>
+    <Russian>밀라: 여기는 Axiom 사의 에스파이얼 호, 그들에게 발견당했다. 외계 함선이 도킹을 시도하고 있다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -933,7 +933,7 @@
     <French>Mila: nous préparons à l'évacuation. Messieurs, cette mission est terminée. Sauvegardez toutes les données de mission, puis allez aux modules d'évacuation.</French>
     <German>Mila: bereiten die Evakuierung vor. Meine Herren, diese Mission ist vorbei. Sichert alle Missionsdaten und dann auf zu den Rettungskapseln.</German>
     <Italian>Mila: preparando per l'evacuazione. Signori, questa missione è finita. Esegui il backup di tutti i dati di missione e poi accedi ai pod per la fuga di emergenza.</Italian>
-    <Russian>Мила: готовимся к эвакуации. Джентльмены, на этом мы прекращаем миссию. Сделайте копии всех данных и отправляйтесь к спасательным капсулам.</Russian>
+    <Russian>밀라: 함선을 폐쇄하고 탈출을 시도하겠다. 선원들에게, 미션은 끝났다. 모든 미션 데이터를 백업하고 탈출용 포드로 향하라.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -957,7 +957,7 @@
     <French>Aiden: Mila, ils débarquent.</French>
     <German>Aiden: Mila, sie entern.</German>
     <Italian>Aiden: Mila, stanno salendo.</Italian>
-    <Russian>Эйден: Мила, они пытаются попасть на борт.</Russian>
+    <Russian>에이든: 밀라, 그들이 우주선에 진입하고 있어.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -981,7 +981,7 @@
     <French>Mila: Nous avons fini ici. Tous les deux, bougez!</French>
     <German>Mila: Wir sind hier fertig. Los jetzt, alle beide!</German>
     <Italian>Mila: Abbiamo finito qui. Muovetevi!</Italian>
-    <Russian>Мила: Тогда мы уходим. Вы оба, шевелитесь!</Russian>
+    <Russian>밀라: 여기서 할 일은 끝났어. 둘 다, 어서 움직여!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1005,7 +1005,7 @@
     <French>Silas: Un homme, s'il est honnête, observera que nous n'étudions pas vraiment ces extraterrestres, mais les comparons à nous-mêmes.</French>
     <German>Silas: Ein Mann, wenn er ehrlich ist, würde feststellen, dass wir diese Aliens nicht wirklich studieren, sondern mit uns selbst vergleichen.</German>
     <Italian>Silas: Un uomo, se onesto, capirebbe che non stiamo veramente studiando questi alieni, ma paragonandoli a noi stessi.</Italian>
-    <Russian>Сайлас: Если честно, то можно заметить, что мы не столько изучаем этих инопланетян, сколько сравниваем их с самими собой.</Russian>
+    <Russian>사일러스: 어떤 솔직한 사람이 본다면, 우리가 외계인을 연구하고 있다기보다는, 우리가 그들을 우리와 비교하고 있음을 알 수 있을 것이다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1029,7 +1029,7 @@
     <French>Silas: Cet homme, s'il est intelligent, devrait chercher à remédier à cette erreur dans notre recherche.</French>
     <German>Silas: Dieser Mann, wenn er clever ist, sollte versuchen, diesen Fehler in unserer Forschung zu beheben.</German>
     <Italian>Silas: Quell'uomo, se intelligente, dovrebbe cercare di porre rimedio a questo errore nella nostra ricerca.</Italian>
-    <Russian>Сайлас: Если же быть достаточно умным, то мы должны постараться исправить эту ошибку в наших изысканиях.</Russian>
+    <Russian>사일러스: 만약 그 사람이 똑똑하다면, 우리 연구의 이 오류를 바로잡을 방법을 찾을 것이다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1053,7 +1053,7 @@
     <French>Silas: Cet homme, si curieux, pourrait alors se demander ce qu'ils penseraient de nous.</French>
     <German>Silas: Dieser Mann, wenn er neugierig ist, könnte sich dann fragen was sie von uns halten würden.</German>
     <Italian>Silas: Quell'uomo, se fosse curioso, potrebbe quindi chiedersi che cosa penserebbero di noi.</Italian>
-    <Russian>Сайлас: А если быть любопытным, то можно задуматься, что бы они подумали о нас самих.</Russian>
+    <Russian>사일러스: 만약 그 사람이 호기심이 많다면, 반대로 외계인들은 우리를 어떻게 생각할 지 궁금해 할 것이다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1077,7 +1077,7 @@
     <French>Aiden: D'habitude, je ne le mentionnerais pas, mais pendant que j'étais sous le pont, j'ai trouvé des cicatrices de soudure suspectes.</French>
     <German>Aiden: Normalerweise würde ich das nicht erwähnen, aber als ich unter Deck war, habe ich einige verdächtige Schweißnähte gefunden.</German>
     <Italian>Aiden: Di solito non vorrei menzionarlo, ma mentre ero sottocoperta ho trovato delle cicatrici di saldatura sospette.</Italian>
-    <Russian>Эйден: Обычно я о таком не упоминаю, но когда я заглянул под палубу, то заметил кое-какие подозрительные следы сварки.</Russian>
+    <Russian>에이든: 보통은 이런 얘기를 굳이 안하는데 말이야, 하부 갑판에서 수상한 용접 자국을 발견했어.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1101,7 +1101,7 @@
     <French>Aiden: Ils ne sont répertoriés dans aucun manifeste de réparation, alors j'en ai ouvert un et l'ai trouvé.</French>
     <German>Aiden: Sie sind in keinem Reparaturbericht aufgeführt, also öffnete ich eine und fand das hier.</German>
     <Italian>Aiden: Non sono elencati in alcun manifesto di riparazione, quindi ne ho aperto uno e ho trovato questo.</Italian>
-    <Russian>Эйден: Они не указаны ни в одном ремонтном отчёте, поэтому я вскрыл один из них и нашёл вот это.</Russian>
+    <Russian>에이든: 수리 기록에도 나와있지 않은 곳에 말이야, 그래서 열어봤더니 이런게 나왔단 말이지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1125,7 +1125,7 @@
     <French>*Clank métallique*</French>
     <German>*Metallisches Geräusch*</German>
     <Italian>* Clank metallico *</Italian>
-    <Russian>*Звон металла*</Russian>
+    <Russian>*금속 덩어리*</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1149,7 +1149,7 @@
     <French>Aiden: Avec ces soudures partout, je suppose que Axiom a un accès à distance complet à toute cette station.</French>
     <German>Aiden: Mit diesen Nähten überall, würde ich vermuten, dass Axiom Fernzugriff auf die gesamte Station hat.</German>
     <Italian>Aiden: Con queste saldature dappertutto, direi che Axiom ha accesso remoto completo a questa intera stazione.</Italian>
-    <Russian>Эйден: Сварочные швы тут повсюду, и я прихожу к выводу, что у "Аксиомы" есть полный удалённый доступ ко всей станции.</Russian>
+    <Russian>에이든: 이런 용접이 온 군데에 되어있다면, 내 생각에 Axiom이 이 우주선 전체를 원격으로 조종하는 것이 가능할 것으로 보이는군.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1173,7 +1173,7 @@
     <French>Mila: La violence peut être séparée en deux catégories, instinctives ou intelligentes.</French>
     <German>Mila: Gewalt kann entweder in instinktive oder intelligente Verhaltenskategorien unterteilt werden.</German>
     <Italian>Mila: la violenza può essere segmentata in categorie di comportamento istintive o intelligenti.</Italian>
-    <Russian>Мила: Насилие можно разделить на две поведенческие категории: инстинктивное и разумное.</Russian>
+    <Russian>밀라: 폭력은 본능적 혹은 지적 행동 범주로 나눌 수 있다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1197,7 +1197,7 @@
     <French>Mila: Les instincts peuvent être apprivoisés, tandis que l'intelligence peut être soumise à la raison.</French>
     <German>Mila: Instinkte können gezähmt werden, während Intelligenz der Vernuft unterworfen werden kann.</German>
     <Italian>Mila: gli istinti possono essere domati, mentre l'intelligenza può essere soggetta alla ragione.</Italian>
-    <Russian>Мила: Инстинкты можно приручить, а разум можно переубедить.</Russian>
+    <Russian>밀라: 본능은 길들여질 수 있고, 지성은 이성에 따라 통제가 가능하다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1221,7 +1221,7 @@
     <French>Mila: Le problème est, nous ne pouvons pas dire lequel de ceux-ci est la cause de leur violence.</French>
     <German>Mila: Das Problem ist, wir können nicht sagen, welche der Beiden die Ursache für ihre Gewaltätigkeit ist.</German>
     <Italian>Mila: Il problema è che non possiamo dire quale di queste sia la causa della loro violenza.</Italian>
-    <Russian>Мила: Проблема в том, что мы не можем сказать, что из этого является причиной их жестокости.</Russian>
+    <Russian>밀라: 문제는 그들의 폭력성이 이 중 어느 쪽에 근거한 것인지 알 수 없다는 점이다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1245,7 +1245,7 @@
     <French>Aiden: Il y en a trois dans le hangar avec moi. Je ne peux pas les coincer longtemps.</French>
     <German>Aiden: Drei von ihnen sind hier bei mir im Hangar. Ich kann sie nicht lange hinhalten.</German>
     <Italian>Aiden: Ce ne sono tre nell'Hangar con me. Non riuscirò a bloccarli a lungo.</Italian>
-    <Russian>Эйден: Их тут трое в ангаре со мной. Я не смогу задерживать их вечно.</Russian>
+    <Russian>에이든: 지금 그들 중 셋이 격납고에 나랑 같이 있어. 오래는 붙잡아두지 못할 거야.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1269,7 +1269,7 @@
     <French>Mila: Courir! Aiden, va aux modules d'évacuation!</French>
     <German>Mila: Lauf! Aiden, auf zu den Rettungskapseln!</German>
     <Italian>Mila: corri! Aiden, vai ai Pod!</Italian>
-    <Russian>Мила: Беги! Эйден, беги к спасательным капсулам!</Russian>
+    <Russian>밀라: 도망쳐, 에이든! 어서 탈출 포드로 와!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1293,7 +1293,7 @@
     <French>Aiden: C'est trop tard pour ça. Termine la mission, Mila.</French>
     <German>Aiden: Dafür ist es zu spät. Bring die Mission zu Ende, Mila.</German>
     <Italian>Aiden: È troppo tardi per quello. Termina la missione, Mila.</Italian>
-    <Russian>Эйден: Слишком поздно. Заверши миссию, Мила.</Russian>
+    <Russian>에이든: 난 이미 그러기엔 늦었어. 미션을 완료해, 밀라.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1317,7 +1317,7 @@
     <French>Espial: Sas du Hangar déverrouillé.</French>
     <German>Espial: Hangar Luftschleuse geöffnet.</German>
     <Italian>Espial: camera d'equilibrio dell'hangar disinnestata.</Italian>
-    <Russian>"Созерцатель": Ангар разгерметизирован.</Russian>
+    <Russian>에스파이얼: 격납고 에어락 개방.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1341,7 +1341,7 @@
     <French>Mila: Non!</French>
     <German>Mila: Nein!</German>
     <Italian>Mila: No!</Italian>
-    <Russian>Мила: Нет!</Russian>
+    <Russian>밀라: 안 돼!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1365,7 +1365,7 @@
     <French>Mila: La première série de drones est revenue avec les échantillons de sédiments, mais deux étaient endommagés</French>
     <German>Mila: Der erste Satz an Drohnen kam mit den Sediment Proben zurück, aber zwei wahren beschä-</German>
     <Italian>Mila: il primo set di droni è tornato con i campioni di sedimenti, ma due sono stati danneggiati-</Italian>
-    <Russian>Мила: Первый отряд дронов вернулся с образцами грунта, но два были поврежде...</Russian>
+    <Russian>밀라: 처음 날려보냈던 드론들이 퇴적물 샘플을 가지고 돌아왔어, 두 기가 손상을 입긴 했는데...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1389,7 +1389,7 @@
     <French>Mila: Est-ce que tu bois?</French>
     <German>Mila: Trinkst du?</German>
     <Italian>Mila: stai bevendo?</Italian>
-    <Russian>Мила: Ты что, пьёшь?</Russian>
+    <Russian>밀라: 지금 술 마시고 있는거야?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1413,7 +1413,7 @@
     <French>Aiden: Euh, non. Je sauve ce qui est piégé dans cette bouteille.</French>
     <German>Aiden: Ähm, nein. Ich rette, was in dieser Flasche gefangen ist.</German>
     <Italian>Aiden: Uh, no. Sto salvando ciò che è intrappolato in questa bottiglia.</Italian>
-    <Russian>Эйден: Э-э-э, нет. Я спасаю то, что было закупорено в этой бутылке.</Russian>
+    <Russian>에이든: 아니, 그럴리가. 다만 이 병에 갇힌 불쌍한 영혼들을 구해주고 있었지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1437,7 +1437,7 @@
     <French>Mila: Tu vas partager, ou quoi?</French>
     <German>Mila: Nun, gibst du was ab, oder was?</German>
     <Italian>Mila: Beh, vuoi condividere, o cosa?</Italian>
-    <Russian>Мила: Ну так ты поделишься или как?</Russian>
+    <Russian>밀라: 뭐, 그럼 나도 같이 하는 거 어때?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1461,7 +1461,7 @@
     <French>Aiden: Asseyez-vous.</French>
     <German>Aiden: Setz dich.</German>
     <Italian>Aiden: Siediti.</Italian>
-    <Russian>Эйден: Присаживайся.</Russian>
+    <Russian>에이든: 여기 앉아.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>

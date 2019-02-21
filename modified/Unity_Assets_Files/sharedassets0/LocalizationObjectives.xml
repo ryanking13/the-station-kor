@@ -93,7 +93,7 @@
     <French>Amarrer vous à la Station Espial</French>
     <German>Docke an die Espial Station an</German>
     <Italian>Dock nella stazione Espial</Italian>
-    <Russian>에스파이얼 정거장에 도킹하기</Russian>
+    <Russian>에스파이얼 호에 도킹하기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -117,7 +117,7 @@
     <French>Echapper vous de l'Espial</French>
     <German>Fliehe von der Espial</German>
     <Italian>Scappa dall'Espial</Italian>
-    <Russian>에스파이얼 정거장에서 탈출하기</Russian>
+    <Russian>에스파이얼 호에서 탈출하기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>

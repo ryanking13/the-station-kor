@@ -2,9 +2,9 @@
 <terminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <email>
     <emailIndex>0</emailIndex>
-    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <to>엘리아스 볼란테</to>
     <description>Конфликт интересов</description>
-    <date>Четыре дня до запуска миссии</date>
+    <date>미션 시작 4일 전</date>
     <messageIndex>0</messageIndex>
     <messageCount>3</messageCount>
     <Font>2</Font>
@@ -12,7 +12,7 @@
   </email>
   <email>
     <emailIndex>1</emailIndex>
-    <to>Лукиас</to>
+    <to>루키아스</to>
     <description>Предстоящий выпуск</description>
     <messageIndex>3</messageIndex>
     <messageCount>2</messageCount>
@@ -21,8 +21,8 @@
   </email>
   <email>
     <emailIndex>2</emailIndex>
-    <to>"САЙТО ИНЖИНИРИНГ"</to>
-    <description>Ремонт "Созерцателя"</description>
+    <to>SAITO 엔지니어링</to>
+    <description>에스파이얼 호 수리</description>
     <messageIndex>5</messageIndex>
     <messageCount>3</messageCount>
     <Font>2</Font>
@@ -30,7 +30,7 @@
   </email>
   <email>
     <emailIndex>3</emailIndex>
-    <to>ЭЙДЕН ВАЙЗ</to>
+    <to>에이든 비제</to>
     <description>Завещание</description>
     <messageIndex>8</messageIndex>
     <messageCount>1</messageCount>
@@ -39,7 +39,7 @@
   </email>
   <email>
     <emailIndex>4</emailIndex>
-    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <to>엘리아스 볼란테</to>
     <description>Последнее слово</description>
     <messageIndex>9</messageIndex>
     <messageCount>2</messageCount>
@@ -48,7 +48,7 @@
   </email>
   <email>
     <emailIndex>5</emailIndex>
-    <to>МИЛА</to>
+    <to>밀라</to>
     <description>Полунощное строительство</description>
     <messageIndex>11</messageIndex>
     <messageCount>2</messageCount>
@@ -66,7 +66,7 @@
   </email>
   <email>
     <emailIndex>7</emailIndex>
-    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <to>엘리아스 볼란테</to>
     <description>Дальнейшие указания</description>
     <messageIndex>14</messageIndex>
     <messageCount>3</messageCount>
@@ -75,7 +75,7 @@
   </email>
   <im>
     <IMIndex>0</IMIndex>
-    <to>ЭЛИАС ВОЛАНТЕ</to>
+    <to>엘리아스 볼란테</to>
     <description>Семена недовольства</description>
     <messageIndex>17</messageIndex>
     <messageCount>3</messageCount>
@@ -84,7 +84,7 @@
   </im>
   <im>
     <IMIndex>1</IMIndex>
-    <to>МИЛА</to>
+    <to>밀라</to>
     <description>Их язык</description>
     <messageIndex>20</messageIndex>
     <messageCount>9</messageCount>
@@ -93,7 +93,7 @@
   </im>
   <im>
     <IMIndex>2</IMIndex>
-    <to>САЙЛАС</to>
+    <to>사일러스</to>
     <description>Вычисления орбиты</description>
     <messageIndex>29</messageIndex>
     <messageCount>2</messageCount>
@@ -151,8 +151,8 @@
   </note>
   <msg>
     <messageIndex>0</messageIndex>
-    <author>ЭЛИАС ВОЛАНТЕ</author>
-    <to>Кому: Сайлас</to>
+    <author>엘리아스 볼란테</author>
+    <to>To: 사일러스</to>
     <content>"Аксиома" была уведомлена о недекларированных личных и романтических отношениях между вами двумя. Учитывая очевидный конфликт интересов в цепи командования, мы подготовим другого капитана для этой миссии.
 
 
@@ -164,8 +164,8 @@
   </msg>
   <msg>
     <messageIndex>1</messageIndex>
-    <author>САЙЛАС</author>
-    <to>Кому: Элиас  Копия: Мила</to>
+    <author>사일러스</author>
+    <to>To: 엘리아스  Fwd: 밀라</to>
     <date>4 дня до запуска миссии</date>
     <content>Элиас, я не знаю, что вы могли услышать, но уверяю Вас: нет никакой привязанности или отношений между Милой и мной. Я приношу извинения за то, что мы не доложили о нашей краткосрочной и ни к чему не обязывающей связи, но у нас нет личных отношений и наше общение останется сугубо профессиональным.
 
@@ -178,8 +178,8 @@
   </msg>
   <msg>
     <messageIndex>2</messageIndex>
-    <author>МИЛА</author>
-    <to>Кому: Сайлас</to>
+    <author>밀라</author>
+    <to>To: 사일러스</to>
     <date>4 дня до запуска миссии</date>
     <content>И это всё, что для тебя значили шесть лет? Ты так легко отбрасываешь меня из-за своей гордости или просто ради шанса блеснуть когда-нибудь в каком-то научном журнале? Ты эгоистичный козёл, Сайлас. Я рисковала всем, чтобы скрыть то, что было между нами, а ты демонстрируешь, каким низким человеком был на самом деле.
 
@@ -192,8 +192,8 @@
   </msg>
   <msg>
     <messageIndex>3</messageIndex>
-    <author>ЛУКИАС</author>
-    <to>Кому: Сайлас</to>
+    <author>루키아스</author>
+    <to>To: 사일러스</to>
     <date>День 13, 15:30</date>
     <content>Мы завершили редактуру, и версия 5.4.2 "Небесного генезиса" будет готова к публикации к моменту Вашего возвращения. С вашего позволения мы начнём готовиться к дистрибуции. 
 
@@ -211,8 +211,8 @@
   </msg>
   <msg>
     <messageIndex>4</messageIndex>
-    <author>САЙЛАС</author>
-    <to>Кому: Лукиас</to>
+    <author>사일러스</author>
+    <to>To: 루키아스</to>
     <date>День 13, 17:57</date>
     <content>С моей стороны не последует никаких поправок, можно приступать к дистрибуции. 
 
