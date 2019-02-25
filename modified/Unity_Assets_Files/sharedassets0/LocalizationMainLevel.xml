@@ -7968,12 +7968,12 @@ Verlassen</German>
     <ItalianFont>34</ItalianFont>
     <RussianFont>31</RussianFont>
     <PortugueseFont>35</PortugueseFont>
-    <English>This specimen's wilting suggests the natural ultra-violet light protection offered from the atmosphere has deteriorated, resulting in the abscission of the photosynthesizing organs.</English>
+    <English>This specimen's wilting suggests the natural ultra-violet light protection offered from the atmosphere has deteriorated, resulting in the   of the photosynthesizing organs.</English>
     <Spanish>El marchitamiento de este espécimen sugiere que la protección natural contra la luz ultravioleta ofrecida desde la atmósfera se ha deteriorado, lo que resulta en la abscisión de los órganos foto-sintetizadores.</Spanish>
     <French>Ce spécimen suggère que la protection naturelle aux ultra-violets offerte par l’atmosphère c’est détériorée, résultant de l’abscission des organes de photosynthèse.</French>
     <German>Das Welken dieser Spezies suggeriert, dass der natürliche Ultraviolett-Lichtschutz, den die Atmosphäre bietet, sich verringert hat. Hierdurch ergibt sich eine Abszission der photosynthesierenden Organe.</German>
     <Italian>L'appassimento di questo esemplare suggerisce che la protezione alla luce ultravioletta naturale offerta dall'atmosfera si è deteriorata, provocando l'abscissione degli organi fotosintesi.</Italian>
-    <Russian>이 표본은 대기를 통한 자연 자외선 보호가 광합성 장기의 이탈을 야기하였음을 나타내어줍니다.</Russian>
+    <Russian>이 표본은 대기를 통한 자연 자외선 보호가 광합성 장기의 소실을 야기하였음을 나타내어줍니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8716,7 +8716,7 @@ Prime Abitanti Psy.</Italian>
     <German>
 Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <Italian>Accelerometro spaziale configurato</Italian>
-    <Russian>Пространственный акселерометр настроен</Russian>
+    <Russian>Spatial 가속도계 장치됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8740,7 +8740,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Labo supérieur</French>
     <German>Oberes Labor</German>
     <Italian>Laboratorio Superiore</Italian>
-    <Russian>Верхняя лаборатория</Russian>
+    <Russian>상층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8764,7 +8764,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 거부됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8788,7 +8788,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Robot de Maintenance déployé</French>
     <German>Wartungsroboter Eingesetzt</German>
     <Italian>Robot Manutenzione installato</Italian>
-    <Russian>Отправлен робот техобслуживания</Russian>
+    <Russian>관리 로봇 배치됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8812,7 +8812,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 거부됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8836,7 +8836,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Fusible synaptique 35 In remplacé </French>
     <German>35 ln Synapsensicherung Ausgetauscht  </German>
     <Italian>Sostituito Fusibile 35 ln Sinapsi </Italian>
-    <Russian>Cинапсный предохранитель 35-ln заменён </Russian>
+    <Russian>시냅시스 퓨즈 35 ln을 교체함</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8860,7 +8860,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Bracelet ID d'Aiden requis</French>
     <German>Aiden's ID-Armband Erforderlich</German>
     <Italian>ID Braccialetto di Aiden Richiesto</Italian>
-    <Russian>Требуется ID-браслет Эйдена</Russian>
+    <Russian>에이든의 ID 팔찌가 필요함</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8884,7 +8884,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Alimentation hors-ligne</French>
     <German>Kleine Leistung</German>
     <Italian>Potenza offline</Italian>
-    <Russian>Питание отключено</Russian>
+    <Russian>전원 꺼짐</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8908,7 +8908,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Firmware 5.3.4 installé sur l'Encodeur </French>
     <German>Firmware 5.3.4  auf Encoder Installiert </German>
     <Italian>Firmware 5.3.4 installato su codificatore </Italian>
-    <Russian>Прошивка 5.3.4 энкодера установлена </Russian>
+    <Russian>인코더에 펌웨어 5.3.4를 설치함 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8932,7 +8932,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 거부됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8956,7 +8956,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Remplacer le régulateur de Voltage E40 </French>
     <German>E40 Spannungsregler Ersetzen </German>
     <Italian>Sostituire il regolatore di tensione E40 </Italian>
-    <Russian>Заменить регулятор напряжения E40 </Russian>
+    <Russian>E40 전압 조정기를 교체하시오</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8980,7 +8980,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French> Réparation nécessaires</French>
     <German>Reparaturen Nötig</German>
     <Italian> Riparazioni necessarie</Italian>
-    <Russian> Нужен ремонт</Russian>
+    <Russian> 수리 요구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9004,7 +9004,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 거부됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9028,7 +9028,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9052,7 +9052,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 거부됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9093,11 +9093,10 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
                 tensione sessuale
 3 drink - Mila mi dice di fare qualcosa
 4 drink - Uno dei robot fa paura</Italian>
-    <Russian>1 напиток – что-то выходит из строя
-2 напитка – Сайлас и Мила демонстрируют 
-                      сексуальную напряжённость
-3 напитка – Мила говорит мне что-то сделать
-4 напитка – один из роботов пугающе себя ведёт</Russian>
+    <Russian>1 병 - 무엇인가가 고장났을 때
+2 병 - 사일러스와 밀라가 에로틱한 분위기를 풍길 때 
+3 병 - 밀라가 나한테 일을 시킬 때
+4 병 – 로봇이 오싹한 행동을 할 때</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9122,7 +9121,7 @@ Räumlicher Beschleunigungsmesser Konfiguriert</German>
     <German>Mila's ID-Armband Erforderlich</German>
     <Italian>
 Braccialetto di accesso di Mila richiesto</Italian>
-    <Russian>Требуется ID-браслет Милы</Russian>
+    <Russian>밀라의 ID 팔찌가 요구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9146,7 +9145,7 @@ Braccialetto di accesso di Mila richiesto</Italian>
     <French>Bracelet ID de Silas requis</French>
     <German>Silas's ID-Armband Erforderlich</German>
     <Italian>ID Braccialetto di Silas richiesto</Italian>
-    <Russian>Требуется ID-браслет Сайласа</Russian>
+    <Russian>사일러스의 ID 팔찌가 요구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9170,7 +9169,7 @@ Braccialetto di accesso di Mila richiesto</Italian>
     <French> Réparation nécessaires</French>
     <German>Reparaturen Nötig</German>
     <Italian> Riparazioni necessarie</Italian>
-    <Russian> Нужен ремонт</Russian>
+    <Russian> 수리 요구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9194,7 +9193,7 @@ Braccialetto di accesso di Mila richiesto</Italian>
     <French>Accès refusé</French>
     <German>Zugriff Verweigert</German>
     <Italian>Accesso negato</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 금지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9238,11 +9237,9 @@ uscita di emergenza.
 
 Accesso attraverso il laboratorio superiore. 
 ID Braccialetto Silas necessario.</Italian>
-    <Russian>Обнаружен взрыв. Используйте только как
-аварийный выход.
+    <Russian>폭발 감지됨. 비상용 출구로만 사용 가능.
 
-Входите через верхнюю лабораторию.Требуется
-ID-браслет Сайласа.</Russian>
+상층 연구소를 통하여 접근 요함. 사일러스의 ID 팔찌가 요구됨.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9266,7 +9263,7 @@ ID-браслет Сайласа.</Russian>
     <French>Energie restaurée</French>
     <German>Hohe Leistung</German>
     <Italian>Potenza Ristabilita</Italian>
-    <Russian>Питание восстановлено</Russian>
+    <Russian>전원 복구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9290,7 +9287,7 @@ ID-браслет Сайласа.</Russian>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ ограничен</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9314,7 +9311,7 @@ ID-браслет Сайласа.</Russian>
     <French>Remplacer le Fusible Synaptique 35 In </French>
     <German>35 ln Synapsensicherung Ersetzen  </German>
     <Italian>Sostituire Fusibile 35 ln Sinapsi </Italian>
-    <Russian>Заменён cинапсный предохранитель 35-ln </Russian>
+    <Russian>시냅시스 퓨즈 35 ln을 교체하시오 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9358,11 +9355,11 @@ Zugriff begrenzt bis Wartungsroboter eingesetzt wird.</German>
 Danno esterno rilevato.
 
 Accesso limitato fino a quando non viene installato il robot Manutenzione.</Italian>
-    <Russian>Системы жизнеобеспечения секции А-3 отключены.
+    <Russian>A-3 구역의 생명 유지 시스템이 작동하지 않는 상태입니다.
 
-Обнаружены внешние повреждения станции.
+외부적인 손상이 감지됩니다.
 
-Доступ ограничен до активации робота техобслуживания.</Russian>
+관리 로봇이 배치되기 전까지 접근이 제한됩니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9386,7 +9383,7 @@ Accesso limitato fino a quando non viene installato il robot Manutenzione.</Ital
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9432,11 +9429,11 @@ Acceso concedido A la Sección A-3</Spanish>
 - Riparazioni danni esterni in corso.
 
 - Accesso concesso alla sezione A-3</Italian>
-    <Russian>- Системы жизнеобеспечения секции А-3 реактивированы.
+    <Russian>- A-3 구역의 생명 유지 시스템이 실행되었습니다.
 
-- Ведётся ремонт внешних повреждений.
+- 외부 손상의 수리가 진행중입니다.
 
-- Разрешён доступ к секции А-3.</Russian>
+- А-3 구역의 접근이 허용되었습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9460,7 +9457,7 @@ Acceso concedido A la Sección A-3</Spanish>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9485,7 +9482,7 @@ Acceso concedido A la Sección A-3</Spanish>
     <German>
 Zugriffs-Schlüssel für Forschungsflügel benötigt</German>
     <Italian>Chiave di accesso ala scienza richiesta</Italian>
-    <Russian>Требуется ключ доступа к научному отсеку</Russian>
+    <Russian>실험실 접근 키 요구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9509,7 +9506,7 @@ Zugriffs-Schlüssel für Forschungsflügel benötigt</German>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9533,7 +9530,7 @@ Zugriffs-Schlüssel für Forschungsflügel benötigt</German>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9570,9 +9567,9 @@ nächstgelegenen Rettungskapsel</German>
 
 Procedere alla capsula di 
 salvataggio più vicina</Italian>
-    <Russian>Активирована система самоуничтожения
+    <Russian>자폭 시스템이 가동되었습니다
 
-Проследуйте к ближайшей спасательной капсуле</Russian>
+가장 가까운 탈출 포드로 향하십시오</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9597,7 +9594,7 @@ salvataggio più vicina</Italian>
     <German>Reparatur Wartungsroboter</German>
     <Italian>
 Rilasciare il robot manutenzione per riparare il supporto vitale</Italian>
-    <Russian>Отправить робота техобслуживания к системе жизнеобеспечения</Russian>
+    <Russian>생명 유지 장치를 복구하기 위하여 관리 로봇을 배치하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9622,7 +9619,7 @@ Rilasciare il robot manutenzione per riparare il supporto vitale</Italian>
     <German>
 Zugriffs-Schlüssel für Forschungsflügel Erkannt</German>
     <Italian>Rilevato Chiave di accesso Ala Scienza</Italian>
-    <Russian>Обнаружен ключ доступа к научному отсеку</Russian>
+    <Russian>실험실 접근 키 감지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9647,7 +9644,7 @@ Zugriffs-Schlüssel für Forschungsflügel Erkannt</German>
     <German>Warnung</German>
     <Italian>
 Avvertimento</Italian>
-    <Russian>Опасность</Russian>
+    <Russian>경고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9671,7 +9668,7 @@ Avvertimento</Italian>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9695,7 +9692,7 @@ Avvertimento</Italian>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9719,7 +9716,7 @@ Avvertimento</Italian>
     <French>     Inversion de la vue</French>
     <German>     Sichtumkehrung</German>
     <Italian> Inversione Bloccata</Italian>
-    <Russian>    Инверсия взгляда</Russian>
+    <Russian>    상하 조작 반전</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9743,7 +9740,7 @@ Avvertimento</Italian>
     <French>     Inversion de la vue</French>
     <German>     Sichtumkehrung</German>
     <Italian> Inversione Bloccata</Italian>
-    <Russian>     Инверсия взгляда</Russian>
+    <Russian>     상하 조작 반전</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9767,7 +9764,7 @@ Avvertimento</Italian>
     <French>Pont Inferieur</French>
     <German>Unteres Deck</German>
     <Italian>Ponte inferiore</Italian>
-    <Russian>Нижняя палуба</Russian>
+    <Russian>하부 갑판</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9791,7 +9788,7 @@ Avvertimento</Italian>
     <French>     Choix des contrôles</French>
     <German>     Controller-Einstellungen</German>
     <Italian>  Formato controller</Italian>
-    <Russian>     Тип контроллера</Russian>
+    <Russian>     컨트롤러 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9815,7 +9812,7 @@ Avvertimento</Italian>
     <French>     Choix des contrôles</French>
     <German>     Controller-Einstellungen</German>
     <Italian>  Formato controller</Italian>
-    <Russian>     Тип контроллера</Russian>
+    <Russian>     컨트롤러 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9844,8 +9841,7 @@ Outil Aimant </French>
 Station</German>
     <Italian>Strumento Magnete
 Stazione</Italian>
-    <Russian>Магнитный
-инструмент</Russian>
+    <Russian>자기 장치 구역</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9869,7 +9865,7 @@ Stazione</Italian>
     <French>     Volume Principal</French>
     <German>     Gesamtlautstärke</German>
     <Italian> Volume Principale</Italian>
-    <Russian>     Общая громкость</Russian>
+    <Russian>     전체 음량 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9893,7 +9889,7 @@ Stazione</Italian>
     <French>     Volume Principal</French>
     <German>     Gesamtlautstärke</German>
     <Italian> Volume Principale</Italian>
-    <Russian>     Общая громкость</Russian>
+    <Russian>     전체 음량 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9917,7 +9913,7 @@ Stazione</Italian>
     <French>Réinitialisation complète du moteur</French>
     <German>Vollständiger Antriebs-Neustart</German>
     <Italian>Reset Completo Motore</Italian>
-    <Russian>Полная перезагрузка двигателя</Russian>
+    <Russian>전체 엔진 초기화</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9945,8 +9941,7 @@ d'Urgence</French>
 </German>
     <Italian>Chisura
 D'emergenza</Italian>
-    <Russian>Экстренная 
-изоляция</Russian>
+    <Russian>긴급 잠금</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9970,7 +9965,7 @@ D'emergenza</Italian>
     <French>Activer les Supports de Vie d'Urgence</French>
     <German>Notfall-Lebenserhaltungssysteme Aktiviert</German>
     <Italian>Abilita i sistemi di supporto vitale di emergenza</Italian>
-    <Russian>Аварийные системы жизнеобеспечения включены</Russian>
+    <Russian>생명 유지 장치를 가동하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9994,7 +9989,7 @@ D'emergenza</Italian>
     <French> Réinitialisation </French>
     <German> Neustart </German>
     <Italian>Reset </Italian>
-    <Russian>Перезагрузить </Russian>
+    <Russian>초기화 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10018,7 +10013,7 @@ D'emergenza</Italian>
     <French>Activé</French>
     <German>Aktiviert</German>
     <Italian>Abilitato</Italian>
-    <Russian>Вкл.</Russian>
+    <Russian>활성화됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10042,7 +10037,7 @@ D'emergenza</Italian>
     <French>Désactivé</French>
     <German>Deaktiviert</German>
     <Italian>Disabilitato</Italian>
-    <Russian>Откл.</Russian>
+    <Russian>비활성화됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10066,7 +10061,7 @@ D'emergenza</Italian>
     <French>Engager </French>
     <German>Übergeben </German>
     <Italian>Commit </Italian>
-    <Russian>Ввести </Russian>
+    <Russian>적용 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10090,7 +10085,7 @@ D'emergenza</Italian>
     <French>Déconnecter les processus électriques sortants</French>
     <German>Unterbreche Augehende Elektische Prozesse</German>
     <Italian>Disconnettere i processi elettrici in uscita</Italian>
-    <Russian>Все электрические процессы автономны</Russian>
+    <Russian>밖으로 나가는 전기 연결을 해제하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10114,7 +10109,7 @@ D'emergenza</Italian>
     <French>Commandes du moteur désactivées</French>
     <German>Triebwerk Kontrolle Deaktiviert</German>
     <Italian>Controlli del motore disabilitati</Italian>
-    <Russian>Управление двигателем отключено</Russian>
+    <Russian>엔진 조작 비활성화됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10138,7 +10133,7 @@ D'emergenza</Italian>
     <French>Calibreur des Piles de Combustible</French>
     <German>Brennstoffzellen Kalibrator</German>
     <Italian>Calibratore celle combustibile</Italian>
-    <Russian>Калибратор батарей</Russian>
+    <Russian>연료 전지 설정 장치</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10167,8 +10162,7 @@ de Combustible</French>
 Einsetzen</German>
     <Italian>Inserire Cella 
 Alimentazione</Italian>
-    <Russian>Вставьте
-батарею</Russian>
+    <Russian>파워 셀을 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10197,8 +10191,7 @@ de Combustible</French>
 Eingerastet</German>
     <Italian>Cella Alimentazione
 Attiva</Italian>
-    <Russian>Батарея
-активирована</Russian>
+    <Russian>파워 셀 장치됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10222,7 +10215,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10246,7 +10239,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10270,7 +10263,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10294,7 +10287,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10318,7 +10311,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10342,7 +10335,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10366,7 +10359,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10390,7 +10383,7 @@ Attiva</Italian>
     <French>Messagerie</French>
     <German>Schreiben</German>
     <Italian>Messaggistica</Italian>
-    <Russian>Сообщение</Russian>
+    <Russian>메시지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10414,7 +10407,7 @@ Attiva</Italian>
     <French>Manette</French>
     <German>Gamepad</German>
     <Italian>Gamepad</Italian>
-    <Russian>Геймпад</Russian>
+    <Russian>키보드 + 마우스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10438,7 +10431,7 @@ Attiva</Italian>
     <French>Souris</French>
     <German>Maus</German>
     <Italian>Mouse</Italian>
-    <Russian>Мышь</Russian>
+    <Russian>마우스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10486,7 +10479,7 @@ Attiva</Italian>
     <French>Clic Gauche</French>
     <German>Links-Klick</German>
     <Italian>Clic Sinistro</Italian>
-    <Russian>Левая кнопка</Russian>
+    <Russian>좌 클릭</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10510,7 +10503,7 @@ Attiva</Italian>
     <French>Clic Droit</French>
     <German>Rechts-Klick</German>
     <Italian>Clic Destro</Italian>
-    <Russian>Правая кнопка</Russian>
+    <Russian>우 클릭</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10535,7 +10528,7 @@ Attiva</Italian>
     <German>Shift Links</German>
     <Italian>Tasto maiuscolo 
 di sinistra</Italian>
-    <Russian>Левый Shift</Russian>
+    <Russian>좌 Shift</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10583,7 +10576,7 @@ di sinistra</Italian>
     <French>Ctrl Gauche</French>
     <German>Strg Links</German>
     <Italian>Ctrl Sinistro</Italian>
-    <Russian>Левый Ctrl</Russian>
+    <Russian>좌 Ctrl</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10631,7 +10624,7 @@ di sinistra</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10658,7 +10651,7 @@ di sinistra</Italian>
 /Eingeben</German>
     <Italian>Interagire
 /Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>상호작용/선택</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10685,8 +10678,8 @@ di sinistra</Italian>
 /Zurück</German>
     <Italian>Esaminare
 /Indietro</Italian>
-    <Russian>Приблизить
-/отменить</Russian>
+    <Russian>조사
+/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10710,7 +10703,7 @@ di sinistra</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запустить</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10735,7 +10728,7 @@ di sinistra</Italian>
 Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴 열기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10759,7 +10752,7 @@ Augmentée</French>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10786,8 +10779,8 @@ Augmentée</French>
 /Einstellungen</German>
     <Italian>Pausa
 /Impostazioni</Italian>
-    <Russian>Пауза
-/настройки</Russian>
+    <Russian>일시정지
+/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10811,7 +10804,7 @@ Augmentée</French>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10835,7 +10828,7 @@ Augmentée</French>
     <French>     Choix des contrôles</French>
     <German>     Controller-Einstellungen</German>
     <Italian>  Formato controller</Italian>
-    <Russian>     Формат контроллера</Russian>
+    <Russian>     컨트롤러 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10863,8 +10856,7 @@ Fréquence</French>
 Frequenz</German>
     <Italian>Analisi
 Frequenza</Italian>
-    <Russian>Анализ 
-частоты</Russian>
+    <Russian>주파수 조정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10888,7 +10880,7 @@ Frequenza</Italian>
     <French>Ecran 1</French>
     <German>Monitor 1</German>
     <Italian>Monitor 1</Italian>
-    <Russian>Монитор 1</Russian>
+    <Russian>모니터 1</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10912,7 +10904,7 @@ Frequenza</Italian>
     <French>     Ecran actuel</French>
     <German>     Aktueller Monitor</German>
     <Italian> Monitor Corrente</Italian>
-    <Russian>     Выбор монитора</Russian>
+    <Russian>     현재 모니터</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10936,7 +10928,7 @@ Frequenza</Italian>
     <French>Bureau de la Maintenance</French>
     <German>Wartungsraum</German>
     <Italian>Stanza Manutenzione</Italian>
-    <Russian>Комната техобслуживания</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10960,7 +10952,7 @@ Frequenza</Italian>
     <French>Aiden Vyse</French>
     <German>Aiden Vyse</German>
     <Italian>Aiden Vyse</Italian>
-    <Russian>Эйден Вайз</Russian>
+    <Russian>에이든 비제</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -10984,7 +10976,7 @@ Frequenza</Italian>
     <French>Médical</French>
     <German>Medizinisch</German>
     <Italian>Medico</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11008,7 +11000,7 @@ Frequenza</Italian>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11032,7 +11024,7 @@ Frequenza</Italian>
     <French>Silas Haze</French>
     <German>Silas Haze</German>
     <Italian>Silas Haze</Italian>
-    <Russian>Сайлас Хейз</Russian>
+    <Russian>사일러스 헤이즈</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11056,7 +11048,7 @@ Frequenza</Italian>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11080,7 +11072,7 @@ Frequenza</Italian>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11104,7 +11096,7 @@ Frequenza</Italian>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11128,7 +11120,7 @@ Frequenza</Italian>
     <French>Objet ajouté à l'Inventaire</French>
     <German>Gegenstand Dem Inventar Hinzugefügt</German>
     <Italian>Articolo aggiunto all'inventario</Italian>
-    <Russian>Новый инвентарь</Russian>
+    <Russian>아이템이 인벤토리에 추가됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11152,7 +11144,7 @@ Frequenza</Italian>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
-    <Russian>Салон</Russian>
+    <Russian>라운지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11176,7 +11168,7 @@ Frequenza</Italian>
     <French>Maintenance</French>
     <German>Wartung</German>
     <Italian>Manutenzione</Italian>
-    <Russian>Техобслуживание</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19222,7 +19214,7 @@ Aiden Vyse</Italian>
     <French>Maintenance</French>
     <German>Wartung</German>
     <Italian>Manutenzione</Italian>
-    <Russian>Техобслуживание</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20832,7 +20824,7 @@ Firma registro obbligatoria.</Italian>
     <French>Explorez l'Espial</French>
     <German>Entdecken Sie der Espial</German>
     <Italian>Esplora L'Espial</Italian>
-    <Russian>Исследуйте Созерцатель</Russian>
+    <Russian>에스파이얼 호 내부를 탐색하기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20856,7 +20848,7 @@ Firma registro obbligatoria.</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20884,8 +20876,7 @@ Mila</French>
 Mila</German>
     <Italian>L'ufficio 
 di Mila</Italian>
-    <Russian> Офис
-Милы</Russian>
+    <Russian> 밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20909,7 +20900,7 @@ di Mila</Italian>
     <French>    Langage</French>
     <German>     Sprache</German>
     <Italian>  Linguaggio</Italian>
-    <Russian>     язык</Russian>
+    <Russian>     언어</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20933,7 +20924,7 @@ di Mila</Italian>
     <French>     Langage</French>
     <German>     Sprache</German>
     <Italian>  Linguaggio</Italian>
-    <Russian>     язык</Russian>
+    <Russian>     언어</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
