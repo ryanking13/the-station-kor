@@ -21,7 +21,7 @@
     <French>Objectif Complété</French>
     <German>Ziel Abgeschlossen</German>
     <Italian>Obiettivo completato</Italian>
-    <Russian>Задача выполнена</Russian>
+    <Russian>목표 달성</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -45,7 +45,7 @@
     <French>     AA Augmenté</French>
     <German>     Enhanced AA</German>
     <Italian> Enhanced AA</Italian>
-    <Russian>       Улучшенное сглаживание</Russian>
+    <Russian>       향상된 안티 앨리어싱</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -69,7 +69,7 @@
     <French>Silas Haze</French>
     <German>Silas Haze</German>
     <Italian>Эйден Вайз</Italian>
-    <Russian>САЙЛАС</Russian>
+    <Russian>사일러스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -93,7 +93,7 @@
     <French>Fréquence Non-Enregistrée</French>
     <German>Nicht Registrierte Frequenz</German>
     <Italian>Frequenza non registrata</Italian>
-    <Russian>Незарегистрированная частота</Russian>
+    <Russian>등록되지 않은 주파수</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -117,7 +117,7 @@
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -141,7 +141,7 @@
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -165,7 +165,7 @@
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -189,7 +189,7 @@
     <French>     Ombres</French>
     <German>     Bloom</German>
     <Italian> Fioritura</Italian>
-    <Russian>     Размытие</Russian>
+    <Russian>     광원효과</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -213,7 +213,7 @@
     <French>     Ombres</French>
     <German>     Bloom</German>
     <Italian> Fioritura</Italian>
-    <Russian>     Размытие</Russian>
+    <Russian>     광원효과</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -237,7 +237,7 @@
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Вкл</Russian>
+    <Russian>켜기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -261,7 +261,7 @@
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Вкл</Russian>
+    <Russian>켜기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -285,7 +285,7 @@
     <French>     Mouvements de tête</French>
     <German>     Kopfwackeln</German>
     <Italian> Headbob</Italian>
-    <Russian>     Покачивание головы</Russian>
+    <Russian>     움직일 때 화면 흔들림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -309,7 +309,7 @@
     <French>     Mouvements de tête</French>
     <German>     Kopfwackeln</German>
     <Italian> Headbob</Italian>
-    <Russian>     Покачивание головы</Russian>
+    <Russian>     움직일 때 화면 흔들림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -333,7 +333,7 @@
     <French>     Luminosité</French>
     <German>     Helligkeit</German>
     <Italian> Luminosità</Italian>
-    <Russian>     Яркость</Russian>
+    <Russian>     밝기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -357,7 +357,7 @@
     <French>     Luminosité</French>
     <German>     Helligkeit</German>
     <Italian> Luminosità</Italian>
-    <Russian>     Яркость</Russian>
+    <Russian>     밝기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -381,7 +381,7 @@
     <French>Objectifs Complétés</French>
     <German>Abgeschlossene Ziele</German>
     <Italian>Obiettivi completati</Italian>
-    <Russian>Выполненные задачи</Russian>
+    <Russian>목표 달성</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -405,7 +405,7 @@
     <French>Nouveau Objectif ajouté</French>
     <German>Neues Ziel Hinzugefügt</German>
     <Italian>Nuovo obiettivo aggiunto</Italian>
-    <Russian>Добавлена новая задача</Russian>
+    <Russian>새 목표 추가</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -453,7 +453,7 @@
     <French>&lt;b&gt;Producteur &amp; Directeur créatif&lt;/b&gt;</French>
     <German>&lt;b&gt;Creative Director &amp; Produzent&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Direttore creativo e produttore&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Креативный директор и продюсер&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;크리에이티브 디렉터 &amp; 프로듀서&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -501,7 +501,7 @@
     <French>&lt;b&gt;Producteur Exécutif&lt;/b&gt;</French>
     <German>&lt;b&gt;Ausführender Produzent&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Produttore esecutivo&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Исполнительный продюсер&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;제작 프로듀서&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -525,7 +525,7 @@
     <French>&lt;b&gt;Directeur Design&lt;/b&gt;</French>
     <German>&lt;b&gt;Design Director&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Design Director&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Главный дизайнер&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;디자인 디렉터&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -549,7 +549,7 @@
     <French>&lt;b&gt;Directeur Audio&lt;/b&gt;</French>
     <German>&lt;b&gt;Audio Director&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Direttore audio&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Звукорежиссёр&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;오디오 디렉터р&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -573,7 +573,7 @@
     <French>&lt;b&gt;Directeur Artistique&lt;/b&gt;</French>
     <German>&lt;b&gt;Art Director&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Art Director&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Художественный руководитель&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;아트 디렉터&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -597,7 +597,7 @@
     <French>&lt;b&gt;Responsable Programmation&lt;/b&gt;</French>
     <German>&lt;b&gt;Leitender Programmierer&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Programmatore responsabile&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Ведущий программист&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;리드 프로그래머&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -621,7 +621,7 @@
     <French>&lt;b&gt;Histoire par&lt;/b&gt;</French>
     <German>&lt;b&gt;Geschichte von&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Storia di&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Сюжет&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;스토리&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -645,7 +645,7 @@
     <French>&lt;b&gt;Script par&lt;/b&gt;</French>
     <German>&lt;b&gt;Skript von&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Script di&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Сценарий&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;스크립트&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -789,7 +789,7 @@
     <French>Kevin Harwood &amp; Kevin Elliott</French>
     <German>Kevin Harwood &amp; Kevin Elliott</German>
     <Italian>Kevin Harwood &amp; Kevin Elliott</Italian>
-    <Russian>Kevin Harwood и Kevin Elliott</Russian>
+    <Russian>Kevin Harwood &amp; Kevin Elliott</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -813,7 +813,7 @@
     <French>Kevin Harwood &amp; Dave Fracchia</French>
     <German>Kevin Harwood &amp; Dave Fracchia</German>
     <Italian>Kevin Harwood &amp; Dave Fracchia</Italian>
-    <Russian>Kevin Harwood и Dave Fracchia</Russian>
+    <Russian>Kevin Harwood &amp; Dave Fracchia</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -837,7 +837,7 @@
     <French>Sas Désengagé</French>
     <German>Luftschleuse Geöffnet</German>
     <Italian>Airlock Disinnestato</Italian>
-    <Russian>Шлюзовый замок деактивирован</Russian>
+    <Russian>에어록 개방됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -861,7 +861,7 @@
     <French>     Volume des Effets</French>
     <German>     Effektlautstärke</German>
     <Italian> Volume effetto</Italian>
-    <Russian>     Громкость эффектов</Russian>
+    <Russian>     효과음 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -885,7 +885,7 @@
     <French>     Volume des Effets</French>
     <German>     Effektlautstärke</German>
     <Italian> Volume effetto</Italian>
-    <Russian>     Громкость эффектов</Russian>
+    <Russian>     효과음 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -909,7 +909,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -933,7 +933,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -957,7 +957,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -981,7 +981,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1005,7 +1005,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1029,7 +1029,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1053,7 +1053,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1077,7 +1077,7 @@
     <French>Message</French>
     <German>Mail</German>
     <Italian>Mail</Italian>
-    <Russian>Почта</Russian>
+    <Russian>메일</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1101,7 +1101,7 @@
     <French>Sas Engagé</French>
     <German>Luftschleuse Geschlossen</German>
     <Italian>Airlock Attivato</Italian>
-    <Russian>Шлюзовый замок активирован</Russian>
+    <Russian>에어록 개방됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1125,7 +1125,7 @@
     <French>Insérer une Pile de Combustible pour commencer le Calibrage</French>
     <German>Brennstoffzelle Einsetzen um Kalibrierung zu Beginnen</German>
     <Italian>Inserire la cella a combustibile per iniziare la calibrazione</Italian>
-    <Russian>Вставьте батарею для калибровки</Russian>
+    <Russian>측정을 위해 연로 전지를 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1149,7 +1149,7 @@
     <French>Toutes les Piles de Combustible doivent être actives et proprement calibrées pour autoriser le contrôle </French>
     <German>Alle Brennstoffzellen müssen aktiv und ordnungsgemäß kalibriert sein um die Steuerung zu aktivieren </German>
     <Italian>Tutte le celle a combustibile devono essere attive e correttamente calibrate per abilitare i controlli </Italian>
-    <Russian>Для активации управления все батареи должны быть заряжены и откалиброваны </Russian>
+    <Russian>조작을 위해서는 모든 연료 전지가 활성 상태로 설정이 완료되어야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1173,7 +1173,7 @@
     <French>     Champ de vue</French>
     <German>     Sichtfeld</German>
     <Italian> Campo visivo</Italian>
-    <Russian>     Угол обзора</Russian>
+    <Russian>     시야</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1197,7 +1197,7 @@
     <French>     Champ de vue</French>
     <German>     Sichtfeld</German>
     <Italian> Campo visivo</Italian>
-    <Russian>     Угол обзора</Russian>
+    <Russian>     시야</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2463,7 +2463,7 @@ Fitchburg State University
 
 &lt;b&gt;Ringraziamenti Speciali
 &lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;Озвучка&lt;/b&gt;
+    <Russian>&lt;b&gt;Voice Acting&lt;/b&gt;
 
 
 
@@ -2476,14 +2476,14 @@ Fitchburg State University
 
  
 
-&lt;b&gt;Подбор актёров и режиссура
+&lt;b&gt;Voice Casting and Direction by
 &lt;/b&gt;
 
 
 
 
 
- &lt;b&gt;Продюсер&lt;/b&gt;
+ &lt;b&gt;Production&lt;/b&gt;
 
 
 
@@ -2492,14 +2492,14 @@ Fitchburg State University
 
 
 
-&lt;b&gt;3d-художники&lt;/b&gt;
+&lt;b&gt;3D Artists&lt;/b&gt;
 
 
 
 
 
 
-&lt;b&gt;2d-художники&lt;/b&gt;
+&lt;b&gt;2D Artists&lt;/b&gt;
 
 
 
@@ -2509,7 +2509,7 @@ Fitchburg State University
 
 
 
-&lt;b&gt;Художники по персонажам&lt;/b&gt;
+&lt;b&gt;Character Artists&lt;/b&gt;
 
 
 
@@ -2518,7 +2518,8 @@ Fitchburg State University
 
 
 
-&lt;b&gt;Аутсорс&lt;/b&gt;
+&lt;b&gt;3rd Party Assets
+&lt;/b&gt;
 
 
 
@@ -2529,7 +2530,8 @@ Fitchburg State University
 
 
 
-&lt;b&gt;Программирование&lt;/b&gt;
+&lt;b&gt;Programming
+&lt;/b&gt;
 
 
 
@@ -2539,9 +2541,10 @@ Fitchburg State University
 
 
 
+&lt;b&gt;Audio
+&lt;/b&gt;
 
 
-&lt;b&gt;Звук&lt;/b&gt;
 
 
 
@@ -2551,35 +2554,39 @@ Fitchburg State University
 
 
 
+&lt;b&gt;Quality Assurance
+&lt;/b&gt;
 
 
-&lt;b&gt;Контроль качества&lt;/b&gt;
 
 
 
 
+&lt;b&gt;Marketing &amp; Creative Support
+&lt;/b&gt;
 
 
 
-&lt;b&gt;Маркетинг и поддержка&lt;/b&gt;
 
 
 
 
 
+&lt;b&gt;Motion Capture
+&lt;/b&gt;
 
 
 
 
-&lt;b&gt;Motion Capture&lt;/b&gt;
 
+&lt;b&gt;Fitchburg State University Test Team
+&lt;/b&gt;
 
 
 
 
 
 
-&lt;b&gt;Тестеры из Fitchburg State University&lt;/b&gt;
 
 
 
@@ -2597,14 +2604,8 @@ Fitchburg State University
 
 
 
-
-
-
-
-
-
-
-&lt;b&gt;Саундтрек&lt;/b&gt;
+&lt;b&gt;Music And Score
+&lt;/b&gt;
 
  
 
@@ -2615,17 +2616,18 @@ Fitchburg State University
 
 
 
-&lt;b&gt;Вкладчики с Kickstarter&lt;/b&gt;
+&lt;b&gt;Kickstarter Backers
+&lt;/b&gt;
+&lt;b&gt;Concept Artist, Creative Consultant 
+&amp; Backer&lt;/b&gt;
+
+
+
+
+
  
-
-&lt;b&gt;Концепт-художник, творческий консультант и вкладчик&lt;/b&gt;
-
-
-
-
-
- 
-&lt;b&gt;Творческий консультант и вкладчик&lt;/b&gt;
+&lt;b&gt;Creative Consultant &amp; Backer
+&lt;/b&gt;
 
             
 
@@ -2635,9 +2637,8 @@ Fitchburg State University
 
 
  
-
-                                          
-&lt;b&gt;Вкладчики&lt;/b&gt;
+                                  	
+&lt;b&gt;Backers&lt;/b&gt;
 
 
  
@@ -2709,7 +2710,8 @@ Fitchburg State University
 
 
 
-&lt;b&gt;Особая благодарность&lt;/b&gt;</Russian>
+&lt;b&gt;Special Thanks
+&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2733,7 +2735,7 @@ Fitchburg State University
     <French>Crtl Gauche</French>
     <German>L-Strg</German>
     <Italian>S-Ctrl</Italian>
-    <Russian>L-Ctrl</Russian>
+    <Russian>좌 Ctrl</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2781,7 +2783,7 @@ Fitchburg State University
     <French>Maj Gauche</French>
     <German>L-Shift</German>
     <Italian>S-Shift</Italian>
-    <Russian>L-Shift</Russian>
+    <Russian>좌 Shift</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3086,63 +3088,63 @@ Traccia Asse
 Sensore ad ultrasuoni 2ms
 
 Sensore ad ultrasuoni 5ms</Italian>
-    <Russian>Абсолютный ДУП
+    <Russian>앱솔루트 인코더
 
-Соединительная втулка, трение 3m
+연결용 못, 마찰 3m
 
-Двойной драйвер шпинделя
+듀얼 모터 드라이버
 
-Привод Dynamixel
+다이나믹셀 서보모터
 
-Регулятор напряжения E40
+E40 전압 조정기
 
-Ферритовое кольцо
+자석 링
 
-Ось Grove 3
+그로브 3 - 축
 
-Ось Grove 4
+그로브 4 - 축
 
-Гиростабилизатор 3200
+IMU 자이로스코프 3200
 
-Гиростабилизатор 5200
+IMU 자이로스코프 5200
 
-Накапливающий ДУП
+인크리멘탈 인코더
 
-Ионный излучатель
+아이오닉 빔
 
-Плата Makeblock Orion
+Makeblock Orion
 
-Адаптер Me RJ25
+Me RJ25 어댑터
 
-Адаптер Me RJ35
+Me RJ35 어댑터
 
-Адаптер Me RJ45
+Me RJ45 어댑터
 
-Модульный привод pn55
+모듈러 작동기 pn55
 
-Модульный привод pn85
+모듈러 작동기 pn85
 
-Акселерометр PhidgetSpatial
+Phidget Spatial 가속도계
 
-Сенсор давления
+압력 센서
 
-Воротник сальника
+수갱구
 
-Cоленоидный клапан
+전자 밸브
 
-Синапсный предохранитель 35-ln
+시냅시스 퓨즈 35 ln
 
-Синапсный предохранитель 55-ln
+시냅시스 퓨즈 55 ln
 
-Ремень передачи 240
+타이밍 벨트 240
 
-Ремень передачи 98
+타이밍 벨트 98
 
-Трекинговая ось
+Track Axle
 
-Ультразвуковой сенсор 2ms
+초음파 센서 2ms
 
-Ультразвуковой сенсор 5ms</Russian>
+초음파 센서 5ms</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3250,24 +3252,23 @@ Missione Giorno 5        6|22         AXM DZ-15           Units 1 - 6           
 Missione Giorno 0       14|54       STO VP-SRS           6453        Saito Rep #845           &lt;size=60&gt;Nave rifornimento carburante 
                                                                                                                                                                 per il vascello
 e controllo di sicurezza&lt;/size&gt;</Italian>
-    <Russian>Миссия, день 17       14|54     *Неизвестно*       *Неизвестно*        *Неизвестно*
+    <Russian>미션 데이 17    14|54     *알수 없음*       *알수 없음*        *알수 없음*
 
 
 
 
-Миссия, день 8           9|43       AXM DZ-15        Отделы 2 и 3            Эйден                         Добыча образцов жизни      
-                                                                                                                                                             и воды
+미션 데이 8        9|43       AXM DZ-15        Units 2 &amp;3            에이든                생명체 &amp; 물 샘플 수집
 
 
 
 
-Миссия, день 5          6|22       AXM DZ-15       Отделы 1 - 6             Эйден                            Добыча образцов твёрдой 
-                                                                                                                                                              почвы
+미션 데이 5        6|22       AXM DZ-15       Units 1 - 6             에이든               육지 샘플
+                                                                                                                                                         수집
 
 
 
-Миссия, день 0        14|54       STO VP-SRS          6453          Отчёт Сайто #845           Доставка тиацинового топлива 
-                                                                                                                                                      и проверка безопасности</Russian>
+미션 데이 0       14|54       STO VP-SRS          6453          Saito 담당자  #845     Thyacine 연료 공급 장치 
+                                                                                                                                                  &amp; 안전 점검</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3902,15 +3903,15 @@ Nicholas Bohling
 Shaun Downey</Italian>
     <Russian> 
 
-“Mila Lexa”       
-“Silas Haze”         
-“Aiden Vyze”         
-“Narrator” 
-“Espial Voice”            
-“Politician #1”         
-“Politician #2”       
+밀라 렉사     
+사일러스 헤이즈       
+에이든 비제        
+나레이션
+에스파이얼호 목소리           
+의원 #1        
+의원 #2      
 
-Дополнительные реплики
+기타 목소리
  
 
 
@@ -4322,57 +4323,57 @@ Pulire prima di installare
 EEPROM
 
 EEPROM</Italian>
-    <Russian>Модель с широкими щитами
+    <Russian>Wide shield model
 
 
 
-54 цифровых входов
+54 digital I/O
 
-Крутящий момент: 4.1/57
-
-
-
-
-
-Дизайн основан на ATmega2560
-
-Дизайн основан на ATmega2560
-
-Процессор: Cortex A53
-
-Процессор: Cortex A83
-
-Ревизия 3
-
-
-
-Совместимость со щитами
-
-Предварительная спайка
-
-Предварительная спайка
-
-Предварительная спайка
-
-Двойной H-мост
-
-Двойной H-мост
-
-
-
-Встроенный 802.11n
+Torque: 4.1/57
 
 
 
 
 
+Design based on ATmega2560
+
+Design based on ATmega2560
+
+Cortex - A53 CPU
+
+Cortex - A83 CPU
+
+Revision 3
+
+
+
+Compatible with shields
+
+Pre-soldered
+
+Pre-soldered
+
+Pre-soldered
+
+Dual H-bridge
+
+Dual H-bridge
+
+
+
+Integrated 802.11n
 
 
 
 
-Очистите перед установкой
 
-Очистите перед установкой
+
+
+
+
+Clean before installing
+
+Clean before installing
 
 
 
@@ -4502,7 +4503,7 @@ Stick</German>
     <French>Accès Autorisé</French>
     <German>Zugriff Gewährt</German>
     <Italian>Accesso Garantito</Italian>
-    <Russian>Доступ разрешён</Russian>
+    <Russian>접근 허용됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -4554,8 +4555,7 @@ la oscuridad</Spanish>
 im Dunklen</German>
     <Italian>I regolatori funzionanti si 
 illumineranno al buio</Italian>
-    <Russian>Исправные регуляторы будут 
-светиться в темноте</Russian>
+    <Russian>작동중인 조정 장치는 어둠 속에서 빛을 냅니다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -5187,9 +5187,9 @@ Dave Fracchia
 
 
 
-Продюсер
-Продюсер
-Ассоциированный продюсер
+Producer
+Producer
+Associate Producer
 
 
 
@@ -5197,36 +5197,28 @@ Dave Fracchia
 
 
 
-3d-художник по окружению
-3d-художник по декорациям
+3D Environment Artist
+3D Prop Artist
 
 
 
 
 
-&lt;size=40&gt;Ведущий художник по интерфейсу и концептам&lt;/size&gt;
-Концепт-художник
-2d-художник
-2d-художник
-2d-художник
-Веб-дизайн
+Lead UI &amp; Concept Artist
+Concept Artist
+2D Artist
+2D Artist
+2D Artist
+Web Designer
 
 
 
 
-&lt;size=50&gt;3d-художник и дизайнер персонажей&lt;/size&gt;
-&lt;size=50&gt;3d-художник и дизайнер персонажей&lt;/size&gt;
-Дизайн персонажей
-Риггинг 3d-моделей
-Анимация
-
-
-
-
-
-
-
-
+3D Character Designer &amp; Artist
+3D Character Designer &amp; Artist
+Character Designer
+3D Model Rigger
+Animator
 
 
 
@@ -5236,52 +5228,60 @@ Dave Fracchia
 
 
 
-&lt;size=45&gt;Программист и художник по технике&lt;/size&gt;
-Программист
-Обслуживание сервера
-Веб-программист
-Веб-программист
-Интерн-программист
 
 
 
 
 
 
-Звуковой дизайн и
-дизайн аудио-систем
-
-Звуковой дизайн и
-звуковая реализация
-
-Аудио-программирование
 
 
-
-
-
-
-Глава контроля качества
-Тестер по качеству
-Тестер по качеству
+Programmer and Tech Artist
+Programmer
+Server Engineer
+Web Programmer
+Web Programmer
+Programming Intern
 
 
 
 
 
 
-Комьюнити-менеджер
-Консультант по PR
-Консультант по маркетингу
-&lt;size=50&gt;Консультант по науке и технологии&lt;/size&gt;
-&lt;size=50&gt;Консультант по науке и технологии&lt;/size&gt;
+Sound Design and 
+Audio Systems Design
+
+Sound Design and 
+Audio Implementation
+
+Audio Programming
 
 
 
 
 
-Актёр Motion Capture
-Актёр Motion Capture</Russian>
+
+QA Manager/Lead
+QA Tester
+QA Tester
+
+
+
+
+
+
+Community Manager
+PR Consultant
+Marketing Consultant
+Science &amp; Technology Consultant
+Science &amp; Technology Consultant
+
+
+
+
+
+Motion Capture Actor
+Motion Capture Actor</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -5318,11 +5318,9 @@ Intakte Sicherungen reagieren magnetisch</German>
 
 I fusibili intatti reagiranno
  magneticamente</Italian>
-    <Russian>Исправные предохранители 
-реагируют на магниты
+    <Russian>정상적인 퓨즈는 자기적으로 반응합니다
 
-Исправные предохранители 
-реагируют на магниты</Russian>
+정상적인 퓨즈는 자기적으로 반응합니다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -5346,7 +5344,7 @@ I fusibili intatti reagiranno
     <French>Disfonctionnement du Scanner</French>
     <German>Scanner Fehlfunktion</German>
     <Italian>Malfunzionamento Scanner</Italian>
-    <Russian>Неисправность сканера</Russian>
+    <Russian>스캐너 오작동</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -6651,8 +6649,8 @@ Tutte le nostre famiglie e amici!</Italian>
 
 
 
-Kevin Harwood, Dave Fracchia 
-и Mike Torillo
+    Kevin Harwood, Dave Fracchia 
+&amp; Mike Torillo
 
 
 
@@ -6779,11 +6777,11 @@ Tyler White
 
 
 
-Оригинальный саундтрек: Duncan Watt
+Original Score by Duncan Watt
  
-“A Lullaby For The Lonely” (финальные титры)
+“A Lullaby For The Lonely” (End Credits)
 ©2011 Mimi Page (BMI)
-Создано и исполнено: Mimi Page
+ Written, produced and performed by Mimi Page
 
 
  
@@ -6809,7 +6807,7 @@ Tom Lantz
 Marco Konar
 David Broad
 Wil McLean
-                                                       
+                                               	
 
 
 
@@ -6884,11 +6882,12 @@ SwordFire
 
 
 
-Amanda Lawton и Taylor Lawton
+
+Amanda Lawton &amp; Taylor Lawton
 Canadian Space Society
 The Center for Digital Media
 Fitchburg State University
-Все наши семьи и друзья!</Russian>
+All of our families and friends!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -6912,7 +6911,7 @@ Fitchburg State University
     <French>Scan</French>
     <German>Scannvorgang</German>
     <Italian>Scansione</Italian>
-    <Russian>Идёт сканирование</Russian>
+    <Russian>스캔 진행중</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -6941,8 +6940,7 @@ pour commencer la séquence de scan</French>
 um Scannvorgang zu beginnen</German>
     <Italian>Sostituisci/riallinea la cella di potenza 
 per iniziare la sequenza di scansione</Italian>
-    <Russian>Вставьте или замените батарею,
-чтобы начать сканирование</Russian>
+    <Russian>스캔을 시작하려면 파워 셀을 모두 제 위치에 놓으세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -6966,7 +6964,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Etape 4: Redémarrage réacteur</French>
     <German>Schritt 4: Antriebs-Neustart</German>
     <Italian>Passaggio 4: Reset Motore</Italian>
-    <Russian>Шаг 4: перезагрузка двигателя</Russian>
+    <Russian>4 단계: 엔진 초기화</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -6990,7 +6988,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Scan complet</French>
     <German>Scannvorgang Abgeschlossen</German>
     <Italian>Scansione Completata</Italian>
-    <Russian>Сканирование завершено</Russian>
+    <Russian>스캔 완료</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7014,7 +7012,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Etape 3: Déplacement</French>
     <German>Schritt 3: Verlagerung</German>
     <Italian>Passaggio 3: Trasferimento</Italian>
-    <Russian>Шаг 3: замена</Russian>
+    <Russian>3 단계: 바꾸어 놓기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7038,7 +7036,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Etape 2: Calibrage</French>
     <German>Schritt 2: Kalibrierung</German>
     <Italian>Passaggio 2: Calibrazione</Italian>
-    <Russian>Шаг 2: калибровка</Russian>
+    <Russian>2 단계: 측정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7062,7 +7060,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Manifeste de rangement des caisses</French>
     <German>Kisten-Ablage Komponenten Manifest</German>
     <Italian>Crare Manifesto Componente Rack</Italian>
-    <Russian>    Список компонентов в хранилище</Russian>
+    <Russian>   상자 적하 물품 표</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7086,7 +7084,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Manifeste des vols entrant et sortant</French>
     <German>Eingehende und Ausgehende Flüge Manifest</German>
     <Italian>Manifesto di volo in entrata e in uscita</Italian>
-    <Russian>    Список входящих и исходящих рейсов</Russian>
+    <Russian>    비행 적하 물품 목록</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7110,7 +7108,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Etape 1: Microfabrication</French>
     <German>Schritt 1: Microfabrikation</German>
     <Italian>Passaggio 1: Microfabbricazione</Italian>
-    <Russian>Шаг 1: микрофабрикация</Russian>
+    <Russian>1 단계: 미세가공</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7134,7 +7132,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>  Nom                            Localisation                   Notes</French>
     <German>  Bauteil Name                   Lage                   Notizen</German>
     <Italian>Nome Parte                   Luogo                   Note</Italian>
-    <Russian>  Компонент                       Ячейка               Примечания</Russian>
+    <Russian>  구성요소 명칭                       위치               비고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7158,7 +7156,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>       Date      Heure   Type     Nombre   En service             Notes</French>
     <German>       Date      Zeit      Typ        Nummer       Dienst       Notizen</German>
     <Italian>       Data        Tempo   Genre   Numero    Di Turno           Note</Italian>
-    <Russian>       Дата             Время       Тип          Номер      Занятость        Примечания</Russian>
+    <Russian>       날짜             시간       종류          번호      책임자        비고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7182,7 +7180,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Fréquence Enregistrée</French>
     <German>Registrierte Frequenz</German>
     <Italian>Frequenza registrata</Italian>
-    <Russian>Требуемая частота</Russian>
+    <Russian>등록된 주파수</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7206,7 +7204,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Moyen</French>
     <German>Mittel</German>
     <Italian>Medio</Italian>
-    <Russian>Средние</Russian>
+    <Russian>중간</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7230,7 +7228,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>     Graphiques</French>
     <German>     Grafik</German>
     <Italian> Grafica</Italian>
-    <Russian>     Графика</Russian>
+    <Russian>     그래픽</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7254,7 +7252,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Chargement…</French>
     <German>Lädt…</German>
     <Italian>Caricamento in corso...</Italian>
-    <Russian>Загрузка...</Russian>
+    <Russian>로딩중...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7278,7 +7276,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Sauvegarde: Ne pas débrancher ou arrêter le système</French>
     <German>Datensicherung: Nicht Ausschalten oder Verbindung Trennen</German>
     <Italian>Salvataggio dei dati: non scollegare o spegnere il sistema</Italian>
-    <Russian>Игра сохраняется, не выключайте игру</Russian>
+    <Russian>저장 중: 전원을 끄지 마세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7302,7 +7300,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Activer le Registre</French>
     <German>Aktiver Eintrag</German>
     <Italian>Attiva Log</Italian>
-    <Russian>Активировать запись</Russian>
+    <Russian>로그 활성화</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7326,7 +7324,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Inspecter le Manifeste</French>
     <German>Manifest Inspizieren</German>
     <Italian>Ispeziona Manifesto</Italian>
-    <Russian>Изучить список</Russian>
+    <Russian>목록 조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7350,7 +7348,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Prendre Objets</French>
     <German>Gegenstände Aufnehmen</German>
     <Italian>Raccogli oggetti</Italian>
-    <Russian>Поднять предмет</Russian>
+    <Russian>물체 들기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7374,7 +7372,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Бег</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7398,7 +7396,7 @@ per iniziare la sequenza di scansione</Italian>
     <French>Pivoter ou Glisser</French>
     <German>Schwingen oder Ziehen</German>
     <Italian>Oscillare o trascinare</Italian>
-    <Russian>Повернуть или потянуть</Russian>
+    <Russian>물체 던지기/움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7423,7 +7421,7 @@ per iniziare la sequenza di scansione</Italian>
     <German>Zurück/
 Verlassen</German>
     <Italian>Indietro/Esci</Italian>
-    <Russian>Назад/выйти</Russian>
+    <Russian>뒤로가기/나가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7447,7 +7445,7 @@ Verlassen</German>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esaminare</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7471,7 +7469,7 @@ Verlassen</German>
     <French>Faire défiler</French>
     <German>Scrollen</German>
     <Italian>Scorrere</Italian>
-    <Russian>Прокрутка</Russian>
+    <Russian>스크롤</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7495,7 +7493,7 @@ Verlassen</German>
     <French>Sortir</French>
     <German>Verlassen</German>
     <Italian>Uscita</Italian>
-    <Russian>Выйти</Russian>
+    <Russian>나가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7519,7 +7517,7 @@ Verlassen</German>
     <French>Juste le texte</French>
     <German>Einfacher Text</German>
     <Italian>Testo normale</Italian>
-    <Russian>Простой текст</Russian>
+    <Russian>평문</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7543,7 +7541,7 @@ Verlassen</German>
     <French>Se baisser</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7567,7 +7565,7 @@ Verlassen</German>
     <French>Menu de Réalité Augmentée</French>
     <German>Augmented Reality Menü</German>
     <Italian>Menu della realtà aumentata</Italian>
-    <Russian>Меню дополненной реальности</Russian>
+    <Russian>증강현실 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7591,7 +7589,7 @@ Verlassen</German>
     <French>Option A</French>
     <German>Option A</German>
     <Italian>Opzione A</Italian>
-    <Russian>Вариант А</Russian>
+    <Russian>옵션 А</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7639,7 +7637,7 @@ Verlassen</German>
     <French>Droitier</French>
     <German>Rechtshänder</German>
     <Italian>Mano destra</Italian>
-    <Russian>Для правши</Russian>
+    <Russian>오른손잡이용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7663,7 +7661,7 @@ Verlassen</German>
     <French>Gaucher</French>
     <German>Rechtshänder</German>
     <Italian>Mano Destra</Italian>
-    <Russian>Для правши</Russian>
+    <Russian>오른손잡이용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7687,7 +7685,7 @@ Verlassen</German>
     <French>Clé de la Table des Elements</French>
     <German>Periodensystem Schlüssel</German>
     <Italian>Tabella degli elementi chiave</Italian>
-    <Russian>Пояснение к таблице элементов</Russian>
+    <Russian>구성요소 테이블</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7711,7 +7709,7 @@ Verlassen</German>
     <French>Hangar Principal</French>
     <German>Haupthangar</German>
     <Italian>Capannone principale</Italian>
-    <Russian>Главный ангар</Russian>
+    <Russian>주 격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7735,7 +7733,7 @@ Verlassen</German>
     <French>    Ignis Somnia</French>
     <German>    Ignis Somnia</German>
     <Italian>     Ignis Somnia</Italian>
-    <Russian>    Ignis somnia</Russian>
+    <Russian>    이그니스 솜니아</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7759,7 +7757,7 @@ Verlassen</German>
     <French>Porte du Salon </French>
     <German>     Loungetür </German>
     <Italian>    Porta Sala </Italian>
-    <Russian> Дверь салона </Russian>
+    <Russian> 라운지 출입문 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7783,7 +7781,7 @@ Verlassen</German>
     <French>Aile Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7807,7 +7805,7 @@ Verlassen</German>
     <French>Chambre de Silas</French>
     <German>Silas's Zimmer</German>
     <Italian>La stanza di Silas</Italian>
-    <Russian>Комната Сайласа</Russian>
+    <Russian>사일러스의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7831,7 +7829,7 @@ Verlassen</German>
     <French>Robot de Maintenance</French>
     <German>   Wartungsroboter</German>
     <Italian>Robot Manutenzione</Italian>
-    <Russian>Робот техобслуживания</Russian>
+    <Russian>관리 로봇</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7855,7 +7853,7 @@ Verlassen</German>
     <French>    Fréquence Incorrect</French>
     <German>    Inkorrekte Frequenz</German>
     <Italian>  Frequenza errata</Italian>
-    <Russian>        Неверная частота</Russian>
+    <Russian>        잘못된 주파수</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7879,7 +7877,7 @@ Verlassen</German>
     <French>    Fréquence Incorrect</French>
     <German>    Inkorrekte Frequenz</German>
     <Italian>  Frequenza errata</Italian>
-    <Russian>        Неверная частота</Russian>
+    <Russian>        잘못된 주파수</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7903,7 +7901,7 @@ Verlassen</German>
     <French>Labo supérieur</French>
     <German>Oberes Labor</German>
     <Italian>Laboratorio Superiore</Italian>
-    <Russian>Верхняя лаборатория</Russian>
+    <Russian>상층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7927,7 +7925,7 @@ Verlassen</German>
     <French>Bureau de la Maintenance</French>
     <German>    Wartungsraum</German>
     <Italian>Ufficio Manutenzione</Italian>
-    <Russian>Офис техобслуживания</Russian>
+    <Russian>관리 오피스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7951,7 +7949,7 @@ Verlassen</German>
     <French>Couloir de la Passerelle</French>
     <German>Brückenkorridor</German>
     <Italian>Corridoio Ponte</Italian>
-    <Russian>Коридор на мостик</Russian>
+    <Russian>선교 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7975,7 +7973,7 @@ Verlassen</German>
     <French>Ce spécimen suggère que la protection naturelle aux ultra-violets offerte par l’atmosphère c’est détériorée, résultant de l’abscission des organes de photosynthèse.</French>
     <German>Das Welken dieser Spezies suggeriert, dass der natürliche Ultraviolett-Lichtschutz, den die Atmosphäre bietet, sich verringert hat. Hierdurch ergibt sich eine Abszission der photosynthesierenden Organe.</German>
     <Italian>L'appassimento di questo esemplare suggerisce che la protezione alla luce ultravioletta naturale offerta dall'atmosfera si è deteriorata, provocando l'abscissione degli organi fotosintesi.</Italian>
-    <Russian>Увядание этого экземпляра свидетельствует о том, что отсутствие природной защиты от ультрафиолетовых лучей, осуществляемой атмосферой планеты, привело к отказу органов фотосинтеза.</Russian>
+    <Russian>이 표본은 대기를 통한 자연 자외선 보호가 광합성 장기의 이탈을 야기하였음을 나타내어줍니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -7999,7 +7997,7 @@ Verlassen</German>
     <French>Réparations Terminées</French>
     <German>Reparaturen abgeschlossen</German>
     <Italian>Riparazioni completate</Italian>
-    <Russian>Ремонт завершён</Russian>
+    <Russian>수리 완료</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8023,7 +8021,7 @@ Verlassen</German>
     <French>Cartographie physiologie des systèmes périphérique autonome, sympathique et somatique de l'espèce. </French>
     <German>Die periphere autonome, sympathische und somatische Systemkartierung der Physiologie der Spezies. </German>
     <Italian>La mappatura periferica autonomica, simpatica e somatica della fisiologia delle specie. </Italian>
-    <Russian>Физиологическая схема периферических вегетативной (симпатической) и соматической нервных систем рассматриваемого вида. </Russian>
+    <Russian>종의 자율 신경계, 교감 신경계, 체세포 시스템 매핑</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8047,7 +8045,7 @@ Verlassen</German>
     <French>Fréquence incorrecte détectée. Les Piles doivent être calibrées une fréquence compatible à celle du Transformateur</French>
     <German>Ungeeignete Frequenz erkannt. Brennstoffzellen müssen auf die entsprechenden Frequenzen ihrer Transformator-Ausgabegeräte eingestellt werden. </German>
     <Italian>Rilevata frequenza impropria. Le celle a combustibile devono essere calibrate alla frequenza appropriata di uscita del trasformatore di potenza del dispositivo.</Italian>
-    <Russian>Обнаружена неверная частота. Батареи должны быть откалиброваны на частоте, соответствующей их внешнему трансформатору питания.</Russian>
+    <Russian>잘못된 주파수가 감지되었습니다. 연료 전지는 변압기 출력 장치에 맞는 적합한 주파수로 설정되어야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8071,7 +8069,7 @@ Verlassen</German>
     <French>Pourcentage d’hydrogène de ces échantillons : 4,7. C’est trop acide pour la consommation sans être traité. A ce niveau, son ingestion cause probablement une diminution des fonction reproductives.</French>
     <German>Das Potenzial von Wasserstoff für diese Probe misst 4.7, was ohne Behandlung für den Verzehr zu Säurehaltig ist. In diesen Messbereich würde der Verzehr wahrscheinlich den Fortpflanzungsfunktionen schädigen.</German>
     <Italian>Il potenziale dell'idrogeno per questo campione misura 4.7, che è troppo acido per il consumo se non trattato. A questo intervallo, è probabile che l'ingestione danneggi le funzioni riproduttive.</Italian>
-    <Russian>Водородный показатель данной пробы pH=4.7, таким образом, кислотность слишком высока для непосредственного употребления. Такой показатель способен ухудшить репродуктивные функции.</Russian>
+    <Russian>이 샘플의 수소 수치는 4.7로, 매우 산성을 띄고 있어 적절한 처리 없이 섭취 시에는 생식 기능의 손상을 초래할 수 있습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8095,7 +8093,7 @@ Verlassen</German>
     <French>Vos données biologiques indiques que vous êtes…</French>
     <German>Ihre biologischen Metriken deuten darauf hin, dass sie….</German>
     <Italian>Le tue metriche biologiche indicano che sei ...</Italian>
-    <Russian>Ваши биологические показатели свидетельствуют, что вы...</Russian>
+    <Russian>생체학적 측정 결과 당신은...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8119,7 +8117,7 @@ Verlassen</German>
     <French>Fréquence incorrecte détectée. Les Piles doivent être calibrées une fréquence compatible à celle du Transformateur</French>
     <German>Ungeeignete Frequenz erkannt. Brennstoffzellen müssen auf die entsprechenden Frequenzen ihrer Transformator-Ausgabegeräte eingestellt werden. </German>
     <Italian>Rilevata frequenza impropria. Le celle a combustibile devono essere calibrate alla frequenza appropriata di uscita del trasformatore di potenza del dispositivo.</Italian>
-    <Russian>Обнаружена неверная частота. Батареи должны быть откалиброваны на частоте, соответствующей их внешнему трансформатору питания.</Russian>
+    <Russian>잘못된 주파수가 감지되었습니다. 연료 전지는 변압기 출력 장치에 맞는 적합한 주파수로 설정되어야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8163,11 +8161,9 @@ Prime Abitanti Psy.
 
 Elementi sconosciuti da
 Prime Abitanti Psy.</Italian>
-    <Russian>Элементы, открытые
-жителями Пси Прайм.
+    <Russian>외계 생명체들에게 알려진 원소.
 
-Элементы, не открытые
-жителями Пси Прайм.</Russian>
+외계 생명체들에게 알려지지 않은 원소.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8191,7 +8187,7 @@ Prime Abitanti Psy.</Italian>
     <French>Découverts dans des récifs de l’hémisphère nord, ces poissons ont évolués en intégrant des bactéries bioluminescentes dans leurs écailles. Par la reproduction, les descendants héritent des mêmes couleurs et motifs lumineux.</French>
     <German>Entdeckt in den Riffen der nördlichen Hemisphäre, integrieten diese Fische während ihrer Entwicklung biolumineszierende Bakterien in ihre Schuppen. Dem Nachwuchs werden die selben Farben und Muster weitervererbt.</German>
     <Italian>Scoperti nelle barriere dell'emisfero settentrionale, questi pesci si sono evoluti per integrare batteri bioluminescenti nelle loro squame. Attraverso l'ereditarietà, i figli erediteranno gli stessi schemi e disegni di colori.</Italian>
-    <Russian>Эти рыбки, обнаруженные в рифах северного полушария, развили способность интегрировать биолюминесцентные бактерии в свои чешуйки. Их потомство наследует цвет и расположение узоров своих родителей.</Russian>
+    <Russian>북반구 산호초에서 발견된 이 어류는, 진화의 결과 발광 박테리아를 그들의 비늘 속에 삽입했습니다. 유전적으로 자손들은 동일한 색상 패턴과 형태를 물려받게 됩니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8215,7 +8211,7 @@ Prime Abitanti Psy.</Italian>
     <French>Porte du Salon</French>
     <German>     Loungetür </German>
     <Italian>    Porta Sala</Italian>
-    <Russian> Дверь салона</Russian>
+    <Russian> 라운지 출입문</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8239,7 +8235,7 @@ Prime Abitanti Psy.</Italian>
     <French>Orange -</French>
     <German>Orange -</German>
     <Italian>Arancione -</Italian>
-    <Russian>Оранжевый -</Russian>
+    <Russian>주황색 -</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8263,7 +8259,7 @@ Prime Abitanti Psy.</Italian>
     <French>Stressé</French>
     <German>Angespannt</German>
     <Italian>Stressato</Italian>
-    <Russian>Напряжены</Russian>
+    <Russian>스트레스 심함</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8287,7 +8283,7 @@ Prime Abitanti Psy.</Italian>
     <French>Chambre de Silas</French>
     <German>Silas's Zimmer</German>
     <Italian>La stanza di Silas</Italian>
-    <Russian>Комната Сайласа</Russian>
+    <Russian>사일러스의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8311,7 +8307,7 @@ Prime Abitanti Psy.</Italian>
     <French>Bleu -</French>
     <German>Blau -</German>
     <Italian>Blu -</Italian>
-    <Russian>Синий -</Russian>
+    <Russian>파란색 -</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8335,7 +8331,7 @@ Prime Abitanti Psy.</Italian>
     <French> Robot de Maintenance</French>
     <German>    Wartungsroboter</German>
     <Italian> Robot Manutenzione</Italian>
-    <Russian> Робот техобслуживания</Russian>
+    <Russian> 관리 로봇</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8359,7 +8355,7 @@ Prime Abitanti Psy.</Italian>
     <French>Bracelet ID Valide Détecté</French>
     <German>Berechtigtes ID-Armband Erkannt</German>
     <Italian>Rilevato ID Braccialetto Valido</Italian>
-    <Russian>Обнаружен активный ID-браслет</Russian>
+    <Russian>올바른 ID 팔찌 감지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8383,7 +8379,7 @@ Prime Abitanti Psy.</Italian>
     <French>Hangar Principal</French>
     <German>Haupthangar</German>
     <Italian>Capannone Principale</Italian>
-    <Russian>Главный ангар</Russian>
+    <Russian>주 격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8407,7 +8403,7 @@ Prime Abitanti Psy.</Italian>
     <French>Couloir de la Passerelle</French>
     <German>Brückenkorridor</German>
     <Italian>Corridoio Ponte</Italian>
-    <Russian>Коридор на мостик</Russian>
+    <Russian>선교 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8431,7 +8427,7 @@ Prime Abitanti Psy.</Italian>
     <French>Systèmes Restaurés</French>
     <German>Systeme Wiederhergestellt</German>
     <Italian>Sistemi Ripristinati</Italian>
-    <Russian>Системы восстановлены</Russian>
+    <Russian>시스템 복구됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8455,7 +8451,7 @@ Prime Abitanti Psy.</Italian>
     <French>Labo inferieur</French>
     <German>Unteres Labor</German>
     <Italian>Laboratorio Inferiore</Italian>
-    <Russian>Нижняя лаборатория</Russian>
+    <Russian>하층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8479,7 +8475,7 @@ Prime Abitanti Psy.</Italian>
     <French>Erreur de composant</French>
     <German>     Bauteilfehler</German>
     <Italian>Errore Componente</Italian>
-    <Russian>Ошибка компонентов</Russian>
+    <Russian>구성요소 오류</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8503,7 +8499,7 @@ Prime Abitanti Psy.</Italian>
     <French>Composant incorrect ou endommagé détecté</French>
     <German>Fehlerhaftes oder defektes Bauteil erkannt</German>
     <Italian>Rilevato componente errato o danneggiato</Italian>
-    <Russian>Обнаружен неверный или повреждённый компонент</Russian>
+    <Russian>잘못되었거나 고장난 구성요소 감지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8527,7 +8523,7 @@ Prime Abitanti Psy.</Italian>
     <French>Régulateur de Voltage E40 installé </French>
     <German>E40 Spannungsregler Installiert </German>
     <Italian>Regolatore di tensione E40 installato </Italian>
-    <Russian>Регулятор напряжения E40 установлен </Russian>
+    <Russian>E40 전압 조절기 설치됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8551,7 +8547,7 @@ Prime Abitanti Psy.</Italian>
     <French>Bureau de la Maintenance</French>
     <German>    Wartungsraum</German>
     <Italian>Ufficio Manutenzione</Italian>
-    <Russian>Офис техобслуживания</Russian>
+    <Russian>관리 오피스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8575,7 +8571,7 @@ Prime Abitanti Psy.</Italian>
     <French>      Règles de jeu d'Espial</French>
     <German>   Espial Trinkspiel Regeln</German>
     <Italian>Regole per i bicchieri bevuti</Italian>
-    <Russian>Правила питейной игры на "Созерцателе"</Russian>
+    <Russian>에스파이얼 호 술게임 규칙</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8599,7 +8595,7 @@ Prime Abitanti Psy.</Italian>
     <French>Aile Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della Scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8623,7 +8619,7 @@ Prime Abitanti Psy.</Italian>
     <French>Voici une odeur relaxante pour vous calmer</French>
     <German>Hier ein entspannder Geruch zur Beruhigung</German>
     <Italian>Ecco un profumo rilassante per calmarti</Italian>
-    <Russian>Вот аромат, который успокоит ваши нервы</Russian>
+    <Russian>당신을 위한 진정 기능 향기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8647,7 +8643,7 @@ Prime Abitanti Psy.</Italian>
     <French>Bracelet ID Valide Détecté</French>
     <German>Berechtigtes ID-Armband Erkannt</German>
     <Italian>Rilevato ID Braccialetto Valido</Italian>
-    <Russian>Обнаружен активный ID-браслет</Russian>
+    <Russian>올바른 ID 팔찌 감지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8671,7 +8667,7 @@ Prime Abitanti Psy.</Italian>
     <French> Echec du système</French>
     <German>    Systemfehler</German>
     <Italian> Guasto Sistema</Italian>
-    <Russian> Ошибка системы</Russian>
+    <Russian> 시스템 오류</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -8695,7 +8691,7 @@ Prime Abitanti Psy.</Italian>
     <French>Bracelet ID Valide Détecté</French>
     <German>Berechtigtes ID-Armband Erkannt</German>
     <Italian>Rilevato ID Braccialetto Valido</Italian>
-    <Russian>Обнаружен активный ID-браслет</Russian>
+    <Russian>올바른 ID 팔찌 감지됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
