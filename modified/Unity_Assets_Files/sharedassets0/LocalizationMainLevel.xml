@@ -3257,17 +3257,17 @@ e controllo di sicurezza&lt;/size&gt;</Italian>
 
 
 
-미션 데이 8        9|43       AXM DZ-15        Units 2 &amp;3            에이든                생명체 &amp; 물 샘플 수집
+미션 8일차        9|43       AXM DZ-15        Units 2 &amp;3            에이든                생명체 &amp; 물 샘플 수집
 
 
 
 
-미션 데이 5        6|22       AXM DZ-15       Units 1 - 6             에이든               육지 샘플
+미션 5일차        6|22       AXM DZ-15       Units 1 - 6             에이든               육지 샘플
                                                                                                                                                          수집
 
 
 
-미션 데이 0       14|54       STO VP-SRS          6453          Saito 담당자  #845     Thyacine 연료 공급 장치 
+미션 0일차       14|54       STO VP-SRS          6453          Saito 담당자  #845     Thyacine 연료 공급 장치 
                                                                                                                                                   &amp; 안전 점검</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
@@ -11206,10 +11206,10 @@ Funktionierende Bauteile Leuchten in Dunkler Umgebung.</German>
 
 
 I componenti funzionanti si illuminano quando non sono sotto l'illuminazione diretta.</Italian>
-    <Russian>Сканирование показало повреждение компонентов.
+    <Russian>스캔 결과 손상된 부품이 존재하는 것이 확인되었습니다.
 
 
-Действующие компоненты будут светиться при отсутствии прямого освещения.</Russian>
+정상적인 부품들은 어두운 환경에서 빛을 발합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11248,10 +11248,10 @@ Funktionierende Bauteile Reagieren Magnetisch.</German>
 
 
 I componenti funzionanti reagiscono ai magneti.</Italian>
-    <Russian>Сканирование показало повреждение компонентов.
+    <Russian>스캔 결과 손상된 부품이 존재하는 것이 확인되었습니다.
 
 
-Действующие компоненты будут реагировать на магнитное поле.</Russian>
+정상적인 부품들은 자석에 반응합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11275,7 +11275,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Priorité d'alimentation</French>
     <German>Energie Überbrückung</German>
     <Italian>Potenza Annullata</Italian>
-    <Russian>Управление питанием</Russian>
+    <Russian>전원 재가동</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11299,7 +11299,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Priorité d'alimentation</French>
     <German>Energie Überbrückung</German>
     <Italian>Potenza Annullata</Italian>
-    <Russian>Управление питанием</Russian>
+    <Russian>전원 재가동</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11323,7 +11323,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Faire glisser pour diriger l'alimentation</French>
     <German>Punkt Schieben um Energierversorgung Ein/Aus zu Schalten</German>
     <Italian>Fai scorrere il nodo per accendere/spegnere</Italian>
-    <Russian>Передвиньте ползунок для вкл/выкл питания</Russian>
+    <Russian>도형을 드래그하여 전원을 켜고 끄세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11347,7 +11347,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Faire glisser pour diriger l'alimentation</French>
     <German>Punkt Schieben um Energierversorgung Ein/Aus zu Schalten</German>
     <Italian>Fai scorrere il nodo per accendere/spegnere</Italian>
-    <Russian>Передвиньте ползунок для вкл/выкл питания</Russian>
+    <Russian>도형을 드래그하여 전원을 켜고 끄세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11371,7 +11371,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11395,7 +11395,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11419,7 +11419,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11443,7 +11443,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11467,7 +11467,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11491,7 +11491,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11515,7 +11515,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11539,7 +11539,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Notes</French>
     <German>Notizen</German>
     <Italian>Note</Italian>
-    <Russian>Заметки</Russian>
+    <Russian>노트</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11565,8 +11565,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
 Ziele</German>
     <Italian>Obiettivi 
 attuali</Italian>
-    <Russian>Текущие 
-задачи</Russian>
+    <Russian>현재 목표</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11590,7 +11589,7 @@ attuali</Italian>
     <French>Enquêtez dans le Bureau de Mila</French>
     <German>Untersuche Mila's Büro</German>
     <Italian>Scappa dall'Espial</Italian>
-    <Russian>Описание задачи</Russian>
+    <Russian>목표 설명</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11614,7 +11613,7 @@ attuali</Italian>
     <French>Statut: Déverrouillé</French>
     <German>Status : Entsperrt</German>
     <Italian>Stato: Sbloccato</Italian>
-    <Russian>Статус: открыто</Russian>
+    <Russian>상태: 열림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11638,7 +11637,7 @@ attuali</Italian>
     <French>Statut: Déverrouillé</French>
     <German>Status : Entsperrt</German>
     <Italian>Stato: Sbloccato</Italian>
-    <Russian>Статус: открыто</Russian>
+    <Russian>상태: 열림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11662,7 +11661,7 @@ attuali</Italian>
     <French>Statut: Déverrouillé</French>
     <German>Status : Entsperrt</German>
     <Italian>Stato: Sbloccato</Italian>
-    <Russian>Статус: открыто</Russian>
+    <Russian>상태: 열림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11686,7 +11685,7 @@ attuali</Italian>
     <French>Statut: Déverrouillé</French>
     <German>Status : Entsperrt</German>
     <Italian>Stato: Sbloccato</Italian>
-    <Russian>Статус: открыто</Russian>
+    <Russian>상태: 열림</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11711,7 +11710,7 @@ attuali</Italian>
     <German>
 Rettungskapselstation 02</German>
     <Italian>  Pod Fuga Baia 02</Italian>
-    <Russian>Спасательная капсула 02</Russian>
+    <Russian>탈출 포드 02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11736,7 +11735,7 @@ Rettungskapselstation 02</German>
     <German>
 Rettungskapselstation 03</German>
     <Italian>  Pod Fuga Baia 03</Italian>
-    <Russian>Спасательная капсула 03</Russian>
+    <Russian>탈출 포드 03</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11761,7 +11760,7 @@ Rettungskapselstation 03</German>
     <German>
 Rettungskapselstation 01</German>
     <Italian>  Pod Fuga Baia 01</Italian>
-    <Russian>Спасательная капсула 01</Russian>
+    <Russian>탈출 포드 01</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11785,7 +11784,7 @@ Rettungskapselstation 01</German>
     <French>BAIE NACELLE DE SAUVETAGE 03</French>
     <German>RETTUNGSKAPSELSTATION 03</German>
     <Italian>Pod Fuga Baia 03</Italian>
-    <Russian>СПАСАТЕЛЬНАЯ КАПСУЛА 02</Russian>
+    <Russian>탈출 포드 02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11809,7 +11808,7 @@ Rettungskapselstation 01</German>
     <French>BAIE NACELLE DE SAUVETAGE 02</French>
     <German>RETTUNGSKAPSELSTATION 02</German>
     <Italian>Pod Fuga Baia 02</Italian>
-    <Russian>СПАСАТЕЛЬНАЯ КАПСУЛА 02</Russian>
+    <Russian>탈출 포드 02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11833,7 +11832,7 @@ Rettungskapselstation 01</German>
     <French>BAIE NACELLE DE SAUVETAGE 01</French>
     <German>RETTUNGSKAPSELSTATION 01</German>
     <Italian>Pod Fuga Baia 01</Italian>
-    <Russian>СПАСАТЕЛЬНАЯ КАПСУЛА 02</Russian>
+    <Russian>탈출 포드 02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11857,7 +11856,7 @@ Rettungskapselstation 01</German>
     <French>Statut: Verrouillé</French>
     <German>Status : Gesperrt</German>
     <Italian>Stato: bloccato</Italian>
-    <Russian>Статус: закрыто</Russian>
+    <Russian>상태: 잠김</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11881,7 +11880,7 @@ Rettungskapselstation 01</German>
     <French>BAIE NACELLE DE SAUVETAGE 02</French>
     <German>RETTUNGSKAPSELSTATION 02</German>
     <Italian>Pod Fuga Baia 02</Italian>
-    <Russian>СПАСАТЕЛЬНАЯ КАПСУЛА 02</Russian>
+    <Russian>탈출 포드 02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11910,8 +11909,7 @@ Aiden Vyse</French>
 Aiden Vyse</German>
     <Italian>Registrato:
 Aiden Vyse</Italian>
-    <Russian>Выдано:
-Эйден Вайз</Russian>
+    <Russian>서명: 에이든 비제</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11935,7 +11933,7 @@ Aiden Vyse</Italian>
     <French>Statut: En attente</French>
     <German>Status:  Standby</German>
     <Italian>Stato: In attesa</Italian>
-    <Russian>Статус: ожидание</Russian>
+    <Russian>상태: 준비 중</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11959,7 +11957,7 @@ Aiden Vyse</Italian>
     <French>Statut: En attente</French>
     <German>Status:  Standby</German>
     <Italian>Stato: In attesa</Italian>
-    <Russian>Статус: ожидание</Russian>
+    <Russian>상태: 준비 중</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11987,8 +11985,7 @@ pour accéder aux outils</French>
 auf Werkzeuge zuzugreifen</German>
     <Italian>Inserisci ID braccialetto
 per accedere agli strumenti</Italian>
-    <Russian>Вставьте ID-браслет для
-доступа к инструментам</Russian>
+    <Russian>도구를 사용하려면 ID 팔찌를 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12012,7 +12009,7 @@ per accedere agli strumenti</Italian>
     <French>Statut: Prêt</French>
     <German>Status:  Bereit</German>
     <Italian>Stato: Pronto</Italian>
-    <Russian>Статус: готов</Russian>
+    <Russian>상태: 준비됨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12041,8 +12038,7 @@ pour accéder aux outils</French>
 auf Werkzeuge zuzugreifen</German>
     <Italian>Inserisci ID braccialetto
 per accedere agli strumenti</Italian>
-    <Russian>Вставьте ID-браслет для
-доступа к инструментам</Russian>
+    <Russian>도구를 사용하려면 ID 팔찌를 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12070,8 +12066,7 @@ pour accéder aux outils</French>
 auf Werkzeuge zuzugreifen</German>
     <Italian>Inserisci ID braccialetto
 per accedere agli strumenti</Italian>
-    <Russian>Вставьте ID-браслет для
-доступа к инструментам</Russian>
+    <Russian>도구를 사용하려면 ID 팔찌를 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12095,7 +12090,7 @@ per accedere agli strumenti</Italian>
     <French>Statut: En attente</French>
     <German>Status:  Standby</German>
     <Italian>Stato: In attesa</Italian>
-    <Russian>Статус: ожидание</Russian>
+    <Russian>상태: 준비중</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12123,8 +12118,7 @@ pour accéder aux outils</French>
 auf Werkzeuge zuzugreifen</German>
     <Italian>Inserisci ID braccialetto
 per accedere agli strumenti</Italian>
-    <Russian>Вставьте ID-браслет для
-доступа к инструментам</Russian>
+    <Russian>도구를 사용하려면 ID 팔찌를 삽입하세요</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12148,7 +12142,7 @@ per accedere agli strumenti</Italian>
     <French>Pressurisation</French>
     <German>Druckbeaufschlagung</German>
     <Italian>Pressurizzazione</Italian>
-    <Russian>Подача давления</Russian>
+    <Russian>가압중</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12172,7 +12166,7 @@ per accedere agli strumenti</Italian>
     <French>( Redémarrer l'application pour appliquer )</French>
     <German>( Programm Neustarten um Anzuwenden )</German>
     <Italian>(Riavviare Applicazione per Rendere Effettivo)</Italian>
-    <Russian>(для сохранения перезагрузите приложение)</Russian>
+    <Russian>( 변경사항을 적용하려면 게임을 재시작하세요 )</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12196,7 +12190,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12220,7 +12214,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12244,7 +12238,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12268,7 +12262,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12292,7 +12286,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12316,7 +12310,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12340,7 +12334,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12364,7 +12358,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12388,7 +12382,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12412,7 +12406,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12436,7 +12430,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12460,7 +12454,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12484,7 +12478,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12508,7 +12502,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12532,7 +12526,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12556,7 +12550,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12580,7 +12574,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire </Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12604,7 +12598,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire </Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12628,7 +12622,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire </Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12652,7 +12646,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire </Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12676,7 +12670,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12700,7 +12694,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12724,7 +12718,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12748,7 +12742,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12772,7 +12766,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12796,7 +12790,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12820,7 +12814,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12844,7 +12838,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12868,7 +12862,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12892,7 +12886,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12916,7 +12910,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12940,7 +12934,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12964,7 +12958,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -12988,7 +12982,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13012,7 +13006,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13036,7 +13030,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13060,7 +13054,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13084,7 +13078,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13108,7 +13102,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13132,7 +13126,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13156,7 +13150,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13180,7 +13174,7 @@ per accedere agli strumenti</Italian>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
-    <Russian>Присесть</Russian>
+    <Russian>웅크리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13204,7 +13198,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13228,7 +13222,7 @@ per accedere agli strumenti</Italian>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
-    <Russian>Взаимодействие</Russian>
+    <Russian>상호작용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13252,7 +13246,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13276,7 +13270,7 @@ per accedere agli strumenti</Italian>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
-    <Russian>Обзор</Russian>
+    <Russian>둘러보기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13300,7 +13294,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13324,7 +13318,7 @@ per accedere agli strumenti</Italian>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
-    <Russian>Запуск</Russian>
+    <Russian>달리기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13348,7 +13342,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13372,7 +13366,7 @@ per accedere agli strumenti</Italian>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esamina</Italian>
-    <Russian>Приблизить</Russian>
+    <Russian>조사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13396,7 +13390,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13420,7 +13414,7 @@ per accedere agli strumenti</Italian>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
-    <Russian>Меню ДР</Russian>
+    <Russian>AR 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13444,7 +13438,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13468,7 +13462,7 @@ per accedere agli strumenti</Italian>
     <French>Annuler/Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
-    <Russian>Отмена/назад</Russian>
+    <Russian>취소/뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13492,7 +13486,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13516,7 +13510,7 @@ per accedere agli strumenti</Italian>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Invia</Italian>
-    <Russian>Использовать</Russian>
+    <Russian>적용</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13540,7 +13534,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13564,7 +13558,7 @@ per accedere agli strumenti</Italian>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovere</Italian>
-    <Russian>Движение</Russian>
+    <Russian>움직이기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13588,7 +13582,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13612,7 +13606,7 @@ per accedere agli strumenti</Italian>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
-    <Russian>Пауза/настройки</Russian>
+    <Russian>일시정지/설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13636,7 +13630,7 @@ per accedere agli strumenti</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13660,7 +13654,7 @@ per accedere agli strumenti</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13687,8 +13681,7 @@ de Mila</French>
     <German>Mila's 
 Zimmer</German>
     <Italian>La stanza di Mila</Italian>
-    <Russian>Комната
-Милы</Russian>
+    <Russian>밀라의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13717,8 +13710,7 @@ de Mila</French>
 Zimmer</German>
     <Italian>La stanza 
 di Mila</Italian>
-    <Russian>Комната
-Милы</Russian>
+    <Russian>밀라의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13744,8 +13736,7 @@ Wing</English>
 Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della Scienza</Italian>
-    <Russian>Научный
-отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13773,8 +13764,7 @@ Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della 
 Scienza</Italian>
-    <Russian>Научный
-отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13798,7 +13788,7 @@ Scienza</Italian>
     <French>Salle à manger</French>
     <German>Esszimmer</German>
     <Italian>Sala da pranzo</Italian>
-    <Russian>Столовая</Russian>
+    <Russian>식당</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13822,7 +13812,7 @@ Scienza</Italian>
     <French>Salle à manger</French>
     <German>Esszimmer</German>
     <Italian>Sala da pranzo</Italian>
-    <Russian>Столовая</Russian>
+    <Russian>식당</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13846,7 +13836,7 @@ Scienza</Italian>
     <French>Maintenance</French>
     <German>Wartung</German>
     <Italian>Manutenzione</Italian>
-    <Russian>Техобслуживание</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13873,8 +13863,7 @@ d'Aiden</French>
     <German>Aiden's
 Zimmer</German>
     <Italian>Stanza di Aiden</Italian>
-    <Russian>Комната
-Эйдена</Russian>
+    <Russian>에이든의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13898,7 +13887,7 @@ Zimmer</German>
     <French>Maintenance</French>
     <German>Wartung</German>
     <Italian>Manutenzione</Italian>
-    <Russian>Техобслуживание</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13927,8 +13916,7 @@ d'Aiden</French>
 Zimmer</German>
     <Italian>La Stanza 
 di Aiden</Italian>
-    <Russian>Комната
-Эйдена</Russian>
+    <Russian>에이든의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13952,7 +13940,7 @@ di Aiden</Italian>
     <French>Salle des Casiers</French>
     <German>Garderobenbereich</German>
     <Italian>Spogliatoio</Italian>
-    <Russian>Раздевалка</Russian>
+    <Russian>라커룸</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -13976,7 +13964,7 @@ di Aiden</Italian>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
-    <Russian>Салон</Russian>
+    <Russian>라운지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14000,7 +13988,7 @@ di Aiden</Italian>
     <French>Salle des Casiers</French>
     <German>Garderobenbereich</German>
     <Italian>Spogliatoio</Italian>
-    <Russian>Раздевалка</Russian>
+    <Russian>라커룸</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14024,8 +14012,7 @@ di Aiden</Italian>
     <French>Labo supérieur</French>
     <German>Oberes Labor</German>
     <Italian>Laboratorio Superiore</Italian>
-    <Russian>Верхняя 
-лаборатория</Russian>
+    <Russian>상층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14049,7 +14036,7 @@ di Aiden</Italian>
     <French>Entrée</French>
     <German>Eingang</German>
     <Italian>Ingresso</Italian>
-    <Russian>Вход</Russian>
+    <Russian>입구</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14073,7 +14060,7 @@ di Aiden</Italian>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
-    <Russian>Салон</Russian>
+    <Russian>라운지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14097,7 +14084,7 @@ di Aiden</Italian>
     <French>Entrée</French>
     <German>Eingang</German>
     <Italian>Ingresso</Italian>
-    <Russian>Вход</Russian>
+    <Russian>입구</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14125,8 +14112,7 @@ supérieur</French>
 Labor</German>
     <Italian>Laboratorio 
 Superiore</Italian>
-    <Russian>Верхняя 
-лаборатория</Russian>
+    <Russian>상층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14152,8 +14138,7 @@ Pods</English>
 Sauvetage</French>
     <German>Rettungskapseln</German>
     <Italian>Pod di Fuga</Italian>
-    <Russian>Спасательные
-капсулы</Russian>
+    <Russian>탈출 포드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14178,8 +14163,7 @@ Room A</English>
     <French>Salle d'examen A</French>
     <German>Ansichtsraum A</German>
     <Italian>Osservando Stanza A</Italian>
-    <Russian>Обзорная
-комната А</Russian>
+    <Russian>관람실 А</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14203,7 +14187,7 @@ Room A</English>
     <French>Ingénierie</French>
     <German>Maschinenraum</German>
     <Italian>Ingegneria</Italian>
-    <Russian>Инженерная</Russian>
+    <Russian>엔진실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14227,8 +14211,7 @@ Room A</English>
     <French>Chambre de Silas</French>
     <German>Silas's Zimmer</German>
     <Italian>Stanza di Silas</Italian>
-    <Russian>Комната 
-Сайласа</Russian>
+    <Russian>사일러스의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14252,7 +14235,7 @@ Room A</English>
     <French>Ingénierie</French>
     <German>Maschinenraum</German>
     <Italian>Ingegneria</Italian>
-    <Russian>Инженерная</Russian>
+    <Russian>엔진실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14278,7 +14261,7 @@ Bay</English>
 Médicale</French>
     <German>Krankenstation</German>
     <Italian>Baia medica</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14307,8 +14290,7 @@ d'examen A</French>
 A</German>
     <Italian>Osservando 
 Stanza A</Italian>
-    <Russian>Обзорная
-комната А</Russian>
+    <Russian>관람실 А</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14335,8 +14317,7 @@ de Escape</Spanish>
 Sauvetage</French>
     <German>Rettungskapseln</German>
     <Italian>Pod di Fuga</Italian>
-    <Russian>Спасательные
-капсулы</Russian>
+    <Russian>탈출 포드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14364,7 +14345,7 @@ Médicale</French>
     <German>Krankenstation</German>
     <Italian>Baia 
 medica</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14391,8 +14372,7 @@ de Silas</French>
     <German>Silas's 
 Zimmer</German>
     <Italian>Stanza di Silas</Italian>
-    <Russian>Комната 
-Сайласа</Russian>
+    <Russian>사일러스의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14416,8 +14396,7 @@ Zimmer</German>
     <French>Labo inferieur</French>
     <German>Unteres Labor</German>
     <Italian>Laboratorio Inferiore</Italian>
-    <Russian>Нижняя 
-лаборатория</Russian>
+    <Russian>하층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14444,8 +14423,7 @@ de Mila</French>
     <German> Mila's 
 Büro</German>
     <Italian> Ufficio di Mila</Italian>
-    <Russian> Офис
-Милы</Russian>
+    <Russian> 밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14469,7 +14447,7 @@ Büro</German>
     <French>Chambre de Silas</French>
     <German>Silas's Zimmer</German>
     <Italian>Stanza di Silas</Italian>
-    <Russian>Комната Сайласа</Russian>
+    <Russian>사일러스의 방</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14495,8 +14473,7 @@ Wing</English>
 Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della Scienza</Italian>
-    <Russian>Научный
-отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14520,7 +14497,7 @@ Scientifique</French>
     <French>Aile Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della Scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14548,8 +14525,7 @@ inferieur</French>
 Labor</German>
     <Italian>Laboratorio 
 Inferiore</Italian>
-    <Russian>Нижняя 
-лаборатория</Russian>
+    <Russian>하층 연구소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14576,7 +14552,7 @@ Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della 
 Scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14601,8 +14577,7 @@ Room B</English>
     <French>Salle d'examen B</French>
     <German>Ansichtsraum B</German>
     <Italian>Osservando Stanza B</Italian>
-    <Russian>Обзорная
-комната Б</Russian>
+    <Russian>관람실 B</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14629,8 +14604,7 @@ de Mila</French>
     <German>Mila's 
 Büro</German>
     <Italian>Ufficio di Mila</Italian>
-    <Russian>Офис
-Милы</Russian>
+    <Russian>밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14659,8 +14633,7 @@ d'examen B</French>
 B</German>
     <Italian>Osservando 
 Stanza B</Italian>
-    <Russian>Обзорная
-комната Б</Russian>
+    <Russian>관람실 B</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14684,7 +14657,7 @@ Stanza B</Italian>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14713,8 +14686,7 @@ de Mila</French>
 Büro</German>
     <Italian>Ufficio 
 di Mila</Italian>
-    <Russian>Офис
-Милы</Russian>
+    <Russian>밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14738,7 +14710,7 @@ di Mila</Italian>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14764,7 +14736,7 @@ Room</English>
 Conférence</French>
     <German>Konferenzraum</German>
     <Italian>Stanza Conferenza</Italian>
-    <Russian>Конференц-зал</Russian>
+    <Russian>회의실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14792,7 +14764,7 @@ Conférence</French>
     <German>Konferenzraum</German>
     <Italian>Stanza 
 Conferenza</Italian>
-    <Russian>Конференц-зал</Russian>
+    <Russian>회의실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14816,7 +14788,7 @@ Conferenza</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14840,7 +14812,7 @@ Conferenza</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14864,7 +14836,7 @@ Conferenza</Italian>
     <French>     Résolution</French>
     <German>     Auflösung</German>
     <Italian>  Risoluzione</Italian>
-    <Russian>     Разрешение экрана</Russian>
+    <Russian>     해상도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14888,7 +14860,7 @@ Conferenza</Italian>
     <French>     Sensibilité de la vue</French>
     <German>     Sichtsempfindlichkeit</German>
     <Italian> Guarda la sensibilità</Italian>
-    <Russian>     Чувствительность мыши</Russian>
+    <Russian>     마우스 민감도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14912,7 +14884,7 @@ Conferenza</Italian>
     <French>     Sensibilité de la vue</French>
     <German>     Sichtsempfindlichkeit</German>
     <Italian> Guarda la sensibilità</Italian>
-    <Russian>     Чувствительность мыши</Russian>
+    <Russian>     마우스 민감도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14936,7 +14908,7 @@ Conferenza</Italian>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Вкл</Russian>
+    <Russian>켜기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14960,7 +14932,7 @@ Conferenza</Italian>
     <French>     Lissage de la souris</French>
     <German>     Mausglättung</German>
     <Italian> Smoothing del mouse</Italian>
-    <Russian>     Сглаживание мыши</Russian>
+    <Russian>     부드러움 화면 움직임</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -14984,7 +14956,7 @@ Conferenza</Italian>
     <French>On</French>
     <German>Aus</German>
     <Italian>Off</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15032,7 +15004,7 @@ Conferenza</Italian>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
-    <Russian>Выкл</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15080,7 +15052,7 @@ Conferenza</Italian>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Вкл</Russian>
+    <Russian>켜기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15104,7 +15076,7 @@ Conferenza</Italian>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
-    <Russian>Вкл</Russian>
+    <Russian>켜기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15128,7 +15100,7 @@ Conferenza</Italian>
     <French>     Sous-titres</French>
     <German>     Untertitel</German>
     <Italian> Sottotitoli</Italian>
-    <Russian>     Субтитры</Russian>
+    <Russian>     자막</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15152,7 +15124,7 @@ Conferenza</Italian>
     <French>     Sous-titres</French>
     <German>     Untertitel</German>
     <Italian> Sottotitoli</Italian>
-    <Russian>     Субтитры</Russian>
+    <Russian>     자막</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15176,7 +15148,7 @@ Conferenza</Italian>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15200,7 +15172,7 @@ Conferenza</Italian>
     <French>Médical</French>
     <German>Medizinisch</German>
     <Italian>Medico</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15226,7 +15198,7 @@ Mantenimiento</Spanish>
 Maintenance</French>
     <German>Wartungsraum</German>
     <Italian>Stanza manutenzione</Italian>
-    <Russian>Комната техобслуживания</Russian>
+    <Russian>관리실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15250,7 +15222,7 @@ Maintenance</French>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15274,7 +15246,7 @@ Maintenance</French>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15298,7 +15270,7 @@ Maintenance</French>
     <French>Mila Lexa</French>
     <German>Mila Lexa</German>
     <Italian>Mila Lexa</Italian>
-    <Russian>Мила Лекса</Russian>
+    <Russian>밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15322,7 +15294,7 @@ Maintenance</French>
     <French>Silas Haze</French>
     <German>Silas Haze</German>
     <Italian>Silas Haze</Italian>
-    <Russian>Сайлас Хейз</Russian>
+    <Russian>사일러스 헤이즈</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15346,7 +15318,7 @@ Maintenance</French>
     <French>Aiden Vyse</French>
     <German>Aiden Vyse</German>
     <Italian>Aiden Vyse</Italian>
-    <Russian>Эйден Вайз</Russian>
+    <Russian>에이든 비제</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15370,7 +15342,7 @@ Maintenance</French>
     <French>     Non</French>
     <German>     Nein</German>
     <Italian>  No</Italian>
-    <Russian>     Нет</Russian>
+    <Russian>     취소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15394,7 +15366,7 @@ Maintenance</French>
     <French>     Oui</French>
     <German>     Ja</German>
     <Italian>  Sì</Italian>
-    <Russian>     Да</Russian>
+    <Russian>     네</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15418,7 +15390,7 @@ Maintenance</French>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15442,7 +15414,7 @@ Maintenance</French>
     <French>            Valider </French>
     <German>     Änderungen Übernehmen</German>
     <Italian>  Applica i cambiamenti</Italian>
-    <Russian>     Применить</Russian>
+    <Russian>     변경사항 반영</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15466,7 +15438,7 @@ Maintenance</French>
     <French>     Jeu</French>
     <German>     Gameplay</German>
     <Italian>  Gameplay</Italian>
-    <Russian>     Геймплей</Russian>
+    <Russian>     게임플레이</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15490,7 +15462,7 @@ Maintenance</French>
     <French>     Graphiques</French>
     <German>     Bildschirmeinstellungen</German>
     <Italian>  Impostazioni dello schermo</Italian>
-    <Russian>    Настройки экрана</Russian>
+    <Russian>    화면 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15514,7 +15486,7 @@ Maintenance</French>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15538,7 +15510,7 @@ Maintenance</French>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15562,7 +15534,7 @@ Maintenance</French>
     <French>     Audio</French>
     <German>     Audio</German>
     <Italian>  Audio</Italian>
-    <Russian>     Аудио</Russian>
+    <Russian>     소리</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15590,8 +15562,7 @@ Valider ou Annuler pour continuer</French>
     <German>Du hast nicht übernommene Einstellungen. Entweder Änderungen übernehmen oder abbrechen um fortzufahren.</German>
     <Italian>Hai impostazioni non applicate. Applicarle
 o annullare le modifiche per continuare.</Italian>
-    <Russian>Есть несохранённые настройки. Чтобы продолжить, 
-примените или отмените изменения.</Russian>
+    <Russian>변경된 설정이 존재합니다. 변경된 설정을 반영하거나 취소하여주세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15615,8 +15586,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>             Annuler</French>
     <German>    Änderungen Abbrechen</German>
     <Italian>  Annulla modifiche</Italian>
-    <Russian>               Отменить 
-              изменения</Russian>
+    <Russian>        변경사항 취소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15640,7 +15610,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Vidéo</French>
     <German>     Video</German>
     <Italian>  Video</Italian>
-    <Russian>     Видео</Russian>
+    <Russian>     비디오</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15664,7 +15634,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Sauvegarder</French>
     <German>     Spiel Speichern</German>
     <Italian>  Salva il gioco</Italian>
-    <Russian>     Сохранить игру</Russian>
+    <Russian>     게임 저장</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15688,7 +15658,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Charger</French>
     <German>     Spiel Laden</German>
     <Italian>  Carica partita</Italian>
-    <Russian>     Загрузить игру</Russian>
+    <Russian>     게임 불러오기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15712,7 +15682,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15736,7 +15706,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Reprendre</French>
     <German>     Spiel Fortsetzen</German>
     <Italian>  Riprendi il gioco</Italian>
-    <Russian>     Продолжить игру</Russian>
+    <Russian>     게임 재개</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15760,7 +15730,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Quitter le jeu</French>
     <German>     Spiel Beenden</German>
     <Italian>  Abbandonare il gioco</Italian>
-    <Russian>     Выйти из игры</Russian>
+    <Russian>     게임 종료</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15784,7 +15754,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15808,7 +15778,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour à l'Ecran titre</French>
     <German>     Zurück zum Titelbildschirm</German>
     <Italian>  Torna alla schermata del titolo</Italian>
-    <Russian>     В главное меню</Russian>
+    <Russian>     시작 화면으로 돌아가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15832,7 +15802,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Options</French>
     <German>     Einstellungen</German>
     <Italian>  Impostazioni</Italian>
-    <Russian>     Настройки</Russian>
+    <Russian>     설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15856,7 +15826,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     돌아가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15880,7 +15850,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Honneur sans Gloire      &lt; Mila &gt;                   Jour 2, 10:05          </French>
     <German>Ehre Ohne Ruhm      &lt; Mila &gt;                           Tag 2, 10:05          </German>
     <Italian>Onore senza gloria    &lt;Mila&gt;                         Giorno 2, 10:05 </Italian>
-    <Russian>Честь без славы      &lt; Мила &gt;                                День 2, 10:05          </Russian>
+    <Russian>영광 없는 명예      &lt; 밀라 &gt;                                2일차, 10:05          </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15904,7 +15874,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Rédemption      &lt; Aiden &gt;                                     Jour 4, 2:17                 </French>
     <German>Wiedergutmachung      &lt; Aiden &gt;                     Tag 4, 2:17                 </German>
     <Italian>Redenzionen    &lt;Aiden&gt;                                     Giorno 4, 2:17 </Italian>
-    <Russian>Искупление      &lt; Эйден &gt;                                      День 4, 2:17                 </Russian>
+    <Russian>속죄      &lt; 에이든 &gt;                                      4일차, 2:17                 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15928,7 +15898,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Aux Critiques      &lt; Silas &gt;                                  Jour 1, 13:44</French>
     <German>An die Kritiker      &lt; Silas &gt;                                  Tag 1, 13:44</German>
     <Italian>Ai critici    &lt;Silas&gt;                                                 Giorno 1, 13:44</Italian>
-    <Russian>Критикам      &lt; Сайлас &gt;                                         День 1, 13:44</Russian>
+    <Russian>비판가들에게      &lt; 사일러스 &gt;                                         1일차, 13:44</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15952,7 +15922,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Toujours Présent      &lt; Silas &amp; Aiden &gt;          Jour 8, 8:14</French>
     <German>Immer Präsent     &lt; Silas &amp; Aiden &gt;                Tag 8, 8:14</German>
     <Italian>Sempre presente    &lt;Silas &amp; Aiden&gt;            Giorno 8, 8:14</Italian>
-    <Russian>Никуда не исчезает      &lt; Сайлас, Эйден &gt;          День 8, 8:14</Russian>
+    <Russian>언제나 현재일 뿐      &lt; 사일러스, 에이든 &gt;          8일차, 8:14</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -15976,7 +15946,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Vous et Elle      &lt; Silas &amp; Aiden &gt;                Jour 5, 15:02</French>
     <German>Du und Sie      &lt; Silas &amp; Aiden &gt;                    Tag 5, 15:02</German>
     <Italian>Tu e lei    &lt;Silas &amp; Aiden&gt;                              Giorno 5, 15:02</Italian>
-    <Russian>Ты и она      &lt; Сайлас, Эйден &gt;                            День 5, 15:02</Russian>
+    <Russian>그와 그녀     &lt; 사일러스, 에이든 &gt;                            5일차, 15:02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16000,7 +15970,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Incident Partie 1      &lt; Mila &amp; Aiden &gt;             Jour 17, 14:17</French>
     <German>Vorfall Teil 1      &lt; Mila &amp; Aiden &gt;                    Tag 17, 14:17</German>
     <Italian>Incidente Parte 1    &lt;Mila &amp; Aiden&gt;              Giorno 17, 14:17</Italian>
-    <Russian>Происшествие, часть 1      &lt; Мила, Эйден &gt;       День 17, 14:17</Russian>
+    <Russian>사고, 파트 1      &lt; 밀라, 에이든 &gt;       17일차, 14:17</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16024,7 +15994,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Heures supplémentaires      &lt; Silas &amp; Aiden &gt;             Jour 3, 0:23</French>
     <German>Überstunden      &lt; Silas &amp; Aiden &gt;                 Tag 3, 0:23</German>
     <Italian>Straordinario    &lt;Silas &amp; Aiden&gt;                   Giorno 3, 0:23</Italian>
-    <Russian>Сверхурочные      &lt; Сайлас, Эйден &gt;                  День 3, 0:23</Russian>
+    <Russian>시간 외 근무      &lt; 사일러스, 에이든 &gt;                  3일차, 0:23</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16048,7 +16018,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Curiosité      &lt; Silas &gt;                                        Jour 3, 19:33</French>
     <German>Neugier      &lt; Silas &gt;                                           Tag 3, 19:33</German>
     <Italian>Curiosità     &lt;Silas&gt;                                          Giorno 3, 19:33</Italian>
-    <Russian>Любопытство      &lt; Сайлас &gt;                                 День 3, 19:33</Russian>
+    <Russian>호기심      &lt; 사일러스 &gt;                                 3일차, 19:33</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16072,7 +16042,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Pont Supérieur</French>
     <German>Oberes Deck</German>
     <Italian>Piano superiore</Italian>
-    <Russian>Верхняя палуба</Russian>
+    <Russian>상층 갑판</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16096,7 +16066,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16120,7 +16090,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Jeu</French>
     <German>     Gameplay</German>
     <Italian> Gameplay</Italian>
-    <Russian>     Геймплей</Russian>
+    <Russian>     게임플레이</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16144,7 +16114,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Graphiques</French>
     <German>     Bildschirmeinstellungen</German>
     <Italian> Impostazioni dello schermo</Italian>
-    <Russian>     Экран</Russian>
+    <Russian>     화면 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16168,7 +16138,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16192,7 +16162,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Pont Inferieur</French>
     <German>Unteres Deck</German>
     <Italian>Ponte inferiore</Italian>
-    <Russian>Нижняя палуба</Russian>
+    <Russian>하층 갑판</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16216,7 +16186,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>L'Ombre      &lt; Mila &gt;                                           Jour 4, 19:30    </French>
     <German>Der Schatten      &lt; Mila &gt;                                  Tag 4, 19:30    </German>
     <Italian>L'Ombra    &lt;Mila&gt;                                              Giorno 4, 19:30 </Italian>
-    <Russian>В тени      &lt; Мила &gt;                                                День 4, 19:30    </Russian>
+    <Russian>그림자      &lt; 밀라 &gt;                                                4일차, 19:30    </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16240,7 +16210,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Où il se trouve      &lt; Mila &amp; Silas &gt;             Jour 13, 18:44</French>
     <German>Wo es Liegt      &lt; Mila &amp; Silas &gt;                   Tag 13, 18:44</German>
     <Italian>Dove si trova    &lt;Mila &amp; Silas&gt;               Giorno 13, 18:44</Italian>
-    <Russian>Оставь как есть      &lt; Мила, Сайлас &gt;                День 13, 18:44</Russian>
+    <Russian>그것이 있는 곳      &lt; 밀라, 사일러스 &gt;                13일차, 18:44</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16264,7 +16234,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Rapport Final      &lt; Silas &gt;                             Jour 15, 17:27</French>
     <German>Letzter Bericht      &lt; Silas &gt;                         Tag 15, 17:27</German>
     <Italian>Rapporto finale    &lt;Silas&gt;                         Giorno 15, 17.27</Italian>
-    <Russian>Последний отчёт      &lt; Сайлас &gt;                         День 15, 17:27</Russian>
+    <Russian>마지막 보고      &lt; 사일러스 &gt;                         15일차, 17:27</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16288,7 +16258,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Un autre enterrement      &lt; Silas &gt;             Jour 13, 19:12</French>
     <German>Eine Weitere Beerdigung      &lt; Silas &gt;       Tag 13, 19:12</German>
     <Italian>Un altro funerale    &lt;Silas&gt;                       Giorno 13, 19:12</Italian>
-    <Russian>Ещё одни похороны      &lt; Сайлас &gt;                    День 13, 19:12</Russian>
+    <Russian>또다른 장례식      &lt; 사일러스 &gt;                    13일차, 19:12</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16312,7 +16282,7 @@ o annullare le modifiche per continuare.</Italian>
     <French>Miroir dans l'univers      &lt; Silas &gt;                Jour 9, 18:34</French>
     <German>Spiegel im Universum      &lt; Silas &gt;             Tag 9, 18:34</German>
     <Italian>Specchio nell'universo    &lt;Silas&gt;           Giorno 9, 18:34</Italian>
-    <Russian>Зеркало во Вселенной      &lt; Сайлас &gt;               День 9, 18:34</Russian>
+    <Russian>우주의 거울      &lt; 사일러스 &gt;               9일차, 18:34</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16382,16 +16352,16 @@ o annullare le modifiche per continuare.</Italian>
  &gt; Sistemi Principali
 Senza Risposta
 </Italian>
-    <Russian>Приближение к "Созерцателю"
+    <Russian>에스파이얼 호에 접근 중
 
- &gt; Протокол изоляции
-    Активирован
+ &gt; 보안 잠금
+    활성화됨
 
- &gt; Повреждения корпуса
-    Обнаружены
+ &gt; 외부 손상
+    감지됨
 
- &gt; Основные системы
-    Не отвечают</Russian>
+ &gt; 주 시스템
+    반응 없음</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16415,7 +16385,7 @@ Senza Risposta
     <French>Incident Partie 5      &lt; Mila &amp; Silas &gt;         Jour 17, 16:53</French>
     <German>Vorfall Teil 5      &lt; Mila &amp; Silas &gt;                Tag 17, 16:53</German>
     <Italian>Incidente Parte 5    &lt; Mila &amp; Silas &gt;     Giorno 17, 16:53</Italian>
-    <Russian>Происшествие, часть 5      &lt; Мила, Сайлас &gt;  День 17, 16:53</Russian>
+    <Russian>사고, 파트 5      &lt; 밀라, 사일러스 &gt;  17일차, 16:53</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16439,7 +16409,7 @@ Senza Risposta
     <French>Confession      &lt; Silas &gt;                              Jour 16, 22:56</French>
     <German>Geständnis      &lt; Silas &gt;                              Tag 16, 22:56</German>
     <Italian>Confessione    &lt; Silas &gt;                         Giorno 16, 22:56</Italian>
-    <Russian>Признание      &lt; Сайлас &gt;                                    День 16, 22:56</Russian>
+    <Russian>고백      &lt; 사일러스 &gt;                                    16일차, 22:56</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16463,7 +16433,7 @@ Senza Risposta
     <French>Incident Partie 3      &lt; Mila &amp; Aiden &gt;          Jour 17, 15:51</French>
     <German>Vorfall Teil 3      &lt; Mila &amp; Aiden &gt;                  Tag 17, 15:51</German>
     <Italian>Incidente Parte 3    &lt; Mila &amp; Aiden &gt;        Giorno 17, 15:51</Italian>
-    <Russian>Происшествие, часть 3      &lt; Мила, Эйден &gt;     День 17, 15:51</Russian>
+    <Russian>사고, 파트 3      &lt; 밀라, 에이든 &gt;     17일차, 15:51</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16487,7 +16457,7 @@ Senza Risposta
     <French>Instincts vs. Intelligence      &lt; Mila &gt;         Jour 12, 13:02</French>
     <German>Instinkte gegen Intelligenz      &lt; Mila &gt;       Tag 12, 13:02</German>
     <Italian>Istinto vs. Intelligenza    &lt; Mila &gt;              Giorno 12, 13:02</Italian>
-    <Russian>Инстинкты и разум      &lt; Мила &gt;                          День 12, 13:02</Russian>
+    <Russian>본능 대 지성      &lt; 밀라 &gt;                          12일차, 13:02</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16511,7 +16481,7 @@ Senza Risposta
     <French>Incident Partie 2      &lt; Mila &amp; Aiden &gt;         Jour 17, 14:23</French>
     <German>Vorfall Teil 2      &lt; Mila &amp; Aiden &gt;                 Tag 17, 14:23</German>
     <Italian>Incidente Parte 2    &lt; Mila &amp; Aiden &gt;        Giorno 17, 14:23</Italian>
-    <Russian>Происшествие, часть 2      &lt; Мила, Эйден &gt;     День 17, 14:23</Russian>
+    <Russian>사고, 파트 2      &lt; 밀라, 에이든 &gt;     17일차, 14:23</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16535,7 +16505,7 @@ Senza Risposta
     <French>Frères cosmiques      &lt; Silas &gt;                       Jour 6, 11:21</French>
     <German>Kosmische Geschwister      &lt; Silas &gt;           Tag 6, 11:21</German>
     <Italian>Fratelli Cosmici    &lt; Silas &gt;                              Giorno 6, 11:21</Italian>
-    <Russian>Собратья по космосу      &lt; Сайлас &gt;                   День 6, 11:21</Russian>
+    <Russian>우주 형제      &lt; 사일러스 &gt;                   6일차, 11:21</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16559,7 +16529,7 @@ Senza Risposta
     <French>Incident Partie 4      &lt; Mila &amp; Aiden &gt;         Jour 17, 16:46</French>
     <German>Vorfall Teil 4      &lt; Mila &amp; Aiden &gt;                 Tag 17, 16:46</German>
     <Italian>Incidente Parte 4    &lt; Mila &amp; Aiden &gt;      Giorno 17, 16:46</Italian>
-    <Russian>Происшествие, часть 4      &lt; Мила, Эйден &gt;     День 17, 16:46</Russian>
+    <Russian>사고, 파트 4      &lt; 밀라, 에이든 &gt;     17일차, 16:46</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16583,7 +16553,7 @@ Senza Risposta
     <French>Partager      &lt; Mila &amp; Aiden &gt;                         Jour 12, 18:16</French>
     <German>Teilen      &lt; Mila &amp; Aiden &gt;                               Tag 12, 18:16</German>
     <Italian>Condivisione    &lt; Mila &amp; Aiden &gt;               Giorno 12, 18:16</Italian>
-    <Russian>Делиться надо      &lt; Мила, Эйден &gt;                    День 12, 18:16</Russian>
+    <Russian>함께      &lt; 밀라, 에이든 &gt;                    12일차, 18:16</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16607,7 +16577,7 @@ Senza Risposta
     <French>Découverte      &lt; Aiden &gt;                                 Jour 6, 9:45</French>
     <German>Entdeckung      &lt; Aiden &gt;                                   Tag 6, 9:45</German>
     <Italian>Scoperta    &lt; Aiden &gt;                                      Giorno 6, 9:45</Italian>
-    <Russian>Открытие      &lt; Эйден &gt;                                         День 6, 9:45</Russian>
+    <Russian>발견      &lt; 에이든 &gt;                                         6일차, 9:45</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16631,7 +16601,7 @@ Senza Risposta
     <French>Nous et eux      &lt; Silas &gt;                                 Jour 11, 15:48</French>
     <German>Wir und Sie      &lt; Silas &gt;                                    Tag 11, 15:48</German>
     <Italian>Noi e loro    &lt; Silas &gt;                                      Giorno 11, 15:48</Italian>
-    <Russian>Мы и они      &lt; Сайлас &gt;                                        День 11, 15:48</Russian>
+    <Russian>우리와 그들      &lt; 사일러스 &gt;                                        11일차, 15:48</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16655,7 +16625,7 @@ Senza Risposta
     <French>     Charger</French>
     <German>     Spiel Laden</German>
     <Italian>     Carica Partita</Italian>
-    <Russian>     Загрузить игру</Russian>
+    <Russian>     게임 불러오기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16679,7 +16649,7 @@ Senza Risposta
     <French>     Sauvegarder</French>
     <German>     Spiel Speichern</German>
     <Italian>     Salva Partita</Italian>
-    <Russian>     Сохранить игру</Russian>
+    <Russian>     게임 저장</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16703,7 +16673,7 @@ Senza Risposta
     <French>     Options</French>
     <German>     Einstellungen</German>
     <Italian>     Impostazioni</Italian>
-    <Russian>     Настройки</Russian>
+    <Russian>     설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16727,7 +16697,7 @@ Senza Risposta
     <French>Incident Partie 6      &lt; Mila &gt;                         Jour 17, 16:58</French>
     <German>Vorfall Teil 6      &lt; Mila &gt;                               Tag 17, 16:58</German>
     <Italian>Incidente Parte 6    &lt; Mila &gt;                    Giorno 17, 16:58</Italian>
-    <Russian>Происшествие, часть 6      &lt; Мила &gt;                 День 17, 16:58</Russian>
+    <Russian>사고, 파트 6      &lt; 밀라 &gt;                 17일차, 16:58</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16751,7 +16721,7 @@ Senza Risposta
     <French>     Retour à l'Ecran titre</French>
     <German>     Zurück zum Titelbildschirm</German>
     <Italian>     Torna alla schermata del titolo</Italian>
-    <Russian>     В главное меню</Russian>
+    <Russian>     시작 화면으로 돌아가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16775,7 +16745,7 @@ Senza Risposta
     <French>     Oui</French>
     <German>    Ja</German>
     <Italian>    Si</Italian>
-    <Russian>     Да</Russian>
+    <Russian>     네</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16799,7 +16769,7 @@ Senza Risposta
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>  Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16823,7 +16793,7 @@ Senza Risposta
     <French>     Non</French>
     <German>     Nein</German>
     <Italian>     No</Italian>
-    <Russian>     Нет</Russian>
+    <Russian>     취소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16847,7 +16817,7 @@ Senza Risposta
     <French>     Changer de Profil: </French>
     <German>     Profil Ändern: </German>
     <Italian>     Cambia Profilo: </Italian>
-    <Russian>     Сменить профиль: </Russian>
+    <Russian>     프로필 변경: </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16871,7 +16841,7 @@ Senza Risposta
     <French>     Retour au Jeu</French>
     <German>     Spiel Fortsetzen</German>
     <Italian>     Riprendi Partita</Italian>
-    <Russian>     Продолжить игру</Russian>
+    <Russian>     게임 재개</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16895,7 +16865,7 @@ Senza Risposta
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian>   Indietro</Italian>
-    <Russian>     Назад</Russian>
+    <Russian>     뒤로가기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16919,7 +16889,7 @@ Senza Risposta
     <French>     Audio</French>
     <German>     Audio</German>
     <Italian> Audio</Italian>
-    <Russian>     Аудио</Russian>
+    <Russian>     소리</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16943,7 +16913,7 @@ Senza Risposta
     <French>Carte</French>
     <German>Karte</German>
     <Italian>Mappa</Italian>
-    <Russian>Карта</Russian>
+    <Russian>지도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16967,7 +16937,7 @@ Senza Risposta
     <French>Enregistrements Audio</French>
     <German>Audio Einträge</German>
     <Italian>Registri Audio</Italian>
-    <Russian>Аудиозаписи</Russian>
+    <Russian>음성 기록</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -16991,7 +16961,7 @@ Senza Risposta
     <French>Inventaire</French>
     <German>Inventar</German>
     <Italian>Inventario</Italian>
-    <Russian>Инвентарь</Russian>
+    <Russian>인벤토리</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17015,7 +16985,7 @@ Senza Risposta
     <French>     Contrôles</French>
     <German>     Steuerung</German>
     <Italian>  Controlli</Italian>
-    <Russian>     Управление</Russian>
+    <Russian>     조작</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17039,7 +17009,7 @@ Senza Risposta
     <French>     Contrôles</French>
     <German>     Steuerung</German>
     <Italian> Controllo</Italian>
-    <Russian>     Управление</Russian>
+    <Russian>     조작</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17063,7 +17033,7 @@ Senza Risposta
     <French>Changements Non-sauvegardés</French>
     <German>Nicht übernommene Änderungen</German>
     <Italian>Cambiamenti non applicati</Italian>
-    <Russian>Несохранённые изменения</Russian>
+    <Russian>변경된 설정이 존재함</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17087,7 +17057,7 @@ Senza Risposta
     <French>     Localiser l'équipage</French>
     <German>   Finde die Besatzung</German>
     <Italian>   Individuare The Crew</Italian>
-    <Russian>   Найдите экипаж</Russian>
+    <Russian>   선원 찾기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17111,7 +17081,7 @@ Senza Risposta
     <French>     Accéder à la Passerelle</French>
     <German>Erlange Zugang zur Brücke</German>
     <Italian>  Accesso al Ponte</Italian>
-    <Russian>   Получите доступ к мостику</Russian>
+    <Russian>   선교에 진입하기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17135,7 +17105,7 @@ Senza Risposta
     <French> &gt; Retrouver Mila Lexa</French>
     <German> &gt; Finde Mila Lexa</German>
     <Italian> &gt; Trova Mila Lexa</Italian>
-    <Russian> &gt; Найдите Милу Лексу</Russian>
+    <Russian> &gt; 밀라 렉사 찾기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17164,8 +17134,7 @@ ID de Mila
     <German> &gt; Finde Mila's 
     ID-Armband</German>
     <Italian> &gt; Trova ID braccialetto Mila</Italian>
-    <Russian> &gt; Найдите ID-браслет
-Милы</Russian>
+    <Russian> &gt; 밀라의 ID 팔찌 찾기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17189,7 +17158,7 @@ ID de Mila
     <French> &gt; Retrouver Silas Haze</French>
     <German> &gt; Finde Silas Haze</German>
     <Italian>&gt; Trova Silas Haze</Italian>
-    <Russian> &gt; Найдите Сайласа Хейза</Russian>
+    <Russian> &gt; 사일러스 헤이즈 찾기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17216,7 +17185,7 @@ ID de Mila
     Lebenserhaltungssysteme 
     zu reparieren  </German>
     <Italian>&gt; Attiva il robot manutenzione per riparare il supporto vitale </Italian>
-    <Russian> &gt; Отправьте робота техобслуживания к системе жизнеобеспечения </Russian>
+    <Russian> &gt; 관리 로봇을 사용하여 생명 유지 장치 수리하기 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17240,7 +17209,7 @@ ID de Mila
     <French> &gt; Retrouver Aiden Vyse</French>
     <German> &gt; Finde Aiden Vyse</German>
     <Italian>&gt; Trova Aiden Vyse</Italian>
-    <Russian> &gt; Найдите Эйдена Вайза</Russian>
+    <Russian> &gt; 에이든 비제 찾기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17264,7 +17233,7 @@ ID de Mila
     <French>Options</French>
     <German>Einstellungen</German>
     <Italian>impostazioni</Italian>
-    <Russian>Настройки</Russian>
+    <Russian>설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17288,7 +17257,7 @@ ID de Mila
     <French>Options Audio</French>
     <German>Audioeinstellungen</German>
     <Italian>Opzioni audio</Italian>
-    <Russian>Настройки аудио</Russian>
+    <Russian>소리 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17312,7 +17281,7 @@ ID de Mila
     <French>Vous êtes sûr?</French>
     <German>Bist Du Sicher?</German>
     <Italian>Sei sicuro?</Italian>
-    <Russian>Вы уверены?</Russian>
+    <Russian>확실합니까?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17336,7 +17305,7 @@ ID de Mila
     <French>Options</French>
     <German>Einstellungen</German>
     <Italian>impostazioni</Italian>
-    <Russian>Настройки</Russian>
+    <Russian>설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17360,7 +17329,7 @@ ID de Mila
     <French>Graphiques</French>
     <German>Bildschirmeinstellungen</German>
     <Italian>Impostazioni dello schermo</Italian>
-    <Russian>Настройки экрана</Russian>
+    <Russian>화면 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17384,7 +17353,7 @@ ID de Mila
     <French>Contrôleur</French>
     <German>Controller Einstellungen</German>
     <Italian>Impostazione dei controller</Italian>
-    <Russian>Настройки контроллера</Russian>
+    <Russian>컨트롤러 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17408,7 +17377,7 @@ ID de Mila
     <French>Menu Principal</French>
     <German>Hauptmenü</German>
     <Italian>Menu principale</Italian>
-    <Russian>Главное меню</Russian>
+    <Russian>메인 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17432,7 +17401,7 @@ ID de Mila
     <French>Menu Principal</French>
     <German>Hauptmenü</German>
     <Italian>Menu principale</Italian>
-    <Russian>Главное меню</Russian>
+    <Russian>메인 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17456,7 +17425,7 @@ ID de Mila
     <French>Options de Jeu</French>
     <German>Gameplay-Einstellungen</German>
     <Italian>Impostazioni di gioco</Italian>
-    <Russian>Настройки геймплея</Russian>
+    <Russian>게임플레이 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17480,7 +17449,7 @@ ID de Mila
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17504,7 +17473,7 @@ ID de Mila
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden  </Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17533,8 +17502,8 @@ Menu de Réalité Augmentée</French>
 Augmented Reality Menü</German>
     <Italian>A.R.M.
 Menu Realtà Aumentata</Italian>
-    <Russian>М.Д.Р.
-Меню дополненной реальности</Russian>
+    <Russian>A.R.M.
+증강현실 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17558,7 +17527,7 @@ Menu Realtà Aumentata</Italian>
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17582,7 +17551,7 @@ Menu Realtà Aumentata</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17606,7 +17575,7 @@ Menu Realtà Aumentata</Italian>
     <French>Silas</French>
     <German>Silas</German>
     <Italian>Silas</Italian>
-    <Russian>Сайлас</Russian>
+    <Russian>사일러스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17630,7 +17599,7 @@ Menu Realtà Aumentata</Italian>
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>

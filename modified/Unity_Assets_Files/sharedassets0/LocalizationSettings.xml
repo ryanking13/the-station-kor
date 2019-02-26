@@ -692,14 +692,14 @@
      Nessuna Risposta</Italian>
     <Russian>에스파이얼 호에 접근 중
 
- &gt; 보안 경보
+ &gt; 보안 잠금
     활성화됨
 
  &gt; 외부 손상
     감지됨
 
  &gt; 주 시스템
-    반응하지 않음</Russian>
+    반응 없음</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1202,8 +1202,8 @@
     <Spanish>Espejo del Universo</Spanish>
     <French>Miroir de l'Univers</French>
     <German>Spiegel im Universum</German>
-    <Italian>우주의 거울</Italian>
-    <Russian></Russian>
+    <Italian>Specchio dell'universo</Italian>
+    <Russian>우주의 거울</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
