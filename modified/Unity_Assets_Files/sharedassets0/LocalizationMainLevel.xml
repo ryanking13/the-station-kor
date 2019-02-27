@@ -11275,7 +11275,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Priorité d'alimentation</French>
     <German>Energie Überbrückung</German>
     <Italian>Potenza Annullata</Italian>
-    <Russian>전원 재가동</Russian>
+    <Russian>전원 상태 변경</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -11299,7 +11299,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <French>Priorité d'alimentation</French>
     <German>Energie Überbrückung</German>
     <Italian>Potenza Annullata</Italian>
-    <Russian>전원 재가동</Russian>
+    <Russian>전원 상태 변경</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17623,7 +17623,7 @@ Menu Realtà Aumentata</Italian>
     <French>Etude des Nerfs 2-4,5,7</French>
     <German>Nervenstudie   2-4-5.7</German>
     <Italian>Studi Nerv 2-4-5.7</Italian>
-    <Russian>Тест нервной системы   2-4-5.7</Russian>
+    <Russian>신경 연구   2-4-5.7</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17647,7 +17647,7 @@ Menu Realtà Aumentata</Italian>
     <French>Options de Jeu</French>
     <German>Gameplay-Einstellungen</German>
     <Italian>Impostazioni di gioco</Italian>
-    <Russian>Настройки геймплея</Russian>
+    <Russian>게임플레이 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17676,8 +17676,7 @@ A TUÉ LE CHAT</French>
 KATZE TOD</German>
     <Italian>NOTA#3: CURIOSITY HA UCCISO
 IL GATTO</Italian>
-    <Russian>ЗАМЕТКА#3: ЛЮБОПЫТСТВО
-УБИЛО КОШКУ</Russian>
+    <Russian>노트#3: 호기심이 고양이를 죽인다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17701,7 +17700,7 @@ IL GATTO</Italian>
     <French>Silas</French>
     <German>Silas</German>
     <Italian>Silas</Italian>
-    <Russian>Сайлас</Russian>
+    <Russian>사일러스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17725,7 +17724,7 @@ IL GATTO</Italian>
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17749,7 +17748,7 @@ IL GATTO</Italian>
     <French>Silas</French>
     <German>Silas</German>
     <Italian>Silas</Italian>
-    <Russian>Сайлас</Russian>
+    <Russian>사일러스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17773,7 +17772,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17797,7 +17796,7 @@ IL GATTO</Italian>
     <French> Titre Enregistrement                                     Date de Mission              </French>
     <German>Eintragstitel                        Missionsdatum              </German>
     <Italian> Titolo Log                                Data Missione </Italian>
-    <Russian> Заголовок                                               Дата              </Russian>
+    <Russian> 로그 제목                                               미션 날짜              </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17821,7 +17820,7 @@ IL GATTO</Italian>
     <French>Silas</French>
     <German>Silas</German>
     <Italian>Silas</Italian>
-    <Russian>Сайлас</Russian>
+    <Russian>사일러스</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17845,7 +17844,7 @@ IL GATTO</Italian>
     <French>Spécimen Numéro 413</French>
     <German>    Probe Nummer 413</German>
     <Italian>Campione Numero 413</Italian>
-    <Russian>Образец № 413</Russian>
+    <Russian>표본 No.413</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17869,7 +17868,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17893,7 +17892,7 @@ IL GATTO</Italian>
     <French>Spécimen Numéro 258</French>
     <German>   Probe Nummer 258</German>
     <Italian>Campione Numero 258</Italian>
-    <Russian>Образец № 258</Russian>
+    <Russian>표본 No.258</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17917,7 +17916,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17941,7 +17940,7 @@ IL GATTO</Italian>
     <French>Désodorisant Air Naturel</French>
     <German>Leicht-Lufterfrischer</German>
     <Italian>Deodorante Ease-Air</Italian>
-    <Russian>Освежитель воздуха</Russian>
+    <Russian>공기청정기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17965,7 +17964,7 @@ IL GATTO</Italian>
     <French>Vous êtes sûr?</French>
     <German>Bist Du Sicher?</German>
     <Italian>Sei sicuro?</Italian>
-    <Russian>Вы уверены?</Russian>
+    <Russian>확실합니까?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -17989,7 +17988,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18013,7 +18012,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18037,7 +18036,7 @@ IL GATTO</Italian>
     <French>Configuration des commandes</French>
     <German>Steuerungs Einstgellungen</German>
     <Italian>Impostazioni controlli</Italian>
-    <Russian>Настройки управления</Russian>
+    <Russian>조작 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18061,7 +18060,7 @@ IL GATTO</Italian>
     <French>Aiden</French>
     <German>Aiden</German>
     <Italian>Aiden</Italian>
-    <Russian>Эйден</Russian>
+    <Russian>에이든</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18085,7 +18084,7 @@ IL GATTO</Italian>
     <French>Options Audio</French>
     <German>Audioeinstellungen</German>
     <Italian>Opzioni audio</Italian>
-    <Russian>Настройки аудио</Russian>
+    <Russian>소리 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18109,7 +18108,7 @@ IL GATTO</Italian>
     <French>Remplacement des Piles de Combustible</French>
     <German>Ersetze Verbrauchte Brennstoffzellen</German>
     <Italian>Sostituzione delle celle a combustibile esaurite</Italian>
-    <Russian>Замена отработанных батарей</Russian>
+    <Russian>사용한 연료 전지를 교체합니다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18133,7 +18132,7 @@ IL GATTO</Italian>
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18157,7 +18156,7 @@ IL GATTO</Italian>
     <French>Mila</French>
     <German>Mila</German>
     <Italian>Mila</Italian>
-    <Russian>Мила</Russian>
+    <Russian>밀라</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18181,7 +18180,7 @@ IL GATTO</Italian>
     <French>Options Vidéo</French>
     <German>Videoeinstellungen</German>
     <Italian>Impostazioni video</Italian>
-    <Russian>Настройки видео</Russian>
+    <Russian>비디오 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18205,7 +18204,7 @@ IL GATTO</Italian>
     <French>Options Graphiques</French>
     <German>Bildschirmeinstellungen</German>
     <Italian>Impostazioni dello schermo</Italian>
-    <Russian>Настройки экрана</Russian>
+    <Russian>화면 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18231,8 +18230,7 @@ par ça?</French>
     <German>Umfrage: Wieviel Angst hat dir das
 gemacht?</German>
     <Italian>Sondaggio: quanto ti ha ha spaventato?</Italian>
-    <Russian>Небольшой опрос: насколько вы 
-испугались?</Russian>
+    <Russian>질문: 이 장난은 몇 점짜리라고 생각해?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18261,8 +18259,7 @@ les stylos?</French>
 die ganzen Stifte?</German>
     <Italian>E' una sorta di scherzo? Dove sono
 tutte le penne?</Italian>
-    <Russian>Это такая шутка? Куда подевались 
-все ручки?</Russian>
+    <Russian>이건 뭐 농담같은 건가? 펜들이 다 어디로 간거야?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18292,8 +18289,8 @@ Wie hast du es überhaupt geschafft diesen
 Job zu bekommen?</German>
     <Italian>Mi devi una nuova camicia, Aiden.
 Come sei riuscito a ottenere questo lavoro?</Italian>
-    <Russian>С тебя новая рубашка, Эйден.
-Как ты вообще получил эту работу?</Russian>
+    <Russian>에이든, 자네 나한테 새 티셔츠 하나 빚진 거야.
+자네 용케도 이 일에 선발됐구만?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18322,8 +18319,7 @@ C'est le genre de choses qu'il ferait.</French>
 hat. Klingt nach etwas, dass er tun würde.</German>
     <Italian>Dovresti chiedere a Silas se li sta
 nascondendo. Sembra qualcosa che farebbe.</Italian>
-    <Russian>Спроси лучше Сайласа, куда он их подевал.
-Такая выходка определённо в его характере.</Russian>
+    <Russian>사일러스 한테 혹시 숨겨놓았는지 물어봐. 그런 일은 보통 사일러스가 할만한 일이지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18347,7 +18343,7 @@ nascondendo. Sembra qualcosa che farebbe.</Italian>
     <French>Ne t'inquiète pas de ça.</French>
     <German>Mach dir darüber keine Gedanken.</German>
     <Italian>Non preoccuparti per questo</Italian>
-    <Russian>Не волнуйся насчёт этого.</Russian>
+    <Russian>신경쓰지 마.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18376,8 +18372,7 @@ Nous attendons des "invités"?</French>
 Grund aktiv? Erwarten wir "Gäste"?</German>
     <Italian>C'è una ragione per cui questi carri 
 armati sono attivi? Ci aspettiamo "ospiti"?</Italian>
-    <Russian>Почему эти резервуары в полной готовности?
-Мы ожидаем, что у нас будут... "гости"?</Russian>
+    <Russian>이 탱크들이 왜 켜져있는 거야? "손님"이라도 올 예정이야?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18406,8 +18401,7 @@ nou regardent au-dessus.</French>
 uns oben beobachten.</German>
     <Italian>Guardiamo quelli sotto, mentre 
 guardano noi sopra.</Italian>
-    <Russian>Мы наблюдаем за теми, кто снизу, 
-пока они смотрят на нас.</Russian>
+    <Russian>우리는 그들을 내려다보고, 그들은 우리를 올려다보지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18438,8 +18432,7 @@ Hangar-Büro zum Maschinenraum schaffen.</German>
     <Italian>To Do: finisci di spostare il resto delle celle a 
 combustibile
  dall'ufficio dell'hangar all'ingegneria.</Italian>
-    <Russian>Список дел: перенести оставшиеся батареи
-из офиса ангара в инженерную.</Russian>
+    <Russian>할 일: 남은 연료 전지들을 격납고에서 엔진실로 옮기기.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18473,9 +18466,7 @@ Raum und befindet sich im Trockener?</German>
     <Italian>Fatto, ma per rivendicarlo, devi prima risolvere 
 il mio enigma! Cosa cade, gira nello spazio e nel
 tempo, e si trova nell'asciugatrice?</Italian>
-    <Russian>Я видел, но чтобы его забрать, тебе придётся
-разгадать мою загадку! Что крутится и вертится во
-времени и пространстве и находится в сушилке?</Russian>
+    <Russian>내가 가지고 있어, 하지만 돌려받으려면 내가 낸 퀴즈를 맞춰봐! 늘 우주 공간을 떠돌아다니면서 지금은 건조기에 들어가 있는 물건은 뭘까요?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18500,7 +18491,7 @@ tempo, e si trova nell'asciugatrice?</Italian>
     <German>Vermisse einen Arbeitsschuh. Hat ihn jemand 
 gesehen?</German>
     <Italian>Manca un boot di avvio. Qualcuno l'ha visto?</Italian>
-    <Russian>Не могу найти свой ботинок. Его никто не видел?</Russian>
+    <Russian>작업화를 잃어버렸는데, 혹시 본 사람 있어?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18529,8 +18520,7 @@ Occupe t'en.</French>
 Kümmere dich drum.</German>
     <Italian>Aiden, costantemente metto una toppa 
 ai tuoi pasticci. Rivolvi questo.</Italian>
-    <Russian>Эйден, я постоянно мою после тебя посуду.
-Разберись с этой проблемой.</Russian>
+    <Russian>에이든, 늘 내가 자네가 어지럽혀놓은 물건들을 치우고 있는데 말이야. 얼른 해결해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18564,9 +18554,7 @@ die Energieüberbrückung abstellen.</German>
     <Italian>È una vecchia stazione, dubito che invecchierai 
 con grazia, Capitano. Se la porta non si apre, 
 basta spegnere l'alimentazione.</Italian>
-    <Russian>Это старая станция. Я сомневаюсь, что ты в старости
-будешь такой же изящной, капитан. Если дверь не
-открывается, просто отключи контроль питания.</Russian>
+    <Russian>이 우주선은 아주 낡은 거라고. 나이를 먹었으면 좀 점잖아지는 게 어때, 선장님. 문이 안 열리면, 제발 전원 상태를 바꿔봐.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18596,8 +18584,7 @@ wundervollen Besonderheiten der Espial.
 </German>
     <Italian>Sono abbastanza sicuro che questo è solo 
 una delle numerose caratteristiche dell'Espial.</Italian>
-    <Russian>Я уверен, что это просто одна из 
-изюминок "Созерцателя".</Russian>
+    <Russian>내 생각에는 이것도 에스파이얼 호의 귀여운 기능 중 하나일 것 같은데.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18622,8 +18609,7 @@ una delle numerose caratteristiche dell'Espial.</Italian>
     <German>Das sieht gefährlich aus, bitte kümmere 
 dich drum.</German>
     <Italian>Sembra pericoloso, per favore affrontalo.</Italian>
-    <Russian>Выглядит небезопасно, пожалуйста,
-разберись с этой проблемой.</Russian>
+    <Russian>이건 좀 위험해보이는데, 얼른 해결해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18657,9 +18643,7 @@ beide nicht so gut wie erwartet.</German>
     <Italian>Aiden, in un mondo ideale, le porte si aprirebbero
 sembra che tu e questa stazione non lavoriate 
 bene come previsto.</Italian>
-    <Russian>Эйден, в идеальном мире двери должны
-открываться. Похоже, что ни ты, ни станция не
-работаете так хорошо, как вам положено.</Russian>
+    <Russian>에이든, 이상적인 세상에서라면 문이 열릴 거라고. 내 생각에는 너랑 이 우주선 둘 다 예상한대로 행동하지 않는 것 같은데.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18683,7 +18667,7 @@ bene come previsto.</Italian>
     <French>Toute progression ou option non sauvegardé seront perdu.</French>
     <German>Ungesicherter Fortschritt oder Einstellungen gehen verloren.</German>
     <Italian>Tutti i progressi non salvati o le impostazioni andranno perse.</Italian>
-    <Russian>Все несохранённые прогресс или настройки будут потеряны.</Russian>
+    <Russian>모든 저장되지 않은 진행상황은 지워집니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18712,8 +18696,8 @@ Score Final: Mila 7, Aiden 0.</French>
 Endergebnis: Mila 7, Aiden 0.</German>
     <Italian>Aiden ha perso.
 Punteggio finale: Mila 7, Aiden 0.</Italian>
-    <Russian>Эйден проиграл.
-Счёт игры: Мила 7, Эйден 0.</Russian>
+    <Russian>에이든 패배.
+최종 스코어: 밀라 7, 에이든 0.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18742,8 +18726,8 @@ Punteggio finale: Mila 7, Aiden 0.</Italian>
 außergewöhnliche "Renovierung"?</German>
     <Italian>Cosa ha ispirato questa eccezionale
 "ristrutturazione"?</Italian>
-    <Russian>Какое вдохновение привело к этому
-поразительному интерьерному дизайну?</Russian>
+    <Russian>대체 왜 이렇게 예외적인
+"재데코레이션"을 한걸까?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18767,7 +18751,7 @@ außergewöhnliche "Renovierung"?</German>
     <French>Toute progression ou option non sauvegardé seront perdu.</French>
     <German>Ungesicherter Fortschritt oder Einstellungen gehen verloren.</German>
     <Italian>Tutti i progressi non salvati o le impostazioni andranno persi.</Italian>
-    <Russian>Все несохранённые прогресс или настройки будут потеряны.</Russian>
+    <Russian>모든 저장되지 않은 진행상황은 지워집니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18791,7 +18775,7 @@ außergewöhnliche "Renovierung"?</German>
     <French>Menu de Réalité Augmentée</French>
     <German>Augmented Reality Menü</German>
     <Italian>Menu realtà aumentata</Italian>
-    <Russian>Меню дополненной реальности</Russian>
+    <Russian>증강현실 메뉴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18820,8 +18804,7 @@ passive. Fait avec.</French>
 Aggression klarkommen. Kümmere dich drum.</German>
     <Italian>Mila, mi occupo costantemente della tuo
 aggressività passiva. Risolvilo.</Italian>
-    <Russian>Мила, я постоянно сталкиваюсь с твоей пассивной
-агрессией. Разберись с этой проблемой.</Russian>
+    <Russian>밀라, 늘 내가 네 분노를 받아주고 있는데 말이야. 얼른 해결해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18845,7 +18828,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Pont Supérieur</French>
     <German>Oberes Deck</German>
     <Italian>Piano superiore</Italian>
-    <Russian>Верхняя палуба</Russian>
+    <Russian>상층 갑판</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18869,7 +18852,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>     Volume des Voix</French>
     <German>     Stimmenlautstärke</German>
     <Italian> Volume voce</Italian>
-    <Russian>     Громкость голоса</Russian>
+    <Russian>     음성 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18893,7 +18876,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>     Volume des Voix</French>
     <German>     Stimmenlautstärke</German>
     <Italian> Volume voce</Italian>
-    <Russian>     Громкость голоса</Russian>
+    <Russian>     음성 크기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18917,7 +18900,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Pas de V.Sync</French>
     <German>Jedes zweite V Leer</German>
     <Italian>Ogni secondo V Blank</Italian>
-    <Russian>Без синхронизации</Russian>
+    <Russian>끄기</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18941,7 +18924,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>     Vsync</French>
     <German>     Vsync</German>
     <Italian> Vsync</Italian>
-    <Russian>     Vsync</Russian>
+    <Russian>     수직동기화</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18965,7 +18948,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Bouger pour déployer l'interface</French>
     <German>Neu Positionieren um Interface Auszufahren</German>
     <Italian>Riposiziona per distribuire l'interfaccia</Italian>
-    <Russian>Переместитесь, чтобы раскрыть интерфейс</Russian>
+    <Russian>메뉴를 표시하려면 공간이 있는 장소로 이동하세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19009,7 +18992,7 @@ aggressività passiva. Risolvilo.</Italian>
 
 
 
-Добро пожаловать на "Созерцатель"</Russian>
+에스파이얼 호에 오신 것을 환영합니다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19033,7 +19016,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Fenêtré</French>
     <German>Fullscreen</German>
     <Italian>Windowed</Italian>
-    <Russian>В окне</Russian>
+    <Russian>창모드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19057,7 +19040,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>     Option d'écran</French>
     <German>     Bildschirmeinstellungen</German>
     <Italian> Impostazioni Schermo</Italian>
-    <Russian>     Настройки экрана</Russian>
+    <Russian>     화면 설정</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19081,7 +19064,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Basse Puissance</French>
     <German>Kleine Leistung</German>
     <Italian>Bassa potenza</Italian>
-    <Russian>Малая мощность</Russian>
+    <Russian>저전력모드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19105,7 +19088,7 @@ aggressività passiva. Risolvilo.</Italian>
     <French>Haute Puissance</French>
     <German>Hohe Leistung</German>
     <Italian>Alta potenza</Italian>
-    <Russian>Высокая мощность</Russian>
+    <Russian>고전력모드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19134,8 +19117,8 @@ Aiden Vyse</French>
 Aiden Vyse</German>
     <Italian>Ingegnere: 
 Aiden Vyse</Italian>
-    <Russian>инженер:
-Эйден Вайз</Russian>
+    <Russian>엔지니어:
+에이든 비제</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19159,7 +19142,7 @@ Aiden Vyse</Italian>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
-    <Russian>Салон</Russian>
+    <Russian>라운지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19208,7 +19191,7 @@ Aiden Vyse</Italian>
     <German>Esszimmer</German>
     <Italian>Sala da 
 pranzo</Italian>
-    <Russian>Столовая</Russian>
+    <Russian>식당</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19235,7 +19218,7 @@ Scientifique</French>
     <German>Wissenschaftsflügel</German>
     <Italian>Ala della 
 scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19264,8 +19247,8 @@ Mila Lexa</French>
 Mila Lexa</German>
     <Italian>Capitano: 
 Mila Lexa</Italian>
-    <Russian>Капитан:
-Мила Лекса</Russian>
+    <Russian>선장:
+밀라 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19289,7 +19272,7 @@ Mila Lexa</Italian>
     <French>Médical</French>
     <German>Medizinisch</German>
     <Italian>Medico</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19313,7 +19296,7 @@ Mila Lexa</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19340,7 +19323,7 @@ Scientifique</French>
     <German>Wissenschaftsflügel</German>
     <Italian>Ala della 
 scienza</Italian>
-    <Russian>Научный отсек</Russian>
+    <Russian>실험실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19368,8 +19351,7 @@ Mila</French>
 Mila</German>
     <Italian>Ufficio 
 di Mila</Italian>
-    <Russian> Офис
-Милы</Russian>
+    <Russian>밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19397,7 +19379,7 @@ Conférence</French>
     <German>Konferenzraum</German>
     <Italian>Stanza 
 Conferenza</Italian>
-    <Russian>Конференц-зал</Russian>
+    <Russian>회의실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19421,7 +19403,7 @@ Conferenza</Italian>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19445,7 +19427,7 @@ Conferenza</Italian>
     <French>Ingénierie</French>
     <German>Ingenieurwesen</German>
     <Italian>Ingegneria</Italian>
-    <Russian>Инженерная</Russian>
+    <Russian>엔진실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19474,8 +19456,8 @@ Silas Haze</French>
 Silas Haze</German>
     <Italian>Ricercatore: 
 Silas Haze</Italian>
-    <Russian>Исследователь:
-Сайлас Хейз</Russian>
+    <Russian>연구자:
+사일러스 헤이즈</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19499,7 +19481,7 @@ Silas Haze</Italian>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
-    <Russian>Ангар</Russian>
+    <Russian>격납고</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19523,7 +19505,7 @@ Silas Haze</Italian>
     <French>Médical</French>
     <German>Medizinisch</German>
     <Italian>Medico</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19547,7 +19529,7 @@ Silas Haze</Italian>
     <French>Médical</French>
     <German>Medizinisch</German>
     <Italian>Medico</Italian>
-    <Russian>Медотсек</Russian>
+    <Russian>의무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19572,8 +19554,7 @@ Mila</Spanish>
     <French>Bureau de Mila</French>
     <German>Büro von Mila</German>
     <Italian>Ufficio di Mila</Italian>
-    <Russian> Офис
-Милы</Russian>
+    <Russian>밀라의 사무실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19602,8 +19583,8 @@ Inférieur</French>
 Flur</German>
     <Italian>Corridoio 
 Inferiore</Italian>
-    <Russian>Нижняя 
-прихожая</Russian>
+    <Russian>하층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19632,8 +19613,8 @@ Inférieur</French>
 Flur</German>
     <Italian>Corridoio 
 Inferiore</Italian>
-    <Russian>Нижняя 
-прихожая</Russian>
+    <Russian>하층 복도
+</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19662,8 +19643,8 @@ Inférieur</French>
 Flur</German>
     <Italian>Corridoio 
 Inferiore</Italian>
-    <Russian>Нижняя 
-прихожая</Russian>
+    <Russian>하층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19687,7 +19668,7 @@ Inferiore</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19711,7 +19692,7 @@ Inferiore</Italian>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
-    <Russian>Мостик</Russian>
+    <Russian>선교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19735,7 +19716,7 @@ Inferiore</Italian>
     <French>Couloir Inférieur</French>
     <German>Unterer Flur</German>
     <Italian>Corridoio inferiore</Italian>
-    <Russian>Нижняя прихожая</Russian>
+    <Russian>하층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19759,7 +19740,7 @@ Inferiore</Italian>
     <French>Couloir Supérieur</French>
     <German>Oberer Flur</German>
     <Italian>Corridoio superiore</Italian>
-    <Russian>Верхний коридор</Russian>
+    <Russian>상층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19783,7 +19764,7 @@ Inferiore</Italian>
     <French>Couloir Supérieur</French>
     <German>Oberer Flur</German>
     <Italian>Corridoio superiore</Italian>
-    <Russian>Верхний коридор</Russian>
+    <Russian>상층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19812,8 +19793,8 @@ Supérieur</French>
 Flur</German>
     <Italian>Corridoio 
 superiore</Italian>
-    <Russian>Верхний 
-коридор</Russian>
+    <Russian>상층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19842,8 +19823,8 @@ Supérieur</French>
 Flur</German>
     <Italian>Corridoio 
 superiore</Italian>
-    <Russian>Верхний 
-коридор</Russian>
+    <Russian>상층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19872,8 +19853,8 @@ Supérieur</French>
 Flur</German>
     <Italian>Corridoio 
 superiore</Italian>
-    <Russian>Верхний 
-коридор</Russian>
+    <Russian>상층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19897,7 +19878,7 @@ superiore</Italian>
     <French>Couloir Supérieur</French>
     <German>Oberer Flur</German>
     <Italian>Corridoio superiore</Italian>
-    <Russian>Верхний коридор</Russian>
+    <Russian>상층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19926,8 +19907,8 @@ Supérieur</French>
 Flur</German>
     <Italian>Corridoio 
 superiore</Italian>
-    <Russian>Верхний 
-коридор</Russian>
+    <Russian>상층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19951,7 +19932,7 @@ superiore</Italian>
     <French>Couloir Supérieur</French>
     <German>Oberer Flur</German>
     <Italian>Corridoio superiore</Italian>
-    <Russian>Верхний коридор</Russian>
+    <Russian>상층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19975,7 +19956,7 @@ superiore</Italian>
     <French>Entrée</French>
     <German>Eingang</German>
     <Italian>Ingresso</Italian>
-    <Russian>Вход</Russian>
+    <Russian>입구</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -19999,7 +19980,7 @@ superiore</Italian>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
-    <Russian>Салон</Russian>
+    <Russian>라운지</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20023,7 +20004,7 @@ superiore</Italian>
     <French>Couloir Inférieur</French>
     <German>Unterer Flur</German>
     <Italian>Corridoio inferiore</Italian>
-    <Russian>Нижняя прихожая</Russian>
+    <Russian>하층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20047,7 +20028,7 @@ superiore</Italian>
     <French>Ingénierie</French>
     <German>Ingenieurwesen</German>
     <Italian>Ingegneria</Italian>
-    <Russian>Инженерная</Russian>
+    <Russian>엔진실</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20076,8 +20057,8 @@ Supérieur</French>
 Flur</German>
     <Italian>Corridoio 
 superiore</Italian>
-    <Russian>Верхний 
-коридор</Russian>
+    <Russian>상층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20105,8 +20086,8 @@ Inférieur</French>
     <German>Unterer Flur</German>
     <Italian>Corridoio 
 inferiore</Italian>
-    <Russian>Нижняя 
-прихожая</Russian>
+    <Russian>하층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20135,8 +20116,8 @@ Inférieur</French>
 Flur</German>
     <Italian>Corridoio 
 inferiore</Italian>
-    <Russian>Нижняя 
-прихожая</Russian>
+    <Russian>하층
+복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20160,7 +20141,7 @@ inferiore</Italian>
     <French>Couloir Inférieur</French>
     <German>Unterer Flur</German>
     <Italian>Corridoio inferiore</Italian>
-    <Russian>Нижняя прихожая</Russian>
+    <Russian>하층 복도</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20184,7 +20165,7 @@ inferiore</Italian>
     <French>La nature modulaire de l'Espial signifie que les installations à bord peuvent être changées en fonction des besoins de la mission.</French>
     <German>Der modulare Charakter des Espial bedeutet, dass sich die Einrichtungen an Bord je nach den Bedürfnissen der Mission ändern können.</German>
     <Italian>La natura modulare di Espial permette che le strutture a bordo possono cambiare a seconda delle esigenze della missione.</Italian>
-    <Russian>Модульная структура Созерцателя означает, что оборудование на борту может меняться в зависимости от нужд миссии.</Russian>
+    <Russian>에스파이얼 호는 모듈형 구조를 가지고 있으며, 따라서 미션에서의 필요에 따라 선상 시설이 바뀔 수 있습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20218,7 +20199,9 @@ Der Espial verwendet meist automatische Systeme und benötigt nur eine kleine Be
     <Italian>Puoi persino portare con te i tuoi spazi vitali e i tuoi alloggi.
 
 Utilizzando sistemi prevalentemente automatici, la Espial richiede solo un piccolo equipaggio per far funzionare la nave.</Italian>
-    <Russian>Вы можете даже принести с собой свои жилые помещения. Используя в основном автоматические системы, для управления Созерцателя требуется только небольшая команда.</Russian>
+    <Russian>개인 주택이나 방을 우주선 안에 설치하는 것도 가능합니다.
+    
+에스파이얼 호는 대부분이 자동화된 시스템에 의하여 관리되므로, 아주 적은 수의 선원만 필요로 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20242,7 +20225,7 @@ Utilizzando sistemi prevalentemente automatici, la Espial richiede solo un picco
     <French>Modulaire par conception</French>
     <German>Modularer Aufbau</German>
     <Italian>Modulare per Design</Italian>
-    <Russian>Модульный дизайн</Russian>
+    <Russian>모듈화 디자인</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20266,7 +20249,7 @@ Utilizzando sistemi prevalentemente automatici, la Espial richiede solo un picco
     <French>Essayez de construire votre propre Espial personnalisé avec les pièces ci-dessus.</French>
     <German>Versuchen Sie, Ihr eigenes benutzerdefiniertes Espial mit den obigen Stücken zu bauen.</German>
     <Italian>Prova a costruire la tua Espial personalizzata con i pezzi sopra indicati.</Italian>
-    <Russian>Попытайтесь построить свой собственный Созерцатель из данных деталей</Russian>
+    <Russian>당신만의 개인 에스파이얼 호를 만들어보세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20290,7 +20273,7 @@ Utilizzando sistemi prevalentemente automatici, la Espial richiede solo un picco
     <French>L'Espial est une station spatiale de classe Vector conçue et construite par Saito Engineering comme vaisseau de recherche et de récupération de données.</French>
     <German>Der Espial ist eine Raumstation der Vector-Klasse, die von Saito Engineering als Forschungs- und Datenerfassungsschiff konzipiert und gebaut wurde.</German>
     <Italian>L'Espial è una stazione spaziale di classe Vector progettata e costruita da Saito Engineering come nave di ricerca e recupero dati.</Italian>
-    <Russian>Созерцатель - это векторная космическая станция, спроектированная Сайто Инжиниринг для исследования и сбора данных.</Russian>
+    <Russian>에스파이얼 호는 Saito 엔지니어링이 연구와 데이터 수집 목적으로 설계하고 제작한 벡터클래스 우주 정거장입니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20314,7 +20297,7 @@ Utilizzando sistemi prevalentemente automatici, la Espial richiede solo un picco
     <French>Profil du vaisseau</French>
     <German>Schiffsprofil</German>
     <Italian>Profilo della nave</Italian>
-    <Russian>Профиль корабля</Russian>
+    <Russian>우주선 프로필</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20349,9 +20332,9 @@ Antriebssysteme - Vier Ionenstrahler und nachgerüsteter Singularitätsantrieb
     <Italian>Peso - 725.000 T (sezione centrale)
 Volume: 52.000 m3
 Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofittati</Italian>
-    <Russian>Вес - 750 000 тонн (центральная секция)   
-Объем - 5200 куб.м     
-Двигательная установка - четыре ионных двигателя и особый модернизированный привод</Russian>
+    <Russian>무게 - 725,000 톤 (주요 부품)   
+크기 - 52,000 세제곱미터     
+추진 시스템 - 네 개의 이온 추진기 및 개조된 특이점 드라이브</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20375,7 +20358,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>L'Espial</French>
     <German>Der Espial</German>
     <Italian>L'Espial</Italian>
-    <Russian>Созерцатель </Russian>
+    <Russian>에스파이얼 호</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20399,7 +20382,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>Un échantillon minéral issu de la première mission de recherche de l'Espial sur la planète Tanis Minor.</French>
     <German>Eine Mineralprobe von der ersten Forschungsmission des Espial auf dem Planeten Tanis Minor.</German>
     <Italian>Un campione minerale della prima missione di ricerca di Espial sul pianeta Tanis Minor.</Italian>
-    <Russian>Образец минералов из первого исследования Созерцателя на планете Танис Минор</Russian>
+    <Russian>에스파이얼 호가 첫 미션인 작은개자리 탐사에서 채집한 미네랄 샘플.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20423,7 +20406,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>Minerai de Trilithium</French>
     <German>Trilithium-Erz</German>
     <Italian>Trilithium Ore</Italian>
-    <Russian>Трилитиум руды</Russian>
+    <Russian>트릴티움 주괴</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20447,7 +20430,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>Essayez de tenir l'objet de test dans le champ du générateur de distorsion lumineuse.</French>
     <German>Versuchen Sie, das Testobjekt im Feld Light-Wrap Generator zu halten.</German>
     <Italian>Prova a tenere l'oggetto di prova nel campo del Generatore di Light-Wrap.</Italian>
-    <Russian>Попробуйте подержать исследуемый образец в световом поле генератора.</Russian>
+    <Russian>테스트용 물체를 집어서 광포 생성기 속에 넣어보세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20471,7 +20454,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>Instructions du générateur de distorsion lumineuse</French>
     <German>Light-Wrap-Feld-Anweisungen</German>
     <Italian>Istruzioni per il Campo Light-Wrap.</Italian>
-    <Russian>Инструкции к световому генератору.</Russian>
+    <Russian>광포 생성기 사용법.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20495,7 +20478,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <French>Essayez de tenir l'objet de test dans le champ du Noctae Shield. Notez que même le son n'échappe pas du camouflage</French>
     <German>Versuchen Sie, das Testobjekt im Noctae Shield zu halten. Beachten Sie, dass nicht einmal Geräusche der Tarnung entgehen können.</German>
     <Italian>Prova a tenere l'oggetto di prova nello Scudo Noctae. Si noti che anche il suono non può sfuggire al cloaking.</Italian>
-    <Russian>Попробуйте подержать исследуемый образец в экране Noctae Shield. Обратите внимание, что даже звук может избежать маскировки.</Russian>
+    <Russian>테스트용 물체를 집어서 녹태 실드 속에 넣어보세요. 소리조차 빠져나오지 못한다는 것을 확인해보세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20520,7 +20503,7 @@ Sistemi di propulsione - Quattro propulsori ionici e Singularity Drive retrofitt
     <German>Anweisungen zur Geräuschunterdrückung</German>
     <Italian>Istruzioni per la soppressione 
 del suono</Italian>
-    <Russian>Инструкции по шумоподавлению</Russian>
+    <Russian>소리 억제기 사용법</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20567,11 +20550,11 @@ Die vier Säulen des Light-Wrap-Generators ermöglichen eine dreidimensionale vi
 Il Noctae Shield non permette il rilevamento da qualsiasi forma conosciuta di tecnologia di rilevamento.
 
 I quattro pilastri del Generatore Light-Wrap consentono un mascheramento visivo tridimensionale.</Italian>
-    <Russian>Созерцатель невозможно обнаружить, когда активирована ее малозаметная система. 
+    <Russian>에스파이얼 호는 스텔스 시스템이 가동되어있는 동안에는 감지되지 않습니다.
 
-Щит Noctae  Shield исключает обнаружение какой-либо технологии динамического восприятия. 
+녹태 실드가 지금까지 알려진 모든 기술로부터 에스파이얼 호가 감지되는 것을 방지합니다.
 
-Четыре стойки светового генератора создают трехмерную визуальную маскировку.</Russian>
+네 개의 광포 생성기는 삼차원 은폐장을 생성합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20595,7 +20578,7 @@ I quattro pilastri del Generatore Light-Wrap consentono un mascheramento visivo 
     <French>La Technologie</French>
     <German>Die Technologie</German>
     <Italian>La tecnologia</Italian>
-    <Russian>Технология</Russian>
+    <Russian>에스파이얼의 기술</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20619,7 +20602,7 @@ I quattro pilastri del Generatore Light-Wrap consentono un mascheramento visivo 
     <French>Combinaison spatiale Exo-Suit</French>
     <German>Exo-Fit Raumanzug</German>
     <Italian>Tuta spaziale Exo-Fit</Italian>
-    <Russian>Скафандр для открытого космоса</Russian>
+    <Russian>외부용 우주복</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20653,7 +20636,9 @@ Unterschrift erforderlich.</German>
     <Italian>Le tute devono essere usate solo in caso di emergenza
 
 Firma registro obbligatoria.</Italian>
-    <Russian>Подходит только для использования в чрезвычайных ситуациях. Выписать именной мандат.</Russian>
+    <Russian>우주복은 긴급 상황에서만 사용이 가능합니다
+    
+사용시 반드시 사용자 서명을 하여야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20677,7 +20662,7 @@ Firma registro obbligatoria.</Italian>
     <French>Combinaison spatiale Exo-Suit</French>
     <German>Exo-Fit Raumanzug</German>
     <Italian>Tuta spaziale Exo-Fit</Italian>
-    <Russian>Скафандр для открытого космоса</Russian>
+    <Russian>외부용 우주복</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20711,7 +20696,9 @@ Unterschrift erforderlich.</German>
     <Italian>Le tute devono essere usate solo in caso di emergenza
 
 Firma registro obbligatoria.</Italian>
-    <Russian>Подходит только для использования в чрезвычайных ситуациях. Выписать именной мандат.</Russian>
+    <Russian>우주복은 긴급 상황에서만 사용이 가능합니다
+    
+사용시 반드시 사용자 서명을 하여야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20735,7 +20722,7 @@ Firma registro obbligatoria.</Italian>
     <French>Combinaison spatiale Exo-Suit</French>
     <German>Exo-Fit Raumanzug</German>
     <Italian>Tuta spaziale Exo-Fit</Italian>
-    <Russian>Скафандр для открытого космоса</Russian>
+    <Russian>외부용 우주복</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -20769,7 +20756,9 @@ Unterschrift erforderlich.</German>
     <Italian>Le tute devono essere usate solo in caso di emergenza
 
 Firma registro obbligatoria.</Italian>
-    <Russian>Подходит только для использования в чрезвычайных ситуациях. Выписать именной мандат.</Russian>
+    <Russian>우주복은 긴급 상황에서만 사용이 가능합니다
+    
+사용시 반드시 사용자 서명을 하여야 합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
