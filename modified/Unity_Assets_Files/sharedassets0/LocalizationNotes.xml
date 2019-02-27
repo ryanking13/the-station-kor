@@ -73,17 +73,17 @@ Giorno 17:
 &gt; 15|00 Seconda missione sonda
                (Riparazioni sulle unità 2 e 3)
 </Italian>
-    <Russian>Расписание миссии - Эйден
+    <Russian>미션 달력 - 에이든
 
-День 17:
+17일차:
 
-&gt;  06 | 00      Зарплата!
+&gt;  06 | 00      월급날!
 
-&gt;  13 | 30      Дедлайн по наладке
-                       низкой орбиты
+&gt;  13 | 30      저궤도 조정
+                    데드라인
 
-&gt;  15 | 00      Второй запуск зондов
-                       (ремонт единиц 2 и 3)</Russian>
+&gt;  15 | 00      이차 조사 미션
+                      (유닛 2&amp;3 수리)</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -167,19 +167,19 @@ Turismo fatto in STILE - Chiedi agli esperti
 Destinazione vacanze fatte spendendo poco
 
 Le migliori vacanze avventurose e fughe per il rilassamento mentale</Italian>
-    <Russian>Побег
+    <Russian>탈출
 
-3 лучших места, о которых вы никогда не слышали
+당신이 지금까지 몰랐던 최고의 장소들 3선
 
-Когда-нибудь мечтали владеть островом?
+섬을 소유하는 상상을 해본 적 있나요?
 
-10 фактов, меняющих ваш взгляд на родную планету
+당신의 생각을 바꿔줄 우리 행성에 관한 10가지 사실들
 
-Стильный туризм – спросим экспертов
+전문가들이 말해주는 스타일리쉬한 여행 방법
 
-Куда бы поехать с разным бюджетом
+적은 예산으로 떠나는 최고의 휴양지
 
-Лучшие виды отдыха, чтобы ни о чём не думать</Russian>
+마음을 맑게 해주는 최고의 휴가 장소</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -288,24 +288,24 @@ Le migliori innovazioni tecnologiche dell'anno scorso
 Proteggersi dalla sovrastimolazione nella nostra cultura basata sulla tecnologia
 
 Ciò che la missione Espial "Psy Prime" significa per altre ditte di ingegneria spaziale</Italian>
-    <Russian>бизнес-культура
+    <Russian>비즈니스 문화
 
 
-5 коммуникаторов, способных оптимизировать ваш день
+최적의 하루를 만드는 다섯가지 커뮤니케이션 방법
 
-Что ждёт нас после технологии сингулярного привода?
+특이점 드라이브 기술의 다음 목적지는 어디?
 
-Интервью с главой "Сайто Инжиниринг"
+Saito 엔지니어링 최고경영자와의 대화
 
-3 фирм, готовых совершить скачок в ближайшем будущем
+폭발적으로 성장할 준비가 된 3개의 기업
 
-Поиск работы и жизненного равновесия
+워라밸 찾기
 
-Лучшие технологические инновации последнего года
+작년 최고의 기술 혁신 사례
 
-Защитите себя от избыточной стимуляции нашей технологически зависимой культуры
+기술주도 사회에서 과로로부터 자신을 지키는 방법
 
-Что миссия "Созерцателя" на Пси Прайм значит для других космических инженерных фирм</Russian>
+에스파이얼 호의 "외계 행성" 미션이 다른 우주 기업들에게 가지는 의미</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -395,20 +395,20 @@ Giorno 17:
 
 &gt; 18|00 (Cancellato) 6 anni
                 Anniversario con Silas</Italian>
-    <Russian>Расписание миссии - Мила
+    <Russian>미션 달력 - 밀라
 
-День 17:
+17일차:
 
-&gt;  07 | 00      Взбучка команде
+&gt;  07 | 00      팀 스크럼
 
-&gt;  09 | 15      Оперативный отчёт
-                       для Элиаса
+&gt;  09 | 15      운영 보고 
+                       엘리아스에게
 
-&gt;  11 | 50      Проверка систем
-                       безопасности и изоляции
+&gt;  11 | 50      안전 점검
+                       시스템 테스트
 
-&gt;  18 | 00      (удалено) годовщина
-                       6 лет с Сайласом</Russian>
+&gt;  18 | 00      (삭제됨) 6주년
+                       기념일 - 사일러스와</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -553,34 +553,31 @@ Altre informazioni
 
 Firma del Capitano:                                        Firma del tecnico:
                  ML                                                                        AV</Italian>
-    <Russian>Механическая погрузка – уведомление инженерного отдела
-Станция погрузки         Номер миссии         Регистрационное имя      Подготовлено
-Аксиома-08                          LK6-3927                       АКСИ – 84                                   RAH
+    <Russian>수하물 반입 내역 – 엔지니어링
+탑재 정거장         미션 번호         우주선 등록번소      송신자
+Axiom-08                          LK6-3927                       AXI – 84                                   RAH
 
-Опасные грузы
-Номер рейса    Точное наименование        Класс или тип        Идентификатор
+위험물
+항공편    수하물 명칭        분류        ID 번호
 
-Количество контейнеров  Общее количество
+패키지 개수  전체 용량
 
-Нет никаких свидетельств загрузки в космическое судно любых повреждённых или негерметичных контейнеров, содержащих опасные грузы.
+우주선에 위험물을 포함한 수하물이 반입되지 않은 것을 확인함.
 
-Иные особые грузы
-Станция   Номер рейса          Содержимое                   Примечания                                       Код
+기타 수하물
+정거장   항공편          내용물                   비고                                           코드
 
-СЗРЦ          435-667               Абсолютный ДУП      Модель с широкими щитами           KHJ-098
-
-СЗРЦ          524-968               Соединительная втулка, трение 3m                                        VAJ-067
+EPL          435-667               앱솔루트 인코더          Wide Shield Model              KHJ-098
+EPL          524-968               연결용 못, 마찰 3mm                                      VAJ-067
                                         
-СЗРЦ          867-023               Плата Makeblock Orion      Совместимо с щитами              JGH-948
+EPL          867-023               Makeblock Orion           Shield와 호환됨   JGH-948
+EPL          734-068                타이밍 벨트 98               설치하기 전에 초기화할 것           YHR-956
+EPL          856-234                초음파 센서 2ms    EEPROM                           LOM-753
 
-СЗРЦ          734-068               Ремень передачи 98     Очистите перед установкой        YHR-956
+기타 정보
 
-СЗРЦ          856-234               Ультразвуковой сенсор 2ms    EEPROM                                LOM-753
-
-Другие сведения
-
-Подпись капитана:                                Подпись инженера:
-М.Л.                                                                                            Э.В.</Russian>
+선장 서명:                                엔지니어 서명:
+ML                                                                                            AV</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -659,17 +656,17 @@ Firma del Capitano:                                        Firma del tecnico:
 &gt; Link superiore
 &gt; Gyro a 2 assi
 &gt; Vax DTI 60</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Ультразвуковой датчик
-&gt; Оптический датчик
-&gt; Светодиоды
-&gt; Кабели
-&gt; Охлаждение
-&gt; Защитный экран
-&gt; Внешние датчики
-&gt; Передатчик
-&gt; Двухосный гироскоп
+&gt; 초음파 센서
+&gt; 시각 센서
+&gt; LED
+&gt; 유동 케이블
+&gt; 쿨링 벤트
+&gt; 보호 외장 도금
+&gt; 외부 센서
+&gt; 상부 링크
+&gt; 2-축 자이로센서
 &gt; Vax DTI 60</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
@@ -754,19 +751,19 @@ Firma del Capitano:                                        Firma del tecnico:
 &gt; Sensori tattili
 &gt; Gyro
 &gt; LED occhi</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Лобовой датчик
-&gt; Датчик касания
-&gt; Светодиоды
-&gt; Синхронные микрофоны
-&gt; Тактические датчики
-&gt; Камеры
-&gt; Боковые датчики
-&gt; Вентиляция
-&gt; Датчики касания 
-&gt; Гироскоп
-&gt; Глазные светодиоды</Russian>
+&gt; 머리 센서
+&gt; 터치 센서
+&gt; LED
+&gt; 동기화된 마이크
+&gt; 전술 센서
+&gt; 카메라
+&gt; 뺨 센서
+&gt; 쿨링 벤트
+&gt; 터치 센서
+&gt; 자이로 센서
+&gt; 눈 LED</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -845,18 +842,18 @@ Firma del Capitano:                                        Firma del tecnico:
 &gt; Giunto 2
 &gt; Regolatore di commutazione
 &gt; Chiuso</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Теплообменник
-&gt; Насосный привод
-&gt; Исполнительный механизм
-&gt; Колено
-&gt; Датчик силы
-&gt; Выпущено
-&gt; Сустав 1
-&gt; Сустав 2
-&gt; Переключаемый регулятор
-&gt; Закрыто</Russian>
+&gt; 열 순환기
+&gt; 엔진 펌프
+&gt; 엑추에이터
+&gt; 발목 관절
+&gt; 압력 센서
+&gt; 연장기
+&gt; 관절 1
+&gt; 관절 2
+&gt; 스위칭 레귤레이터
+&gt; 덮개</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -998,22 +995,22 @@ Altre informazioni
 
 Firma del Capitano:                                        Firma del tecnico:
                  ML                                                                        AV</Italian>
-    <Russian>Механическая погрузка – уведомление инженерного отдела
-Станция погрузки         Номер миссии         Регистрационное имя      Подготовлено
-Аксиома-08                          LK6-3927                       АКСИ – 84                                   RAH
+    <Russian>수하물 반입 내역 – 엔지니어링
+탑재 정거장         미션 번호         우주선 등록번소      송신자
+Axiom-08                          LK6-3927                       AXI – 84                                   RAH
 
-Опасные грузы
-Номер рейса    Точное наименование        Класс или тип        Идентификатор
+위험물
+항공편    수하물 명칭        분류        ID 번호
 
-Количество контейнеров  Общее количество
+패키지 개수  전체 용량
 
-Нет никаких свидетельств загрузки в космическое судно любых повреждённых или негерметичных контейнеров, содержащих опасные грузы.
+우주선에 위험물을 포함한 수하물이 반입되지 않은 것을 확인함.
 
-Иные особые грузы
-Станция   Номер рейса          Содержимое                              Примечания                      Код
+기타 수하물
+정거장   항공편          내용물                   비고                                           코드
 
-EPL          434-652               Модульный привод pn55                 Двойной H-мост     KHL-069
-EPL          524-968               Соединительная втулка, трение 3m   Ревизия 3           GAR-857
+EPL          434-652               모듈러 작동기 pn55      Dual H-Bridge                KHL-069
+EPL          524-968               연결용 못, 마찰 3mm   Revision 3               GAR-857
                                         
 
 
@@ -1021,10 +1018,10 @@ EPL          524-968               Соединительная втулка, т
 
 
 
-Другие сведения
+기타 정보
 
-Подпись капитана:                                Подпись инженера:
-М.Л.                                                                                            Э.В.</Russian>
+선장 서명:                                엔지니어 서명:
+ML                                                                                            AV</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1063,10 +1060,10 @@ EPL          524-968               Соединительная втулка, т
 
 &gt; Placcatura termica
 &gt; Scudo ottico</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Термозащита
-&gt; Оптическое экранирование</Russian>
+&gt; 열 도금
+&gt; 광학 실드</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1105,10 +1102,10 @@ Diese Momente werden zur zukünftigen Verwendung automatisch als Audioeinträge 
 
 &lt;b&gt;Caratteristiche:&lt;/b&gt; Attraverso la misurazione costante della chimica del cervello, dei livelli ormonali e del battito cardiaco, questo dispositivo può distinguere i momenti di significato cognitivo o emotivo.
 Questi momenti devono essere automaticamente creati come registrazioni audio per riferimento futuro, accessibili tramite il menu Axiom Augmented Reality (A.R.M.)</Italian>
-    <Russian>&lt;b&gt;Инструкция:&lt;/b&gt; После извлечения из упаковки поместите устройство на ухо.
+    <Russian>&lt;b&gt;사용법:&lt;/b&gt; 패키지에서 장치를 꺼낸 뒤, 귀에 장착하세요.
 
-&lt;b&gt;Функции:&lt;/b&gt; Постоянно измеряя показатели химии мозга, гормональных уровней и сердцебиения, это устройство способно распознать моменты когнитивной и эмоциональной важности.
-Эти моменты будут автоматически запечатлены в виде звукозаписей для дальнейшего воспроизведения, доступ к которым можно получить при помощи меню дополненной реальности (М.Д.Р.) "Аксиомы".</Russian>
+&lt;b&gt;기능:&lt;/b&gt; 지속적으로 뇌의 화학 작용, 호르몬 레벨, 심장 박동수를 측정하여 인지적 또는 정서적으로 중요한 순간을 감지합니다.
+이러한 중요한 순간들을 자동적으로 음성 로그로 기록하여 미래에 참고 자료로 사용할 수 있도록 합니다. 해당 자료들은 Axiom 증강 현실 메뉴(A.R.M.)를 통하여 접근할 수 있습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1162,13 +1159,13 @@ Mila Lexa
 
 Mike Pintea
 Scuola di pensiero sociale</Italian>
-    <Russian>Почётный доктор наук
+    <Russian>명예 문학 박사
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-Майк Пинти
-Школа социального мышления</Russian>
+마이크 핀타
+사회사상 학교</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1222,13 +1219,13 @@ Mila Lexa
 
 Jonathan Pankratz
 Scuola di futuri astronauti</Italian>
-    <Russian>Самый перспективный капитан корабля
+    <Russian>유망한 우주선 선장상
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-Джонатан Панкратц
-Школа будущих астронавтов</Russian>
+조나단 판크라츠
+우주비행사 양성대학</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1292,15 +1289,15 @@ Assegnato a:
 Mila Lexa
 
 Associazione Astronomica</Italian>
-    <Russian>Почётная грамота
+    <Russian>영향력있는 인물 상
 
-Выдал(-а):
-Владо Йокич
+시상:
+블라도 요비치
 
-Получил(-а):
-Мила Лекса
+수상:
+밀라 렉사
 
-Астрономическое сообщество</Russian>
+천문협회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1354,13 +1351,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Air Force</Italian>
-    <Russian>Джордж Ванос
-Сертификат о выполнении лётной программы
+    <Russian>조지 바누스
+비행 프로그램 수료 증명서
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-"Аксиома", воздушные силы</Russian>
+Axiom 공군</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1414,13 +1411,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Space Society</Italian>
-    <Russian>Питер Аткин
-Грамота о выполнении первой миссии
+    <Russian>피터 앳킨
+첫 미션 성공 확인서
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-Космическое общество "Аксиома"</Russian>
+Axiom 우주 학회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1474,13 +1471,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Air Force</Italian>
-    <Russian>Том Лантц
-Диплом специалиста в аэронавтике
+    <Russian>톰 란츠
+항공 전문가 졸업장
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-"Аксиома", воздушные силы</Russian>
+Axiom 공군</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1534,13 +1531,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Space Society</Italian>
-    <Russian>Грамота за участие в семинаре
-Выдал(-а) Дэвид Брод
+    <Russian>세미나 참여 인증서
+인증: 데이비드 브로드
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-Космическое общество "Аксиома"</Russian>
+Axiom 우주 학회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1594,13 +1591,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Air Force</Italian>
-    <Russian>Уил МакЛин
-Трофей наиболее виртуозного пилота-курсанта
+    <Russian>윌 맥린
+최우수 파일러 훈련생
 
-Получил(-а):
-Мила Лекса
+수상자:
+밀라 렉사
 
-"Аксиома", воздушные силы</Russian>
+Axiom 공군</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1654,13 +1651,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Air Force</Italian>
-    <Russian>Медаль за лётные достижения
-Выдал(-а) Марко Конар
+    <Russian>우수 비행 메달
+시상: 마르코 코너
 
-Получил(-а):
-Мила Лекса
+수상:
+밀라 렉사
 
-"Аксиома", воздушные силы</Russian>
+Axiom 공군</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1684,7 +1681,7 @@ Axiom Air Force</Italian>
     <French>Papa travaille dans l'espace</French>
     <German>Papa arbeitet im Weltall</German>
     <Italian>Papà lavora nello spazio</Italian>
-    <Russian>Папа работает в космосе</Russian>
+    <Russian>아빠는 우주에서 일한다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1708,7 +1705,7 @@ Axiom Air Force</Italian>
     <French>Mon père est le meilleur</French>
     <German>Mein Papa ist der Beste</German>
     <Italian>Mio padre è il migliore</Italian>
-    <Russian>Мой папа лучший</Russian>
+    <Russian>아빠가 최고야</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1732,7 +1729,7 @@ Axiom Air Force</Italian>
     <French>Papa a réparé mon robot</French>
     <German>Papa hat meinen Roboter heile gemacht</German>
     <Italian>Papà ha riparato il mio robot</Italian>
-    <Russian>Папа починил мне робота</Russian>
+    <Russian>아빠가 내 로봇을 고쳐줬어</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1756,7 +1753,7 @@ Axiom Air Force</Italian>
     <French>Kebo gardera Papa en sécurité</French>
     <German>Kebo wird Papa beschützen</German>
     <Italian>Kebo manterrà il papà al sicuro</Italian>
-    <Russian>Кибо защитит папу</Russian>
+    <Russian>케보가 아빠를 지켜줄 거야</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1806,11 +1803,10 @@ Viaggiare attraverso le onde dei volti
 Evento di 2 notti con ospiti speciali
 
 03-7778-DYY33</Italian>
-    <Russian>Гранвертю представляет:
+    <Russian>Grand Vertues 제공:
+새로운 사람들과의 만남의 장
 
-Путешествие по волнам лиц
-
-2 вечерних выпуска с особыми гостями
+특별한 게스트와 함께하는 2개의 행사
 
 03-7778-DYY33</Russian>
     <Portuguese>*</Portuguese>
@@ -1841,8 +1837,8 @@ Episode 1: Le facteur Frisson</French>
 Episode 1: Der Grusel Faktor</German>
     <Italian>Messaggio inviato
 Episodio 1: Il fattore Frisson</Italian>
-    <Russian>"Сообщение отправлено"
-Эпизод 1: Фактор Фриссона</Russian>
+    <Russian>메시지 전송됨
+에피소드 1: 프리즌 팩터</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1866,7 +1862,7 @@ Episodio 1: Il fattore Frisson</Italian>
     <French>Quoi qu'il ce passe, tu dois te souvenir que je t'aime plus que tu ne pourrais le savoir.</French>
     <German>Egal was kommt, du darfst nicht vergessen, dass ich dich mehr liebe als dir klar ist.</German>
     <Italian>Non importa cosa, devi ricordare che ti amo più di quanto tu possa sapere.</Italian>
-    <Russian>Что бы ни произошло, помни, что я люблю тебя больше, чем ты можешь представить.</Russian>
+    <Russian>무엇보다도, 내가 널 누구보다도 사랑한다는 사실을 기억해줘.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -1915,12 +1911,12 @@ Allo stato attuale, dati i dettagli che ci hai fornito, non siamo in grado di ap
 Apprezziamo il tuo interesse e spero di fare affari con te in futuro.
 
 Consorzio Caedmon</Italian>
-    <Russian>Эйден Вайз,
+    <Russian>에이든 비제님에게,
 
-В настоящее время, учитывая предоставленные Вами детали, мы не в состоянии одобрить займ, недавно запрошенный Вами. В условиях отсутствии необходимого залога наша организация может одобрить лишь менее крупный кредит на основе постоянного дохода, но это потребует наличия действительного рабочего контракта.
-Мы ценим Вашу заинтересованность и надеемся на дальнейшее сотрудничество.
+제공해주신 세부사항을 볼 때, 현재 본사는 요청하신 대출을 승인해드릴 수 없다는 점을 알려드립니다. 적절한 담보가 없는 경우는 대출이 어려우며, 요청하신 금액보다 적은 금액의 대출은 귀하가 안정적인 고용 계약 상태에 있음을 입증하는 자료를 보내주실 경우에 가능합니다.
+귀하의 관심에 감사드리며, 이후에 다시 연락주시길 기다리겠습니다.
 
-Консорциум "Кэдмон"</Russian>
+캐드먼 컨소시엄</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2011,20 +2007,20 @@ Rapporti sui conflitti e la guerra
 
 Altre note:
 Aiden, bevi di meno durante le normali ore di lavoro</Italian>
-    <Russian>Командные заметки – день 17
+    <Russian>스크럼 기록 – 17일차
 
-Геологический отчёт
-&gt; Задержка обязанностей Сайласа
-    -  Срок выполнения?
+지질학 리포트
+&gt; 사일러스에게 많은 업무 할당
+    -  예상 완료 시기?
 
-Отчёты о конфликте и военных действиях
-&gt; Анализ военной иерархии и вооружения, поручено  
-   Эйдену
-&gt; Доктрины, стратегии и тактики, поручено 
-   Миле
+내전 분석
+&gt; 군법 및 병기 분석, 담당자
+   에이든
+&gt; 정책, 전략 및 전술 분석, 담당자
+   밀라
 
-Другие заметки:
-Эйден, меньше пей во время рабочей смены</Russian>
+기타:
+에이든, 업무 시간에는 술 좀 적게 마실 것</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2078,13 +2074,13 @@ Ingegnere [x]
 Ricercatore [x]
 Capitano [x]
 Diplomatico [ ]?</Italian>
-    <Russian>Миссия для наблюдения за инопланетной цивилизацией…
+    <Russian>외계 문명 관찰 업무 할당
 
-Команда:
-Инженер  [x]
-Учёный [x]
-Капитан  [x]
-Дипломат [  ] ?</Russian>
+선원:
+엔지니어  [x]
+연구자 [x]
+선장  [x]
+외교관 [  ] ?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2143,14 +2139,14 @@ Diplomatico [ ]?</Italian>
 &gt; Attuatori
 &gt; Giunto a sfera
 &gt; Tether al trilitio</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Шаровой шарнир для вращения в трёх плоскостях и продольного движения. Ограниченный радиус для минимизации деформации сдвига
-&gt; Привод позади колена, чтобы увеличить вертикальную подъёмную силу 
-&gt; Оболочка из нановолокон
-&gt; Приводы
-&gt; Шаровой шарнир
-&gt; Трилитийная привязь</Russian>
+&gt; 3차원 회전 및 횡방향 이동을 위하여 소켓 조인트에 볼 장착, 변형을 최소화하기 위해 범위 제한
+&gt; 무릎 뒤에 조정기를 장착하여 수직 강도 향상
+&gt; 나노 섬유 케이스
+&gt; 조정기
+&gt; 볼 소켓 조인트
+&gt; 트릴리움 테두리</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
