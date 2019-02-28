@@ -2208,15 +2208,15 @@ Nel ventesimo anniversario del primo caso noto di C-SAD (difetto di alterazione 
 Celebriamo il processo di trattamento emergente che sembra essere in grado di curare la malattia. Quella che era una condanna a morte è ora gestibile in presenza di risorse finanziarie.
 
 La nostra speranza è che attraverso il dialogo pubblico lo stigma associato al C-SAD continuerà a diminuire. Ricordiamo al pubblico che la malattia non è contagiosa: è strettamente ereditaria.</Italian>
-    <Russian>ДИХС, 20 лет спустя
+    <Russian>C-SAD 20년 뒤 
 
-"Эхотерапия: измените самого себя"
+"에코 테라피: 당신을 근본부터 바꾸세요"
 
-В двадцатую годовщину первого обнаруженного случая синдрома ДИХС (дефект изменения хромосомного сплайсинга) мы приносим дань памяти 160 миллионов ушедших жизней. Генная терапия "ЭХО", некогда провозглашённая чудесным средством для улучшения когнитивных функций, подвижности и физической силы, стала одним из самых опустошительных бедствий в нашей истории.
+C-SAD(염색체 스플라이싱 변형 장애)라는 이름으로 널리 알려진 증상이 처음 발견된 지 올해로 20년이 되었습니다. 그동안 우리는 이 질환으로 1억 6천만명의 사람들을 떠나보내야만 했습니다. 처음에 인지 능력과 체력을 향상시키는 기적적 유전자 치료제로 알려졌던 ECHO는, 이제는 사회의 가장 큰 재앙 중 하나가 되었습니다.
 
-Мы были рады узнать, что серия безотлагательных процедур способна излечить синдром. То, что некогда было смертным приговором, ныне подлежит исцелению при наличии соответствующих финансовых ресурсов.
+우리는 응급 치료를 통해서 이 질환을 치료할 수 있다는 사실을 발견한 것을 널리 알리고자 합니다. 마치 사형 선고처럼 여겨졌던 이 질환은 이제는 충분한 경제적 여력만 있으면 치료가능한 것이 되었습니다.
 
-Мы надеемся, что при помощи открытых обсуждений социальная стигма, связанная с ДИХС, будет уменьшаться и дальше. Напоминаем всем, что болезнь не является заразной, а передаётся только по наследству.</Russian>
+우리의 목표는 더 이상 대중들이 C-SAD 환자에 대한 낙인 찍기를 중단하는 것입니다. 거듭 말씀드리지만 이 질환은 전염성이 없고, 전적으로 유전적인 요인에 의하여 발생합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2250,9 +2250,9 @@ Mila, wenn du das hier findest, ich bin mir ziemlich sicher, dass Silas alle Sti
     <Italian>Silas, se trovi questo, per favore non dirlo a Mila. Li ho quasi tutti.
 
 Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte le penne.</Italian>
-    <Russian>Сайлас, если ты это найдёшь, не говори Миле. Я уже почти все собрал.
+    <Russian>사일러스, 만약 이걸 발견했다면, 밀라에게는 말하지 말아줘. 내가 거의 전부를 다 여기 모아놨어.
 
-Мила, если ты это найдёшь, я абсолютно уверен, что Сайлас спрятал тут все наши ручки.</Russian>
+밀라, 만약 이걸 발견했다면, 나는 사일러스가 여기에 펜을 다 모아놓은 거라고 확신해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2296,11 +2296,11 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
 &gt; Attuatore lineare
 &gt; Tricipiti aumentati
 &gt; Spalla rinforzata</Italian>
-    <Russian>Заметки по конструкции:
+    <Russian>제작 노트:
 
-&gt; Линейный привод
-&gt; Аугментированные трицепсы
-&gt; Усиленное плечо</Russian>
+&gt; 선형 조정기
+&gt; 증강된 삼두박근
+&gt; 강화 어깨</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2359,14 +2359,14 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
 &gt; Velocità massima in grado di sfuggire all'orbita, ma inefficiente per il viaggio interstellare
 &gt; Prove di più siti di lancio
 &gt; Incapace di aggirare il generatore di distorsione della luce di Espial e Noctae Shield</Italian>
-    <Russian>Оценка технического уровня: Пси Прайм (не завершено)
+    <Russian>기술 평가: 외계 문명 (작성 중)
 
-&gt; Транспортные средства: ограничены кинетикой
-&gt; Примитивные управляемые формы двигателей сгорания
-&gt; Ограниченные источники жидкого и твёрдого топлива
-&gt; Предел скорости достаточен для преодоления орбиты, но неэффективен для межзвёздных путешествий
-&gt; Свидетельства наличия космодромов
-&gt; Неспособность преодоления "Щита Нокты" и генератора светового искажения "Созерцателя"</Russian>
+&gt; 우주 수송 기술은 동력학 수준에서 머물러있음
+&gt; 연소 방식 추진체를 사용함
+&gt; 액체 및 고체 연료의 절대적 양이 부족함
+&gt; 최대 속도는 궤도를 벗어날 수 있는 수준이나, 성간 여행에는 충분하지 않음
+&gt; 발사 시설이 여러 군데서 발견됨
+&gt; 에스파이얼 호의 광포 생성기나 녹태 실드를 무효화할 수 있는 기술은 없는 것으로 보임</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2400,9 +2400,9 @@ Sie haben ein beachtliches Verständis für Flugbahnmechanik—tatsächlich so u
     <Italian>Studio orbitale
 
 Hanno una conoscenza rispettabile della meccanica orbitale - così abile, in effetti, che abbiamo dovuto adeguare la nostra orbita a causa della quantità di detriti e spazzatura locali.</Italian>
-    <Russian>Орбитальный отчёт
+    <Russian>궤도 연구
 
-У них имеется значительное понимание орбитальной механики, причём их достижения настолько заметны, что нам пришлось изменять орбиту из-за количества орбитальных обломков и мусора.</Russian>
+그들은 궤도 역학에 대하여 충분한 지식을 가지고 있는 것으로 보입니다. 사실 그들이 궤도에 남겨놓은 잡다한 쓰레기들 때문에 우리가 궤도를 수정해야 했습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2466,15 +2466,15 @@ Vernichte diese Notiz sobald du sie gelesen hast!!</German>
 Ho testato i feed delle telecamere di sicurezza e questo punto è completamente nel punto cieco che abbiamo identificato.
 
 Distruggi questa nota dopo averla letta !!</Italian>
-    <Russian>Сайлас!
+    <Russian>사일러스!
 
-1. Переключатель скрытой двери находится под той панелью в коридоре, что я тебе показывал.
-2. Ты почувствуешь обратный ход переключателя, когда нажмёшь на него
-3. Противовесов на двери нет - при открытии каждый раз будет очень громко
-4. Чтобы закрыть, тяни дверную панель до тех пор, пока не услышишь щелчок
-Я проверял поток с камер наблюдения, и это место полностью спрятано внутри слепого пятна, о котором мы говорили.
+1. 숨겨진 문의 스위치는 전에 내가 보여준 복도 패널 밑에 있음
+2. 스위치를 누르면 스위치가 눌리는 느낌이 들 것
+3. 소리를 억제하는 장치는 따로 없으므로 문을 열면 큰 소리가 날 것
+4. 문을 닫으려면 딸깍소리가 날 때까지 문을 당길 것
+보안 카메라에 대해서 테스트해보았고, 전에 우리가 확인했던 대로 해당 공간은 완전히 카메라 사각지대임을 확인함.
 
-Уничтожь эту записку, как только прочитаешь!!</Russian>
+이 글은 읽고나서 반드시 제거할 것!!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2498,7 +2498,7 @@ Distruggi questa nota dopo averla letta !!</Italian>
     <French>Jours jusqu'au retour de Papa à la maison</French>
     <German>Tage bis Papa zu Hause ist</German>
     <Italian>Giorni fino a casa di Daddy</Italian>
-    <Russian>Дней до возвращения папули</Russian>
+    <Russian>아빠가 집에 올 때까지 남은 날짜</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2540,11 +2540,11 @@ Genauer gesagt, ihre Netzhaut kann Licht von 400nm – 700nm verarbeiten, aber n
 Gli occhi della specie si sono sviluppati per elaborare e vedere i colori che noi non possiamo.
 
 In particolare, la loro retina può elaborare luce a 400 nm - 700 nm, ma non la parte inferiore del nostro spettro di luce di ~ 300 nm.</Italian>
-    <Russian>Местная звезда излучает световой спектр со сравнительно большей длиной волны, чем наша.
+    <Russian>이곳의 별은 우리의 것보다 비교적 긴 파장의 빛 스펙트럼을 방출합니다.
 
-Глаза местного вида развили способность воспринимать цвета, которые не можем видеть мы.
+따라서 이곳의 생명체들은 우리가 보지 못하는 색을 볼 수 있도록 진화했습니다.
 
-В частности, их сетчатка может видеть свет с длиной волны 400нм – 700нм, но не нижнюю часть нашего светового спектра ~300нм.</Russian>
+구체적으로, 이들의 망막은 400nm - 700nm 범위의 빛 스펙트럼을 인식할 수 있으나, ~300nm 이하의 빛 스펙트럼은 인식하지 못합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2598,14 +2598,14 @@ Si percepisce che la loro violenza deriva da:
 
 &gt; Strutture e sistemi di apprendimento cognitivo sociale sottosviluppati
 &gt; Insufficiente conservazione ed elaborazione delle conoscenze individuali</Italian>
-    <Russian>Общий отчёт о виде с Пси Прайм
+    <Russian>외계 행성 종 개요
 
-Вид обладает двусторонней симметрией, зависит от воды, всеяден, обладает значительными интеллектуальными и эмоциональными свойствами, последнее из которых в первую очередь подчинено страху.
+이 종은 생리학적으로 두 개의 성으로 이루어져있으며, 물에 의존적이며, 유기체인 잡식 동물로, 발전된 정서적, 지적 능력을 지니고 있음. 정서 능력의 경우 공포가 가장 핵심적인 정서로 보임.
 
-Судя по всему, их жестокость вызвана следующим:
+이들의 폭력적 행동은 아래가 원인이라고 생각됨:
 
-&gt;  Неразвитые социальные когнитивно-познавательные структуры и системы
-&gt;  Недостаточные усвоение и обработка знаний индивидами</Russian>
+&gt;  사회적 인지학습 구조와 시스템의 부족
+&gt;  개별 개체의 기억력과 사고능력의 부족</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2660,13 +2660,13 @@ Ha un lato interessante per lui e/o parleremo solo del suo tipo preferito di roc
 Ci incontreremo quando torni!
 
 Emilia</Italian>
-    <Russian>Не могу поверить, что ты так долго от меня это скрывала!
-То есть, Сайлас Хейз и есть тот загадочный мужчина, с которым ты встречалась последние полгода? Парень, с которым ты летишь на миссию на Пси Прайм? Ох и наживешь ты проблем, если вас двоих поймают!
-Постоянно вижу всякие интервью с ним, но какой он в жизни? Я попробую прочесть какую-нибудь из его книг, чтобы поддержать с ним нормальный разговор, когда ты нас познакомишь.
-В нём есть что-нибудь особенное, или мы просто будем говорить о каких-нибудь там камнях?
-Встретимся, когда вернёшься!
+    <Russian>네가 나한테 이 비밀을 이렇게나 오래 숨겨왔다는 걸 믿을 수가 없네!
+그래서, 사일러스 헤이즈가 네가 지난 반년동안 만난 남자인데 이번에 외계 행성 탐사 미션에 같이 간다고? 나중에 걸리면 너나 그 사람이나 간단하게는 안 끝날걸!
+인터뷰에서 그 사람을 자주보긴 했는데, 실제로 만나보니 어때? 나중에 네가 나한테 소개해줄 때를 대비해서 그 사람 책이라도 한 권 읽어둬야 할까봐.
+그 사람 뭔가 흥미로운 부분은 있어? 설마 자기가 수집하는 돌 얘기같은거나 하는 남자는 아니지?
+돌아오면 꼭 연락해!
 
-Эмилия</Russian>
+에밀리아</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2695,8 +2695,8 @@ Mais vous aussi!</French>
 du aber auch!</German>
     <Italian>La vita è dura,
 Ma anche tu!</Italian>
-    <Russian>Жизнь сурова,
-Но ты тоже!</Russian>
+    <Russian>인생은 험난하다,
+하지만 당신은 충분히 강한 사람이다!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2750,13 +2750,13 @@ Non inseguire qualcosa che non può essere catturato. Un buon leader non segue u
 
 Tuo padre,
 Sterno Lexa</Italian>
-    <Russian>Моя дорогая дочь,
+    <Russian>내 사랑스러운 딸에게,
 
-Это не из-за моего наследия тебя мучит беспокойство. Одобрение и признание - это не какая-то там случайная лотерея. Их получают за силу воли и духа. Они - не цель, а побочные плоды истинного лидерства. 
-Не беги вдогонку за тем, чего нельзя поймать. Хороший вождь не следует чужому пути, а создаёт собственный. Ты можешь считать меня пределом своего успеха, но ты сама предел своего успеха.
+네가 겪고 있는 좌절감은 네가 나의 딸이라는 사실에서 오는 것이 아니라, 너 자신이 스스로 만들어내고 있는 것이란다. 누군가에게 주어지는 칭송과 영광은 그 사람이 운이 좋았기 때문에 얻을 수 있는게 아니란다. 그것들은 의지와 정신의 힘에서 온단다. 그것들은 목표가 아니라, 진정한 리더십을 가진 사람에게 따라오는 부산물에 불과하단다.
+잡을 수 없는 것을 좇지 말거라. 훌륭한 리더는 이미 난 길을 따르는 사람이 아니라, 길을 만들어내는 사람이란다. 나를 네 성공의 한계로 생각하지 말거라, 내가 아닌 너 자신을 목표로 삼으렴.
 
-Твой отец,
-Стерно Лекса</Russian>
+아버지가,
+스터노 렉사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2780,7 +2780,7 @@ Sterno Lexa</Italian>
     <French>Leur économie est conçue autour d'un système rudimentaire de monnaie fiduciaire globale à la valeur d'échange. Dire que c'est instable serait un euphémisme - nous savons que le jeu final d'un tel modèle mène à un cycle sans fin d'accidents.</French>
     <German>Sie haben ihre Wirtschaft um ein rudimentäres System einer gesammelten zugestimmten Währung entwickelt um Werte zu tauschen. Zu sagen es sei instabil wäre noch untertrieben—wir wissen ja, dass die Endphase eines solchen Systems zu einem endlosen Kreislauf von Zusammenbrüchen führt.</German>
     <Italian>Le loro economie sono progettate attorno a un sistema rudimentale di moneta legale aggregata per lo scambio di valore. Dire che è instabile sarebbe un eufemismo - sappiamo che il gioco finale di un tale modello porta ad un ciclo infinito di incidenti.</Italian>
-    <Russian>Их экономика построена вокруг рудиментарной системы средневзвешенной договорной валюты, имеющей обменную ценность. Называть её нестабильной будет ещё мягко. Мы прекрасно знаем, что в итоге подобную модель ждёт бесчисленная череда кризисов.</Russian>
+    <Russian>그들의 경제는 가치를 교환하는 화폐 통화 시스템을 바탕으로 설계되었습니다. 이러한 시스템은 불안정할 뿐만 아니라, 결과적으로 끝없는 갈등의 반복을 초래한다는 것을 우리는 이미 경험한 바가 있습니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2844,15 +2844,15 @@ Congratulazioni ancora e grazie per il tuo lavoro in prima linea nella comunità
 
 Shaila Moore
 L'Accademia Tritonael</Italian>
-    <Russian>Уважаемый Сайлас Хейз,
+    <Russian>사일러스 헤이즈님께,
 
-Мы с гордостью сообщаем, что в этом году Вы станете получателем Тритонельской награды за достижения в области естественных наук.
-Эта награда спонсируется консорциумом "Кэдмон" и отмечает Вашу преданность совершенствованию наших знаний о вселенной.
-В скором времени мы пришлём вам подробности о церемонии награждения.
-Снова поздравляем Вас и благодарим за работу на передовой научного сообщества.
+올해 자연 과학 분야의 트리토넬 공로상 대상자로 귀하가 선정되었음을 알려드리게 되어 영광스럽게 생각합니다.
+캐드몬 컨소시엄이 후원하는 이 상은, 우주에 대한 우리의 지식을 발전시키기 위하여 노력한 귀하의 헌신을 인정하여 귀하를 수상자로 선정하였습니다.
+시상식과 관련한 세부사항은 추후에 다시 연락드리겠습니다.
+다시 한 번 수상을 축하드리며, 과학계를 대표하여 귀하의 공로에 감사의 말씀을 드립니다.
 
-Шайла Мур
-Академия Тритонель</Russian>
+샬리아 무어
+트리토넬 협회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2896,11 +2896,11 @@ Ich habe keinen Zweifel daran, dass wir hier Aiden's Tiergeist entdeckt haben.</
 La creatura si è adattata per far crescere armature protettive a base di cheratina sull'esterno del corpo. Se minacciato o spaventato da un predatore, può emettere una sostanza chimica nociva dalla sua parte posteriore.
 
 Non ho dubbi che abbiamo scoperto l'animale spirituale di Aiden.......</Italian>
-    <Russian>Вид с Пси Прайм # 15,893
+    <Russian>외계 종 No. 15,893
 
-Данное существо в процессе адаптации обрело внешнюю защитную оболочку из кератиновых чешуй. Если хищник угрожает или пугает существо, оно испускает зловредные химикаты.
+이 생물은 방어용으로 몸체 외부에 케라틴으로 된 비늘을 두르고 있다. 포식자에게 위협받을 경우, 항문으로부터 독성의 화학물질을 방출한다.
 
-У меня нет никаких сомнений, что мы обнаружили духовного спутника Эйдена.</Russian>
+아무래도 에이든의 소울메이트를 발견한 것 같다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2951,13 +2951,13 @@ Le file centrali sono riservate per essere cercate dai migliori
 Dentro la mente il tuo tesoro riposa
 
 "Revolution" fornisce la chiave per questo test</Italian>
-    <Russian>Обратившись к стеклу, налево поверни
+    <Russian>유리와 마주보라, 퀘스트는 그대의 왼쪽에 있으니
 
-На средний ряд внимательно взгляни
+가운데 줄에서 목표한 것을 찾으라
 
-В чертогах разума сокровище найди
+마음 속에 보물이 있을 지니
 
-"Революция" поможет ключ обрести</Russian>
+“혁명(Revolution)” 이 그대의 열쇠다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3051,21 +3051,21 @@ Delineato nella presentazione al senato, da parte di Elias Volante, i seguenti s
 Perseguendo questa missione, Axiom si impegna a operare in modo da - (Mezza verità al pubblico per promuovere la sua immagine)
 
 Domande e commenti pubblici possono essere indirizzati a contact@exploreaxiom.com.</Italian>
-    <Russian>Космическое агентство "Аксиома"
+    <Russian>Axiom 항공 우주국
 
-Кому: Элиас Воланте
-От кого: Председатель Сената
+To: 엘리아스 볼란테
+From: 상원의장
 
-В соответствии с голосованием в сенате по вопросу изучению экзопланеты Пси Прайм, которое получило 62% голосов за, "Аксиома" получает одобрение сената на проведение исследовательской миссии.
-Целями миссии, означенными Элиасом Воланте на презентации в сенате, принимаются следующие практические результаты:
+외계 행성 조사 미션에 대한 상원 투표는 62%가 찬성하여 가결되었으며, 따라서 표결에 따라 Axiom 사의 미션 진행을 상원이 승인하였음을 알려드립니다.
+엘리아스 볼란테씨가 상원에서 발표하신 내용에 따라, 다음의 사항들을 미션에서 조사하게 됩니다.
 
-&gt; Понимание языка и культурно-социальных конструктов доминирующего вида планеты Пси Прайм. ("Как мы можем их убить?")
-&gt; Изучение геологических и биохимических характеристик планеты Пси Прайм. ("Что ценного есть на их планете?")
-&gt; Наблюдение технологических возможностей доминирующего вида на Пси Прайм, с отдельным вниманием к их способности достичь и обнаружить нашу планету. ("Могут ли они ответить на нашу атаку?")
+&gt; 외계 행성 주요 종의 언어, 문화, 사회 구조 관찰 (우리가 그들을 어떻게 정복할 수 있는가?)
+&gt; 외계 행성의 지질학적, 생화학적 특성 조사 (행성에 어떤 가치있는 자원이 있는가?)
+&gt; 외계 행성 주요 종의 기술 수준, 특히 우리 행성에 도달하거나 우리 행성을 감지할 수 있는 기술적 능력 보유 여부 (그들이 보복할 가능성이 있는가?)
 
-Следуя целям этой миссии, "Аксиома" обязуется работать лишь в соответствии с... (здесь полуправда для широких масс с целью пиара)
+미션 수행 과정에서, Axiom은 다음과 같은 사항을 지킬 것을 - (회사 이미지를 위하여 대중에게는 진실을 반만 얘기할 것)
 
-Открытые письма и комментарии можно присылать на contact@exploreaxiom.com.</Russian>
+문의 사항이 있으시면 contact@exploreaxiom.com으로 연락바랍니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3098,9 +3098,9 @@ Es ist unglaublich faszinierend sich ihren Krieg anzusehen. Es ist unklar, was g
     <Italian>Le firme di decadimento termico e radioattivo mostrano che non stiamo osservando un breve momento di guerra, ma contestualmente sembra essere una pratica persistente.
 
 La loro guerra è incredibilmente affascinante da guardare. Non è chiaro esattamente quale sia il catalizzatore e, a questo punto, non ha nemmeno importanza: l'assoluta ferocia dimostrata non ha eguali.</Italian>
-    <Russian>Термальные данные и следы радиоактивного распада показывают, что мы являемся свидетелями не краткосрочной войны, а практически вечных военных действий.
+    <Russian>열과 방사선 수치를 바탕으로 판단할 때, 이 전쟁은 짧은 기간동안 발생한 것이 아니며, 오랜 시간동안 지속되어온 것으로 여겨집니다.
 
-Их война - невероятно захватывающее зрелище. Мы в точности не можем сказать, что её подпитывает, и сейчас это даже не имеет никакого значения - наблюдаемая свирепость беспрецедентна.</Russian>
+그들의 전쟁은 굉장히 흥미롭습니다. 무엇이 전쟁의 촉매가 된 것인지는 명확하지 않고, 현재는 그것이 무엇이었든 상관하지 않는 것으로 보입니다. 이들의 야만적인 행위는 상상을 초월합니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3144,11 +3144,11 @@ Betrachten sie dies als ein offenes Angebot.</German>
 Se l'Espial dovesse subire un grosso guasto alla sua missione, 80-000mA saranno trasferiti a te per i tuoi "servizi di consulenza".
 
 Considera questa un'offerta aperta.</Italian>
-    <Russian>Есть кое-кто, кто мог бы выиграть от потери "Сайто" инженерного контракта с "Аксиомой".
+    <Russian>Saito사와 Axiom사이의 계약이 파기되기를 바라는 사람이 있습니다.
 
-Если "Созерцатель" столкнётся с капитальными неполадками во время своей миссии, вам будут переведены 80-000мА за "услуги консультанта".
+에스파이얼 호의 미션을 크게 실패하게 해주신다면, 컨설팅 금액으로 당신에게 80000mA가 지급될 것입니다.
 
-Считайте это открытым предложением.</Russian>
+신중한 고려 부탁드립니다.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3197,12 +3197,12 @@ Kopi Verlagshaus</German>
 Assegnato a: Silas Haze
 
 Casa editrice Kopi</Italian>
-    <Russian>Награда за документалистику-бестселлер
-"Неизвестные величины эволюции"
+    <Russian>논픽션 베스트셀러
+“알려지지 않은 진화”
 
-Получил(-а): Сайлас Хейз
+수상자: 사일러스 헤이즈
 
-Издательский дом "Копи"</Russian>
+Kopi 출판사</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3236,9 +3236,9 @@ Lass dein Traumhaus Wirklichkeit werden!</German>
     <Italian>Vinci subito!
 
 Trasforma la casa dei tuoi sogni in realtà!</Italian>
-    <Russian>Выиграйте сейчас!
+    <Russian>지금 도전하세요!
 
-Претворите дом вашей мечты в реальность!</Russian>
+꿈꾸던 집이 당신에게로!</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3298,17 +3298,13 @@ Giorno 17:
                comunicazione delle lingue
 
 &gt; 15|00 Incontro con Mila</Italian>
-    <Russian>Расписание миссии - Сайлас
+    <Russian>미션 달력 - 사일러스
 
-День 17:
+17일차:
 
-&gt;  08 | 20      Геологическое сканирование
-                       Пси Прайм
-
-&gt;  10 | 15      Дедлайн для лингвистического
-                       отчёта
-
-&gt;  15 | 00      Встреча с Милой</Russian>
+&gt;  08 | 20      외계 행성 지질학 스캔
+&gt;  10 | 15      언어 보고서 데드라인
+&gt;  15 | 00      밀라와 만날 약속</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3362,13 +3358,13 @@ Assegnato a:
 Mila Lexa
 
 Axiom Space Society</Italian>
-    <Russian>Нейтан Фриссон
-Грамота будущего лидера
+    <Russian>나단 프리즌
+미래 지도자상
 
-Получил(-а):
-Мила Лекса
+수상자:
+밀라 렉사
 
-Космическое общество "Аксиома"</Russian>
+Axiom 우주 협회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -3422,13 +3418,13 @@ Assegnato a:
 Mila Lexa
 
 Associazione Astronomica </Italian>
-    <Russian>Айзак Лоуд
-Сертификат за достижения в техниках деэскалации
+    <Russian>아이작 로드
+점감 기법 수강 인증서
 
-Получил(-а):
-Мила Лекса
+수여자:
+밀라 렉사
 
-Астрономическое сообщество</Russian>
+천문 협회</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
