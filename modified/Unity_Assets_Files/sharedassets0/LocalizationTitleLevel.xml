@@ -6141,7 +6141,7 @@ All of our families and friends!
     <French>Option A</French>
     <German>Option A</German>
     <Italian>Opzione A</Italian>
-    <Russian>옵션 А</Russian>
+    <Russian>옵션 A</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9055,7 +9055,7 @@ Augmentée</French>
     <French>     Changer de Profil</French>
     <German>     Profil wechseln</German>
     <Italian> Cambia Profilo</Italian>
-    <Russian>     Смена профиль: </Russian>
+    <Russian>     프로필 변경 </Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9079,7 +9079,7 @@ Augmentée</French>
     <French>Le profil de cette session de jeu à été déconnecté. Reconnectez-vous pour continuer à jouer, ou utilisez un nouveau profil pour retourner à l'écran titre.</French>
     <German>Das mit dieser Spielsitzung verbundene Profil wurde abgemeldet. Mit dem selben Profil anmelden um das Spiel fortzusetzen oder mit einem neuen Profil anmelden um zum Titelbildschirm zurück zu kehren.</German>
     <Italian>Il profilo assegnato a questa sessione di gioco è stato disconnesso. Accedi di nuovo con lo stesso profilo per riprendere la partita o accedi con un nuovo profilo per tornare alla schermata del titolo.</Italian>
-    <Russian>Профиль, выбранный для игры, был отключён. Подключитесь с тем же профилем, чтобы продолжить игру, или выберите другой профиль, чтобы вернуться в главное меню.</Russian>
+    <Russian>세션에 할당된 프로필에서 로그아웃하였습니다. 다시 로그인하여 게임을 재개하거나, 새로운 프로필을 만들려면 시작 화면으로 돌아가세요.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -9852,7 +9852,7 @@ continuare.</Italian>
     <French>Utilisateur déconnecté</French>
     <German>Benutzer hat sich ausgeloggt</German>
     <Italian>L'utente è uscito</Italian>
-    <Russian>Пользователь отключился</Russian>
+    <Russian>로그아웃하였습니다</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
