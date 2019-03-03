@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="http://thestationgame.com/wp-content/uploads/2018/02/Thestation_Logo-test_73ea7e00a347581d119890bda0d3a23e.jpg" width=600 /></div>
 
-> _Explore With Us._
+> ### _Explore With Us._
 
 [The Station](http://thestationgame.com/) 한국어화 프로젝트
 
