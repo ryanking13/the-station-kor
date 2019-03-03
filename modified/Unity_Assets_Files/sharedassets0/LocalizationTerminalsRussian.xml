@@ -25,7 +25,7 @@
     <description>에스파이얼 호 수리</description>
     <messageIndex>5</messageIndex>
     <messageCount>3</messageCount>
-    <Font>2</Font>
+    <Font>3</Font>
     <Spacing>1</Spacing>
   </email>
   <email>
@@ -153,6 +153,8 @@
     <messageIndex>0</messageIndex>
     <author>엘리아스 볼란테</author>
     <to>To: 사일러스</to>
+    <date>
+    </date>
     <content>Axiom 사는 두 미션 수행원 사이의 보고되지 않은 개인적인 애정 관계를 확인하였습니다. 이 사항은 지휘 체계의 혼란을 야기할 것으로 생각되므로 본사는 이 미션의 대체 선장을 선정할 예정입니다.
 
 
@@ -642,7 +644,7 @@
     <messageIndex>38</messageIndex>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
-    <ContentFont>*</ContentFont>
+    <ContentFont>4</ContentFont>
     <ContentSpacing>1</ContentSpacing>
   </msg>
 </terminal>
