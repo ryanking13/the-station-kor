@@ -401,7 +401,7 @@
   </msg>
   <msg>
     <messageIndex>17</messageIndex>
-    <author>엘리아스</author>
+    <author>ELIAS</author>
     <content>    보고서 전달 받았습니다. 우려되는 부분이 있으면 추가로 연락드리겠습니다. 다른 문의사항 있습니까?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -410,7 +410,7 @@
   </msg>
   <msg>
     <messageIndex>18</messageIndex>
-    <author>밀라</author>
+    <author>MILA</author>
     <content>    일부 상원의원이 뇌물을 받았다는 뒷소문을 들었습니다. 진상은 무엇인가요?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -419,7 +419,7 @@
   </msg>
   <msg>
     <messageIndex>19</messageIndex>
-    <author>엘리아스</author>
+    <author>ELIAS</author>
     <content>    1. 그럴 수도 있습니다. 국회의원들이 다 그렇죠.
     2. Axiom의 누군가가 행한 일은 아닙니다.
     3. 그런 시시한 소문거리나 조사하라고 돈을 주는 게 아닙니다.</content>
@@ -430,7 +430,7 @@
   </msg>
   <msg>
     <messageIndex>20</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content> 그들의 언어 분석이 시작되었다는 연락을 받았어. 그래서, 보니까 어때?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -439,7 +439,7 @@
   </msg>
   <msg>
     <messageIndex>21</messageIndex>
-    <author>밀라</author>
+    <author>MILA</author>
     <content>    어떻냐니 뭐가?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -448,7 +448,7 @@
   </msg>
   <msg>
     <messageIndex>22</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content>    그들의 언어 말이야.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -457,7 +457,7 @@
   </msg>
   <msg>
     <messageIndex>23</messageIndex>
-    <author>밀라</author>
+    <author>MILA</author>
     <content>    비효율적이야.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -466,7 +466,7 @@
   </msg>
   <msg>
     <messageIndex>24</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content>    그런 거 말고 디테일하게! 말을 들으면 어때? 어떤 느낌이야?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -475,7 +475,7 @@
   </msg>
   <msg>
     <messageIndex>25</messageIndex>
-    <author>밀라</author>
+    <author>MILA</author>
     <content>   뭐? 지금 나보고 느낌에 대해서 얘기하라고?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -484,7 +484,7 @@
   </msg>
   <msg>
     <messageIndex>26</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content>    장난치는 거 아니야. 그냥 끝나면 다시 연락 줘.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -493,7 +493,7 @@
   </msg>
   <msg>
     <messageIndex>27</messageIndex>
-    <author>밀라</author>
+    <author>MILA</author>
     <content>    내가 어떤 "느낌"이냐에 따라서, 연락해줄 수도 있고, 안 해줄 수도 있고.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -502,7 +502,7 @@
   </msg>
   <msg>
     <messageIndex>28</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content>    -유저가 대화에서 떠났습니다-</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -511,7 +511,7 @@
   </msg>
   <msg>
     <messageIndex>29</messageIndex>
-    <author>사일러스</author>
+    <author>SILAS</author>
     <content>실험실에 있는 대부분의 기능들은 우리가 저궤도에 있을 때는 사용이 불가능해, 계산은 다 끝나가?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -520,7 +520,7 @@
   </msg>
   <msg>
     <messageIndex>30</messageIndex>
-    <author>에이든</author>
+    <author>AIDEN</author>
     <content>사일러스 궤도 역학은 엔지니어에게 있어서 제일 고통스러운 것중 하나라고. 시험관가지고 흙장난 하는 거랑은 달리 간단하지 않아. </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
