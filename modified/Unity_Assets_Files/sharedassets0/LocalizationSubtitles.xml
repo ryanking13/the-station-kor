@@ -189,7 +189,7 @@
     <French>Aiden: Je ne sais pas où tu pense que je pourrais cacher quelque chose comme ça à bord.</French>
     <German>Aiden: Nicht sicher was du glaubst, wo ich so etwas an Board verstecken könnte.</German>
     <Italian>Aiden: Non sono sicuro di dove pensi di poter nascondere qualcosa di simile a bordo.</Italian>
-    <Russian>에이든: 이런 걸 내가 이 우주선 안에 숨기는 게 가능하다고 생각해?</Russian>
+    <Russian>에이든: 이런 걸 이 우주선 안에 숨기는 게 가능하다고 생각해?</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -381,7 +381,7 @@
     <French>Mila: ce qui est surprenant compte tenu de la similitude …</French>
     <German>Mila: was überraschend ist angesichst ihrer Ähnlichkeit...</German>
     <Italian>Mila: il che è sorprendente considerando quanto simili ...</Italian>
-    <Russian>밀라: 놀랄만한 사실은 굉장히 유사한...</Russian>
+    <Russian>밀라: 놀라운 사실은 이들이 굉장히 유사한...</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -405,7 +405,7 @@
     <French>* Explosion éloignée*</French>
     <German>*Entfernte Explosion*</German>
     <Italian>* Esplosione distante *</Italian>
-    <Russian>*먼 곳에서의 폭발*</Russian>
+    <Russian>*먼 곳에서의 폭발 소리*</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -2947,6 +2947,7 @@
     <English>Espial: Self-destruct sequence initiated. Proceed immediately to the escape pods.</English>
     <Spanish>Espial: Secuencia de auto-destrucción iniciada. Proceder inmediatamente a las cápsulas de escapre.</Spanish>
     <French>Séquence d'Auto-destruction initialisée. Procédez à l'évacuation immédiate vers les modules d'évacuation.</French>
+    <German>Espial: Self-destruct sequence initiated. Proceed immediately to the escape pods.</German>
     <Italian>Espial: Inizio sequenza di autodistruzione. Procedi immediatamente verso i Pod di salvataggio!</Italian>
     <Russian>에스파이얼: 자폭 장치가 가동되었습니다. 즉시 탈출 포드로 향하세요.</Russian>
     <Portuguese>*</Portuguese>
@@ -2970,6 +2971,7 @@
     <English>Espial: Augmented reality systems now available.</English>
     <Spanish>Espial: Sistemas de realidad aumentada ahora disponibles.</Spanish>
     <French>Espial: Les systèmes de réalité augmentée sont maintenant disponibles.</French>
+    <German>Espial: Augmented reality systems now available.</German>
     <Italian>Espial: Disponibili ora i sistemi di realtà aumentata.</Italian>
     <Russian>에스파이얼: 증강 현실 시스템이 활성화되었습니다.</Russian>
     <Portuguese>*</Portuguese>
