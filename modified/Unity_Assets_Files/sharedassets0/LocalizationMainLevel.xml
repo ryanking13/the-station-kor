@@ -14853,7 +14853,7 @@ Conferenza</Italian>
     <FrenchFont>40</FrenchFont>
     <GermanFont>40</GermanFont>
     <ItalianFont>40</ItalianFont>
-    <RussianFont>30</RussianFont>
+    <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Look Sensitivity</English>
     <Spanish>     Sensibilidad al Mirar</Spanish>
@@ -18401,7 +18401,8 @@ nou regardent au-dessus.</French>
 uns oben beobachten.</German>
     <Italian>Guardiamo quelli sotto, mentre 
 guardano noi sopra.</Italian>
-    <Russian>우리는 그들을 내려다보고, 그들은 우리를 올려다보지.</Russian>
+    <Russian>우리는 그들을 내려다보고,
+그들은 우리를 올려다보지.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
