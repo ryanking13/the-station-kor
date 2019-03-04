@@ -17,7 +17,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -41,7 +41,7 @@
     <RussianFont>30</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Enhanced AA</English>
-    <Spanish>     AA Mejorado</Spanish>
+    <Spanish>     향상된 안티 앨리어싱</Spanish>
     <French>     AA Augmenté</French>
     <German>     Enhanced AA</German>
     <Italian> Enhanced AA</Italian>
@@ -66,8 +66,8 @@
     <PortugueseFont>67</PortugueseFont>
     <English>Are You Sure? 
 All Previously Saved Data Will Be Lost.</English>
-    <Spanish>¿Estás Seguro?
-Los Datos Guardados Anteriormente Serán Borrados.</Spanish>
+    <Spanish>확실합니까?
+기존의 저장 데이터가 모두 지워집니다.</Spanish>
     <French>Vous êtes sûr ?
 Les sauvegardes précédentes seront supprimées.</French>
     <German>Bist du sicher? 
@@ -94,7 +94,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -118,7 +118,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Desactivar</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -142,7 +142,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Bloom</English>
-    <Spanish>     Destello</Spanish>
+    <Spanish>     광원효과</Spanish>
     <French>     Flou lumineux</French>
     <German>     Bloom</German>
     <Italian> Fioritura</Italian>
@@ -166,7 +166,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Bloom</English>
-    <Spanish>     Destello</Spanish>
+    <Spanish>     광원효과</Spanish>
     <French>     Flou lumineux</French>
     <German>     Bloom</German>
     <Italian> Fioritura</Italian>
@@ -190,7 +190,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activar</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -214,7 +214,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -238,7 +238,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>35</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Headbob</English>
-    <Spanish>     Cabeceo</Spanish>
+    <Spanish>     움직일 때 화면 흔들림</Spanish>
     <French>     Mouvements de tête</French>
     <German>     Kopfwackeln</German>
     <Italian> Headbob</Italian>
@@ -262,7 +262,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Headbob</English>
-    <Spanish>     Cabeceo</Spanish>
+    <Spanish>     움직일 때 화면 흔들림</Spanish>
     <French>     Mouvements de tête</French>
     <German>     Kopfwackeln</German>
     <Italian> Headbob</Italian>
@@ -286,7 +286,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Brightness</English>
-    <Spanish>     Brillo</Spanish>
+    <Spanish>     밝기</Spanish>
     <French>     Luminosité</French>
     <German>     Helligkeit</German>
     <Italian> Luminosità</Italian>
@@ -310,7 +310,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Brightness</English>
-    <Spanish>     Brillo</Spanish>
+    <Spanish>     밝기</Spanish>
     <French>     Luminosité</French>
     <German>     Helligkeit</German>
     <Italian> Luminosità</Italian>
@@ -334,7 +334,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>100</RussianFont>
     <PortugueseFont>100</PortugueseFont>
     <English>Credits</English>
-    <Spanish>Créditos</Spanish>
+    <Spanish>크레딧</Spanish>
     <French>Crédits</French>
     <German>Abspann</German>
     <Italian>Crediti</Italian>
@@ -358,7 +358,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Effect Volume</English>
-    <Spanish>     Volumen de Efectos</Spanish>
+    <Spanish>     효과음 크기</Spanish>
     <French>     Volume des Effets</French>
     <German>     Effektlautstärke</German>
     <Italian> Volume Effetto</Italian>
@@ -382,7 +382,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Effect Volume</English>
-    <Spanish>     Volumen de Efectos</Spanish>
+    <Spanish>     효과음 크기</Spanish>
     <French>     Volume des Effets</French>
     <German>     Effektlautstärke</German>
     <Italian> Volume Effetto</Italian>
@@ -406,7 +406,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Field of View</English>
-    <Spanish>     Campo de Visión</Spanish>
+    <Spanish>     시야</Spanish>
     <French>     Champ de vue</French>
     <German>      Sichtfeld</German>
     <Italian> Campo visivo</Italian>
@@ -430,7 +430,7 @@ Tutti i dati salvati in precedenza andranno persi.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Field of View</English>
-    <Spanish>     Campo de Visión</Spanish>
+    <Spanish>     시야</Spanish>
     <French>     Champ de vue</French>
     <German>     Sichtfeld</German>
     <Italian> Campo visivo</Italian>
@@ -810,53 +810,54 @@ Stick</German>
 
 
 
-&lt;b&gt;Director Creativo Y Productor
-&lt;/b&gt;
-
-
-
-&lt;b&gt;Productor Executivo
+&lt;b&gt;Creative Director and Producer
 &lt;/b&gt;
 
 
 
 
-&lt;b&gt;Director De Diseño
+&lt;b&gt;Executive Producer
 &lt;/b&gt;
 
 
 
 
-&lt;b&gt;Director De Audio
+&lt;b&gt;Design Director
 &lt;/b&gt;
 
 
 
 
-&lt;b&gt;Director De Arte
+&lt;b&gt;Audio Director
 &lt;/b&gt;
 
 
 
 
-&lt;b&gt;Programador Principal
+&lt;b&gt;Art Director
 &lt;/b&gt;
 
 
 
 
-&lt;b&gt;Una Historia de
+&lt;b&gt;Lead Programmer
 &lt;/b&gt;
 
 
 
-&lt;b&gt;Un Guion de
+ 
+&lt;b&gt;Story by
 &lt;/b&gt;
 
 
 
+&lt;b&gt;Script by
+&lt;/b&gt;
 
-&lt;b&gt;Actuación de Voz&lt;/b&gt;
+
+
+ 
+&lt;b&gt;Voice Acting&lt;/b&gt;
 
 
 
@@ -871,38 +872,28 @@ Stick</German>
 
 
 
-&lt;b&gt;Actuación de Voz y Dirección por
+&lt;b&gt;Voice Casting and Direction by
+&lt;/b&gt;
+
+
+
+
+ &lt;b&gt;Production&lt;/b&gt;
+
+
+
+
+
+
+
+&lt;b&gt; 3D Art
 &lt;/b&gt;
 
 
 
 
 
- &lt;b&gt;Producción&lt;/b&gt;
-
-
-
-
-
-&lt;b&gt; Artistas 3D
-&lt;/b&gt;
-
-
-
-
-
-
-&lt;b&gt; Artistas 2D
-&lt;/b&gt;
-
-
-
-
-
-
-
-
-&lt;b&gt; Arte de Personajes
+&lt;b&gt; 2D Art
 &lt;/b&gt;
 
 
@@ -912,7 +903,17 @@ Stick</German>
 
 
 
-&lt;b&gt;Bienes de Terceros
+&lt;b&gt; Character Art
+&lt;/b&gt;
+
+
+
+
+
+
+
+
+&lt;b&gt;3rd Party Assets
 &lt;/b&gt;
 
 
@@ -924,11 +925,8 @@ Stick</German>
 
 
 
-
-&lt;b&gt;Programación
+&lt;b&gt;Programming
 &lt;/b&gt;
-
-
 
 
 
@@ -952,10 +950,7 @@ Stick</German>
 
 
 
-
-
-
-&lt;b&gt;Control de Calidad
+&lt;b&gt;Quality Assurance
 &lt;/b&gt;
 
 
@@ -964,26 +959,7 @@ Stick</German>
 
 
 
-&lt;b&gt;Marketing Y Soporte Creativo
-&lt;/b&gt;
-
-
-
-
-
-
-
-
-
-&lt;b&gt;Captura de Movimiento
-&lt;/b&gt;
-
-
-
-
-
-&lt;b&gt;Equipo de Pruebas de la
- Universidad Estatal de Fitchburg
+&lt;b&gt;Marketing &amp; Creative Support
 &lt;/b&gt;
 
 
@@ -993,6 +969,16 @@ Stick</German>
 
 
 
+&lt;b&gt;Motion Capture
+&lt;/b&gt;
+
+
+
+
+
+
+&lt;b&gt;Fitchburg State University Test Team
+&lt;/b&gt;
 
 
 
@@ -1010,7 +996,17 @@ Stick</German>
 
 
 
-&lt;b&gt;Música y Sonido
+
+
+
+
+
+
+
+
+
+
+&lt;b&gt;Music And Score
 &lt;/b&gt;
 
  
@@ -1022,19 +1018,20 @@ Stick</German>
 
 
 
-&lt;b&gt;Patrocinadores de Kickstarter
+&lt;b&gt;Kickstarter Backers
 &lt;/b&gt;
-&lt;size=50&gt;&lt;b&gt;Artistas Conceptuales, Consultantes Creativo 
-Y Patrocinadores
+ 
+
+&lt;b&gt;Concept Artist, Creative Consultant 
+&amp; Backers
 &lt;/b&gt;
 
-&lt;/size&gt;
 
 
 
 
-&lt;b&gt;Consultantes Creativo 
-Y Patrocinadores
+ 
+&lt;b&gt;Creative Consultants &amp; Backers
 &lt;/b&gt;
 
             
@@ -1046,11 +1043,14 @@ Y Patrocinadores
 
  
 
-                                   
-&lt;b&gt;Patrocinadores
+
+                                  	
+&lt;b&gt;Backers
 &lt;/b&gt;
 
 
+ 
+ 
 
 
 
@@ -1132,12 +1132,7 @@ Y Patrocinadores
 
 
 
-
-
-
-
-
-&lt;b&gt;Gracias Especiales
+&lt;b&gt;Special Thanks
 &lt;/b&gt;</Spanish>
     <French> 
 
@@ -2687,20 +2682,19 @@ Shaun Downey</English>
 
 
 
-"Mila Lexa"       
-"Silas Haze"         
-"Aiden Vyze"         
-"Narrador" 
-"Voz de la Espial"            
-"Político #1"         
-"Político #2"       
+“Mila Lexa”       
+“Silas Haze”         
+“Aiden Vyse”         
+“Narrator” 
+“Espial Voice”            
+“Politician #1”         
+“Politician #2”       
 
-Dialogo Adicional
+Additional Dialogue 
  
 
 
  
-
 
 
 
@@ -2714,6 +2708,7 @@ George Vanous
 
 John Costello
 Riley Hanlin
+
 
 
 
@@ -2731,7 +2726,6 @@ Di He (Violet)
 Elsa Gallahan
 Ogi Grujic 
 Stefan Bekolay
-
 
 
 
@@ -2766,9 +2760,6 @@ Bennett Sewell
 
 
 
-
-
-
 Mike Carpenito
 Brett Crowe
 Riley Hanlin
@@ -2782,6 +2773,7 @@ Valerie Bourdeau
 Jackie Jagger 
 Marc Fricker
 Zac Trolley
+
 
 
 
@@ -3603,35 +3595,33 @@ Dave Fracchia
 
 
 
-
-Productor
-Productor
-Productor Asociado
-
+Producer
+Producer
+Associate Producer
 
 
 
-Artista de Ambientes 3D
-Artista de Utilería 3D
+
+3D Environment Artist
+3D Prop Artist
 
 
 
-Artista Conceptual y Líder UI
-Artista Conceptual
-Artista 2D
-Artista 2D
-Artista 2D
-Diseñador Web
+
+Lead UI &amp; Concept Artist
+Concept Artist
+2D Artist
+2D Artist
+2D Artist
+Web Designer
 
 
 
-Artista de Personajes 3D
-Artista de Personajes 3D
-Diseñador de Personajes
-Modelado de Marionetas 3D
-Animador
-
-
+3D Character Designer &amp; Artist
+3D Character Designer &amp; Artist
+Character Designer
+3D Model Rigger
+Animator
 
 
 
@@ -3644,31 +3634,29 @@ Animador
 
 
 
-&lt;size=50&gt;Programador y Artista Tecnológico&lt;/size&gt;
-Programador
-Ingeniero de Servidor
-Programador Web
-Programador Web
-Programación Interna
+
+Programmer and Tech Artist
+Programmer
+Server Engineer
+Web Programmer
+Web Programmer
+Programming Intern
 
 
 
 
 
-Diseño de Sonido y
-Diseño de Sistemas de Audio
+Sound Design and 
+Audio Systems Design
 
-Diseño de Sonido e
-Implementación de Audio
+Sound Design and 
+Audio Implementation
 
-Programador de Audio
-
-
+Audio Programming
 
 
 
-
-Gerente/Director QA 
+QA Manager/Lead
 QA Tester
 QA Tester
 
@@ -3677,15 +3665,16 @@ QA Tester
 
 
 Community Manager
-&lt;size=45&gt;Consultante de Relaciones Publicas&lt;/size&gt;
-Consultante de  Marketing
-&lt;size=45&gt;Consultante de Ciencia y Tecnología&lt;/size&gt;
-&lt;size=45&gt;Consultante de Ciencia y Tecnología&lt;/size&gt;
+PR Consultant
+Marketing Consultant
+Science &amp; Technology Consultant
+Science &amp; Technology Consultant
 
 
 
-Actor de Movimiento
-Actor de Movimiento</Spanish>
+
+Motion Capture Actor
+Motion Capture Actor</Spanish>
     <French> 
 
 
@@ -4577,6 +4566,7 @@ Kevin Harwood
 
 
 
+
 Dave Fracchia
 
 
@@ -4602,11 +4592,11 @@ Will deManbey
  
 
 
-Kevin Harwood Y Dave Fracchia
+Kevin Harwood &amp; Dave Fracchia
 
 
 
-Kevin Harwood Y Kevin Elliott
+Kevin Harwood &amp; Kevin Elliott
 
  
 
@@ -4625,7 +4615,8 @@ Kevin Harwood Y Kevin Elliott
 
 
 Kevin Harwood, Dave Fracchia 
-Y Mike Torillo
+&amp; Mike Torillo
+
 
 
 
@@ -4713,9 +4704,6 @@ Stefan Groenewoud
 
 
 
-
-
-
 Adam Chop
 Chaz Deveney
 Jozlin Diaz-Patterson
@@ -4738,14 +4726,17 @@ Tyler White
 
 
 
-Sonido Original por Duncan Watt
+Original Score by Duncan Watt
  
-“A Lullaby For The Lonely” (Créditos Finales)
+“A Lullaby For The Lonely” (End Credits)
 ©2011 Mimi Page (BMI)
- Escrito, producido y realizado por Mimi Page
+ Written, produced and performed by Mimi Page
 
 
  
+
+
+
 
 
 
@@ -4765,8 +4756,7 @@ Tom Lantz
 Marco Konar
 David Broad
 Wil McLean
-                                                
-
+                                               	
 
 
 Jacob Mattus
@@ -4842,13 +4832,14 @@ SwordFire
 
 
 
-
-
 Amanda Lawton &amp; Taylor Lawton
-Sociedad Espacial Canadiense
-Centro para Medios Digitales
-Universidad Estatal de Fitchburg
-¡Todas nuestras familias y amigos! </Spanish>
+Canadian Space Society
+The Center for Digital Media
+Fitchburg State University
+All of our families and friends!
+
+
+번역: siha / def6488@gmail.com</Spanish>
     <French> 
 
 
@@ -5993,7 +5984,7 @@ All of our families and friends!
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Medium</English>
-    <Spanish>Ultra</Spanish>
+    <Spanish>중간</Spanish>
     <French>Bas</French>
     <German>Mittel</German>
     <Italian>Basso</Italian>
@@ -6017,7 +6008,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Graphics</English>
-    <Spanish>     Gráficos</Spanish>
+    <Spanish>     그래픽</Spanish>
     <French>     Graphiques</French>
     <German>     Grafik</German>
     <Italian> Grafica</Italian>
@@ -6041,7 +6032,7 @@ All of our families and friends!
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Loading...</English>
-    <Spanish>Cargando…</Spanish>
+    <Spanish>로딩중…</Spanish>
     <French>Chargement…</French>
     <German>Lädt…</German>
     <Italian>Caricamento in corso...</Italian>
@@ -6065,7 +6056,7 @@ All of our families and friends!
     <RussianFont>81</RussianFont>
     <PortugueseFont>81</PortugueseFont>
     <English>Saving Data: do not unplug or power off system.</English>
-    <Spanish>Guardando Datos: no desconecte ni apagues el sistema.</Spanish>
+    <Spanish>저장중: 게임을 종료하지 마세요.</Spanish>
     <French>Sauvegarde: Ne pas débrancher ou arrêter le système.</French>
     <German>Datensicherung: Nicht Ausschalten oder Verbindung Trennen</German>
     <Italian>Salvataggio dei dati: non scollegare o spegnere il sistema.</Italian>
@@ -6089,7 +6080,7 @@ All of our families and friends!
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Exit</English>
-    <Spanish>Salir</Spanish>
+    <Spanish>나가기</Spanish>
     <French>Sortir</French>
     <German>Verlassen</German>
     <Italian>Uscita</Italian>
@@ -6113,7 +6104,7 @@ All of our families and friends!
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Scroll</English>
-    <Spanish>Desplazar</Spanish>
+    <Spanish>스크롤</Spanish>
     <French>Défiler</French>
     <German>Scrollen</German>
     <Italian>Scorrere</Italian>
@@ -6137,7 +6128,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Option A</English>
-    <Spanish>Opción A</Spanish>
+    <Spanish>옵션 A</Spanish>
     <French>Option A</French>
     <German>Option A</German>
     <Italian>Opzione A</Italian>
@@ -6161,7 +6152,7 @@ All of our families and friends!
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Right Handed</English>
-    <Spanish>Diestro</Spanish>
+    <Spanish>오른손잡이용</Spanish>
     <French>Droitier</French>
     <German>Rechtshänder</German>
     <Italian>Mano Destra</Italian>
@@ -6185,7 +6176,7 @@ All of our families and friends!
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Right Handed</English>
-    <Spanish>Diestro</Spanish>
+    <Spanish>오른손잡이용</Spanish>
     <French>Main Droite</French>
     <German>Rechtshänder</German>
     <Italian>Mano destra</Italian>
@@ -6209,7 +6200,7 @@ All of our families and friends!
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Desactivar</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -6233,7 +6224,7 @@ All of our families and friends!
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Desactivado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -6257,7 +6248,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Look Inversion</English>
-    <Spanish>     Invertir Mira</Spanish>
+    <Spanish>     상하 조작 반전</Spanish>
     <French>     Inverser la vue</French>
     <German>     Sichtumkehrung</German>
     <Italian> Blocca Inversione</Italian>
@@ -6281,7 +6272,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Look Inversion</English>
-    <Spanish>     Invertir Mira</Spanish>
+    <Spanish>     상하 조작 반전</Spanish>
     <French>     Inverser la vue</French>
     <German>     Sichtumkehrung</German>
     <Italian> Blocca Inversione</Italian>
@@ -6305,7 +6296,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Controller Format</English>
-    <Spanish>     Formato del Mando</Spanish>
+    <Spanish>     컨트롤러 설정</Spanish>
     <French>     Type de contrôles</French>
     <German>     Controller-Einstellungen</German>
     <Italian> Formato controller</Italian>
@@ -6329,7 +6320,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Controller Format</English>
-    <Spanish>     Formato del Mando</Spanish>
+    <Spanish>     컨트롤러 설정</Spanish>
     <French>     Type de contrôles</French>
     <German>     Controller-Einstellungen</German>
     <Italian> Formato controller</Italian>
@@ -6353,7 +6344,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Main Volume</English>
-    <Spanish>     Volumen Principal</Spanish>
+    <Spanish>     전체 음량 크기</Spanish>
     <French>     Volume Principal</French>
     <German>     Gesamtlautstärke</German>
     <Italian> Volume principale</Italian>
@@ -6377,7 +6368,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Main Volume</English>
-    <Spanish>     Volumen Principal</Spanish>
+    <Spanish>     전체 음량 크기</Spanish>
     <French>     Volume Principal</French>
     <German>     Gesamtlautstärke</German>
     <Italian> Volume principale</Italian>
@@ -6401,7 +6392,7 @@ All of our families and friends!
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Keyboard + Mouse</English>
-    <Spanish>Mando</Spanish>
+    <Spanish>키보드 + 마우스</Spanish>
     <French>Clavier + Souris</French>
     <German>Gamepad</German>
     <Italian>Gamepad</Italian>
@@ -6425,7 +6416,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Mouse</English>
-    <Spanish>Ratón</Spanish>
+    <Spanish>마우스</Spanish>
     <French>Souris</French>
     <German>Maus</German>
     <Italian>Mouse</Italian>
@@ -6473,7 +6464,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Left Click</English>
-    <Spanish>Click Izquierdo</Spanish>
+    <Spanish>좌클릭</Spanish>
     <French>Clic Gauche</French>
     <German>Links-Klick</German>
     <Italian>Clic sinistro</Italian>
@@ -6497,7 +6488,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Right Click</English>
-    <Spanish>Click Derecho</Spanish>
+    <Spanish>우클릭</Spanish>
     <French>Clic Droit</French>
     <German>Rechts-Klick</German>
     <Italian>Clic destro</Italian>
@@ -6521,7 +6512,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Left Shift</English>
-    <Spanish>Shift Izquierdo</Spanish>
+    <Spanish>좌 Shift</Spanish>
     <French>Clic Gauche</French>
     <German>Shift Links</German>
     <Italian>Shift Sinistra</Italian>
@@ -6569,7 +6560,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Left Ctrl</English>
-    <Spanish>Ctrl Izquierdo</Spanish>
+    <Spanish>좌 Ctrl</Spanish>
     <French>Ctrl Gauche</French>
     <German>Strg Links</German>
     <Italian>Ctrl sinistro</Italian>
@@ -6593,7 +6584,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Escape</English>
-    <Spanish>Escape</Spanish>
+    <Spanish>Esc</Spanish>
     <French>Echap</French>
     <German>Escape</German>
     <Italian>Esc</Italian>
@@ -6617,7 +6608,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -6641,7 +6632,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Interact/Submit</English>
-    <Spanish>Interactuar/Enviar</Spanish>
+    <Spanish>상호작용/선택</Spanish>
     <French>Interagir
 \Utiliser</French>
     <German>Interagieren
@@ -6668,7 +6659,7 @@ All of our families and friends!
     <RussianFont>35</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Examine/Back</English>
-    <Spanish>Examinar/Atrás</Spanish>
+    <Spanish>조사/취소</Spanish>
     <French>Examiner
 \Retour</French>
     <German>Untersuchen
@@ -6695,7 +6686,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -6719,7 +6710,7 @@ All of our families and friends!
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité 
 Augmentée</French>
     <German>AR Menü</German>
@@ -6744,7 +6735,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -6768,7 +6759,7 @@ Augmentée</French>
     <RussianFont>35</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause
 /Paramètres</French>
     <German>Pause
@@ -6795,7 +6786,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -6819,7 +6810,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Input Mapping</English>
-    <Spanish>     Asignación de Entrada</Spanish>
+    <Spanish>     입력 매핑</Spanish>
     <French>     Choix des contrôles</French>
     <German>     Eingabe-Einstellungen</German>
     <Italian> Mappatura input</Italian>
@@ -6843,7 +6834,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Monitor 1</English>
-    <Spanish>Pantalla 1</Spanish>
+    <Spanish>모니터 1</Spanish>
     <French>Ecran 1</French>
     <German>Monitor 1</German>
     <Italian>Monitor 1</Italian>
@@ -6867,7 +6858,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Current Monitor</English>
-    <Spanish>     Pantalla Actual</Spanish>
+    <Spanish>     현재 모니터</Spanish>
     <French>     Ecran actuel</French>
     <German>     Aktueller Monitor</German>
     <Italian> Monitor corrente</Italian>
@@ -6891,7 +6882,7 @@ Augmentée</French>
     <RussianFont>100</RussianFont>
     <PortugueseFont>100</PortugueseFont>
     <English>Press the X button to begin</English>
-    <Spanish>Presiona el botón X para comenzar</Spanish>
+    <Spanish>X 버튼을 눌러 시작</Spanish>
     <French>Presser le bouton X pour commencer</French>
     <German>Drücke die X Taste um zu beginnen</German>
     <Italian>Premi il tasto X per iniziare</Italian>
@@ -6915,7 +6906,7 @@ Augmentée</French>
     <RussianFont>73</RussianFont>
     <PortugueseFont>73</PortugueseFont>
     <English>Press the A button to begin</English>
-    <Spanish>Presiona el botón A para comenzar</Spanish>
+    <Spanish>A 버튼을 눌러 시작</Spanish>
     <French>Presser le bouton A pour commencer</French>
     <German>Drücke die A Taste um zu beginnen</German>
     <Italian>Premi il pulsante A per iniziare</Italian>
@@ -6939,7 +6930,7 @@ Augmentée</French>
     <RussianFont>55</RussianFont>
     <PortugueseFont>73</PortugueseFont>
     <English>Press the A button to resume</English>
-    <Spanish>Presiona el botón A para continuar</Spanish>
+    <Spanish>A 버튼을 눌러 게임 재개</Spanish>
     <French>Presser le bouton A pour continuer</French>
     <German>Drücke die A Taste um fortzufahren</German>
     <Italian>Premere il pulsante A per riprendere</Italian>
@@ -6963,7 +6954,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>( Restart Application to Apply )</English>
-    <Spanish>( Reiniciar la Aplicación para Aplicar )</Spanish>
+    <Spanish>( 변경사항을 반영하려면 게임을 재시작하세요 )</Spanish>
     <French>( Redémarrer le jeu pour appliquer )</French>
     <German>(Programm Neustarten um Anzuwenden )</German>
     <Italian>(Riavvia l'applicazione per applicare)</Italian>
@@ -6987,7 +6978,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7011,7 +7002,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7035,7 +7026,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7059,7 +7050,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7083,7 +7074,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Examine</German>
     <Italian>Esaminare</Italian>
@@ -7107,7 +7098,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Examine</German>
     <Italian>Esaminare</Italian>
@@ -7131,7 +7122,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Examine</German>
     <Italian>Esaminare</Italian>
@@ -7155,7 +7146,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Examine</German>
     <Italian>Esaminare</Italian>
@@ -7179,7 +7170,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -7203,7 +7194,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -7227,7 +7218,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -7251,7 +7242,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -7275,7 +7266,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -7299,7 +7290,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -7323,7 +7314,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -7347,7 +7338,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -7371,7 +7362,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -7395,7 +7386,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -7419,7 +7410,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -7443,7 +7434,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -7467,7 +7458,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -7491,7 +7482,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -7515,7 +7506,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -7539,7 +7530,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -7563,7 +7554,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -7587,7 +7578,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -7611,7 +7602,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -7635,7 +7626,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -7659,7 +7650,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -7683,7 +7674,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -7707,7 +7698,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -7731,7 +7722,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -7755,7 +7746,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -7779,7 +7770,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -7803,7 +7794,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -7827,7 +7818,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -7851,7 +7842,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -7875,7 +7866,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -7899,7 +7890,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -7923,7 +7914,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -7947,7 +7938,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7971,7 +7962,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Crouch</English>
-    <Spanish>Agacharse</Spanish>
+    <Spanish>웅크리기</Spanish>
     <French>S'accroupir</French>
     <German>Ducken</German>
     <Italian>Accovacciarsi</Italian>
@@ -7995,7 +7986,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -8019,7 +8010,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Interact</English>
-    <Spanish>Interactuar</Spanish>
+    <Spanish>상호작용</Spanish>
     <French>Interagir</French>
     <German>Interagieren</German>
     <Italian>Interagire</Italian>
@@ -8043,7 +8034,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -8067,7 +8058,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Look</English>
-    <Spanish>Mirar</Spanish>
+    <Spanish>둘러보기</Spanish>
     <French>Regarder</French>
     <German>Umsehen</German>
     <Italian>Guarda</Italian>
@@ -8091,7 +8082,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -8115,7 +8106,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Run</English>
-    <Spanish>Correr</Spanish>
+    <Spanish>달리기</Spanish>
     <French>Courir</French>
     <German>Laufen</German>
     <Italian>Correre</Italian>
@@ -8139,7 +8130,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esaminare</Italian>
@@ -8163,7 +8154,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Examine</English>
-    <Spanish>Examinar</Spanish>
+    <Spanish>살펴보기</Spanish>
     <French>Examiner</French>
     <German>Untersuchen</German>
     <Italian>Esaminare</Italian>
@@ -8187,7 +8178,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -8211,7 +8202,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>AR Menu</English>
-    <Spanish>Menú RA</Spanish>
+    <Spanish>AR 메뉴 열기</Spanish>
     <French>Menu de Réalité Augmentée</French>
     <German>AR Menü</German>
     <Italian>Menu AR</Italian>
@@ -8235,7 +8226,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -8259,7 +8250,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Cancel/Back</English>
-    <Spanish>Cancelar/Atrás</Spanish>
+    <Spanish>취소/돌아가기</Spanish>
     <French>Annuler\Retour</French>
     <German>Abbrechen/Zurück</German>
     <Italian>Annulla/Indietro</Italian>
@@ -8283,7 +8274,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -8307,7 +8298,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Submit</English>
-    <Spanish>Enviar</Spanish>
+    <Spanish>확인</Spanish>
     <French>Accepter</French>
     <German>Eingeben</German>
     <Italian>Sottoscrivi</Italian>
@@ -8331,7 +8322,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -8355,7 +8346,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Move</English>
-    <Spanish>Mover</Spanish>
+    <Spanish>움직이기</Spanish>
     <French>Bouger</French>
     <German>Bewegen</German>
     <Italian>Muovi</Italian>
@@ -8379,7 +8370,7 @@ Augmentée</French>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -8403,7 +8394,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Pause/Settings</English>
-    <Spanish>Pausa/Opciones</Spanish>
+    <Spanish>일시정지/설정</Spanish>
     <French>Pause/Paramètres</French>
     <German>Pause/Einstellungen</German>
     <Italian>Pausa/Impostazioni</Italian>
@@ -8427,7 +8418,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Resolution</English>
-    <Spanish>     Resolución</Spanish>
+    <Spanish>     해상도</Spanish>
     <French>     Résolution</French>
     <German>     Auflösung</German>
     <Italian> Risoluzione</Italian>
@@ -8451,7 +8442,7 @@ Augmentée</French>
     <RussianFont>32</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Look Sensitivity</English>
-    <Spanish>     Sensibilidad al Mirar</Spanish>
+    <Spanish>     마우스 민감도</Spanish>
     <French>     Sensibilité de la Vue</French>
     <German>      Sichtsempfindlichkeit</German>
     <Italian> Blocca Sensibilità</Italian>
@@ -8475,7 +8466,7 @@ Augmentée</French>
     <RussianFont>32</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Look Sensitivity</English>
-    <Spanish>     Sensibilidad al Mirar</Spanish>
+    <Spanish>     마우스 민감도</Spanish>
     <French>     Sensibilité de la Vue</French>
     <German>     Sichtsempfindlichkeit</German>
     <Italian> Blocca Sensibilità</Italian>
@@ -8547,7 +8538,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -8571,7 +8562,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Mouse Smoothing</English>
-    <Spanish>     Sensibilidad del Ratón</Spanish>
+    <Spanish>     부드러움 화면 움직임</Spanish>
     <French>       Accélération de la souris</French>
     <German>     Mausglättung</German>
     <Italian> Smoothing del mouse</Italian>
@@ -8595,7 +8586,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>On</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -8643,7 +8634,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -8691,7 +8682,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activar</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -8715,7 +8706,7 @@ Augmentée</French>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -8739,7 +8730,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Subtitles</English>
-    <Spanish>     Subtítulos</Spanish>
+    <Spanish>     자막</Spanish>
     <French>     Sous-Titres</French>
     <German>     Untertitel</German>
     <Italian> Sottotitoli</Italian>
@@ -8763,7 +8754,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Subtitles</English>
-    <Spanish>     Subtítulos</Spanish>
+    <Spanish>     자막</Spanish>
     <French>     Sous-Titres</French>
     <German>     Untertitel</German>
     <Italian> Sottotitoli</Italian>
@@ -8787,7 +8778,7 @@ Augmentée</French>
     <RussianFont>37</RussianFont>
     <PortugueseFont>37</PortugueseFont>
     <English>An error occurred when attempting to load your save file. Incomplete data is preventing a successful load. This is most often caused by an interrupted saving process.</English>
-    <Spanish>Se produjo un error al intentar cargar tu archivo guardado. Los datos incompletos impiden una carga exitosa. Esto generalmente es causado por un proceso de guardado interrumpido.</Spanish>
+    <Spanish>세이브파일을 로드하는 데에 실패했습니다. 세이브 도중 문제가 발생하였을 수 있습니다.</Spanish>
     <French>Une erreur est apparue en chargeant votre sauvegarde. Des données incomplètes empêchent un chargement complet. Cela est souvent causé lors d’une interruption pendant la sauvegarde.</French>
     <German>Bei dem Versuch den Spielstand zu Laden ist ein Fehler aufgetreten. Unvollständige Daten verhindern das Laden. Meist wird dies durch einen abgebrochenen Speichervorgang verursacht.</German>
     <Italian>Si è verificato un errore durante il tentativo di caricare il file di salvataggio. I dati incompleti impediscono il corretto caricamento. Questo è più spesso causato da un processo di salvataggio interrotto.</Italian>
@@ -8811,7 +8802,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     No</English>
-    <Spanish>     No</Spanish>
+    <Spanish>     취소</Spanish>
     <French>     Non</French>
     <German>     Nein</German>
     <Italian> No</Italian>
@@ -8835,7 +8826,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -8859,7 +8850,7 @@ Augmentée</French>
     <RussianFont>35</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>     Return to Title</English>
-    <Spanish>    Regresar al Inicio</Spanish>
+    <Spanish>    타이틀 화면으로 돌아가기</Spanish>
     <French>     Retour au Titre</French>
     <German>     Zurück zum Titelbild</German>
     <Italian> Torna al Titolo</Italian>
@@ -8883,7 +8874,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Switch Profile: </English>
-    <Spanish>     Cambiar Perfil: </Spanish>
+    <Spanish>     프로필 변경: </Spanish>
     <French>     Changer de Profil: </French>
     <German>     Profil wechseln: </German>
     <Italian> Cambia Profilo: </Italian>
@@ -8907,7 +8898,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Yes</English>
-    <Spanish>     Sí</Spanish>
+    <Spanish>     네</Spanish>
     <French>     Oui</French>
     <German>     Ja</German>
     <Italian> Sì</Italian>
@@ -8931,7 +8922,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Quit</English>
-    <Spanish>     Salir</Spanish>
+    <Spanish>     종료</Spanish>
     <French>     Quitter</French>
     <German>     Beenden</German>
     <Italian> Esci</Italian>
@@ -8955,7 +8946,7 @@ Augmentée</French>
     <RussianFont>35</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>     Select Profile</English>
-    <Spanish>     Seleccionar Perfil</Spanish>
+    <Spanish>     프로필 선택</Spanish>
     <French>     Sélectionner le Profil</French>
     <German>     Profil auswählen</German>
     <Italian> Seleziona Profilo</Italian>
@@ -8979,7 +8970,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Reconnect a valid controller, and press the A button to continue.</English>
-    <Spanish>Vuelve a conectar un mando válido y presione el botón A para continuar.</Spanish>
+    <Spanish>컨트롤러를 재연결하고, A 버튼을 눌러 진행하세요.</Spanish>
     <French>Reconnecter un contrôleur fonctionnel, et appuyer sur A pour continuer.</French>
     <German>Entsprechenden Controller erneut verbinden und A Taste drücken um fortzufahren.</German>
     <Italian>Riconnettere un controller valido e premere il pulsante A per continuare.</Italian>
@@ -9003,7 +8994,7 @@ Augmentée</French>
     <RussianFont>30</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>     Reconnect</English>
-    <Spanish>     Reconectar</Spanish>
+    <Spanish>     재연결</Spanish>
     <French>     Reconnecter</French>
     <German>     Erneut Verbinden</German>
     <Italian>       Riconnetti</Italian>
@@ -9027,7 +9018,7 @@ Augmentée</French>
     <RussianFont>35</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>    Cancel</English>
-    <Spanish>    Cancelar</Spanish>
+    <Spanish>    취소</Spanish>
     <French> Annuler</French>
     <German>    Abbrechen</German>
     <Italian> Annulla</Italian>
@@ -9051,7 +9042,7 @@ Augmentée</French>
     <RussianFont>30</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>     Switch Profile</English>
-    <Spanish>     Cambiar Perfil</Spanish>
+    <Spanish>     프로필 변경</Spanish>
     <French>     Changer de Profil</French>
     <German>     Profil wechseln</German>
     <Italian> Cambia Profilo</Italian>
@@ -9075,7 +9066,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>The profile assigned to this play session has been signed out. Sign back in with the same profile to resume play, or sign in with a new profile to return to the title screen.</English>
-    <Spanish>El perfil asignado a esta sesión de juego se ha cerrado. Vuelva a iniciar sesión con el mismo perfil para reanudar el juego o inicia sesión con un nuevo perfil para volver a la pantalla de títulos.</Spanish>
+    <Spanish>세션에 할당된 프로필에서 로그아웃하였습니다. 다시 로그인하여 게임을 재개하거나, 새로운 프로필을 만들려면 시작 화면으로 돌아가세요.</Spanish>
     <French>Le profil de cette session de jeu à été déconnecté. Reconnectez-vous pour continuer à jouer, ou utilisez un nouveau profil pour retourner à l'écran titre.</French>
     <German>Das mit dieser Spielsitzung verbundene Profil wurde abgemeldet. Mit dem selben Profil anmelden um das Spiel fortzusetzen oder mit einem neuen Profil anmelden um zum Titelbildschirm zurück zu kehren.</German>
     <Italian>Il profilo assegnato a questa sessione di gioco è stato disconnesso. Accedi di nuovo con lo stesso profilo per riprendere la partita o accedi con un nuovo profilo per tornare alla schermata del titolo.</Italian>
@@ -9099,7 +9090,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Settings</English>
-    <Spanish>     Opciones</Spanish>
+    <Spanish>     설정</Spanish>
     <French>     Options</French>
     <German>     Einstellungen</German>
     <Italian> Impostazioni</Italian>
@@ -9123,7 +9114,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Credits</English>
-    <Spanish>     Créditos</Spanish>
+    <Spanish>     크레딧</Spanish>
     <French>     Crédits</French>
     <German>     Credits</German>
     <Italian> Crediti</Italian>
@@ -9147,7 +9138,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9171,7 +9162,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     New Game</English>
-    <Spanish>     Nueva Partida</Spanish>
+    <Spanish>     새 게임 시작하기</Spanish>
     <French>     Nouveau jeu</French>
     <German>     Neues Spiel</German>
     <Italian> Nuovo gioco</Italian>
@@ -9195,7 +9186,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Continue Game</English>
-    <Spanish>     Continuar Partida</Spanish>
+    <Spanish>     계속하기</Spanish>
     <French>     Continuer</French>
     <German>     Spiel Fortsetzen</German>
     <Italian> Continua gioco</Italian>
@@ -9219,7 +9210,7 @@ Augmentée</French>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>     Free Explore Mode</English>
-    <Spanish>     Modo Exploración Libre</Spanish>
+    <Spanish>     자유 탐험 모드</Spanish>
     <French>     Mode d'exploration libre</French>
     <German>     Freier Erkundungsmodus</German>
     <Italian> Modalità di esplorazione libera</Italian>
@@ -9243,7 +9234,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9267,7 +9258,7 @@ Augmentée</French>
     <RussianFont>35</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>     Apply Changes</English>
-    <Spanish>     Aplicar Cambios</Spanish>
+    <Spanish>     변경사항 반영</Spanish>
     <French>           Appliquer </French>
     <German>     Änderungen Anwenden</German>
     <Italian> Applica i cambiamenti</Italian>
@@ -9291,7 +9282,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>    Yes</English>
-    <Spanish>     Sí</Spanish>
+    <Spanish>     네</Spanish>
     <French>     Oui</French>
     <German>     Ja</German>
     <Italian> Sì</Italian>
@@ -9315,7 +9306,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9339,7 +9330,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9363,7 +9354,7 @@ Augmentée</French>
     <RussianFont>28</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>    Cancel Changes</English>
-    <Spanish>     Cancelar Cambios</Spanish>
+    <Spanish>     변경사항 취소</Spanish>
     <French>           Annuler </French>
     <German>     Änderungen Abbrechen</German>
     <Italian>    Annulla modifiche</Italian>
@@ -9387,7 +9378,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9411,7 +9402,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Screen Settings</English>
-    <Spanish>     Opciones de Pantalla</Spanish>
+    <Spanish>     화면 설정</Spanish>
     <French>     Graphiques</French>
     <German>     Bildschirmeinstgellungen</German>
     <Italian> Impostazioni Schermo</Italian>
@@ -9435,7 +9426,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Video</English>
-    <Spanish>     Video</Spanish>
+    <Spanish>     비디오</Spanish>
     <French>     Vidéo</French>
     <German>     Video</German>
     <Italian> Video</Italian>
@@ -9459,7 +9450,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Audio</English>
-    <Spanish>     Audio</Spanish>
+    <Spanish>     소리</Spanish>
     <French>     Audio</French>
     <German>     Audio</German>
     <Italian> Audio</Italian>
@@ -9483,7 +9474,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Gameplay</English>
-    <Spanish>     Jugabilidad</Spanish>
+    <Spanish>     게임플레이</Spanish>
     <French>     Jeu</French>
     <German>     Gameplay</German>
     <Italian> Gameplay</Italian>
@@ -9507,7 +9498,7 @@ Augmentée</French>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9532,8 +9523,8 @@ Augmentée</French>
     <PortugueseFont>40</PortugueseFont>
     <English>You have unapplied settings. Either apply 
 or cancel changes to continue</English>
-    <Spanish>Tienes configuraciones sin aplicar. O aplicaso
-o cancelar cambios para continuar.</Spanish>
+    <Spanish>변경된 설정이 존재합니다.
+변경된 설정을 반영하거나 취소하여주세요.</Spanish>
     <French>Les changements n'ont pas été sauvegardés
 Valider ou Annuler pour continuer</French>
     <German>Du hast nicht übernommene Einstellungen. Entweder Änderungen übernehmen oder abbrechen um fortzufahren.</German>
@@ -9560,7 +9551,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     No</English>
-    <Spanish>     No</Spanish>
+    <Spanish>     취소</Spanish>
     <French>     Non</French>
     <German>     Nein</German>
     <Italian> No</Italian>
@@ -9584,7 +9575,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Audio</English>
-    <Spanish>     Audio</Spanish>
+    <Spanish>     소리</Spanish>
     <French>     Audio</French>
     <German>     Audio</German>
     <Italian> Audio</Italian>
@@ -9608,7 +9599,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9632,7 +9623,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9656,7 +9647,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Gameplay</English>
-    <Spanish>     Jugabilidad</Spanish>
+    <Spanish>     게임플레이</Spanish>
     <French>     Jeu</French>
     <German>     Gameplay</German>
     <Italian> Gameplay</Italian>
@@ -9680,7 +9671,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Screen Settings</English>
-    <Spanish>     Opciones de Pantalla</Spanish>
+    <Spanish>     화면 설정</Spanish>
     <French>     Graphiques</French>
     <German>     Bildschirmeinstgellungen</German>
     <Italian> Impostazioni Schermo</Italian>
@@ -9704,7 +9695,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9728,7 +9719,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>    Yes</English>
-    <Spanish>     Sí</Spanish>
+    <Spanish>     네</Spanish>
     <French>     Oui</French>
     <German>     Ja</German>
     <Italian>Sì</Italian>
@@ -9752,7 +9743,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Back</English>
-    <Spanish>     Atrás</Spanish>
+    <Spanish>     돌아가기</Spanish>
     <French>     Retour</French>
     <German>     Zurück</German>
     <Italian> Indietro</Italian>
@@ -9776,7 +9767,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     No</English>
-    <Spanish>     No</Spanish>
+    <Spanish>     취소</Spanish>
     <French>     Non</French>
     <German>     Nein</German>
     <Italian> No</Italian>
@@ -9800,7 +9791,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Controls</English>
-    <Spanish>     Controles</Spanish>
+    <Spanish>     조작</Spanish>
     <French>     Contrôles</French>
     <German>     Steuerung</German>
     <Italian> Controlli</Italian>
@@ -9824,7 +9815,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Controls</English>
-    <Spanish>     Controles</Spanish>
+    <Spanish>     조작</Spanish>
     <French>     Contrôles</French>
     <German>     Steuerung</German>
     <Italian> Controlli</Italian>
@@ -9848,7 +9839,7 @@ continuare.</Italian>
     <RussianFont>35</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>User Has Signed Out</English>
-    <Spanish>Usuario se ha Desconectado</Spanish>
+    <Spanish>로그아웃하였습니다</Spanish>
     <French>Utilisateur déconnecté</French>
     <German>Benutzer hat sich ausgeloggt</German>
     <Italian>L'utente è uscito</Italian>
@@ -9872,7 +9863,7 @@ continuare.</Italian>
     <RussianFont>34</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Unapplied Changes</English>
-    <Spanish>Cambios sin Aplicar</Spanish>
+    <Spanish>변경된 설정이 존재함</Spanish>
     <French>Changement non sauvegardés</French>
     <German>Nicht Übernommene Änderungen</German>
     <Italian>Modifiche non applicate</Italian>
@@ -9896,7 +9887,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Save Data Corruption Detected</English>
-    <Spanish>Detectada Corrupción de Datos Guardados</Spanish>
+    <Spanish>세이브 데이터의 형식이 잘못되었습니다</Spanish>
     <French>Sauvegarde corrompue détectée</French>
     <German>Spielstand Fehler festgestellt</German>
     <Italian>Corruzione dati salvati rilevata</Italian>
@@ -9920,7 +9911,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Controller Disconnected</English>
-    <Spanish>Mando Desconectado</Spanish>
+    <Spanish>컨트롤러 분리됨</Spanish>
     <French>Contrôleur déconnecté</French>
     <German>Controllerverbindung unterbrochen</German>
     <Italian>Controller disconnesso</Italian>
@@ -9944,7 +9935,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Switching to a new profile will return you to the title screen. Any unsaved data will be lost.</English>
-    <Spanish>Cambiar a un nuevo perfil lo llevará a la pantalla de inicio. Cualquier información no guardada se perderá.</Spanish>
+    <Spanish>새 프로필을 선택하면 타이틀 화면으로 돌아갑니다. 저장하지 않은 데이터는 모두 지워집니다.</Spanish>
     <French>Changer de profil vous renvoi au menu principal. Les informations non sauvegardés seront perdues.</French>
     <German>Zu einem neuen Profil zu wechseln bringt dich zum Titelbildschirm zurück. Alle nicht gespeicherte Daten gehen verloren.</German>
     <Italian>Passando a un nuovo profilo si ritorna alla schermata del titolo. Tutti i dati non salvati andranno persi.</Italian>
@@ -9968,7 +9959,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>Are You Sure?</English>
-    <Spanish>¿Estás seguro?</Spanish>
+    <Spanish>확실합니까?</Spanish>
     <French>Vous êtes sûr ?</French>
     <German>Bist du sicher? 
 </German>
@@ -9993,7 +9984,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Gameplay Settings</English>
-    <Spanish>Opciones de Jugabilidad</Spanish>
+    <Spanish>게임플레이 설정</Spanish>
     <French>Options de Jeu</French>
     <German>Gameplay-Einstellungen</German>
     <Italian>Impostazioni di gioco</Italian>
@@ -10017,7 +10008,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Controls Setup</English>
-    <Spanish>Configuración de Controles</Spanish>
+    <Spanish>조작 설정</Spanish>
     <French>Configuration des Contrôles</French>
     <German>Steuerungseinstellungen</German>
     <Italian>Impostazione dei controlli</Italian>
@@ -10041,7 +10032,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Gameplay Settings</English>
-    <Spanish>Opciones de Jugabilidad</Spanish>
+    <Spanish>게임플레이 설정</Spanish>
     <French>Options de Jeu</French>
     <German>Gameplay-Einstellungen</German>
     <Italian>Impostazioni di gioco</Italian>
@@ -10065,7 +10056,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Screen Settings</English>
-    <Spanish>Opciones de Pantalla</Spanish>
+    <Spanish>화면 설정</Spanish>
     <French>Graphiques</French>
     <German>Bildschirmeinstellungen</German>
     <Italian>Impostazioni Schermo</Italian>
@@ -10089,7 +10080,7 @@ continuare.</Italian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>Settings</English>
-    <Spanish>Opciones</Spanish>
+    <Spanish>설정</Spanish>
     <French>Options de Jeu</French>
     <German>Einstellungen</German>
     <Italian>Impostazioni</Italian>
@@ -10113,7 +10104,7 @@ continuare.</Italian>
     <RussianFont>66</RussianFont>
     <PortugueseFont>66</PortugueseFont>
     <English>Are You Sure?</English>
-    <Spanish>¿Estás seguro?</Spanish>
+    <Spanish>확실합니까?</Spanish>
     <French>Vous êtes sûr ?</French>
     <German>Bist du sicher?</German>
     <Italian>Sei sicuro?</Italian>
@@ -10137,7 +10128,7 @@ continuare.</Italian>
     <RussianFont>66</RussianFont>
     <PortugueseFont>66</PortugueseFont>
     <English>Are You Sure?</English>
-    <Spanish>¿Estás seguro?</Spanish>
+    <Spanish>확실합니까?</Spanish>
     <French>Vous êtes sûr ?</French>
     <German>Bist du sicher?</German>
     <Italian>Sei sicuro?</Italian>
@@ -10161,7 +10152,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Audio Options</English>
-    <Spanish>Opciones de Audio</Spanish>
+    <Spanish>소리 설정</Spanish>
     <French>Options Audio</French>
     <German>Audio Optionen</German>
     <Italian>Opzioni audio</Italian>
@@ -10185,7 +10176,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Controller Setup</English>
-    <Spanish>Configuración de Controles</Spanish>
+    <Spanish>컨트롤러 설정</Spanish>
     <French>Configuration du contrôleur</French>
     <German>Controller-Einstellungen</German>
     <Italian>Impostazione Controller</Italian>
@@ -10209,7 +10200,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Video Settings</English>
-    <Spanish>Opciones de Video</Spanish>
+    <Spanish>비디오 설정</Spanish>
     <French>Options Vidéos</French>
     <German>Videoeinstellungen</German>
     <Italian>Impostazioni video</Italian>
@@ -10233,7 +10224,7 @@ continuare.</Italian>
     <RussianFont>84</RussianFont>
     <PortugueseFont>84</PortugueseFont>
     <English>The Station</English>
-    <Spanish>La Estación</Spanish>
+    <Spanish>더 스테이션</Spanish>
     <French>The Station</French>
     <German>The Station</German>
     <Italian>La stazione</Italian>
@@ -10257,7 +10248,7 @@ continuare.</Italian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>Settings</English>
-    <Spanish>Opciones</Spanish>
+    <Spanish>설정</Spanish>
     <French>Options</French>
     <German>Einstellungen</German>
     <Italian>Impostazioni</Italian>
@@ -10281,7 +10272,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Audio Options</English>
-    <Spanish>Opciones de Audio</Spanish>
+    <Spanish>소리 설정</Spanish>
     <French>Options Audio</French>
     <German>Audio Optionen</German>
     <Italian>Opzioni audio</Italian>
@@ -10305,7 +10296,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Screen Settings</English>
-    <Spanish>Opciones de Pantalla</Spanish>
+    <Spanish>화면 설정</Spanish>
     <French>Graphiques</French>
     <German>Bildschirmeinstellungen</German>
     <Italian>Impostazioni Schermo</Italian>
@@ -10329,7 +10320,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Any unsaved data will be lost.</English>
-    <Spanish>Cualquier información no guardada se perderá.</Spanish>
+    <Spanish>저장하지 않은 데이터는 모두 지워집니다.</Spanish>
     <French>Les changements non sauvegardés seront perdus.</French>
     <German>Alle ungespeicherten Daten gehen verloren.</German>
     <Italian>Tutti i dati non salvati andranno persi.</Italian>
@@ -10353,7 +10344,7 @@ continuare.</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>Any unsaved data will be lost.</English>
-    <Spanish>Cualquier información no guardada se perderá.</Spanish>
+    <Spanish>저장하지 않은 데이터는 모두 지워집니다.</Spanish>
     <French>Les changements non sauvegardés seront perdus.</French>
     <German>Alle ungespeicherten Daten gehen verloren.</German>
     <Italian>Tutti i dati non salvati andranno persi.</Italian>
@@ -10377,7 +10368,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Voice Volume</English>
-    <Spanish>     Volumen de Voz</Spanish>
+    <Spanish>     음성 크기</Spanish>
     <French>     Volume des Voix</French>
     <German>     Stimmenlautstärke</German>
     <Italian> Volume della voce</Italian>
@@ -10401,7 +10392,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Voice Volume</English>
-    <Spanish>     Volumen de Voz</Spanish>
+    <Spanish>     음성 크기</Spanish>
     <French>     Volume des Voix</French>
     <German>     Stimmenlautstärke</German>
     <Italian> Volume della voce</Italian>
@@ -10425,7 +10416,7 @@ continuare.</Italian>
     <RussianFont>20</RussianFont>
     <PortugueseFont>20</PortugueseFont>
     <English>Don't Sync</English>
-    <Spanish>No Sincronizar</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Tous</French>
     <German>Jedes zweite V Leer</German>
     <Italian>Ogni V Blank</Italian>
@@ -10449,7 +10440,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Vsync</English>
-    <Spanish>     Sincronización Vertical</Spanish>
+    <Spanish>     수직동기화</Spanish>
     <French>     Synchronisation Verticale</French>
     <German>     Vsync</German>
     <Italian> Vsync</Italian>
@@ -10473,7 +10464,7 @@ continuare.</Italian>
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Windowed</English>
-    <Spanish>Pantalla Completa</Spanish>
+    <Spanish>창모드</Spanish>
     <French>Fenêtré</French>
     <German>Fullscreen</German>
     <Italian>Windowed</Italian>
@@ -10497,7 +10488,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Screen Setup</English>
-    <Spanish>     Configuración de Pantalla</Spanish>
+    <Spanish>     화면 설정</Spanish>
     <French>      Configuration de l'écran</French>
     <German>     Bildschirmeinstellungen</German>
     <Italian> Impostazioni Schermo</Italian>
@@ -10521,7 +10512,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Language</English>
-    <Spanish>     Lenguaje</Spanish>
+    <Spanish>     언어</Spanish>
     <French>      Langage</French>
     <German>      Sprache</German>
     <Italian> Linguaggio</Italian>
@@ -10545,7 +10536,7 @@ continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Language</English>
-    <Spanish>     Lenguaje</Spanish>
+    <Spanish>     언어</Spanish>
     <French>      Langage</French>
     <German>      Sprache</German>
     <Italian> Linguaggio</Italian>
