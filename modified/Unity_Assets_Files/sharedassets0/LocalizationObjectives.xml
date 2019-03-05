@@ -17,7 +17,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Investigate the Upper and Lower Lab</English>
-    <Spanish>Investiga el Laboratorio Superior y el Inferior</Spanish>
+    <Spanish>상층/하층 연구소 조사</Spanish>
     <French>Enquêter dans les Laboratoires Supérieur et Inferieur</French>
     <German>Untersuche das obere und untere Labor</German>
     <Italian>Indagare nel Laboratorio superiore e inferiore</Italian>
@@ -41,7 +41,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Find Silas's ID Bracelet to Access the Upper and Lower Lab</English>
-    <Spanish>Encuentra el Brazalete de Identificación de Silas para Acceder al Laboratorio Superior y el Inferior</Spanish>
+    <Spanish>상층/하층 연구소 접근 권한을 얻기 위해 사일러스의 ID 팔찌 찾기</Spanish>
     <French>Trouver le Bracelet de Silas pour accéder aux Laboratoires Supérieur et Inferieur</French>
     <German>Finde Silas's ID Armband um Zugriff auf das obere und untere Labor zu erlangen</German>
     <Italian>Trova l'ID braccialetto di Silas per accedere al laboratorio superiore e inferiore</Italian>
@@ -65,7 +65,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Check Engine to Restore Power To Silas's Room</English>
-    <Spanish>Revisa el Motor para Restaurar la Energía en la Habitación de Silas</Spanish>
+    <Spanish>엔진을 수리하여 사일러스의 방 전원 복구</Spanish>
     <French>Vérifier le Réacteur pour restaurer l'énergie dans la chambre de Silas</French>
     <German>Überprüfe den Antrieb um die Energiezufuhr für Sila's Zimmer wiederherzustellen</German>
     <Italian>Controlla il motore per ripristinare l'alimentazione nella stanza di Silas</Italian>
@@ -89,7 +89,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Dock In The Espial Station</English>
-    <Spanish>Acopla en la Estación Espial</Spanish>
+    <Spanish>에스파이얼 호에 도킹</Spanish>
     <French>Amarrer vous à la Station Espial</French>
     <German>Docke an die Espial Station an</German>
     <Italian>Dock nella stazione Espial</Italian>
@@ -113,7 +113,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Escape the Espial</English>
-    <Spanish>Escapa de la Espial</Spanish>
+    <Spanish>에스파이얼 호에서 탈출</Spanish>
     <French>Echapper vous de l'Espial</French>
     <German>Fliehe von der Espial</German>
     <Italian>Scappa dall'Espial</Italian>
@@ -137,7 +137,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Investigate the Upper and Lower Lab</English>
-    <Spanish>Investiga el Laboratorio Superior y el Inferior</Spanish>
+    <Spanish>상층/하층 연구소 조사</Spanish>
     <French>Enquêter dans les Laboratoires Supérieur et Inferieur</French>
     <German>Untersuche das obere und untere Labor</German>
     <Italian>Indagare nel Laboratorio superiore e inferiore</Italian>
@@ -161,7 +161,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Investigate Mila's Office</English>
-    <Spanish>Investiga la Oficina de Mila</Spanish>
+    <Spanish>밀라의 사무실 조사</Spanish>
     <French>Enquêter dans le Bureau de Mila</French>
     <German>Untersuche Mila's Büro</German>
     <Italian>Indagare nell'ufficio di Mila</Italian>
@@ -185,7 +185,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Restore Power To The Lounge Door</English>
-    <Spanish>Restaura la Energía de la Puerta de la Sala</Spanish>
+    <Spanish>라운지 문의 전원 복구</Spanish>
     <French>Réactiver l'alimentation de la porte du Salon</French>
     <German>Stelle Energiezufuhr für die Lounge Tür wiederher</German>
     <Italian>Ripristinare l'alimentazione alla porta della sala</Italian>
@@ -209,7 +209,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Investigate the Science Wing</English>
-    <Spanish>Investiga el Ala de Ciencias</Spanish>
+    <Spanish>실험실 조사</Spanish>
     <French>Enquêter dans l'Aile Scientifique</French>
     <German>Untersuche den Forschungsflügel</German>
     <Italian>Indagare nell'ala della scienza</Italian>
@@ -233,7 +233,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Repair Maintenance Robot</English>
-    <Spanish>Repara el Robot de Mantenimiento</Spanish>
+    <Spanish>관리 로봇 수리</Spanish>
     <French>Réparer le Robot de Maintenance</French>
     <German>Repariere den Wartungsroboter</German>
     <Italian>Riparare il robot manutenzione</Italian>
@@ -257,7 +257,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Access The Bridge:</English>
-    <Spanish>Accede al Puente:</Spanish>
+    <Spanish>선교에 진입:</Spanish>
     <French>Accéder à la Passerelle</French>
     <German>Erlange Zugang zur Brücke:</German>
     <Italian>Accedi al ponte:</Italian>
@@ -281,7 +281,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Locate The Crew:</English>
-    <Spanish>Localiza a la Tripulación:</Spanish>
+    <Spanish>선원 찾기:</Spanish>
     <French>Localiser l'équipage</French>
     <German>Finde die Besatzung:</German>
     <Italian>Trova The Crew:</Italian>
@@ -305,8 +305,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>   &lt;&gt; Find Aiden Vyse</English>
-    <Spanish>   &lt;&gt; Encuentra a Aiden 
-       Vyse</Spanish>
+    <Spanish>   &lt;&gt; 에이든 비제 찾기</Spanish>
     <French>   &lt;&gt; Trouver Aiden Vyse</French>
     <German>   &lt;&gt; Finde Aiden Vyse</German>
     <Italian> &lt;&gt; Trova Aiden Vyse</Italian>
@@ -330,8 +329,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>   &lt;&gt; Find Mila Lexa</English>
-    <Spanish>   &lt;&gt; Encuentra a Mila 
-        Lexa</Spanish>
+    <Spanish>   &lt;&gt; 밀라 렉사 찾기</Spanish>
     <French>   &lt;&gt; Trouver Mila Lexa</French>
     <German>   &lt;&gt; Finde Mila Lexa</German>
     <Italian> &lt;&gt; Trova Mila Lexa</Italian>
@@ -355,8 +353,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>   &lt;&gt; Find Silas Haze</English>
-    <Spanish>   &lt;&gt; Encuentra a Silas 
-        Haze</Spanish>
+    <Spanish>   &lt;&gt; 사일러스 헤이즈 찾기</Spanish>
     <French>   &lt;&gt; Trouver Silas Haze</French>
     <German>   &lt;&gt; Finde Silas Haze</German>
     <Italian> &lt;&gt; Trova Silas Haze</Italian>
@@ -380,8 +377,7 @@
     <RussianFont>63</RussianFont>
     <PortugueseFont>63</PortugueseFont>
     <English>   &lt;&gt; Find Mila's ID Bracelet</English>
-    <Spanish>   &lt;&gt; Encuentra el Brazalete 
-       de Identificación de Mila</Spanish>
+    <Spanish>   &lt;&gt; 밀라의 ID 팔찌 찾기</Spanish>
     <French>   &lt;&gt; Trouver le Bracelet
            de Mila</French>
     <German>   &lt;&gt; Finde Mila's ID Armband</German>
@@ -407,9 +403,7 @@
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>   &lt;&gt; Deploy Maintenance Robot to Repair Life Support</English>
-    <Spanish>   &lt;&gt; Despliega el Robot de 
-        Mantenimiento para 
-        Reparar el Soporte Vital</Spanish>
+    <Spanish>   &lt;&gt; 관리 로봇을 사용하여 생명 유지 장치 수리</Spanish>
     <French>   &lt;&gt; Déployer le Robot de 
          Maintenance pour réparer 
          les supports de vie

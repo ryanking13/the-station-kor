@@ -17,7 +17,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Aiden's Access Bracelet</English>
-    <Spanish>Brazalete de Acceso de Aiden</Spanish>
+    <Spanish>에이든의 ID 팔찌</Spanish>
     <French>Bracelet d'Accès d'Aiden</French>
     <German>Aiden's ID-Armband</German>
     <Italian>Braccialetto di accesso di Aiden</Italian>
@@ -41,7 +41,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Mila's Access Bracelet</English>
-    <Spanish>Brazalete de Acceso de Mila</Spanish>
+    <Spanish>밀라의 ID 팔찌</Spanish>
     <French>Bracelet d'Accès de Mila</French>
     <German>Mila's ID-Armband</German>
     <Italian>Braccialetto di accesso di Mila</Italian>
@@ -65,7 +65,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Silas's Access Bracelet</English>
-    <Spanish>Brazalete de Acceso de Silas</Spanish>
+    <Spanish>사일러스의 ID 팔찌</Spanish>
     <French>Bracelet d'Accès de Sila</French>
     <German>Silas's ID-Armband</German>
     <Italian>Braccialetto di accesso di Silas</Italian>
@@ -89,7 +89,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Mila's Locker Combination</English>
-    <Spanish>Combinación del Casillero de Mila</Spanish>
+    <Spanish>밀라의 라커 잠금패턴</Spanish>
     <French>Combinaison du casier de Mila</French>
     <German>Mila's Spind Kombination</German>
     <Italian>Combinazione lucchetto di Mila</Italian>
@@ -113,7 +113,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Science Wing Access Key</English>
-    <Spanish>Llave de Acceso al Ala de Ciencias</Spanish>
+    <Spanish>실험실 개방 키</Spanish>
     <French>Clé d'accès à l'Aile Scientifique</French>
     <German>Zugriffs-Schlüssel für Forschungsflügel</German>
     <Italian>Chiave di accesso ala scienza</Italian>
@@ -137,7 +137,7 @@
     <RussianFont>14</RussianFont>
     <PortugueseFont>14</PortugueseFont>
     <English>Mila's Locker Combination</English>
-    <Spanish>Combinación del Casillero de Mila</Spanish>
+    <Spanish>밀라의 라커 잠금패턴</Spanish>
     <French>Combinaison du casier de Mila</French>
     <German>Mila's Spind</German>
     <Italian>Combinazione lucchetto di Mila</Italian>
@@ -161,7 +161,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Low</English>
-    <Spanish>Bajo</Spanish>
+    <Spanish>낮음</Spanish>
     <French>Bas</French>
     <German>Niedrig</German>
     <Italian>Basso</Italian>
@@ -185,7 +185,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Medium</English>
-    <Spanish>Medio</Spanish>
+    <Spanish>중간</Spanish>
     <French>Moyen</French>
     <German>Mittel</German>
     <Italian>Medio</Italian>
@@ -209,7 +209,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>High</English>
-    <Spanish>Alto</Spanish>
+    <Spanish>높음</Spanish>
     <French>Haut</French>
     <German>Hoch</German>
     <Italian>Alto</Italian>
@@ -233,7 +233,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Ultra</English>
-    <Spanish>Ultra</Spanish>
+    <Spanish>최고</Spanish>
     <French>Ultra</French>
     <German>Ultra</German>
     <Italian>Ultra</Italian>
@@ -257,7 +257,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Custom</English>
-    <Spanish>Personalizado</Spanish>
+    <Spanish>커스텀</Spanish>
     <French>Personnalisé</French>
     <German>Benutzerdefiniert</German>
     <Italian>Personalizzato</Italian>
@@ -281,7 +281,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>On</English>
-    <Spanish>Activado</Spanish>
+    <Spanish>켜기</Spanish>
     <French>On</French>
     <German>An</German>
     <Italian>On</Italian>
@@ -305,7 +305,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Off</English>
-    <Spanish>Desactivado</Spanish>
+    <Spanish>끄기</Spanish>
     <French>Off</French>
     <German>Aus</German>
     <Italian>Off</Italian>
@@ -329,7 +329,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Windowed</English>
-    <Spanish>Ventana</Spanish>
+    <Spanish>창모드</Spanish>
     <French>Fenêtré</French>
     <German>Windowed</German>
     <Italian>Windowed</Italian>
@@ -353,7 +353,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Fullscreen</English>
-    <Spanish>Pantalla Completa</Spanish>
+    <Spanish>전체화면</Spanish>
     <French>Plein écran</French>
     <German>Fullscreen</German>
     <Italian>Fullscreen</Italian>
@@ -377,7 +377,7 @@
     <RussianFont>20</RussianFont>
     <PortugueseFont>20</PortugueseFont>
     <English>Every V Blank</English>
-    <Spanish>Sincronización</Spanish>
+    <Spanish>완전 동기화</Spanish>
     <French>Tous</French>
     <German>Jedes V Leer</German>
     <Italian>Ogni V Blank</Italian>
@@ -401,7 +401,7 @@
     <RussianFont>20</RussianFont>
     <PortugueseFont>20</PortugueseFont>
     <English>Every Second V Blank</English>
-    <Spanish>Doble Sincronización</Spanish>
+    <Spanish>1/2</Spanish>
     <French>1/2</French>
     <German>Jedes zweite V Leer</German>
     <Italian>Ogni secondo V Blank</Italian>
@@ -425,7 +425,7 @@
     <RussianFont>20</RussianFont>
     <PortugueseFont>20</PortugueseFont>
     <English>Don't Sync</English>
-    <Spanish>No Sincronizar</Spanish>
+    <Spanish>동기화 안 함</Spanish>
     <French>Pas de V.Sync</French>
     <German>Kein Sync</German>
     <Italian>Non sincronizzare</Italian>
@@ -449,7 +449,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Monitor 1</English>
-    <Spanish>Pantalla 1</Spanish>
+    <Spanish>모니터 1</Spanish>
     <French>Ecran 1</French>
     <German>Monitor 1</German>
     <Italian>Monitor 1</Italian>
@@ -473,7 +473,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Monitor 2</English>
-    <Spanish>Pantalla 2</Spanish>
+    <Spanish>모니터 2</Spanish>
     <French>Ecran 2</French>
     <German>Monitor 2</German>
     <Italian>Monitor 2</Italian>
@@ -497,7 +497,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Monitor 3</English>
-    <Spanish>Pantalla 3</Spanish>
+    <Spanish>모니터 3</Spanish>
     <French>Ecran 3</French>
     <German>Monitor 3</German>
     <Italian>Monitor 3</Italian>
@@ -521,7 +521,7 @@
     <RussianFont>25</RussianFont>
     <PortugueseFont>25</PortugueseFont>
     <English>Monitor 4</English>
-    <Spanish>Pantalla 4</Spanish>
+    <Spanish>모니터 4</Spanish>
     <French>Ecran 4</French>
     <German>Monitor 4</German>
     <Italian>Monitor 4</Italian>
@@ -545,7 +545,7 @@
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Keyboard + Mouse</English>
-    <Spanish>Teclado + Ratón</Spanish>
+    <Spanish>키보드 + 마우스</Spanish>
     <French>Clavier + Souris</French>
     <German>Keyboard + Mouse</German>
     <Italian>Tastiera + Mouse</Italian>
@@ -569,7 +569,7 @@
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Gamepad</English>
-    <Spanish>Mando</Spanish>
+    <Spanish>게임패드</Spanish>
     <French>Manette</French>
     <German>Gamepad</German>
     <Italian>Gamepad</Italian>
@@ -593,7 +593,7 @@
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Right Handed</English>
-    <Spanish>Diestro</Spanish>
+    <Spanish>오른손잡이용</Spanish>
     <French>Droitier</French>
     <German>Rechtshänder</German>
     <Italian>Mano Destra</Italian>
@@ -617,7 +617,7 @@
     <RussianFont>22</RussianFont>
     <PortugueseFont>22</PortugueseFont>
     <English>Left Handed</English>
-    <Spanish>Zurdo</Spanish>
+    <Spanish>왼손잡이용</Spanish>
     <French>Gaucher</French>
     <German>Linkshänder</German>
     <Italian>Mano Sinistra</Italian>
@@ -650,16 +650,16 @@
 
  &gt; Primary Systems 
     Unresponsive</English>
-    <Spanish>Acercándose a la Espial
+    <Spanish>에스파이얼 호에 접근 중
 
- &gt; Bloqueo de Seguridad 
-    Activo
+ &gt; 보안 잠금
+    활성화됨
 
- &gt; Daño Estructural 
-    Detectado
+ &gt; 외부 손상
+    감지됨
 
- &gt; Sistemas Primarios 
-    Sin Respuesta</Spanish>
+ &gt; 주 시스템
+    반응 없음</Spanish>
     <French>Approche de l'Espial
 
   &gt; Verrouillage de sécurité
@@ -719,7 +719,7 @@
     <RussianFont>72</RussianFont>
     <PortugueseFont>72</PortugueseFont>
     <English>Welcome to The Espial</English>
-    <Spanish>Bienvenido a la Espial</Spanish>
+    <Spanish>에스파이얼 호에 오신 것을 환영합니다</Spanish>
     <French>Bienvenue que l'Espial</French>
     <German>Willkommen auf der Espial</German>
     <Italian>Benvenuto sull'Espial</Italian>
@@ -743,7 +743,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>To the Critics</English>
-    <Spanish>A los Críticos</Spanish>
+    <Spanish>비판가들에게</Spanish>
     <French>Au critiques</French>
     <German>An die Kritiker</German>
     <Italian>Per i critici</Italian>
@@ -767,7 +767,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Redemption</English>
-    <Spanish>Redención</Spanish>
+    <Spanish>속죄</Spanish>
     <French>Rédemption</French>
     <German>Wiedergutmachung</German>
     <Italian>Redenzione</Italian>
@@ -791,7 +791,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Overtime</English>
-    <Spanish>Tiempo Extra</Spanish>
+    <Spanish>시간외 근무</Spanish>
     <French>Heures supplémentaires</French>
     <German>Überstunden</German>
     <Italian>Straordinario</Italian>
@@ -815,7 +815,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>You and Her</English>
-    <Spanish>Tú y Ella</Spanish>
+    <Spanish>그과 그녀</Spanish>
     <French>Vous et Elle</French>
     <German>Du und Sie</German>
     <Italian>Tu e lei</Italian>
@@ -839,7 +839,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 1</English>
-    <Spanish>Incidente Parte 1</Spanish>
+    <Spanish>사고, 파트 1</Spanish>
     <French>Incident - Partie 1</French>
     <German>Vorfall Teil 1</German>
     <Italian>Incidente Parte 1</Italian>
@@ -863,7 +863,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>The Shadow</English>
-    <Spanish>La Sombra</Spanish>
+    <Spanish>그림자</Spanish>
     <French>L'Ombre</French>
     <German>Der Schatten</German>
     <Italian>L'ombra</Italian>
@@ -887,7 +887,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Honor Without Glory</English>
-    <Spanish>Honor Sin Gloria</Spanish>
+    <Spanish>영광 없는 명예</Spanish>
     <French>Honneur sans Gloire</French>
     <German>Ehre Ohne Ruhm</German>
     <Italian>Onore senza gloria</Italian>
@@ -911,7 +911,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 2</English>
-    <Spanish>Incidente Parte 2</Spanish>
+    <Spanish>사고, 파트 2</Spanish>
     <French>Incident - Partie 2</French>
     <German>Vorfall Teil 2</German>
     <Italian>Incidente Parte 2</Italian>
@@ -935,7 +935,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Always Present</English>
-    <Spanish>Siempre Presente</Spanish>
+    <Spanish>언제나 현재일 뿐</Spanish>
     <French>Toujours présent</French>
     <German>Immer Präsent </German>
     <Italian>Sempre presente</Italian>
@@ -959,7 +959,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Curiosity</English>
-    <Spanish>Curiosidad</Spanish>
+    <Spanish>호기심</Spanish>
     <French>Curiosité</French>
     <German>Neugier</German>
     <Italian>Curiosità</Italian>
@@ -983,7 +983,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Cosmic Siblings</English>
-    <Spanish>Hermanos Cósmicos</Spanish>
+    <Spanish>우주 형제</Spanish>
     <French>Frères Cosmiques</French>
     <German>Kosmische Geschwister</German>
     <Italian>Fratelli cosmici</Italian>
@@ -1007,7 +1007,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 3</English>
-    <Spanish>Incidente Parte 3</Spanish>
+    <Spanish>사고, 파트 3</Spanish>
     <French>Incident - Partie 3</French>
     <German>Vorfall Teil 3</German>
     <Italian>Incidente Parte 3</Italian>
@@ -1031,7 +1031,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Us and Them</English>
-    <Spanish>Nosotros y Ellos</Spanish>
+    <Spanish>우리와 그들</Spanish>
     <French>Nous et Eux</French>
     <German>Wir und Sie</German>
     <Italian>Noi e loro</Italian>
@@ -1055,7 +1055,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Discovery</English>
-    <Spanish>Descubrimiento</Spanish>
+    <Spanish>발견</Spanish>
     <French>Découverte</French>
     <German>Entdeckung</German>
     <Italian>Scoperta</Italian>
@@ -1079,7 +1079,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Instincts vs Intelligence</English>
-    <Spanish>Instintos vs Inteligencia</Spanish>
+    <Spanish>본능 대 지성</Spanish>
     <French>Instincts vs Intelligence</French>
     <German>Instinkte gegen Intelligen</German>
     <Italian>Istinti vs Intelligenza</Italian>
@@ -1103,7 +1103,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 4</English>
-    <Spanish>Incidente Parte 4</Spanish>
+    <Spanish>사고, 파트 4</Spanish>
     <French>Incident - Partie 4</French>
     <German>Vorfall Teil 4</German>
     <Italian>Incidente Parte 4</Italian>
@@ -1127,7 +1127,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Sharing</English>
-    <Spanish>Compartiendo</Spanish>
+    <Spanish>함께</Spanish>
     <French>Partage</French>
     <German>Teilen</German>
     <Italian>Compartecipazione</Italian>
@@ -1151,7 +1151,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Where it Lies</English>
-    <Spanish>Donde Yace</Spanish>
+    <Spanish>그것이 있는 곳</Spanish>
     <French>Où il se trouve</French>
     <German>Wo es Liegt</German>
     <Italian>Dove si trova</Italian>
@@ -1175,7 +1175,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Another Funeral</English>
-    <Spanish>Otro Funeral</Spanish>
+    <Spanish>또다른 장례식</Spanish>
     <French>Un autre enterrement</French>
     <German>Eine Weitere Beerdigung</German>
     <Italian>Un altro funerale</Italian>
@@ -1199,7 +1199,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Mirror of the Universe</English>
-    <Spanish>Espejo del Universo</Spanish>
+    <Spanish>우주의 거울</Spanish>
     <French>Miroir de l'Univers</French>
     <German>Spiegel im Universum</German>
     <Italian>Specchio dell'universo</Italian>
@@ -1223,7 +1223,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 5</English>
-    <Spanish>Incidente Parte 5</Spanish>
+    <Spanish>사고, 파트 5</Spanish>
     <French>Incident - Partie 5</French>
     <German>Vorfall Teil 5</German>
     <Italian>Incidente Parte 5</Italian>
@@ -1247,7 +1247,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Confession Part 2</English>
-    <Spanish>Confesión Parte 2</Spanish>
+    <Spanish>고백, 파트 2</Spanish>
     <French>Confession - Partie 2</French>
     <German>Geständnis Teil 2</German>
     <Italian>Confessione Parte 2</Italian>
@@ -1271,7 +1271,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Final Report</English>
-    <Spanish>Reporte Final</Spanish>
+    <Spanish>마지막 보고</Spanish>
     <French>Rapport Final</French>
     <German>Letzter Bericht</German>
     <Italian>Rapporto finale</Italian>
@@ -1295,7 +1295,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Incident Part 6</English>
-    <Spanish>Incidente Parte 6</Spanish>
+    <Spanish>사고, 파트 6</Spanish>
     <French>Incident - Partie 6</French>
     <German>Vorfall Teil 6</German>
     <Italian>Incidente Parte 6</Italian>
@@ -1319,7 +1319,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Maintenance</English>
-    <Spanish>Mantenimiento</Spanish>
+    <Spanish>관리실</Spanish>
     <French>Maintenance</French>
     <German>Wartung</German>
     <Italian>Manutenzione</Italian>
@@ -1343,7 +1343,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Aiden's Room</English>
-    <Spanish>La Habitación de Aiden</Spanish>
+    <Spanish>에이든의 방</Spanish>
     <French>Chambre d'Aiden</French>
     <German>Aiden's Zimmer</German>
     <Italian>La Stanza di Aiden</Italian>
@@ -1367,7 +1367,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Dining Room</English>
-    <Spanish>Comedor</Spanish>
+    <Spanish>식당</Spanish>
     <French>Salle à manger</French>
     <German>Esszimmer</German>
     <Italian>Sala da pranzo</Italian>
@@ -1391,7 +1391,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Mila's Room</English>
-    <Spanish>La Habitación de Mila</Spanish>
+    <Spanish>밀라의 방</Spanish>
     <French>Chambre de Milas</French>
     <German>Mila's Zimmer</German>
     <Italian>La stanza di Mila</Italian>
@@ -1415,7 +1415,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Viewing Room A</English>
-    <Spanish>Sala de Visualización A</Spanish>
+    <Spanish>관람실 A</Spanish>
     <French>Salle d'examen A</French>
     <German>Ansichtsraum A</German>
     <Italian>Stanza di osservazione A</Italian>
@@ -1439,7 +1439,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Science Wing</English>
-    <Spanish>Ala de Ciencias</Spanish>
+    <Spanish>실험실</Spanish>
     <French>Aile Scientifique</French>
     <German>Forschungsflügel</German>
     <Italian>Ala della scienza</Italian>
@@ -1463,7 +1463,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Locker Room</English>
-    <Spanish>Vestuario</Spanish>
+    <Spanish>라커룸</Spanish>
     <French>Salle des Casiers</French>
     <German>Garderobenbereich</German>
     <Italian>Spogliatoio</Italian>
@@ -1487,7 +1487,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Lounge</English>
-    <Spanish>Salón</Spanish>
+    <Spanish>라운지</Spanish>
     <French>Salon</French>
     <German>Lounge</German>
     <Italian>Sala</Italian>
@@ -1511,7 +1511,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Upper Lab</English>
-    <Spanish>Laboratorio Superior</Spanish>
+    <Spanish>상층 연구소</Spanish>
     <French>Laboratoire Supérieur</French>
     <German>Oberes Labor</German>
     <Italian>Laboratorio Superiore</Italian>
@@ -1535,7 +1535,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Medical Bay</English>
-    <Spanish>Bahía Medica</Spanish>
+    <Spanish>의무실</Spanish>
     <French>Baie Médicale</French>
     <German>Krankenstation</German>
     <Italian>Baia medica</Italian>
@@ -1559,7 +1559,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Bridge</English>
-    <Spanish>Puente</Spanish>
+    <Spanish>선교</Spanish>
     <French>Passerelle</French>
     <German>Brücke</German>
     <Italian>Ponte</Italian>
@@ -1583,7 +1583,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Lower Lab</English>
-    <Spanish>Laboratorio Inferior</Spanish>
+    <Spanish>하층 연구소</Spanish>
     <French>Laboratoire Inferieur</French>
     <German>Unteres Labor</German>
     <Italian>Laboratorio Inferiore</Italian>
@@ -1607,7 +1607,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Conference Room</English>
-    <Spanish>Sala de Conferencias</Spanish>
+    <Spanish>회의실</Spanish>
     <French>Salle de Conférence</French>
     <German>Konferenzraum</German>
     <Italian>Sala conferenze</Italian>
@@ -1631,7 +1631,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Mila's Office</English>
-    <Spanish>Oficina de Mila</Spanish>
+    <Spanish>밀라의 사무실</Spanish>
     <French>Bureau de Mila</French>
     <German>Mila's Büro</German>
     <Italian>Ufficio di Mila</Italian>
@@ -1655,7 +1655,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Hangar</English>
-    <Spanish>Hangar</Spanish>
+    <Spanish>격납고</Spanish>
     <French>Hangar</French>
     <German>Hangar</German>
     <Italian>Hangar</Italian>
@@ -1679,7 +1679,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Engineering</English>
-    <Spanish>Ingeniería</Spanish>
+    <Spanish>엔진실</Spanish>
     <French>Ingénierie</French>
     <German>Maschinenraum</German>
     <Italian>Ingegneria</Italian>
@@ -1703,7 +1703,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Silas's Room</English>
-    <Spanish>La Habitación de Silas</Spanish>
+    <Spanish>사일러스의 방</Spanish>
     <French>Chambre de Silas</French>
     <German>Silas's Zimmer</German>
     <Italian>La stanza di Silas</Italian>
@@ -1727,7 +1727,7 @@
     <RussianFont>85</RussianFont>
     <PortugueseFont>85</PortugueseFont>
     <English>Viewing Room B</English>
-    <Spanish>Sala de Visualización B</Spanish>
+    <Spanish>관람실 B</Spanish>
     <French>Salle d'examen B</French>
     <German>Ansichtsraum B</German>
     <Italian>Stanza di osservazione B</Italian>
@@ -1751,7 +1751,7 @@
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Progress Saved</English>
-    <Spanish>Progreso Guardado</Spanish>
+    <Spanish>진행상황 저장됨</Spanish>
     <French>Avancement Sauvegardé</French>
     <German>Fortschritt gespeichert</German>
     <Italian>Progressi salvati</Italian>
@@ -1775,7 +1775,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Engine Reset</English>
-    <Spanish>Reinicio del Motor</Spanish>
+    <Spanish>엔진 초기화</Spanish>
     <French>Réinitialisation du Réacteur </French>
     <German>Motor-Rückstellung</German>
     <Italian>Reset del motore</Italian>
@@ -1799,7 +1799,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Step 1: Microfabrication</English>
-    <Spanish>Paso 1: Microfabricación</Spanish>
+    <Spanish>1단계: 미세가공</Spanish>
     <French>Etape 1: Microfabrication</French>
     <German>Schritt 1: Mikrofertigung</German>
     <Italian>Passaggio 1: Microfabbricazione</Italian>
@@ -1823,7 +1823,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Step 2: Calibration</English>
-    <Spanish>Paso 2: Calibración</Spanish>
+    <Spanish>2단계: 측정</Spanish>
     <French>Etape 2: Calibration</French>
     <German>Schritt 2: Kalibrierung</German>
     <Italian>Passaggio 2: Calibrazione</Italian>
@@ -1847,7 +1847,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Step 3: Displacement</English>
-    <Spanish>Paso 3: Desplazamiento</Spanish>
+    <Spanish>3단계: 바꾸어 놓기</Spanish>
     <French>Etape 3: remplacement</French>
     <German>Schritt 3: Verschiebung</German>
     <Italian>Passaggio 3: Spostamento</Italian>
@@ -1871,7 +1871,7 @@
     <RussianFont>36</RussianFont>
     <PortugueseFont>36</PortugueseFont>
     <English>Step 4: Engine Reset</English>
-    <Spanish>Paso 4: Reinicio del Motor</Spanish>
+    <Spanish>4단계: 엔진 초기화</Spanish>
     <French>Etape 4: Réinitialisation du Réacteur </French>
     <German>Schritt 4: Motor-Rückstellung</German>
     <Italian>Passaggio 4: Reset del motore</Italian>
