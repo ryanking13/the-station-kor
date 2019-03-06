@@ -27,17 +27,17 @@ Day 17:
 
 &gt;  15 | 00      Second Probe Mission
                        (Repairs on Units 2&amp;3)</English>
-    <Spanish>Calendario de Misión - Aiden
+    <Spanish>미션 달력 - 에이든
 
-Día 17:
+17일차:
 
-&gt;  06 | 00      ¡Día de Paga!
+&gt;  06 | 00      월급날!
 
-&gt;  13 | 30      Ajustes de Orbita Baja
-                       Fecha Límite
+&gt;  13 | 30      저궤도 조정
+                    데드라인
 
-&gt;  15 | 00      Segunda Misión de Exploración
-                       (Reparaciones en Unidades 2 y 3)</Spanish>
+&gt;  15 | 00      이차 조사 미션
+                      (유닛 2&amp;3 수리)</Spanish>
     <French>Calendrier des missions - Aiden
 
 Jour 17:
@@ -115,19 +115,19 @@ Tourism Done in STYLE – Ask The Experts
 Destination Vacation Done On A Budget
 
 The Top Adventure And Escape Vacations To Clear Your Mind</English>
-    <Spanish>Escapa
+    <Spanish>탈출
 
-3 de Los Mejores Lugares De Los Que Nunca Escuchaste
+당신이 지금까지 몰랐던 최고의 장소들 3선
 
-¿Alguna Vez Soñaste Con Poseer Una Isla?
+당신만의 섬, 상상 해본 적 있나요?
 
-10 Curiosidades Que Cambiarán La Manera En Que Vez Tu Planeta Natal
+당신의 생각을 바꿔줄 우리 행성에 관한 10가지 사실들
 
-Turismo Hecho Con ESTILO –Pregunta A Los Expertos
+전문가들이 말해주는 스타일리쉬한 여행 방법
 
-Vacaciones De Bajo Presupuesto
+적은 예산으로 떠나는 최고의 휴양지
 
-Las Mejores Vacaciones de Aventura Y Escape Para Despejar La Mente”</Spanish>
+마음을 맑게 해주는 최고의 휴가 장소</Spanish>
     <French>Escape
 
 3 des meilleurs endroits dont vous n'avez jamais entendu parler
@@ -216,24 +216,24 @@ Last year’s best technology innovations
 Protecting yourself from overstimulation in our technology-driven culture
 
 What the Espial “Psy Prime” mission means for other space engineering firms</English>
-    <Spanish>cultura de negocios
+    <Spanish>비즈니스 문화
 
 
-5 Sistemas de comunicación para optimizar tu día
+최적의 하루를 만드는 다섯가지 커뮤니케이션 비법
 
-¿Qué es lo siguiente en tecnología de conducción de singularidad?
+특이점 드라이브 기술의 다음 목적지는 어디?
 
-Entrevista con el jefe de Ingeniería, Saito
+Saito 엔지니어링 최고경영자와의 대화
 
-3 Empresas listas para explotar en crecimiento en el futuro cercano
+폭발적인 성장이 예고된 3개의 기업
 
-Encontrar un trabajo y equilibrio en la vida
+워라밸 찾기
 
-Las mejores innovaciones tecnológicas del año pasado
+작년 최고의 기술 혁신 사례
 
-Protegiéndote de la sobre-estimulación en nuestra cultura impulsada por la tecnología
+기술주도 사회에서 과로로부터 자신을 지키는 방법
 
-Lo que la misión de la Espial a “Psy Prime” significa para otras empresas de ingeniería espacial</Spanish>
+에스파이얼 호의 "외계 행성" 미션이 다른 우주 기업들에게 가지는 의미</Spanish>
     <French>Culture Business
 
 
@@ -338,20 +338,20 @@ Day 17:
 
 &gt;  18 | 00      (deleted) 6 Year
                        Anniversary With Silas</English>
-    <Spanish>Calendario de Misión - Mila
+    <Spanish>미션 달력 - 밀라
 
-Día 17:
+17일차:
 
-&gt;  07 | 00      Equipo de Desarrollo
+&gt;  07 | 00      팀 스크럼
 
-&gt;  09 | 15      Reporte Operacional 
-                       Con/ Elías
+&gt;  09 | 15      운영 보고 
+                      with 엘리아스
 
-&gt;  11 | 50      Prueba del Sistema
-                       De Seguridad y Bloqueo
+&gt;  11 | 50      안전 점검
+                       시스템 테스트
 
-&gt;  18 | 00      (eliminado) Sexto
-                       Aniversario Con Silas</Spanish>
+&gt;  18 | 00      (삭제됨) 6주년
+                       기념일 with 사일러스</Spanish>
     <French>Calendrier de la mission - Mila
 
 Jour 17:
@@ -452,30 +452,31 @@ Other Information
 
 Captain’s Signature:                                Engineer’s Signature:
 ML                                                                                            AV</English>
-    <Spanish>Carga Mecánica – Aviso para Ingeniería
-Estación de Carga           Número de Misión         Registro de la Nave      Realizado por
-Axiom-08                          LK6-3927                          AXI – 84                          RAH
+    <Spanish>수하물 반입 내역 – 엔지니어링
+탑재 정거장         미션 번호         우주선 등록번소      송신자
+Axiom-08                          LK6-3927                       AXI – 84                                   RAH
 
-Mercancías Peligrosas
-Número de Vuelo    Nombre de Envió Correcto        División o Clase        Número de Identificación
+위험물
+항공편    수하물 명칭        분류        ID 번호
 
-Número de Paquetes       Cantidad Neta
+패키지 개수  전체 용량
 
-No hay pruebas de que algún paquete dañado o con fugas, conteniendo mercancías peligrosas, ha sido cargado en la nave.
+우주선에 위험물을 포함한 수하물이 반입되지 않은 것을 확인함.
 
-Otra Carga Especial
-Estación   Número de Vuelo      Contenido                                  Notas                                            Código
+기타 수하물
+정거장   항공편          내용물                   비고                                           코드
 
-EPL            435-667                      Codificador Absoluto               Modelo de Escudo Ancho         KHJ-098
-EPL            524-968                      Clavija de Conector                  Rozamiento 3mm                       VAJ-067
-EPL            867-023                      Makeblock Orion                      Compatible con Escudos           JGH-948
-EPL            734-068                      Correa Dentada 98                    Limpiar Antes de Instalar        YHR-956
-EPL            856-234                      Sensores Ultra-sónicos  2ms    EEPROM                                     LOM-753
+EPL          435-667               앱솔루트 인코더          Wide Shield Model              KHJ-098
+EPL          524-968               연결용 못, 마찰 3mm                                      VAJ-067
+                                        
+EPL          867-023               Makeblock Orion           Shield와 호환됨   JGH-948
+EPL          734-068                타이밍 벨트 98               설치하기 전에 초기화할 것           YHR-956
+EPL          856-234                초음파 센서 2ms    EEPROM                           LOM-753
 
-Información Adicional
+기타 정보
 
-Firma del Capitán:                                Firma del Ingeniero:
-ML                                                                                       AV</Spanish>
+선장 서명:                                엔지니어 서명:
+ML                                                                                            AV</Spanish>
     <French>Livraison - Notification à l'ingénierie
 Station de chargement         Mission N°         Enregistrement      Préparé par
 Axiom-08                                   LK6-3927                    AXI - 84                   RAH
@@ -608,18 +609,18 @@ ML                                                                              
 &gt; Upper Link
 &gt; 2-Axis Gyro
 &gt; Vax DTI 60</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt; Sensor Ultra-sónico
-&gt; Sensor de Vision
-&gt; LEDs
-&gt; Cables de Flujo
-&gt; Válvula de Enfriamiento
-&gt; Revestimiento Protector
-&gt; Sensores Externos
-&gt; Enlace Superior
-&gt; Giróscopo de 2-ejes
-&gt; Vacuna DTI 60</Spanish>
+&gt; 초음파 센서
+&gt; 시각 센서
+&gt; LED
+&gt; 유동 케이블
+&gt; 쿨링 벤트
+&gt; 보호 외장 도금
+&gt; 외부 센서
+&gt; 상부 링크
+&gt; 2-축 자이로센서
+&gt; Vax DTI 60</Spanish>
     <French>Notes de conception:
 
 &gt; Capteur à ultrasons
@@ -699,19 +700,19 @@ ML                                                                              
 &gt; Touch Sensors 
 &gt; Gyro
 &gt; Eye LEDs</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt; Sensor Principal
-&gt; Sensor Táctil
-&gt; LEDs
-&gt; Micrófonos Sincronizados
-&gt; Sensores Tácticos
-&gt; Cámaras
-&gt; Sensores de Barbilla
-&gt; Válvulas de Enfriamiento
-&gt; Sensores Táctiles 
-&gt; Giróscopo
-&gt; Eye-LEDs</Spanish>
+&gt; 머리 센서
+&gt; 터치 센서
+&gt; LED
+&gt; 동기화된 마이크
+&gt; 전술 센서
+&gt; 카메라
+&gt; 뺨 센서
+&gt; 쿨링 벤트
+&gt; 터치 센서
+&gt; 자이로 센서
+&gt; 눈 LED</Spanish>
     <French>Notes de conception:
 
 &gt; Capteur de tête
@@ -794,18 +795,18 @@ ML                                                                              
 &gt; Joint 2
 &gt; Switching regulator
 &gt; Closed</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt; Termo-cambiador 
-&gt; Bomba de Motor
-&gt; Actuadores 
-&gt; Tobillo
-&gt; Sensor de Fuerza
-&gt; Extensor
-&gt; Articulación 1
-&gt; Articulación 2
-&gt; Regulador de conmutación
-&gt; Cerrado</Spanish>
+&gt; 열 순환기
+&gt; 엔진 펌프
+&gt; 엑추에이터
+&gt; 발목 관절
+&gt; 압력 센서
+&gt; 연장기
+&gt; 관절 1
+&gt; 관절 2
+&gt; 스위칭 레귤레이터
+&gt; 덮개</Spanish>
     <French>Notes de conception:
 
 &gt; Échangeur de chaleur
@@ -899,28 +900,33 @@ Other Information
 
 Captain’s Signature:                                Engineer’s Signature:
 ML                                                                                            AV</English>
-    <Spanish>Carga Mecánica – Aviso para Ingeniería
-Estación de Carga           Número de Misión         Registro de la Nave      Realizado por
-Axiom-08                          LK6-3927                          AXI – 84                          RAH
+    <Spanish>수하물 반입 내역 – 엔지니어링
+탑재 정거장         미션 번호         우주선 등록번소      송신자
+Axiom-08                          LK6-3927                       AXI – 84                                   RAH
 
-Mercancías Peligrosas
-Número de Vuelo    Nombre de Envió Correcto        División o Clase        Número de Identificación
+위험물
+항공편    수하물 명칭        분류        ID 번호
 
-Número de Paquetes       Cantidad Neta
+패키지 개수  전체 용량
 
-No hay pruebas de que algún paquete dañado o con fugas, conteniendo mercancías peligrosas, ha sido cargado en la nave.
+우주선에 위험물을 포함한 수하물이 반입되지 않은 것을 확인함.
 
-Otra Carga Especial
-Estación   Número de Vuelo      Contenido                                  Notas                                            Código
+기타 수하물
+정거장   항공편          내용물                   비고                                           코드
 
-EPL            434-652                      Actuador Modular pn55         Puente H-Dual                             KHL-069
-EPL            524-968                      Clavija de Conector                  3ra Edicion                                   AR-857
+EPL          434-652               모듈러 작동기 pn55      Dual H-Bridge                KHL-069
+EPL          524-968               연결용 못, 마찰 3mm   Revision 3               GAR-857
+                                        
 
 
-Información Adicional
 
-Firma del Capitán:                                Firma del Ingeniero:
-ML                                                                                       AV</Spanish>
+
+
+
+기타 정보
+
+선장 서명:                                엔지니어 서명:
+ML                                                                                            AV</Spanish>
     <French>Livraison - Notification à l'ingénierie
 Station de chargement         Mission N°         Enregistrement      Préparé par
 Axiom-08                                 LK6-3927                   AXI – 84                      RAH
@@ -1044,10 +1050,10 @@ ML                                                                              
 
 &gt; Thermal Plating
 &gt; Optics Shield</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt; Enchapado Térmico
-&gt; Escudos Ópticos</Spanish>
+&gt; 열 도금
+&gt; 광학 실드</Spanish>
     <French>Notes de conception:
 
 &gt; Placage thermique
@@ -1086,10 +1092,10 @@ ML                                                                              
 
 &lt;b&gt;Features:&lt;/b&gt; Through the constant measuring of brain chemistry, hormonal levels and heartrate, this device can discern moments of cognitive or emotional significance.
 These moments shall be automatically created as audio logs for future reference, accessible through your Axiom augmented reality menu (A.R.M.)</English>
-    <Spanish>&lt;b&gt;Instrucciones:&lt;/b&gt; Una vez retirado del paquete, el dispositivo se usa sobre la oreja.
+    <Spanish>&lt;b&gt;사용법:&lt;/b&gt; 패키지에서 장치를 꺼낸 뒤, 귀에 장착하세요.
 
-&lt;b&gt; Características:&lt;/b&gt; A través del muestreo contante de la química cerebral, los niveles hormonales y el ritmo cardiaco, este dispositivo puede discernir momentos de significado cognitivo o emocional.
-Estos momentos se crearán automáticamente como registros de audio para futuras referencias, accesibles mediante tu menú de realidad aumentada Axiom (M.R.A.)</Spanish>
+&lt;b&gt;기능:&lt;/b&gt; 지속적으로 뇌의 화학 작용, 호르몬 레벨, 심장 박동수를 측정하여 인지적 또는 정서적으로 중요한 순간을 감지합니다.
+이러한 중요한 순간들을 자동적으로 음성 로그로 기록하여 미래에 참고 자료로 사용할 수 있도록 합니다. 해당 자료들은 Axiom 증강 현실 메뉴(A.R.M.)를 통하여 접근할 수 있습니다.</Spanish>
     <French>&lt;b&gt;Instructions:&lt;/b&gt; Une fois retiré de l'emballage, l'appareil est porté par-dessus l'oreille.
 
 &lt;b&gt;Caractéristiques:&lt;/b&gt; Grâce à la mesure constante de la chimie du cerveau, des niveaux hormonaux et du rythme cardiaque, cet appareil peut discerner les moments significatifs cognitifs ou émotionnels.
@@ -1131,13 +1137,13 @@ Mila Lexa
 
 Mike Pintea
 School of Social Thought</English>
-    <Spanish>Doctorado Honorario en Letras
+    <Spanish>명예 문학 박사
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Mike Pintea
-Escuela de Pensamiento Social</Spanish>
+마이크 핀타
+사회사상 학교</Spanish>
     <French>Doctorat Honorifique en Lettres
 
 Attribué à:
@@ -1191,13 +1197,13 @@ Mila Lexa
 
 Jonathan Pankratz
 School of Future Astronauts</English>
-    <Spanish>Capitán Espacial Más Joven Y Prometedor
+    <Spanish>유망한 우주선 선장상
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Jonathan Pankratz
-Escuela de Futuros Astronautas</Spanish>
+조나단 판크라츠
+우주비행사 양성대학</Spanish>
     <French>Capitaine de navire le plus prometteur
 
 Attribué à:
@@ -1253,15 +1259,15 @@ Awarded to:
 Mila Lexa
 
 Astronomical Association</English>
-    <Spanish>Premio Impacto
+    <Spanish>영향력있는 인물 상
 
-Presentado por
-Vlado Jokic
+시상:
+블라도 요비치
 
-Entregado a:
-Mila Lexa
+수상:
+밀라 렉사
 
-Asociación Astronómica</Spanish>
+천문협회</Spanish>
     <French>Impact Award
 
 Présenté par
@@ -1323,13 +1329,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Air Force</English>
-    <Spanish>George Vanous
-Certificado de Finalización del Programa de Vuelo
+    <Spanish>조지 바누스
+비행 프로그램 수료 증명서
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Fuerza Aérea Axiom</Spanish>
+Axiom 공군</Spanish>
     <French>George Vanous
 Certificat d'achèvement de programme de vol
 
@@ -1383,13 +1389,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Space Society</English>
-    <Spanish>Peter Atkin
-Reconocimiento de Finalización de Primera Misión
+    <Spanish>피터 앳킨
+첫 미션 성공 확인서
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Sociedad Espacial Axiom</Spanish>
+Axiom 우주 학회</Spanish>
     <French>Peter Atkin
 Reconnaissance d'Achèvement de Première Mission
 
@@ -1443,13 +1449,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Air Force</English>
-    <Spanish>Tom Lantz
-Diploma de Especialista Aeronáutico
+    <Spanish>톰 란츠
+항공 전문가 졸업장
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Fuerza Aérea Axiom</Spanish>
+Axiom 공군</Spanish>
     <French>Tom Lantz
 Diplôme de spécialiste en aéronautique
 
@@ -1503,13 +1509,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Space Society</English>
-    <Spanish>Otorgado por Participación en el Seminario
-Presentado por David Broad
+    <Spanish>세미나 참여 인증서
+인증: 데이비드 브로드
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Sociedad Espacial Axiom</Spanish>
+Axiom 우주 학회</Spanish>
     <French>Décerné pour la participation au séminaire
 Présenté par David Broad
 
@@ -1563,13 +1569,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Air Force</English>
-    <Spanish>Wil McLean
-Trofeo al Piloto Más Talentoso
+    <Spanish>윌 맥린
+최우수 파일러 훈련생
 
-Entregado a:
-Mila Lexa
+수상자:
+밀라 렉사
 
-Fuerza Aérea Axiom</Spanish>
+Axiom 공군</Spanish>
     <French>Wil McLean
 Trophée du meilleur pilote stagiaire
 
@@ -1623,13 +1629,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Air Force</English>
-    <Spanish>Medalla de Vuelo Distinguido 
-Presentado por Marco Konar
+    <Spanish>우수 비행 메달
+시상: 마르코 코너
 
-Entregado a:
-Mila Lexa
+수상:
+밀라 렉사
 
-Fuerza Aérea Axiom</Spanish>
+Axiom 공군</Spanish>
     <French>Médaille de vol distinguée
 Présenté par Marco Konar
 
@@ -1677,7 +1683,7 @@ Axiom 공군</Russian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>Dad works in space</English>
-    <Spanish>Papá trabaja en el espacio</Spanish>
+    <Spanish>아빠가 우주에서 일한다.</Spanish>
     <French>Papa travaille dans l'espace</French>
     <German>Papa arbeitet im Weltall</German>
     <Italian>Papà lavora nello spazio</Italian>
@@ -1701,7 +1707,7 @@ Axiom 공군</Russian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>My dad is the best</English>
-    <Spanish>Mi papá es el mejor</Spanish>
+    <Spanish>아빠가 최고야</Spanish>
     <French>Mon père est le meilleur</French>
     <German>Mein Papa ist der Beste</German>
     <Italian>Mio padre è il migliore</Italian>
@@ -1725,7 +1731,7 @@ Axiom 공군</Russian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>Dad fixed my robot</English>
-    <Spanish>Papá arregló mi robot</Spanish>
+    <Spanish>아빠가 내 로봇을 고쳐줬어</Spanish>
     <French>Papa a réparé mon robot</French>
     <German>Papa hat meinen Roboter heile gemacht</German>
     <Italian>Papà ha riparato il mio robot</Italian>
@@ -1749,7 +1755,7 @@ Axiom 공군</Russian>
     <RussianFont>65</RussianFont>
     <PortugueseFont>65</PortugueseFont>
     <English>Kebo will keep Dad safe</English>
-    <Spanish>Kebo mantendrá a Papá a salvo</Spanish>
+    <Spanish>케보가 아빠를 지켜줄 거야</Spanish>
     <French>Kebo gardera Papa en sécurité</French>
     <German>Kebo wird Papa beschützen</German>
     <Italian>Kebo manterrà il papà al sicuro</Italian>
@@ -1778,10 +1784,10 @@ Travel Through Waves of Faces
 2 Night Event with Special Guests
 
 03-7778-DYY33</English>
-    <Spanish>El Grandioso Vertues Presenta:
-Viaje A Través de las Olas de los Rostros
+    <Spanish>Grand Vertues 제공:
+새로운 만남의 장
 
-Un Evento de 2 Noches con Invitados Especiales
+특별한 게스트와 함께하는 2개의 행사
 
 03-7778-DYY33</Spanish>
     <French>Grand Vertues présente:
@@ -1829,8 +1835,8 @@ Evento di 2 notti con ospiti speciali
     <PortugueseFont>65</PortugueseFont>
     <English>Message Sent
 Episode 1: The Frisson Factor</English>
-    <Spanish>Mensaje Enviado
-Episodio 1: El Factor Frisson</Spanish>
+    <Spanish>메시지 전송됨
+에피소드 1: 프리즌 팩터</Spanish>
     <French>Message envoyé
 Episode 1: Le facteur Frisson</French>
     <German>Nachricht Gesendet
@@ -1858,7 +1864,7 @@ Episodio 1: Il fattore Frisson</Italian>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
     <English>No matter what, you need to remember that I love you more than you could know.</English>
-    <Spanish>Sin importar qué, tienes que recordar que te amo más de lo que te imaginas.</Spanish>
+    <Spanish>무엇보다도, 내가 널 누구보다도 사랑한다는 사실을 기억해줘.</Spanish>
     <French>Quoi qu'il ce passe, tu dois te souvenir que je t'aime plus que tu ne pourrais le savoir.</French>
     <German>Egal was kommt, du darfst nicht vergessen, dass ich dich mehr liebe als dir klar ist.</German>
     <Italian>Non importa cosa, devi ricordare che ti amo più di quanto tu possa sapere.</Italian>
@@ -1887,12 +1893,12 @@ At Present, given the details you have provided, we are unable to approve the lo
 We appreciate your interest, and hope to do business with you in the future.
 
 Caedmon Consortium</English>
-    <Spanish>Aiden Vyse,
+    <Spanish>에이든 비제님에게,
 
-En este momento, dados los detalles que nos ha provisto, no podemos aprobar el préstamo que solicitó recientemente. En ausencia de garantías para asegurar el monto solicitado, nuestra institución consideraría un préstamo más pequeño en función al ingreso de dinero, pero esto requeriría un contrato laboral permanente.
-Apreciamos su interés y esperamos hacer negocios con usted en el futuro.
+제공해주신 세부사항을 볼 때, 현재 본사는 요청하신 대출을 승인해드릴 수 없다는 점을 알려드립니다. 적절한 담보가 없는 경우는 대출이 어려우며, 요청하신 금액보다 적은 금액의 대출은 귀하가 안정적인 고용 계약 상태에 있음을 입증하는 자료를 보내주실 경우에 가능합니다.
+귀하의 관심에 감사드리며, 이후에 다시 연락주시길 기다리겠습니다.
 
-Consorcio Caedmon</Spanish>
+캐드먼 컨소시엄</Spanish>
     <French>Aiden Vyse,
 
 À l'heure actuelle, compte tenu des détails que vous avez fournis, nous ne sommes pas en mesure d'approuver le prêt pour lequel vous avez récemment présenté une demande. En l'absence de garantie pour obtenir le montant demandé, notre institution envisagerait un petit prêt principal sur une base de trésorerie, mais cela nécessiterait un contrat de travail cohérent.
@@ -1949,20 +1955,20 @@ Conflict and warfare reporting
 
 Other notes:
 Aiden, drink less during regular work hours</English>
-    <Spanish>Notas de Desarrollo –Día de Misión 17
+    <Spanish>스크럼 기록 – 17일차
 
-Reporte Geológico
-&gt;Contenido destacado asignado a Silas
-  - ¿TAE completado?
+지질학 분석
+&gt; 사일러스의 업무가 미완료
+    -  예상 완료 시기?
 
-Informe de Conflicto y Guerra
-&gt;Orden y análisis de munición, asignado a 
-Aiden
-&gt;Doctrinas, estrategias y tácticas, asignado a
-Mila
+내전 분석
+&gt; 군법 및 병기 분석, 담당자
+   에이든
+&gt; 정책, 전략 및 전술 분석, 담당자
+   밀라
 
-Otras notas:
-Aiden bebe menos durante horas de trabajo</Spanish>
+기타:
+에이든, 업무 시간에는 술 좀 적게 마실 것</Spanish>
     <French>Notes de partage - Journée de la Mission 17
 
 Rapport géologique
@@ -2046,13 +2052,13 @@ Engineer  [x]
 Researcher [x]
 Captain  [x]
 Diplomat [  ] ?</English>
-    <Spanish>Misión para la observación de civilización alienígena…
+    <Spanish>외계 문명 관찰 업무 할당
 
-Tripulación:
-Ingeniero [x]
-Investigador [x]
-Capitan [x]
-Diplomático [ ] ¿?</Spanish>
+선원:
+엔지니어  [x]
+연구자 [x]
+선장  [x]
+외교관 [  ] ?</Spanish>
     <French>Mission d'observation d'une civilisation extraterrestre ...
 
 Équipage:
@@ -2107,14 +2113,14 @@ Diplomatico [ ]?</Italian>
 &gt; Actuators
 &gt; Ball socket joint
 &gt; Trilithium tether</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt; Articulación esférica para la rotación tridimensional y el movimiento lateral. Limitará el rango para minimizar la tensión de corte
-&gt;Actuador detrás de la rodilla para aumentar fuerza vertical
-&gt;Carcasa de nano-tejido
-&gt;Actuadores
-&gt;Articulación esférica
-&gt; Correa de trilitio</Spanish>
+&gt; 3차원 회전 및 횡방향 이동을 위하여 소켓 조인트에 볼 장착, 변형을 최소화하기 위해 범위 제한
+&gt; 무릎 뒤에 조정기를 장착하여 수직 강도 향상
+&gt; 나노 섬유 케이스
+&gt; 조정기
+&gt; 볼 소켓 조인트
+&gt; 트릴리움 테두리</Spanish>
     <French>Notes de conception:
 
 &gt; Balle à rotule pour une rotation tridimensionnelle et un mouvement latéral. Limitera le déplacement pour minimiser la contrainte de cisaillement
@@ -2174,13 +2180,15 @@ On the 20th anniversary of the first known case of C-SAD (chromosomal splicing a
 We celebrate that the emergent treatment process appears to be capable of curing the illness. What used to be a death sentence is now manageable if the financial resources are present.
 
 Our hope is that through public dialogue the stigma associated with C-SAD will continue to diminish. We remind the public that the illness is not contagious – it is strictly hereditary.</English>
-    <Spanish>C-SAD, 20 Años Después
+    <Spanish>C-SAD 20년 뒤 
 
-”Terapia ECHO: Cambiando la esencia de quién eres”
+"에코 테라피: 당신을 근본부터 바꾸세요"
 
-En el 20° aniversario del primer caso conocido de C-SAD (Defecto de Alteración del Empalme Cromosómico, en inglés), miramos atrás a las 160 millones de vidas perdidas a la fecha. ECHO, una vez conocida como una terapia genética milagrosa para mejorar el proceso cognitivo, la destreza o el aumento de la fortaleza física, se ha convertido en uno de los castigos más devastadores de nuestra sociedad.
-Celebramos que el proceso de tratamiento emergente parece ser capaz de curar la enfermedad. Lo que solía ser una sentencia de muerte, es ahora manejable, con los recursos financieros adecuados.
-Nuestra esperanza es que, a través del dialogo público, el castigo asociado con el C-SAD continúe disminuyendo. Recordamos al público que la enfermedad no es contagiosa –es estrictamente hereditaria.</Spanish>
+C-SAD(염색체 스플라이싱 변형 장애)라는 이름으로 널리 알려진 증상이 처음 발견된 지 올해로 20년이 되었습니다. 그동안 우리는 이 질환으로 1억 6천만명의 동포들을 떠나보내야만 했습니다. 처음에 인지 능력과 체력을 향상시키는 기적적 유전자 치료제로 알려졌던 ECHO는, 이제는 사회의 가장 큰 재앙 중 하나가 되었습니다.
+
+우리는 응급 치료를 통해서 이 질환을 치료할 수 있다는 사실을 발견한 것을 널리 알리고자 합니다. 마치 사형 선고처럼 여겨졌던 이 질환은 이제는 충분한 경제적 여력만 있으면 치료가능한 것이 되었습니다.
+
+우리의 목표는 더 이상 대중들이 C-SAD 환자에 대한 낙인 찍기를 중단하는 것입니다. 거듭 말씀드리지만 이 질환은 전염성이 없고, 전적으로 유전적인 요인에 의하여 발생합니다.</Spanish>
     <French>C-SAD 20 ans plus tard
 
 "Echo Therapy: Changez le fondement même de qui vous êtes"
@@ -2238,9 +2246,9 @@ C-SAD(염색체 스플라이싱 변형 장애)라는 이름으로 널리 알려�
     <English>Silas, if you find this, please don’t tell Mila. I nearly have all of them.
 
 Mila, if you find this, I’m pretty sure Silas has been hiding all of the pens here.</English>
-    <Spanish>Silas, si encuentras esto, por favor, no le digas a Mila. Los tengo casi todos.
+    <Spanish>사일러스, 만약 이걸 발견했다면, 밀라에게는 말하지 말아줘. 내가 거의 전부를 다 여기 모아놨어.
 
-Mila, si encuentras esto, estoy seguro de que Silas ha estado escondiendo todos los bolígrafos aquí.</Spanish>
+밀라, 만약 이걸 발견했다면, 나는 사일러스가 여기에 펜을 다 모아놓은 거라고 확신해.</Spanish>
     <French>Silas, si tu trouves ça, s'il te plaît ne le dis pas à Mila. Je les ai presque tous.
 
 Mila, si tu trouves ça, je suis sûr que Silas a caché tous les stylos ici.</French>
@@ -2276,11 +2284,11 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
 &gt; Linear Actuator
 &gt; Augmented Triceps
 &gt; Reinforced Shoulder</English>
-    <Spanish>Notas de Diseño:
+    <Spanish>제작 노트:
 
-&gt;Actuador Lineal
-&gt;Tríceps aumentados
-&gt;Hombros Reforzados</Spanish>
+&gt; 선형 조정기
+&gt; 증강된 삼두박근
+&gt; 강화 어깨</Spanish>
     <French>Notes de conception:
 
 &gt; Actuateur linéaire
@@ -2327,14 +2335,14 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
 &gt; Maximum velocity capable of escaping orbit, but inefficient for interstellar travel
 &gt; Evidence of multiple launch sites
 &gt; Incapable of bypassing Espial’s light warp generator and Noctae Shield</English>
-    <Spanish>Evaluación de Tecnología: Psy Prime (trabajo en progreso)
+    <Spanish>기술 평가: 외계 문명 (작성 중)
 
-&gt; Capacidad de transporte restringida a cinética
-&gt; Forma de propulsión primitiva controlada, basada en la combustión
-&gt; Fuentes finitas de combustibles líquidos y solidos
-&gt; Velocidad máxima capaz de escapar de la órbita, pero ineficaz para viajes interestelares
-&gt; Evidencias de múltiples sitios de lanzamiento
-&gt; Incapaz de sobrepasar el generador warp de la Espial y el escudo Noctae</Spanish>
+&gt; 우주 수송 기술은 동력학 수준에서 머물러있음
+&gt; 연소 방식 추진체를 사용함
+&gt; 액체 및 고체 연료의 절대적 양이 부족함
+&gt; 최대 속도는 궤도를 벗어날 수 있는 수준이나, 성간 여행에는 충분하지 않음
+&gt; 발사 시설이 여러 군데서 발견됨
+&gt; 에스파이얼 호의 광포 생성기나 녹태 실드를 무효화할 수 있는 기술은 없는 것으로 보임</Spanish>
     <French>Évaluation de la technologie: Psy Prime (travail en cours)
 
 &gt; Capacités de transport limitées à la cinétique
@@ -2388,9 +2396,9 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
     <English>Orbital Study
 
 They have a respectable understanding of orbital mechanics—so proficient, in fact, that we had to adjust our orbit due to the amount of local debris and garbage.</English>
-    <Spanish>Estudio Orbital
+    <Spanish>궤도 연구
 
-Ellos tienen un entendimiento respetable de las mecánicas orbitales –de hecho, tan hábil que tuvimos que ajustar nuestra orbita debido a la cantidad de desechos y basura local.</Spanish>
+그들은 궤도 역학에 대하여 충분한 지식을 가지고 있는 것으로 보입니다. 사실 그들이 궤도에 남겨놓은 잡다한 쓰레기들 때문에 우리가 궤도를 수정해야 했습니다.</Spanish>
     <French>Étude orbitale
 
 Ils ont une compréhension respectable de la mécanique orbitale - si efficace, en fait, que nous avons dû ajuster notre orbite en raison de la quantité de débris et de déchets locaux.</French>
@@ -2430,15 +2438,15 @@ Hanno una conoscenza rispettabile della meccanica orbitale - così abile, in eff
 I tested the security-camera feeds and this spot is fully within the blind spot that we identified.
 
 Destroy this note once you’ve read it!!</English>
-    <Spanish>¡Silas!
+    <Spanish>사일러스!
 
-1. El interruptor de la trampilla que está debajo del panel que te mostré.
-2. Vas a sentir el interruptor flojo cuando lo presiones
-3. No hay contrapesos para compensar la puerta –va a hacer ruido cada vez que la abras.
-4. Para cerrarla –presiona el panel de la puerta hasta que haga clic.
-Comprobé los canales de las cámaras de seguridad y este punto está justo en el punto ciego que identificamos anteriormente.
+1. 숨겨진 문의 스위치는 전에 내가 보여준 복도 패널 밑에 있음
+2. 스위치를 누르면 스위치가 눌리는 느낌이 들 것
+3. 소리를 억제하는 장치는 따로 없으므로 문을 열면 큰 소리가 날 것
+4. 문을 닫으려면 딸깍소리가 날 때까지 문을 당길 것
+보안 카메라에 대해서 테스트해보았고, 전에 우리가 확인했던 대로 해당 공간은 완전히 카메라 사각지대임을 확인함.
 
-¡Rompe esta nota una vez que la leas!</Spanish>
+이 글은 읽고나서 반드시 파쇄할 것!!</Spanish>
     <French>Silas!
 
 1. L'interrupteur de la trappe est sous le panneau du couloir que je vous ai montré
@@ -2493,7 +2501,7 @@ Distruggi questa nota dopo averla letta !!</Italian>
     <ItalianFont>60</ItalianFont>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
-    <English>Days till Daddy’s home</English>
+    <English>아빠가 집에 올 때까지 남은 날짜</English>
     <Spanish>Días hasta que Papá regrese a casa</Spanish>
     <French>Jours jusqu'au retour de Papa à la maison</French>
     <German>Tage bis Papa zu Hause ist</German>
@@ -2522,9 +2530,11 @@ Distruggi questa nota dopo averla letta !!</Italian>
 The species’ eyes have developed to process and see colors that we cannot.
 
 Specifically, their retina can process light at 400nm – 700nm, but not the lower end of our light spectrum of ~300nm.</English>
-    <Spanish>La estrella local emite un espectro de luz con una longitud de onda más larga que la nuestra.
-Los ojos de la especie se desarrollaron para procesar y ver colores que nosotros no podemos.
-Específicamente hablando, su retina puede procesar luz de 400nm a 700nm, pero no el final de nuestro espectro que es de unos 300nm.</Spanish>
+    <Spanish>이곳의 별은 우리의 것보다 비교적 긴 파장의 빛 스펙트럼을 방출합니다.
+
+따라서 이곳의 생명체들은 우리가 보지 못하는 색을 볼 수 있도록 진화했습니다.
+
+구체적으로, 이들의 망막은 400nm - 700nm 범위의 빛 스펙트럼을 인식할 수 있으나, ~300nm 이하의 빛 스펙트럼은 인식하지 못합니다.</Spanish>
     <French>L'étoile locale émet un spectre de lumière avec une longueur d'onde comparativement plus longue que la nôtre.
 
 Les yeux de l'espèce ce sont développés pour traiter et voir des couleurs que nous ne pouvons pas.
@@ -2571,14 +2581,14 @@ It’s perceived their violence stems from:
 
 &gt;  Underdeveloped social cognitive-learning structures and systems
 &gt;  Insufficient individual knowledge retention and processing</English>
-    <Spanish>Resumen de la Especie de Psy Prime
+    <Spanish>외계 행성 종 개요
 
-La especie es bilateral fisiológicamente, organismo omnívoro dependiente del agua, posee una capacidad emocional e intelectual avanzada –el primero dominado principalmente por el miedo.
+이 종은 생리학적으로 두 개의 성으로 이루어져있으며, 물에 의존적이며, 유기체인 잡식 동물로, 발전된 정서적, 지적 능력을 지니고 있음. 정서 능력의 경우 공포가 가장 핵심적인 정서로 보임.
 
-Se percibe que su violencia proviene de:
+이들의 폭력적 행동은 아래가 원인이라고 생각됨:
 
-&gt; Sistemas y estructuras de aprendizaje cognitivo-social subdesarrollado
-&gt; Insuficiente retención y procesamiento del conocimiento individual</Spanish>
+&gt;  사회적 인지학습 구조와 시스템의 부족
+&gt;  개별 개체의 기억력과 사고능력의 부족</Spanish>
     <French>Vue d'ensemble des espèces de Psy Prime
 
 L'espèce est un omnivore organique physiologiquement bilatéral, dépendant de l'eau, possédant une capacité émotionnelle et intellectuelle avancée - la première étant dominée par la peur.</French>
@@ -2631,14 +2641,13 @@ Does he have an interesting side to him and/or will we just be talking about his
 Meetup when you’re back!
 
 Emilia</English>
-    <Spanish>¡No puedo creer que hayas escondido esto de mi por tanto tiempo!
-Así que Silas Haze es el hombre misterioso con el que te has estado viendo el último medio año – ¿el tipo con el que vas a ir a la misión de Psy Prime? ¡Vas a estar en muchos problemas si los atrapan!
-Lo he visto en entrevistas pero ¿cómo es en persona? Voy a intentar leer uno de sus libros así podemos tener una conversación de verdad cuando tú me lo presentes.
-¿Tiene un lado interesante? ¿O solo vamos a hablar de su tipo favorito de rocas?
+    <Spanish>네가 나한테 이 비밀을 이렇게나 오래 숨겨왔다는 걸 믿을 수가 없네!
+그래서, 사일러스 헤이즈가 네가 지난 반년동안 만난 남자인데 이번에 외계 행성 탐사 미션에 같이 간다고? 나중에 걸리면 둘 다 가볍게는 안 끝날걸!
+인터뷰에서 그를 자주보긴 했는데, 실제로 만나보니 어때? 나중에 네가 나한테 소개해줄 때를 대비해서 그가 쓴 책이라도 한 권 읽어둬야 할까봐.
+그한테 뭔가 흥미로운 부분은 있어? 설마 자기가 수집하는 돌 얘기같은거나 하는 남자는 아니지?
+돌아오면 꼭 연락해!
 
-¡Nos vemos cuando regreses!
-
-Emilia</Spanish>
+에밀리아</Spanish>
     <French>Je ne peux pas croire que tu me l'ai caché si longtemps!
 Alors Silas Haze est l'homme mystérieux que tu as vu pendant la dernière moitié de l'année - le gars avec qui tu va faire la mission de Psy Prime? tu auras tellement de problèmes si vous vous faisiez attraper!
 Je le vois toujours dans les interviews, mais à quoi ressemble-t-il en personne? Je vais essayer de lire un de ses livres pour que nous puissions tenir une vraie conversation quand tu me présenteras enfin.
@@ -2687,8 +2696,8 @@ Emilia</Italian>
     <PortugueseFont>65</PortugueseFont>
     <English>Life is tough,
 But so are you!</English>
-    <Spanish>La vida es difícil,
-¡Pero tú eres resistente!</Spanish>
+    <Spanish>인생은 험난하다,
+하지만 당신은 충분히 강하다!</Spanish>
     <French>La vie est dure,
 Mais vous aussi!</French>
     <German>Das Leben ist hart,
@@ -2722,13 +2731,13 @@ Don’t chase something that can’t be caught. A good leader does not follow a 
 
 Your father,
 Sterno Lexa</English>
-    <Spanish>Mi querida niña,
+    <Spanish>내 사랑스러운 딸에게,
 
-Las frustraciones que soportas no son producto de mi legado. La alabanza y la gloria ofrecidas a algunos no son una casualidad de las circunstancias. Vienen de la fuera de voluntad y espíritu. No son los objetivos, sino el producto del verdadero liderazgo.
-No persigas algo que no puede ser atrapado. Un buen líder no sigue un camino; lo crea. Tal vez me ves como el límite de tu éxito, pero el límite eres tú.
+네가 겪고 있는 좌절감은 네가 나의 딸이라는 사실에서 오는 것이 아니라, 너 자신이 스스로 만들어내고 있는 것이란다. 누군가에게 주어지는 칭송과 영광은 그가 운이 좋았기 때문에 얻을 수 있는게 아니란다. 그것들은 의지와 정신의 힘에서 온단다. 그것들은 목표가 아니라, 진정한 리더십을 가진 이에게 따라오는 부산물에 불과하단다.
+잡을 수 없는 것을 좇지 말거라. 훌륭한 리더는 이미 난 길을 따르는 자가 아니라, 길을 만들어내는 자란다. 나를 네 성공의 한계로 생각하지 말거라, 내가 아닌 너 자신을 목표로 삼으렴.
 
-Tu padre,
-Sterno Lexa</Spanish>
+아버지가,
+스터노 렉사</Spanish>
     <French>Mon cher enfant,
 
 Les frustrations que tu porte ne sont pas nées de mon héritage. Les louanges et la gloire offertes à certains ne sont pas une loterie de circonstances. Ils viennent de la force de la volonté et de l'esprit. Ce ne sont pas les objectifs, mais les sous-produits d'un vrai leader.
@@ -2776,7 +2785,7 @@ Sterno Lexa</Italian>
     <RussianFont>55</RussianFont>
     <PortugueseFont>55</PortugueseFont>
     <English>Their economics are designed around a rudimentary system of aggregate fiat currency to exchange value. To say it’s unstable would be an understatement—we know the end game of such a model leads to an endless cycle of crashes.</English>
-    <Spanish>Su economía está diseñada en torno a un sistema rudimentario de moneda crediticia agregada para el valor de cambio. Decir que es inestable sería quedarse corto: sabemos que el movimiento  final de ese modelo conduce a un ciclo interminable de accidentes.</Spanish>
+    <Spanish>그들의 경제는 가치를 교환하는 화폐 통화 시스템을 바탕으로 설계되었습니다. 이러한 시스템은 불안정할 뿐만 아니라, 결과적으로 끝없는 갈등의 반복을 초래한다는 것을 우리는 이미 경험한 바가 있습니다.</Spanish>
     <French>Leur économie est conçue autour d'un système rudimentaire de monnaie fiduciaire globale à la valeur d'échange. Dire que c'est instable serait un euphémisme - nous savons que le jeu final d'un tel modèle mène à un cycle sans fin d'accidents.</French>
     <German>Sie haben ihre Wirtschaft um ein rudimentäres System einer gesammelten zugestimmten Währung entwickelt um Werte zu tauschen. Zu sagen es sei instabil wäre noch untertrieben—wir wissen ja, dass die Endphase eines solchen Systems zu einem endlosen Kreislauf von Zusammenbrüchen führt.</German>
     <Italian>Le loro economie sono progettate attorno a un sistema rudimentale di moneta legale aggregata per lo scambio di valore. Dire che è instabile sarebbe un eufemismo - sappiamo che il gioco finale di un tale modello porta ad un ciclo infinito di incidenti.</Italian>
@@ -2808,15 +2817,15 @@ Congratulations again, and thank you for your work at the forefront of the scien
 
 Shaila Moore
 The Tritonael Academy</English>
-    <Spanish>Querido Silas Haze,
+    <Spanish>사일러스 헤이즈님께,
 
-Nos sentimos honrados en felicitarlo por ser el ganador del premio Tritonael Achievement de este año, en el campo de las ciencias naturales.
-Este premio, patrocinado por el Consorcio Caedmon, reconoce su dedicación en el progreso de nuestro conocimiento del universo.
-Los detalles para la ceremonia de premiación seguirán en breve.
-Felicitaciones de nuevo, y gracias por su trabajo al frente de la comunidad científica.
+올해 자연 과학 분야의 트리토넬 공로상 대상자로 귀하가 선정되었음을 알려드리게 되어 영광스럽게 생각합니다.
+캐드몬 컨소시엄이 후원하는 이 상은, 우주에 대한 우리의 지식을 발전시키기 위하여 노력한 귀하의 헌신을 인정하여 귀하를 수상자로 선정하였습니다.
+시상식과 관련한 세부사항은 추후에 다시 연락드리겠습니다.
+다시 한 번 수상을 축하드리며, 과학계를 대표하여 귀하의 공로에 감사의 말씀을 드립니다.
 
-Shaila Moore
-Academia Tritonael</Spanish>
+샬리아 무어
+트리토넬 협회</Spanish>
     <French>Chère Silas Haze,
 
 Nous sommes honorés de vous féliciter en tant que récipiendaire du prix Tritonael de cette année dans le domaine des sciences naturelles.
@@ -2876,11 +2885,11 @@ L'Accademia Tritonael</Italian>
 The creature has adapted to grow protective keratin-scaled armor on the exterior of the body. If threatened or frightened by a predator, it can emit a noxious chemical from its rear.
 
 I have no doubt that we’ve discovered Aiden’s spirit animal.</English>
-    <Spanish>Especies de Psy Prime #15,893
+    <Spanish>외계 종 No. 15,893
 
-La criatura se ha adaptado para que le crezca una armadura protectora con queratina en el exterior del cuerpo. Si es amenazado o asustado por un depredador, puede emitir un químico nocivo desde su parte posterior.
+이 생물은 방어용으로 몸체 외부에 케라틴으로 된 비늘을 두르고 있다. 포식자에게 위협받을 경우, 항문으로부터 독성의 화학물질을 방출한다.
 
-No tengo dudas de que hemos descubierto el espíritu animal de Aiden.</Spanish>
+아무래도 에이든의 소울메이트를 발견한 것 같다.</Spanish>
     <French>Espèces primaires psy # 15 893
 
 La créature s'est adaptée pour développer une armure de protection en écailles de kératine à l'extérieur du corps. Si menacé ou effrayé par un prédateur, il peut émettre un produit chimique nocif de son … Arrière…
@@ -2906,7 +2915,7 @@ Non ho dubbi che abbiamo scoperto l'animale spirituale di Aiden.......</Italian>
   <TextBox>
     <TextIndex>46</TextIndex>
     <EnglishSpacing>1.1</EnglishSpacing>
-    <SpanishSpacing>1.8</SpanishSpacing>
+    <SpanishSpacing>1.1</SpanishSpacing>
     <FrenchSpacing>1.1</FrenchSpacing>
     <GermanSpacing>1.1</GermanSpacing>
     <ItalianSpacing>1.1</ItalianSpacing>
@@ -2926,10 +2935,13 @@ Middle rows are reserved to be searched by the best
 Inside the mind your treasure does rest
 
 “Revolution” supplies the key to this test</English>
-    <Spanish>Frente al cristal, gira a la izquierda en tu viaje
-Las filas del medio las buscan los de mejor linaje.
-Dentro de la mente, tu tesoro aguarda
-“Revolución” es de esta prueba, la clave</Spanish>
+    <Spanish>유리와 마주보라, 왼쪽으로 돌아 탐색하라
+
+가운데 줄에서 목표한 것을 찾으라
+
+마음 속에 보물이 있을 지니
+
+“혁명(Revolution)” 이 그대의 열쇠다</Spanish>
     <French>Face au verre, tournez à gauche dans votre quête
 
 Les rangées du milieu sont réservées pour être recherchées par les meilleurs
@@ -2991,21 +3003,21 @@ Outlined in the presentation to the senate, by Elias Volante, the following are 
 By pursuing this mission, Axiom pledges to operate in a manner of –( Half-truth to the public in order to promote self image)
 
 Public questions and comments can be directed to contact@exploreaxiom.com.</English>
-    <Spanish>Agencia Espacial Axiom
+    <Spanish>Axiom 항공 우주국
 
-Para: Elías Volante
-De: Senador Chairman
+To: 엘리아스 볼란테
+From: 상원의장
 
-El voto de conformidad del Senado para la misión de estudio del exo-planeta Psy Prime, recibió un 62% positivo. Axiom tiene la aprobación del Senado para proseguir con la misión.
-En la presentación al Senado, llevada a cabo por Elías Volante, los siguientes son los objetivos de la misión:
+외계 행성 조사 미션에 대한 상원 투표는 62%가 찬성하여 가결되었으며, 따라서 표결에 따라 Axiom 사의 미션 진행을 상원이 승인하였음을 알려드립니다.
+엘리아스 볼란테씨가 상원에서 발표하신 내용에 따라, 다음의 사항들을 미션에서 조사하게 됩니다.
 
-&gt;Observar el lenguaje, estructuras sociales y culturales de las especies dominantes de Psy Prime. (¿Cómo podemos matarlas?)
-&gt;Estudiar las características geológicas y biomecánicas del planeta Psy Prime. (¿Qué hay de valor en ese planeta?)
-&gt;Investigar las capacidades tecnológicas de las especies dominantes de Psy Prime, con especial interés en su habilidad para detectar y alcanzar nuestro planeta. (¿Pueden defenderse?)
+&gt; 외계 행성 주요 종의 언어, 문화, 사회 구조 관찰 (우리가 그들을 어떻게 정복할 수 있는가?)
+&gt; 외계 행성의 지질학적, 생화학적 특성 조사 (행성에 어떤 가치있는 자원이 있는가?)
+&gt; 외계 행성 주요 종의 기술 수준, 특히 우리 행성에 도달하거나 우리 행성을 감지할 수 있는 기술적 능력 보유 여부 (그들이 보복할 가능성이 있는가?)
 
-Al llevar a cabo esta misión, Axiom se compromete a operar de una manera de - (media verdad para el público con el fin de promover la autoimagen)
+미션 수행 과정에서, Axiom은 다음과 같은 사항을 지킬 것을 - (회사 이미지를 위하여 대중에게는 진실을 반만 얘기할 것)
 
-Preguntas y comentarios públicos pueden dirigirse a contacto@exploreaxiom.com.</Spanish>
+문의 사항이 있으시면 contact@exploreaxiom.com으로 연락바랍니다.</Spanish>
     <French>Axiom Space Agency
 
 Pour: Elias Volante
@@ -3087,8 +3099,9 @@ From: 상원의장
     <English>Thermal and radioactive decay signatures show that we’re not observing a brief moment of war, but contextually it appears to be a persistent practice.
 
 Their war is unbelievably fascinating to watch. It’s unclear precisely what the catalyst is, and at this point it doesn’t even matter—the outright savagery demonstrated is unparalleled.</English>
-    <Spanish>Las señales de desintegración termina y radioactiva muestran que no estamos observando solo un breve momento de guerra, pero, contextualmente, parece ser una práctica constante.
-Su guerra es increíblemente fascinante de ver. No está claro exactamente cuál es el catalizador, y en este momento no importa: el salvajismo absoluto demostrado no tiene comparación.</Spanish>
+    <Spanish>열과 방사선 수치를 바탕으로 판단할 때, 이 전쟁은 짧은 기간동안 발생한 것이 아니며, 오랜 시간동안 지속되어온 것으로 여겨집니다.
+
+그들의 전쟁은 굉장히 흥미롭습니다. 무엇이 전쟁의 촉매가 된 것인지는 명확하지 않고, 현재는 그것이 무엇이었든 상관하지 않는 것으로 보입니다. 이들의 야만적인 행위는 상상을 초월합니다.</Spanish>
     <French>Les signatures de désintégrations thermiques et radioactives montrent que nous n'observons pas un bref moment de guerre, mais, contextuellement, cela semble être une pratique persistante.
 
 Leur guerre est incroyablement fascinante à regarder. On ne sait pas exactement ce qu'est le catalyseur, et à ce stade, cela n'a pas d'importance - la sauvagerie pure et simple démontrée est inégalée.</French>
@@ -3124,11 +3137,11 @@ La loro guerra è incredibilmente affascinante da guardare. Non è chiaro esatta
 Should the Espial encounter a major breakdown on its mission, 80-000mA will be transferred to you for your consulting services”.
 
 Consider this an open offer.</English>
-    <Spanish>Hay algunos que se beneficiarían de que Saito pierda su contrato de ingeniería con Axiom.
+    <Spanish>Saito사와 Axiom사이의 계약이 파기되기를 바라는 이가 있습니다.
 
-En caso de que la Espial sufra una falla importante en su misión, se le transferirán 80-00mA por sus “servicios de consultoría”.
+에스파이얼 호의 미션을 크게 실패하게 해주신다면, 컨설팅 금액으로 당신에게 80000mA가 지급될 것입니다.
 
-Considere esto una oferta abierta.</Spanish>
+잘 생각해보시길 바랍니다.</Spanish>
     <French>Certains bénéficieraient de la perte par Saito de son contrat d'ingénierie avec Axiom.
 
 Si l'Espial rencontre un problème mécanique majeur lors de la mission, 80-000mA vous seront transférés pour vos "services de conseil".
@@ -3173,12 +3186,12 @@ Considera questa un'offerta aperta.</Italian>
 Awarded to: Silas Haze
 
 Kopi Publishing House</English>
-    <Spanish>Mejor Venta No-Ficción para
-“Incógnitas Evolutivas”
+    <Spanish>논픽션 베스트셀러
+“알려지지 않은 진화”
 
-Entregado a: Silas Haze
+수상자: 사일러스 헤이즈
 
-Casa Publicadora Kopi</Spanish>
+Kopi 출판사</Spanish>
     <French>Meilleure vente non-fiction pour
 "Inconnus évolutionnaires"
 
@@ -3224,9 +3237,9 @@ Kopi 출판사</Russian>
     <English>Win Now!
 
 Make your dream house come true!</English>
-    <Spanish>¡Gana Ya!
+    <Spanish>지금 도전하세요!
 
-¡Haz realidad la casa de tus sueños!</Spanish>
+꿈꾸던 집이 당신에게로!</Spanish>
     <French>Gagnez maintenant!
 
 Faites de votre maison de rêve une réalité!</French>
@@ -3264,13 +3277,13 @@ Day 17:
 &gt;  08 | 20      Psy Prime geological scan
 &gt;  10 | 15      Language report deadline
 &gt;  15 | 00      Meet up with Mila</English>
-    <Spanish>Calendario de Misión - Silas
+    <Spanish>미션 달력 - 사일러스
 
-Día 17:
+17일차:
 
-&gt;  08 | 20      Escaneo geológico de Psy Prime
-&gt;  10 | 15      Fecha límite del reporte de lenguaje
-&gt;  15 | 00      Encontrarse con Mila</Spanish>
+&gt;  08 | 20      외계 행성 지질학 스캔
+&gt;  10 | 15      언어 보고서 데드라인
+&gt;  15 | 00      밀라와 만나기</Spanish>
     <French>Calendrier de la mission - Silas
 
 Jour 17:
@@ -3330,13 +3343,13 @@ Awarded to:
 Mila Lexa
 
 Axiom Space Society</English>
-    <Spanish>Nathan Frisson
-Premio Participación de Futuros Líderes
+    <Spanish>나단 프리즌
+미래 지도자상
 
-Entregado a:
-Mila Lexa
+수상자:
+밀라 렉사
 
-Sociedad Espacial Axiom</Spanish>
+Axiom 우주 협회</Spanish>
     <French>Nathan Frisson
 Prix de participation des futurs leaders
 
@@ -3390,13 +3403,13 @@ Awarded to:
 Mila Lexa
 
 Astronomical Association</English>
-    <Spanish>Izaak Lowd
-Certificado de Logro para Técnicas de De-Escalado
+    <Spanish>아이작 로드
+점감 기법 수강 인증서
 
-Entregado a:
-Mila Lexa
+수여자:
+밀라 렉사
 
-Asociación Astronómica</Spanish>
+천문 협회</Spanish>
     <French>Izaak Lowd
 Certificat de réussite pour les techniques de désescalade
 
