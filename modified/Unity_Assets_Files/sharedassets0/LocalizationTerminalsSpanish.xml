@@ -2,9 +2,9 @@
 <terminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <email>
     <emailIndex>0</emailIndex>
-    <to>ELÍAS VOLANTE</to>
-    <description>Coflicto de Intereses</description>
-    <date>&lt;size=2&gt;Cuatro Días Antes del Lanzamiento de la Misión&lt;/size&gt;</date>
+    <to>엘리아스 볼란테</to>
+    <description>보고되지 않은 관계</description>
+    <date>미션 시작 4일 전</date>
     <messageIndex>0</messageIndex>
     <messageCount>3</messageCount>
     <Font>2</Font>
@@ -12,8 +12,8 @@
   </email>
   <email>
     <emailIndex>1</emailIndex>
-    <to>Lukias</to>
-    <description>Próxima Emisión</description>
+    <to>루키아스</to>
+    <description>출판 예정</description>
     <messageIndex>3</messageIndex>
     <messageCount>2</messageCount>
     <Font>3</Font>
@@ -21,8 +21,8 @@
   </email>
   <email>
     <emailIndex>2</emailIndex>
-    <to>INGENIERÍA SAITO</to>
-    <description>Reparaciones de la Espial</description>
+    <to>SAITO 엔지니어링</to>
+    <description>에스파이얼 호 수리</description>
     <messageIndex>5</messageIndex>
     <messageCount>3</messageCount>
     <Font>3</Font>
@@ -30,8 +30,8 @@
   </email>
   <email>
     <emailIndex>3</emailIndex>
-    <to>AIDEN VYSE</to>
-    <description>&lt;size=2&gt;Voluntad y Testamento&lt;/size&gt;</description>
+    <to>에이든 비제</to>
+    <description>유언장</description>
     <messageIndex>8</messageIndex>
     <messageCount>1</messageCount>
     <Font>3</Font>
@@ -39,8 +39,8 @@
   </email>
   <email>
     <emailIndex>4</emailIndex>
-    <to>ELÍAS VOLANTE</to>
-    <description>Palabra Final</description>
+    <to>엘리아스 볼란테</to>
+    <description>마지막 답변</description>
     <messageIndex>9</messageIndex>
     <messageCount>2</messageCount>
     <Font>3</Font>
@@ -48,8 +48,8 @@
   </email>
   <email>
     <emailIndex>5</emailIndex>
-    <to>MILA</to>
-    <description>Construcción de Medianoche</description>
+    <to>밀라</to>
+    <description>심야의 공사</description>
     <messageIndex>11</messageIndex>
     <messageCount>2</messageCount>
     <Font>3</Font>
@@ -57,8 +57,8 @@
   </email>
   <email>
     <emailIndex>6</emailIndex>
-    <to>THERA</to>
-    <description>Factura</description>
+    <to>테아라</to>
+    <description>청구서</description>
     <messageIndex>13</messageIndex>
     <messageCount>1</messageCount>
     <Font>3</Font>
@@ -66,8 +66,8 @@
   </email>
   <email>
     <emailIndex>7</emailIndex>
-    <to>ELÍAS VOLANTE</to>
-    <description>Más Instrucciones</description>
+    <to>엘리아스 볼란테</to>
+    <description>추가 지시</description>
     <messageIndex>14</messageIndex>
     <messageCount>3</messageCount>
     <Font>3</Font>
@@ -75,8 +75,8 @@
   </email>
   <im>
     <IMIndex>0</IMIndex>
-    <to>ELIAS VOLANTE</to>
-    <description>Semillas de Disgusto</description>
+    <to>엘리아스 볼란테</to>
+    <description>반동분자</description>
     <messageIndex>17</messageIndex>
     <messageCount>3</messageCount>
     <Font>3</Font>
@@ -84,8 +84,8 @@
   </im>
   <im>
     <IMIndex>1</IMIndex>
-    <to>MILA</to>
-    <description>Su Lenguaje</description>
+    <to>밀라</to>
+    <description>그들의 언어</description>
     <messageIndex>20</messageIndex>
     <messageCount>9</messageCount>
     <Font>3</Font>
@@ -93,8 +93,8 @@
   </im>
   <im>
     <IMIndex>2</IMIndex>
-    <to>SILAS</to>
-    <description>Cálculos Orbitales</description>
+    <to>사일러스</to>
+    <description>궤도 계산</description>
     <messageIndex>29</messageIndex>
     <messageCount>2</messageCount>
     <Font>3</Font>
@@ -102,58 +102,60 @@
   </im>
   <note>
     <noteIndex>0</noteIndex>
-    <title>El Destino del Capitán</title>
+    <title>선장의 운명</title>
     <messageIndex>31</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>1</noteIndex>
-    <title>La Tormenta</title>
+    <title>폭풍</title>
     <messageIndex>32</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>2</noteIndex>
-    <title>Partes Dañadas</title>
+    <title>손상된 부위</title>
     <messageIndex>33</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>3</noteIndex>
-    <title>El Examen de Aiden Vyse</title>
+    <title>에이든 비제 검진결과</title>
     <messageIndex>34</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>4</noteIndex>
-    <title>Código de Acceso</title>
+    <title>비밀번호</title>
     <messageIndex>35</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>5</noteIndex>
-    <title>Rivalidad Entre Hermanos</title>
+    <title>형제간의 전쟁</title>
     <messageIndex>36</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <note>
     <noteIndex>6</noteIndex>
-    <title>Informe de Lesiones</title>
+    <title>부상 보고</title>
     <messageIndex>37</messageIndex>
     <Font>3</Font>
     <Spacing>1</Spacing>
   </note>
   <msg>
     <messageIndex>0</messageIndex>
-    <author>ELÍAS VOLANTE</author>
-    <to>Para: Silas</to>
-    <content>Axiom se ha dado cuenta de la relación personal y romántica no declarada entre ustedes dos. Dado el obvio conflicto de intereses dentro de la cadena de mando, vamos a preparar un capitán alternativo para la misión.
+    <author>엘리아스 볼란테</author>
+    <to>To: 사일러스</to>
+    <date>
+    </date>
+    <content>Axiom 사는 두 미션 수행원 사이의 보고되지 않은 개인적인 애정 관계를 확인하였습니다. 이 사항은 지휘 체계의 혼란을 야기할 것으로 판단되므로 본사는 이 미션의 선장을 재선발할 예정입니다.
 
 
     </content>
@@ -164,10 +166,10 @@
   </msg>
   <msg>
     <messageIndex>1</messageIndex>
-    <author>SILAS</author>
-    <to>Para: Elías  Re: Mila</to>
-    <date>&lt;size=3&gt;4 Días Antes del Lanzamiento de la Misión&lt;/size&gt;</date>
-    <content>Elías, no estoy seguro de lo que hayan escuchado, pero te aseguro que no existe compromiso o relación alguna entre Mila y yo. Me disculpo por no haber anunciado nuestro enamoramiento casual, pero ya no estamos involucrados personalmente y nuestra relación es estrictamente profesional. 
+    <author>사일러스</author>
+    <to>To: 엘리아스  Fwd: 밀라</to>
+    <date>미션 시작 4일 전</date>
+    <content>엘리아스씨, 어디서 그런 이야기를 들으셨는지는 모르겠습니다만, 밀라씨와 저는 더 이상 어떠한 특별한 관계도 아니라는 점을 확실하게 말씀드립니다. 과거에 저희가 잠깐 서로 호감을 가진 적이 있다는 점을 미리 보고드리지 않은 점을 사과드립니다. 그러나 저희는 이제 더 이상 어떠한 개인적인 관계도 맺고 있지 않으며, 완전히 프로페셔널한 관계임을 말씀드립니다.
 
 
     </content>
@@ -178,14 +180,12 @@
   </msg>
   <msg>
     <messageIndex>2</messageIndex>
-    <author>MILA</author>
-    <to>Para: Silas</to>
-    <date>&lt;size=3&gt;4 Días Antes del Lanzamiento de la Misión&lt;/size&gt;</date>
-    <content>¡¿Esto es lo que valen 6 años de relación para ti?! ¿Es tu orgullo el que me hace a un lado tan fácilmente o es la oportunidad de que, tal vez un día, aparezcas en un libro de ciencia? Eres un maldito egoísta, Silas. Arriesgue todo para mantener en secreto lo que teníamos y tú solo me mostraste lo poco hombre que en realidad eres.
+    <author>밀라</author>
+    <to>To: 사일러스</to>
+    <date>미션 시작 4일 전</date>
+    <content>당신과 내가 함께 보낸 6년이 겨우 이딴 거였어?! 당신한테 나는 그렇게 쉽게 버려지는 존재였어? 아니면 과학 교과서에 실릴 기회가 그렇게나 탐나보였어? 사일러스, 이 이기적인 새끼. 나는 우리 관계를 숨기려고 얼마나 많은 위험을 감수했는데, 당신이 이 정도로 치졸했을 줄이야.
 
-Pensé que había encontrado todo lo que quería, así que gracias por ahorrarme la vergüenza de creer que el sentimiento era mutuo.
-
-
+당신이 내 전부라고 생각했는데, 이런 감정이 나 혼자만의 것이었다는 걸 깨닫게 해줘서 참으로 고마워.
 </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -194,15 +194,17 @@ Pensé que había encontrado todo lo que quería, así que gracias por ahorrarme
   </msg>
   <msg>
     <messageIndex>3</messageIndex>
-    <author>LUKIAS</author>
-    <to>Para: Silas</to>
-    <date>Día 13, 15:30</date>
-    <content>La edición ha terminado, finalmente, y la versión 5.4.2 de Génesis Celestial estará lista para publicar para cuando estés de regreso. Con tu aprobación, nos prepararemos para la distribución.
+    <author>루키아스</author>
+    <to>To: 사일러스</to>
+    <date>13일차, 15:30</date>
+    <content>작가님, "우주의 기원" 버전 5.4.2의 편집이 모두 완료되었습니다. 작가님께서 돌아오실 때 쯤에는 출판할 수 있을 것으로 생각됩니다. 더 이상 퇴고하실 부분이 없다면 인쇄를 맡기고자 하니 답변 부탁드립니다.
 
-En otra observación, tú mencionaste que estas preparando la continuación de Incógnitas Evolutivas pero, dado el carácter de la misión de la Espial, ¿haz considerado escribir una autobiografía?
+아 그리고, 작가님께서 "알려지지 않은 진화"의 속편을 계획중이라고 말씀하셨는데요. 혹시 그것말고 이번 에스파이얼 호 미션과 관련하여 자서전을 출판할 계획은 없으신지요?
 
-Lukias
-Editorial Titania
+루키아스
+타이타니아 출판사
+
+
 </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -211,13 +213,12 @@ Editorial Titania
   </msg>
   <msg>
     <messageIndex>4</messageIndex>
-    <author>SILAS</author>
-    <to>Para: Lukias</to>
-    <date>Día 13, 17:57</date>
-    <content>No hay más revisiones de mi parte, así que, sí, comiencen con la distribución.
+    <author>사일러스</author>
+    <to>To: 루키아스</to>
+    <date>13일차, 17:57</date>
+    <content>저는 더 이상 수정할 부분이 없습니다, 그러니 인쇄를 시작하셔도 됩니다.
 
-Dudo que mi vanidad sea lo suficientemente grande para dedicar todo un libro a mi persona. Si las ganancias son lo que importan, haz lo tú mismo cuando yo esté muerto –uno es realmente apreciado cuando ya no está. 
-</content>
+저는 제 자신에 대한 책을 쓸만큼 허영심이 넘치지 않아서요. 혹시라도 이윤을 위해서 꼭 출판하시고 싶다면, 제가 죽고나서 출판사 쪽에서 알아서 만들어주시길 바랍니다. 누구든 죽고나서야 진정한 평가가 가능한 법이죠.  </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -225,10 +226,10 @@ Dudo que mi vanidad sea lo suficientemente grande para dedicar todo un libro a m
   </msg>
   <msg>
     <messageIndex>5</messageIndex>
-    <author>INGENIERÍA SAITO</author>
-    <to>Para: Axiom</to>
-    <date>Hace 2 Meses</date>
-    <content>Con todo respeto, no es recomendado que nosotros hagamos las reparaciones y modificaciones sugeridas a esta nave. El costo sería similar al costo de una estación nueva. Le aconsejamos que considere terminar este proyecto.
+    <author>SAITO 엔지니어링</author>
+    <to>To: Axiom</to>
+    <date>2달 전</date>
+    <content>요청해주신 사항에 대하여, 본사는 해당 우주선에 대한 수리와 개조를 추천드리지 않는 바입니다. 거의 새 것을 사는 것과 비슷한 비용이 들 것으로 예상됩니다. 따라서 이 프로젝트의 종료를 고려해보심을 권장드립니다.
 
 
     </content>
@@ -240,12 +241,9 @@ Dudo que mi vanidad sea lo suficientemente grande para dedicar todo un libro a m
   <msg>
     <messageIndex>6</messageIndex>
     <author>AXIOM</author>
-    <to>Para: Saito</to>
-    <date>Hace 2 Meses</date>
-    <content>Gracias por sus recomendaciones. Como acordamos, ¿las reparaciones estarán listas a tiempo?
-
-
-    </content>
+    <to>To: Saito</to>
+    <date>2달 전</date>
+    <content>의견 감사합니다. 모든 수리 작업이 전에 얘기한 스케쥴 내로 가능할까요?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -253,15 +251,14 @@ Dudo que mi vanidad sea lo suficientemente grande para dedicar todo un libro a m
   </msg>
   <msg>
     <messageIndex>7</messageIndex>
-    <author>INGENIERÍA SAITO</author>
-    <to>Para: Axiom</to>
-    <date>Hace 2 Meses</date>
-    <content>Estarán terminadas para la fecha acordada, pero la Administración desea que le comente que no podremos acordar ninguna garantía.
+    <author>SAITO 엔지니어링</author>
+    <to>To: Axiom</to>
+    <date>2달 전</date>
+    <content>수리는 예정된 시일 내로 완료할 수 있을 것으로 생각됩니다. 그러나 수리 결과에 대한 어떠한 보증에도 서명할 수 없음을 말씀드리고자 합니다.
+     
+우주선의 현재 상태와, 수리 작업의 본질적인 특성을 고려할 때, Saito사는 미래에 발생할 수 있는 어떠한 문제에 대해서도 법적으로 책임을 지지 않을 것입니다.
 
-Debido a la condición actual de la estación, y la naturaleza de las reparaciones, Saito no será legalmente responsable por cualquier complicación futura.
-
-
-</content>
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -269,15 +266,12 @@ Debido a la condición actual de la estación, y la naturaleza de las reparacion
   </msg>
   <msg>
     <messageIndex>8</messageIndex>
-    <author>AIDEN</author>
-    <to>Para: Thera</to>
-    <date>Día 17, 16:41</date>
-    <content>Yo, Aiden Vyse, Ingeniero en Jefe a bordo de la Espial, por la presente revoco mis anteriores testamentos, y declaro ésta como mi última voluntad y testamento. Oriento todos mis actuales y futuros bienes, ganancias y riquezas, a mi hija, Keyna Vyse, para pagar por recibos médicos y facturas pendientes. Mando que el tratamiento y cura de la enfermedad C-SAD de Keyna sea la primera prioridad.
+    <author>에이든</author>
+    <to>To: 테아라</to>
+    <date>17일차, 16:41</date>
+    <content>에스파이얼 호 수석 엔지니어인 나 에이든 비제는 지금 지난 유언을 취소하고 새로운 유언을 작성합니다. 현재 내 자산 및 미래에 발생할 모든 수입과 자산을 나의 딸, 케이나 비제의 의료비 청구를 위해 사용할 것을 지시합니다. 모든 자산은 케이나의 C-SAD 치료를 1순위 목적으로 사용되어야 합니다.
 
-Designo a Thera Vyse para ser la guardián de Keyna y a supervisar su tratamiento.
-
-
-</content>
+테아라 비제를 케이나의 보호자로 임명하고, 케이나의 치료를 감독할 것을 지시합니다.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -285,15 +279,14 @@ Designo a Thera Vyse para ser la guardián de Keyna y a supervisar su tratamient
   </msg>
   <msg>
     <messageIndex>9</messageIndex>
-    <author>MILA</author>
-    <to>Para: Elías</to>
-    <date>Día 12, 12:23 </date>
-    <content>Lo que Axiom decida hacer en sus próximas misiones es su decisión pero, una vez que los objetivos originales restantes sean completados, la Espial y su tripulación regresaran a casa.
+    <author>밀라</author>
+    <to>To: 엘리아스</to>
+    <date>12일차, 12:23 </date>
+    <content>Axiom사가 이후의 미션에서 어떠한 일을 할 지는 그들의 자유입니다만, 이 미션에서는 기존에 정한 목표가 모두 달성되면 에스파이얼 호와 선원들은 귀환할 예정입니다.
 
-Esa es mi palabra final en el asunto.
+이것이 이 문제에 대한 제 마지막 답변입니다.
 
-
-</content>
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -301,10 +294,10 @@ Esa es mi palabra final en el asunto.
   </msg>
   <msg>
     <messageIndex>10</messageIndex>
-    <author>ELIAS</author>
-    <to>Para: Mila</to>
-    <date>Día 12, 12:31 </date>
-    <content>Tu decisión es lamentable, Mila. La Junta emitirá su respuesta en breve.</content>
+    <author>엘리아스</author>
+    <to>To: 밀라</to>
+    <date>12일차, 12:31 </date>
+    <content>밀라, 후회할 거에요. 곧 당신의 선택에 대한 이사회의 답변이 있을 것입니다.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -312,12 +305,14 @@ Esa es mi palabra final en el asunto.
   </msg>
   <msg>
     <messageIndex>11</messageIndex>
-    <author>MILA</author>
-    <to>Para: Aiden</to>
-    <date>Día 4, 8:32</date>
-    <content>Aiden,
+    <author>밀라</author>
+    <to>To: 에이든</to>
+    <date>4일차, 8:32</date>
+    <content>에이든,
 
-O posees una increíble ética de trabajo o eres simplemente un idiota. Honestamente, no me importa cuál sea. Solo quiero saber qué trabajo de mantenimiento era tan vital para hacerlo en el medio de la noche.
+너는 엄청난 직업 의식을 가지고 있는 거야, 아니면 그냥 우둔한거야. 솔직히, 그건 둘 중 뭐든 상관이 없는데. 내가 하고 싶은 말은, 정비 업무가 정말 그렇게도 시급해서 꼭 한밤 중에 이뤄져야 하는 거야?
+
+
 </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -326,13 +321,11 @@ O posees una increíble ética de trabajo o eres simplemente un idiota. Honestam
   </msg>
   <msg>
     <messageIndex>12</messageIndex>
-    <author>AIDEN</author>
-    <to>Para: Mila</to>
-    <date>Día 4, 9:37</date>
-    <content>Gracias por ser tan considerada respecto a cuáles son mis responsabilidades. El próximo servicio de mantenimiento programado tiene algunos espacios estrechos, y no quiero atrasarme. Perdón si interrumpo tu descanso pero, alguien con un encanto como el tuyo, ¿por qué necesitaría un sueño reparador?
-
-
-</content>
+    <author>에이든</author>
+    <to>To: 밀라</to>
+    <date>4일차, 9:37</date>
+    <content>내 업무에 큰 관심을 가져줘서 참으로 고마워. 곧 예정된 업무가 이 일과 긴밀한 관련이 있어서, 늦어지면 곤란해. 네 휴식을 방해한 건 정말로 미안하게 생각해. 하지만 너는 이미 충분히 탱탱한 피부를 가지고 있으니, 굳이 그렇게 많이 자지 않아도 괜찮지 않을까?
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -340,17 +333,16 @@ O posees una increíble ética de trabajo o eres simplemente un idiota. Honestam
   </msg>
   <msg>
     <messageIndex>13</messageIndex>
-    <author>THERA</author>
-    <to>Para: Aiden</to>
-    <date>Día 6, 14:33</date>
-    <content>Lamento no haber podido hablar contigo antes de que te vayas. Pero mire el despegue y, si significa algo, estoy muy orgullosa de lo que estás haciendo.
+    <author>테아라</author>
+    <to>To: 에이든</to>
+    <date>6일차, 14:33</date>
+    <content>떠나기 전에 만나지 못해서 미안해요. 그래도 우주선 발사하는 건 지켜봤어요. 빈말처럼 들릴지는 모르겠지만, 나는 당신이 하고 있는 일이 정말로 자랑스러워요.
 
-Siento que solamente te escribo para hablar de dinero. Supongo que es conveniente, dado que eso fue de lo que discutíamos siempre en nuestro matrimonio. Keyna sigue empeorando, y necesitamos idear un plan real para poder pagar su tratamiento.
+뭔가 내가 당신한테 글을 쓸 때는 늘 돈 얘기만 하는 것 같네요. 그게 우리가 결혼 생활동안 늘 싸웠던 이유니까, 사실 이게 맞는 것 같기도 해요. 케이나의 상태가 계속 안 좋아지고 있어요. 그녀의 치료비를 지불할 현실적인 방책이 필요해요.
 
-Ten cuidado ahí arriba.
+부디 몸 조심해요.
 
--Thera
-</content>
+-테아라</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -358,14 +350,16 @@ Ten cuidado ahí arriba.
   </msg>
   <msg>
     <messageIndex>14</messageIndex>
-    <author>ELÍAS VOLANTE</author>
-    <to>Para: Mila</to>
-    <date>Día 11, 9:12</date>
-    <content>El Mando está satisfecho con la velocidad de tu equipo para cumplir las misiones asignadas. Basados en tus reportes, anticipamos estar listos 6 días antes de lo previsto, lo cual nos da una oportunidad única.
+    <author>엘리아스 볼란테</author>
+    <to>To: 밀라</to>
+    <date>11일차, 9:12</date>
+    <content>지도부는 귀하의 팀이 미션 목표를 빠르게 달성하고 있는 것에 굉장히 흡족해하고 있습니다. 귀하의 보고서에 따르면, 예상 스케쥴보다 6일 빠르게 미션을 완료할 것으로 생각됩니다. 따라서 남은 기간동안 새로운 일을 수행할 수 있을 것입니다.
 
-Adjuntamos un archivo con el nuevo proyecto que su equipo debe preparar.
+귀하의 팀이 수행할 새로운 프로젝트의 내용을 아래에 첨부합니다.
 
-*Archivo adjunto eliminado*
+*첨부파일 삭제됨*
+
+
 </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
@@ -374,15 +368,16 @@ Adjuntamos un archivo con el nuevo proyecto que su equipo debe preparar.
   </msg>
   <msg>
     <messageIndex>15</messageIndex>
-    <author>MILA</author>
-    <to>Para: ELÍAS</to>
-    <date>Día 11, 9:50</date>
-    <content>Esto nunca fue discutido en el alcance de la misión, y si lo hubiera sido, nunca lo habría aceptado. ¿Qué podría haber cambiado en el Mando para que consideren algo así?
+    <author>밀라</author>
+    <to>To: 엘리아스</to>
+    <date>11일차, 9:50</date>
+    <content>보내주신 내용은 미션의 범위로 한 번도 논의된 적이 없습니다. 설령 논의되었다고 하더라도 저는 절대로 이 명령을 받아들이지 않았을 것이구요. 대체 지도부는 무슨 생각으로 이것을 고려한 겁니까?
 
-Solo hemos analizado una fracción de los datos recolectados. Creo que es obvio decir que no tenemos una idea clara de lo que estamos manejando. Una vez que veamos una imagen más amplia de la situación, estaremos en una posición más informada para determinar el siguiente paso.
+우리 팀은 아직 수집한 데이터의 극히 일부만을 분석한 상황입니다. 아직은 우리가 조사하는 대상이 무엇인지도 정확히 파악하지 못한 상황인 것이 당연합니다. 우선은 상황을 좀 더 완벽하게 파악한 뒤에, 다음 단계로 무엇을 수행할 지 결정할 수 있을 것으로 생각됩니다.
 
 
-</content>
+
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -390,15 +385,15 @@ Solo hemos analizado una fracción de los datos recolectados. Creo que es obvio 
   </msg>
   <msg>
     <messageIndex>16</messageIndex>
-    <author>ELÍAS VOLANTE</author>
-    <to>Para: Mila</to>
-    <date>Día 11, 10:03</date>
-    <content>La primer prioridad es la seguridad y el bienestar de nuestra gente. Basado en los inquietantes reportes sobre el comportamiento de los alienígenas, hay una creciente presión para demostrar un cierto grado de control.
+    <author>엘리아스 볼란테</author>
+    <to>To: 밀라</to>
+    <date>11일차, 10:03</date>
+    <content>임무의 최우선순위는 우리의 안전과 행복입니다. 외계인의 폭력적 행동에 대한 당신의 보고서로 인하여, 그들에게 적절한 통제력을 행사해야 한다는 목소리가 커지고 있습니다.
 
-También quiero agregar que el exorbitante costo de la misión de la Espial requiere que la Axiom exceda las expectativas de los interesados. Es un objetivo que requiere que todos sigan la cadena de mando y, aunque tenga un apellido famoso, espero que obedezcan las órdenes.
+덧붙여, 에스파이얼 미션에 들어간 천문학적인 비용 때문에 Axiom 사는 주주들의 기대를 만족시켜야할 필요가 있습니다. 따라서 모든 이는 그저 명령을 충실히 이행하면 됩니다. 당신 이름에 달려 있는 유명한 성의 무게를 느낀다면, 명령에 따르기를 바랍니다.
 
 
-</content>
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -406,8 +401,8 @@ También quiero agregar que el exorbitante costo de la misión de la Espial requ
   </msg>
   <msg>
     <messageIndex>17</messageIndex>
-    <author>ELÍAS</author>
-    <content>  Recibí tu reporte, responderé si hay alguna duda. ¿Hay algo más que quieras discutir?</content>
+    <author>ELIAS</author>
+    <content>    보고서 전달 받았습니다. 우려되는 부분이 있으면 추가로 연락드리겠습니다. 다른 문의사항 있습니까?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -416,133 +411,128 @@ También quiero agregar que el exorbitante costo de la misión de la Espial requ
   <msg>
     <messageIndex>18</messageIndex>
     <author>MILA</author>
-    <content>  Estoy escuchando a través de la red sobre acusaciones de que algunos senadores fueron sobornados, ¿es verdad?</content>
+    <content>    일부 상원의원이 뇌물을 받았다는 뒷소문을 들었습니다. 사실관계를 알려주세요.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
+    <ContentSpacing>1</ContentSpacing>
   </msg>
   <msg>
     <messageIndex>19</messageIndex>
-    <author>ELÍAS</author>
-    <content>   1. Probablemente. Es el 
-       Senado.
-   2. No por alguien de Axiom.
-   3. Preocúpate por los asuntos 
-      por los que te pagan.
-</content>
+    <author>ELIAS</author>
+    <content>    1. 그럴 수도 있습니다. 국회의원들이 다 그렇죠.
+    2. Axiom의 누군가가 행한 일은 아닙니다.
+    3. 그런 시시한 소문거리나 조사하라고 돈을 주는 게 아닙니다.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>20</messageIndex>
+    <author>SILAS</author>
+    <content> 그들의 언어 분석이 시작되었다는 연락을 받았어. 그래서, 보니까 어때?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>21</messageIndex>
+    <author>MILA</author>
+    <content>    어떻냐니 뭐가?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>22</messageIndex>
+    <author>SILAS</author>
+    <content>    그들의 언어 말이야.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>23</messageIndex>
+    <author>MILA</author>
+    <content>    비효율적이야.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>24</messageIndex>
+    <author>SILAS</author>
+    <content>    그런 거 말고 디테일하게! 말을 들으면 어때? 어떤 느낌이야?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>25</messageIndex>
+    <author>MILA</author>
+    <content>   뭐? 지금 나보고 느낌에 대해서 얘기하라고?</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>26</messageIndex>
+    <author>SILAS</author>
+    <content>    장난치는 거 아니야. 그냥 끝나면 다시 연락 줘.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>27</messageIndex>
+    <author>MILA</author>
+    <content>    내가 어떤 "느낌"이냐에 따라서, 연락해줄 수도 있고, 안 해줄 수도 있고.</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>28</messageIndex>
+    <author>SILAS</author>
+    <content>    -유저가 대화에서 떠났습니다-</content>
+    <TitleFont>4</TitleFont>
+    <TitleSpacing>1</TitleSpacing>
+    <ContentFont>4</ContentFont>
+    <ContentSpacing>1</ContentSpacing>
+  </msg>
+  <msg>
+    <messageIndex>29</messageIndex>
+    <author>SILAS</author>
+    <content>실험실에 있는 대부분의 기능들은 우리가 저궤도에 있을 때는 사용이 불가능해, 계산은 다 끝나가?</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
     <ContentSpacing>.8</ContentSpacing>
   </msg>
   <msg>
-    <messageIndex>20</messageIndex>
-    <author>SILAS</author>
-    <content>  Recibí la alerta de que el ensamblaje de sintaxis de idioma ha comenzado. Entonces, ¿cómo es?</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>21</messageIndex>
-    <author>MILA</author>
-    <content>  ¿Cómo es qué?</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>22</messageIndex>
-    <author>SILAS</author>
-    <content>  Su lenguaje.</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>23</messageIndex>
-    <author>MILA</author>
-    <content>  Ineficiente.</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>24</messageIndex>
-    <author>SILAS</author>
-    <content>  ¡Dame detalles! ¿Qué sonido hacen? ¿Cómo se siente?</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>25</messageIndex>
-    <author>MILA</author>
-    <content>  ¿En serio? ¿Me estas pidiendo que te diga qué se siente?</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>26</messageIndex>
-    <author>SILAS</author>
-    <content>  No voy a jugar a esto. Solo avísame cuando esté terminado.</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>27</messageIndex>
-    <author>MILA</author>
-    <content>  Quizá te avise, quizá no. Depende de cómo me “sienta”.</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>28</messageIndex>
-    <author>SILAS</author>
-    <content>  -El usuario ha salido de la conversación-</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
-    <messageIndex>29</messageIndex>
-    <author>SILAS</author>
-    <content>La mayoría de los sistemas del Ala de Ciencias no pueden iniciar hasta que estemos en órbita baja -¿los cálculos están listos?</content>
-    <TitleFont>4</TitleFont>
-    <TitleSpacing>1</TitleSpacing>
-    <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
-  </msg>
-  <msg>
     <messageIndex>30</messageIndex>
     <author>AIDEN</author>
-    <content>Mecánicas orbitales es uno de los tipos más implacables de ingeniería, Silas. No es tan sencillo como jugar con tubos de ensayo y tierra. </content>
+    <content>사일러스 궤도 역학은 엔지니어에게 있어서 제일 고통스러운 것중 하나라고. 시험관가지고 흙장난 하는 거랑은 달리 간단하지 않아. </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
-    <ContentSpacing>.7</ContentSpacing>
+    <ContentSpacing>.8</ContentSpacing>
   </msg>
   <msg>
     <messageIndex>31</messageIndex>
-    <content>Raramente se reconoce cuánto está ligado el destino de un capitán al éxito o al fracaso de su nave.
+    <content>    선장의 운명이 우주선이 얼마나 잘 만들어져있는지와 밀접한 관련을 가지고 있다는 사실을 대부분 알지 못한다.
 
-Con una nave tan bien mantenida como la Espial, casi podrías creer que la misión no era tan importante.
-
-
-</content>
+    에스파이얼 호처럼 아주 훌륭하게 관리된 우주선을 본다면, 아마 당신은 이 임무가 별로 안 중요한 임무라고 생각할 것이다.
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -550,12 +540,10 @@ Con una nave tan bien mantenida como la Espial, casi podrías creer que la misi�
   </msg>
   <msg>
     <messageIndex>32</messageIndex>
-    <content>Pocos se dan cuenta cuando están en el ojo de la tormenta mientras se hace historia. Un siglo de estudio vendrá de lo que hemos observado en estas pocas semanas.
+    <content>역사가 만들어지는 순간에 자신이 폭풍의 눈에 있다는 사실을 깨닫는 이는 거의 없다. 우리가 여기서 몇 주간 관찰한 것에서, 한 세기만큼의 가치를 가진 연구 결과가 나올 것이다.
 
-Es un sentimiento curioso, que cada palabra escrita en privado, puede que un día este a la vista de un número incalculable de ojos. Nadie debería soportar el peso de esa carga.
-
-
-</content>
+내가 쓴 단어 하나하나가 나중에 셀 수 없는 이들에게 영향을 줄 것이라고 생각하면 참 묘한 기분이 든다. 이런 무거운 짐을 견딜 수 있는 사람은 아마 없을 것이다.
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -563,14 +551,12 @@ Es un sentimiento curioso, que cada palabra escrita en privado, puede que un dí
   </msg>
   <msg>
     <messageIndex>33</messageIndex>
-    <content>Después del salto warp a Psy Prime, descubrimos que una gran porción de nuestras partes de repuesto estaban dañadas. El daño parecía proceder de una forma de radiación electromagnética, lo que parece otro inesperado resultado de mover algo tan grande como la Espial por la unidad de singularidad mejorada.
+    <content>외계 행성 근처로 워프한 이후, 우주선의 많은 예비 부품들이 완전히 통구이가 되어벼렸다. 이는 전자기 복사에 의한 것으로 추정되는데, 특이성 드라이브로 에스파이얼 호와 같은 거대한 물체를 이동시켰을 때 발생하는 예상치 못한 결과로 여겨진다.
 
-Te hace preguntarte cuál sería el apoyo público para esta misión si supieran cuántas incógnitas hay de nuestro lado.
+이 미션이 제대로 확인되지 않은 것이 이렇게나 많은 채로 불안정하게 이루어지고 있는 것임을 대중들이 안다면, 그들이 이 미션을 여전히 지지할까?
 
-Se siente como si estuviéramos averiguando la mayoría a medida que avanzamos.
-
-
-</content>
+미션을 진행하면서 우리가 마루타가 되어 모든 것을 알아가고 있는 느낌이다.
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -578,19 +564,18 @@ Se siente como si estuviéramos averiguando la mayoría a medida que avanzamos.
   </msg>
   <msg>
     <messageIndex>34</messageIndex>
-    <content>&lt;b&gt;Archivo RRHH: &lt;/b&gt; 178473
+    <content>&lt;b&gt;HR 파일: &lt;/b&gt; 178473
 
-&lt;b&gt;Empleado:&lt;/b&gt; Vyse, Aiden
+&lt;b&gt;피고용인:&lt;/b&gt; 비제, 에이든
 
-&lt;b&gt;Título:&lt;/b&gt; Ingeniero en Jefe (Contrato)
+&lt;b&gt;제목:&lt;/b&gt; 수석 엔지니어 (계약직)
 
-&lt;b&gt;Diagnostico Medico:&lt;/b&gt;
-- Aiden cumple con los requisitos médicos mínimos de Axiom para el viaje especial.
-- Portador de C-SAD –no se observan síntomas que podrían deteriorar su habilidad para cumplir sus deberes.
+&lt;b&gt;의료 분석:&lt;/b&gt;
+- 에이든 씨는 Axiom 우주 여행을 위한 최소 건강 요건을 만족합니다.
+- C-SAD의 활동성 보균자입니다. – 임무 수행에 어려울 것으로 생각되는 증상은 발견되지 않았습니다.
 
-&lt;b&gt;Comentarios:&lt;/b&gt; Vyse cumple con todos los requisitos médicos y es apta para la misión de la Espial. Su condición de portador C-SAD no impactará en su desempeño, pero, dado que el C-SAD tiene una alta tasa de mortalidad, recomendamos que sea revisado periódicamente luego de la misión.
- 
-</content>
+&lt;b&gt;비고:&lt;/b&gt; 에이든 씨는 에스파이얼 미션에 필요한 신체 요구사항을 모두 만족합니다. 그가 C-SAD의 보균자라는 사실은 그의 임무 수행에는 영향을 주지 않을 것입니다. 그러나 C-SAD는 매우 높은 사망율을 보이는 질환이기에, 미션 후 정기적인 검진이 요구됩니다.
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -598,12 +583,10 @@ Se siente como si estuviéramos averiguando la mayoría a medida que avanzamos.
   </msg>
   <msg>
     <messageIndex>35</messageIndex>
-    <content>Recordatorio del código del casillero:
+    <content>라커 비밀번호:
 
-Cuando todo luce como un clavo, vas a necesitar un…
-
-
-</content>
+   세상 모든 게 못으로 보인다면, 당신에게 필요한 것은...
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -611,7 +594,7 @@ Cuando todo luce como un clavo, vas a necesitar un…
   </msg>
   <msg>
     <messageIndex>36</messageIndex>
-    <content>Es la naturaleza desconectada y fragmentada de la especie lo que me atrae a la comprensión. Podemos identificar súper clanes de base geográfica formados en todos los cuadrantes del planeta, y la especie lucha ferozmente para defender su identidad cultural. Casi buscan crear una división arbitraria entre ellos. A pesar del hecho de que, según mis pruebas preliminares, son 100% idénticos en casi todos los sentidos. Es una rivalidad entre hermanos a escala planetaria.</content>
+    <content>내가 이해하게 된 것은 그들 종이 단절되고 단편화된 본성을 가지고 있다는 것이다. 그들은 지리적 기반의 문화 공동체를 행성의 모든 곳에 만들고, 자신들의 문화적 정체성을 지키기 위해서 서로 간에 악랄하게 싸운다. 그들은 언제나 적당한 이유를 만들어서 분열을 일으키려하는 것으로 보인다. 내가 분석한 바에 따르면, 그들은 거의 모든면에서 100% 동일하다는 점에도 불구하고 말이다. 이건 행성 단위로 벌어지는 형제들 간의 전쟁이다.</content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
@@ -619,38 +602,39 @@ Cuando todo luce como un clavo, vas a necesitar un…
   </msg>
   <msg>
     <messageIndex>37</messageIndex>
-    <content>&lt;b&gt;Estoy informando un evento relacionado a:&lt;/b&gt;  
- [X]Lesión  [ ]Enfermedad  [ ]Accidente
+    <content>
 
-&lt;b&gt;Nombre:&lt;/b&gt;  Mila Lexa
+ &lt;b&gt;종류:&lt;/b&gt;  
+ [X]부상   [ ]질병   [ ]사고
 
-&lt;b&gt;Nombre(s) del/los empleado(s) herido(s):&lt;/b&gt; Silas Haze
+&lt;b&gt;성명:&lt;/b&gt;  밀라 렉사
 
-&lt;b&gt;Día de Misión:&lt;/b&gt; 12  &lt;b&gt;Hora:&lt;/b&gt; 15|50
+&lt;b&gt;부상자 성명:&lt;/b&gt; 사일러스 헤이즈
+
+&lt;b&gt;날짜:&lt;/b&gt; 12일차  &lt;b&gt;시간:&lt;/b&gt; 15|50
 
 
-&lt;b&gt;¿En dónde ocurrió la herida?&lt;/b&gt; 
+&lt;b&gt;부상 발생 위치?&lt;/b&gt; 
 
-Laboratorio Superior. Mesa central de trabajo
+상층 연구소. 중앙 테이블.
 
-&lt;b&gt;¿Qué causó la herida?&lt;/b&gt;
+&lt;b&gt;부상 발생 원인?&lt;/b&gt;
 
-Silas estaba siendo descuidado. Mientras disecaba manualmente una muestra recuperada de la superficie, se cortó la mano.
+사일러스의 부주의한 행동. 표면에서 추출한 샘플을 해부하는 동안, 자기 스스로를 벰.
 
-&lt;b&gt;¿Qué parte del cuerpo se hirió?&lt;/b&gt;
+&lt;b&gt;부상 당한 부위?&lt;/b&gt;
 
-El brazo - Me preocupa que esto agravará su ya deficiente competencia física.
+팔 – 이것이 이미 부족한 그의 신체 능력을 더 약화시킬까 우려됨.
 
-&lt;b&gt;¿Qué se podría haber hecho para evitar la herida?&lt;/b&gt;
+&lt;b&gt;부상 방지 대책?&lt;/b&gt;
 
-Podría haberse comportado como un adulto, y ser más consciente de lo que hace. 
+좀 더 어른스럽게 행동했어야 했음, 위험한 짓 좀 하지 말고.
 
-&lt;b&gt;¿Qué acciones se tomaron?&lt;/b&gt;
+&lt;b&gt;이루어진 부상 치료 방법?&lt;/b&gt;
 
-Aiden ha tratado y vendado la herida. 
-Recomendamos que se le deduzca del pago por la consiguiente pérdida de eficiencia que Silas experimentará durante la recuperación. También deberían considerarse más reprensiones.
- 
-</content>
+에이든이 상처를 치료함.
+부상 치료기간동안 발생할 사일러스의 업무 효율 저하에 따라 그의 임금 삭감을 요청하는 바입니다. 이후 추가적인 징계도 고려되어야 합니다.
+ </content>
     <TitleFont>4</TitleFont>
     <TitleSpacing>1</TitleSpacing>
     <ContentFont>4</ContentFont>
