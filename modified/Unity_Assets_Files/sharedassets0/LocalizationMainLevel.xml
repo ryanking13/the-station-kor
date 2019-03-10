@@ -377,7 +377,7 @@
     <RussianFont>35</RussianFont>
     <PortugueseFont>35</PortugueseFont>
     <English>Completed Objectives</English>
-    <Spanish>목표 달성</Spanish>
+    <Spanish>완료된 목표</Spanish>
     <French>Objectifs Complétés</French>
     <German>Abgeschlossene Ziele</German>
     <Italian>Obiettivi completati</Italian>
@@ -545,11 +545,11 @@
     <RussianFont>80</RussianFont>
     <PortugueseFont>80</PortugueseFont>
     <English>&lt;b&gt;Audio Director&lt;/b&gt;</English>
-    <Spanish>&lt;b&gt;오디오 디렉터р&lt;/b&gt;</Spanish>
+    <Spanish>&lt;b&gt;오디오 디렉터&lt;/b&gt;</Spanish>
     <French>&lt;b&gt;Directeur Audio&lt;/b&gt;</French>
     <German>&lt;b&gt;Audio Director&lt;/b&gt;</German>
     <Italian>&lt;b&gt;Direttore audio&lt;/b&gt;</Italian>
-    <Russian>&lt;b&gt;오디오 디렉터р&lt;/b&gt;</Russian>
+    <Russian>&lt;b&gt;오디오 디렉터&lt;/b&gt;</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -5341,7 +5341,7 @@ I fusibili intatti reagiranno
     <RussianFont>80</RussianFont>
     <PortugueseFont>80</PortugueseFont>
     <English>Scanner Malfunction</English>
-    <Spanish>스캐너 오작동</Spanish>
+    <Spanish>스캐너 꺼짐</Spanish>
     <French>Disfonctionnement du Scanner</French>
     <German>Scanner Fehlfunktion</German>
     <Italian>Malfunzionamento Scanner</Italian>
@@ -5617,7 +5617,9 @@ Amanda Lawton &amp; Taylor Lawton
 Canadian Space Society
 The Center for Digital Media
 Fitchburg State University
-All of our families and friends!</English>
+All of our families and friends!
+
+번역: siha / def6488@gmail.com</English>
     <Spanish> 
 
 
@@ -6934,7 +6936,8 @@ All of our families and friends!</Russian>
     <PortugueseFont>60</PortugueseFont>
     <English>Replace/realign power cell 
 to begin scan sequence</English>
-    <Spanish>스캔을 시작하려면 파워 셀을 모두 제 위치에 놓으세요</Spanish>
+    <Spanish>스캔을 시작하려면
+파워 셀을 모두 제 위치에 놓으세요</Spanish>
     <French>Remplacer/réaligner les Piles d'énergie
 pour commencer la séquence de scan</French>
     <German>Brennstoffzelle ersetzen/neu ausrichten
@@ -7514,7 +7517,7 @@ Verlassen</German>
     <RussianFont>70</RussianFont>
     <PortugueseFont>70</PortugueseFont>
     <English>Plain Text</English>
-    <Spanish>평문</Spanish>
+    <Spanish>읽기</Spanish>
     <French>Juste le texte</French>
     <German>Einfacher Text</German>
     <Italian>Testo normale</Italian>
@@ -9304,7 +9307,7 @@ ID Braccialetto Silas necessario.</Italian>
     <RussianFont>32</RussianFont>
     <PortugueseFont>42</PortugueseFont>
     <English>Replace 35 ln Synapsis Fuse  </English>
-    <Spanish>시냅시스 퓨즈 35 ln을 교체하시오  </Spanish>
+    <Spanish>시냅시스 퓨즈 35 ln을 교체하세요  </Spanish>
     <French>Remplacer le Fusible Synaptique 35 In </French>
     <German>35 ln Synapsensicherung Ersetzen  </German>
     <Italian>Sostituire Fusibile 35 ln Sinapsi </Italian>
@@ -9957,7 +9960,7 @@ D'emergenza</Italian>
     <RussianFont>47</RussianFont>
     <PortugueseFont>47</PortugueseFont>
     <English>Enable Emergency Life Support Systems</English>
-    <Spanish>생명 유지 장치를 가동하세요</Spanish>
+    <Spanish>생명 유지 장치를 가동</Spanish>
     <French>Activer les Supports de Vie d'Urgence</French>
     <German>Notfall-Lebenserhaltungssysteme Aktiviert</German>
     <Italian>Abilita i sistemi di supporto vitale di emergenza</Italian>
@@ -10077,7 +10080,7 @@ D'emergenza</Italian>
     <RussianFont>47</RussianFont>
     <PortugueseFont>47</PortugueseFont>
     <English>Disconnect Outgoing Electrical Processes</English>
-    <Spanish>밖으로 나가는 전기 연결을 해제하세요</Spanish>
+    <Spanish>외부 전기 연결 해제</Spanish>
     <French>Déconnecter les processus électriques sortants</French>
     <German>Unterbreche Augehende Elektische Prozesse</German>
     <Italian>Disconnettere i processi elettrici in uscita</Italian>
@@ -11315,7 +11318,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <RussianFont>85</RussianFont>
     <PortugueseFont>91</PortugueseFont>
     <English>Slide Node to Turn Power On/Off</English>
-    <Spanish>도형을 드래그하여 전원을 켜고 끄세요</Spanish>
+    <Spanish>슬라이드하여 전원을 켜고 끄세요</Spanish>
     <French>Faire glisser pour diriger l'alimentation</French>
     <German>Punkt Schieben um Energierversorgung Ein/Aus zu Schalten</German>
     <Italian>Fai scorrere il nodo per accendere/spegnere</Italian>
@@ -11339,7 +11342,7 @@ I componenti funzionanti reagiscono ai magneti.</Italian>
     <RussianFont>85</RussianFont>
     <PortugueseFont>91</PortugueseFont>
     <English>Slide Node to Turn Power On/Off</English>
-    <Spanish>도형을 드래그하여 전원을 켜고 끄세요</Spanish>
+    <Spanish>슬라이드하여 전원을 켜고 끄세요</Spanish>
     <French>Faire glisser pour diriger l'alimentation</French>
     <German>Punkt Schieben um Energierversorgung Ein/Aus zu Schalten</German>
     <Italian>Fai scorrere il nodo per accendere/spegnere</Italian>
@@ -11897,7 +11900,8 @@ Rettungskapselstation 01</German>
     <PortugueseFont>91</PortugueseFont>
     <English>Signed out to:
 Aiden Vyse</English>
-    <Spanish>서명: 에이든 비제</Spanish>
+    <Spanish>에이든 비제
+님에게 할당됨</Spanish>
     <French>Utilisé par:
 Aiden Vyse</French>
     <German>Ausgeschrieben auf:
@@ -15782,7 +15786,7 @@ o annullare le modifiche per continuare.</Italian>
     <RussianFont>40</RussianFont>
     <PortugueseFont>40</PortugueseFont>
     <English>     Settings</English>
-    <Spanish>     Opciones</Spanish>
+    <Spanish>     설정</Spanish>
     <French>     Options</French>
     <German>     Einstellungen</German>
     <Italian>  Impostazioni</Italian>
@@ -18436,8 +18440,8 @@ combustibile
     <English>I have, but to claim it, you must first solve my 
 riddle! What tosses and turns through space and
 time, and is located in the dryer?</English>
-    <Spanish>내가 가지고 있어, 하지만 돌려받으려면 내가 낸 퀴즈를 맞춰봐!
-늘 우주 공간을 떠돌아다니면서 지금은 건조기에 들어가 있는 물건은 뭘까요?</Spanish>
+    <Spanish>내가 봤어, 돌려받으려면 내가 낸 퀴즈를 맞춰봐.
+늘 우주를 떠돌아다니면서 지금은 건조기에 들어가 있는 물건은 뭘까?</Spanish>
     <French>J'ai, mais pour l'avoir, tu dois résoudre mon
 énigme! Que-ce qui s'agite et tourne à travers
 l'espace et le temps, caché dans le séchoir?</French>
@@ -18556,7 +18560,7 @@ basta spegnere l'alimentazione.</Italian>
     <PortugueseFont>41</PortugueseFont>
     <English>I'm pretty sure this is just one of the many 
 lovely features of the Espial.</English>
-    <Spanish>내 생각에는 이것도 에스파이얼 호의 귀여운 기능 중 하나일 것 같은데.</Spanish>
+    <Spanish>이것도 에스파이얼 호의 귀여운 특징이라고 생각해.</Spanish>
     <French>Je suis sûr que c'est juste une des nombreuses
 particularités de l'Espial.</French>
     <German>Ich bin mir sicher, dies ist nur eine von vielen
@@ -18612,7 +18616,7 @@ dich drum.</German>
 seems both you and this station don't work as 
 well as expected.</English>
     <Spanish>에이든, 제대로 된 세상에서라면 문이 열릴 거라고.
-내 생각에는 너랑 이 우주선 둘 다 제대로 행동하지 않는 것 같은데.</Spanish>
+너랑 이 우주선 둘 다 제대로 작동하지 않는 것 같은데.</Spanish>
     <French>Aiden, dans un monde idéal les portes s'ouvrent.
 Il semble que cette station et toi ne fonctionnez
 pas aussi bien qu'il le faudrait.</French>
@@ -18775,14 +18779,16 @@ außergewöhnliche "Renovierung"?</German>
     <PortugueseFont>40</PortugueseFont>
     <English>Mila, I am constantly dealing with your 
 passive aggression. Deal with this.</English>
-    <Spanish>밀라, 늘 내가 네 히스테리를 받아주고 있다고. 얼른 해결해.</Spanish>
+    <Spanish>밀라, 늘 내가 네 히스테리를 받아주고 있다고.
+얼른 해결해.</Spanish>
     <French>Mila, je subis constamment ton agression
 passive. Fait avec.</French>
     <German>Mila, ich muss ständig mit deiner passiven 
 Aggression klarkommen. Kümmere dich drum.</German>
     <Italian>Mila, mi occupo costantemente della tuo
 aggressività passiva. Risolvilo.</Italian>
-    <Russian>밀라, 늘 내가 네 분노를 받아주고 있는데 말이야. 얼른 해결해.</Russian>
+    <Russian>밀라, 늘 내가 네 분노를 받아주고 있는데 말이야.
+얼른 해결해.</Russian>
     <Portuguese>*</Portuguese>
   </TextBox>
   <TextBox>
@@ -18939,7 +18945,7 @@ aggressività passiva. Risolvilo.</Italian>
     <RussianSpacing>1</RussianSpacing>
     <PortugueseSpacing>1</PortugueseSpacing>
     <EnglishFont>72</EnglishFont>
-    <SpanishFont>72</SpanishFont>
+    <SpanishFont>60</SpanishFont>
     <FrenchFont>72</FrenchFont>
     <GermanFont>60</GermanFont>
     <ItalianFont>72</ItalianFont>
@@ -20589,7 +20595,7 @@ I quattro pilastri del Generatore Light-Wrap consentono un mascheramento visivo 
 Sign-out signature mandatory.</English>
     <Spanish>우주복은 긴급 상황에서만 사용이 가능합니다
     
-사용시 반드시 사용자 서명을 하여야 합니다.</Spanish>
+사용시 반드시 사용자 인증을 하여야 합니다.</Spanish>
     <French>Les combinaisons ne doivent être utilisés qu'en cas d'urgence
 
 Signature de déconnexion obligatoire.</French>
@@ -20649,7 +20655,7 @@ Firma registro obbligatoria.</Italian>
 Sign-out signature mandatory.</English>
     <Spanish>우주복은 긴급 상황에서만 사용이 가능합니다
     
-사용시 반드시 사용자 서명을 하여야 합니다.</Spanish>
+사용시 반드시 사용자 인증을 하여야 합니다.</Spanish>
     <French>Les combinaisons ne doivent être utilisés qu'en cas d'urgence
 
 Signature de déconnexion obligatoire.</French>

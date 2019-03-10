@@ -1835,7 +1835,7 @@ Evento di 2 notti con ospiti speciali
     <PortugueseFont>65</PortugueseFont>
     <English>Message Sent
 Episode 1: The Frisson Factor</English>
-    <Spanish>메시지 전송됨
+    <Spanish>전송된 메시지
 에피소드 1: 프리즌 팩터</Spanish>
     <French>Message envoyé
 Episode 1: Le facteur Frisson</French>
@@ -1958,7 +1958,7 @@ Aiden, drink less during regular work hours</English>
     <Spanish>스크럼 기록 – 17일차
 
 지질학 분석
-&gt; 사일러스의 업무가 미완료
+&gt; 사일러스의 업무 미완료
     -  예상 완료 시기?
 
 내전 분석
@@ -2398,7 +2398,7 @@ Mila, se trovi questo, sono abbastanza sicuro che Silas abbia nascosto qui tutte
 They have a respectable understanding of orbital mechanics—so proficient, in fact, that we had to adjust our orbit due to the amount of local debris and garbage.</English>
     <Spanish>궤도 연구
 
-그들은 궤도 역학에 대하여 충분한 지식을 가지고 있는 것으로 보입니다. 사실 그들이 궤도에 남겨놓은 잡다한 쓰레기들 때문에 우리가 궤도를 수정해야 했습니다.</Spanish>
+그들은 궤도 역학에 대하여 충분한 지식을 가지고 있는 것으로 보인다. 그들이 궤도에 남겨놓은 잡다한 쓰레기들 때문에 우리가 궤도를 수정해야 했다.</Spanish>
     <French>Étude orbitale
 
 Ils ont une compréhension respectable de la mécanique orbitale - si efficace, en fait, que nous avons dû ajuster notre orbite en raison de la quantité de débris et de déchets locaux.</French>
@@ -2501,8 +2501,8 @@ Distruggi questa nota dopo averla letta !!</Italian>
     <ItalianFont>60</ItalianFont>
     <RussianFont>60</RussianFont>
     <PortugueseFont>60</PortugueseFont>
-    <English>아빠가 집에 올 때까지 남은 날짜</English>
-    <Spanish>Días hasta que Papá regrese a casa</Spanish>
+    <English>Days till daddys home</English>
+    <Spanish>아빠가 집에 올 때까지 남은 날짜</Spanish>
     <French>Jours jusqu'au retour de Papa à la maison</French>
     <German>Tage bis Papa zu Hause ist</German>
     <Italian>Giorni fino a casa di Daddy</Italian>
