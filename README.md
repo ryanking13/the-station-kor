@@ -4,11 +4,13 @@
 
 [The Station](http://thestationgame.com/) 한국어화 프로젝트
 
-# 설치 방법
+# 설치 및 패치 적용 방법
 
 1. [패치 파일 다운로드](https://github.com/ryanking13/the-station-kor/releases/download/1.0.0/sharedassets0.assets)
 
 2. 다운로드 한 패치파일을 The Station이 설치된 폴더(The Station_Data)에 덮어씌우기
+
+3. 게임 실행 후 언어 설정을 스페인 어(Español)로 변경
 
 
 ![](./dir.PNG)
